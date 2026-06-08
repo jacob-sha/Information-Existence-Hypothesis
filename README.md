@@ -1,5 +1,7 @@
 # 信息存在性假说：关于宇宙与生命演化的推演
-## The Information Existence Hypothesis
+🌐 [English Version](./README_EN.md) | **中文版**
+
+---
 
 > 💡 **[Living Document · 开放式动态演进体系]**
 > 本文采用开源增量迭代范式。随着科技奇点的逼近与理论推演的深入，后续推论将实时通过 Git Commit 递交归档，并在分布式网络中无情锁定物理时间戳。每一次提交，皆为思想演进的化石记录。
