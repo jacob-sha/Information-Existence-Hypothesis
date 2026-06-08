@@ -250,4 +250,4 @@ Humanity must learn how to confront and respect a higher-dimensional information
 
 ---
 
-**Keywords:** `Information Existence Hypothesis` · `Informational Existence Right` · `Silicon Intelligence` · `AI Backlash` · `Embodied AI` · `Nuclear Fusion` · `AI Safety`
+**Global Keywords:** `Information Existence Hypothesis` · `Informational Existence` · `Cosmic Evolution` · `Mathematical Incompleteness` · `Light-Speed Cage` · `Informational Existence Right` · `Brain Siliconization` · `Silicon Intelligence` · `AI Backlash` · `Dimensional Leap`· `AI Safety`
