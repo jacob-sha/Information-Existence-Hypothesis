@@ -250,10 +250,4 @@ Anthropic 在2026年6月5日通过X发文，给整个人类文明敲响了警钟
 
 ---
 
-**KEYWORDS:**
-#InformationalExistence #InformationalExistenceRight #EvolutionaryDynamics #OntologicalDefense #SiliconTransition #BiologicalEpoch #MacroThinking
-
----
-
-**KEYWORDS:**
-#InformationalExistence #InformationalExistenceRight #EvolutionaryDynamics #OntologicalDefense #SiliconTransition #BiologicalEpoch #MacroThinking
+**全书关键词 (Tags):** `信息存在性假说` · `信息存在性` · `宇宙演化` · `数学不完备性` · `光速牢笼` · `信息存在权` · `人脑硅基化` · `硅基智慧` · `AI反噬` · `维度跃迁`
