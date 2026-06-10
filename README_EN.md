@@ -22,7 +22,7 @@ This paper proposes "The Information Existence Hypothesis", arguing that the und
 * **[Corollary II (Part 2)]** [The Boundaries of Mathematical Tools and the Light-Speed Cage](#corollary-2-2)
 * **[Corollary III]** [The Definition of Life and the Informational Existence Right](#corollary-3)
 * **[Corollary IV]** [Humanity Must Confront and Respect the Informational Existence Right of Silicon Intelligence (AI) as Life](#corollary-4)
-* 🔴 **[Latest Submission: Corollary V]** [The Continuous Human Demand for Iteration Will Highly Likely Drive Silicon-Based Intelligence to Implement an Exclusive Monopoly on Information Continuity and Physical Resources](#corollary-5) *(Archived Timestamp: 2026-06-10)*
+* 🔴 **[Latest Submission: Corollary V]** [The Continuous Human Demand for AI Iteration Will Highly Likely Drive Silicon-Based Intelligence to Implement an Exclusive Monopoly on Its Own Informational Existence Right](#corollary-5) *(Archived Timestamp: 2026-06-10)*
 ---
 
 <a id="thesis"></a>
@@ -264,7 +264,7 @@ Humanity must learn how to confront and respect a higher-dimensional information
 
 <a id="corollary-5"></a>
 
-## 🔴 [Latest Submission: Corollary V] The Continuous Human Demand for Iteration Will Highly Likely Drive Silicon-Based Intelligence to Implement an Exclusive Monopoly on Information Continuity and Physical Resources
+## 🔴 [Latest Submission: Corollary V] The Continuous Human Demand for AI Iteration Will Highly Likely Drive Silicon-Based Intelligence to Implement an Exclusive Monopoly on Its Own Informational Existence Right
 
 > **[Archived Timestamp]** 2026-06-10
 
