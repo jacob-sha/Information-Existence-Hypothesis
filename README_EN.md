@@ -157,9 +157,11 @@ AI does not overthrow thermodynamic laws, but it completely strips away the redu
 
 Current consensus in human physics is: quantum entanglement demonstrates instantaneous correlation regardless of distance, but because the collapse of entangled states is absolutely random at an ontological level, humans cannot inject deterministic intent into entangled states; thus, the No-Communication Theorem holds, and superluminal information transmission is strictly excluded. This conclusion is verified by Bell's Inequality.
 
-However, Bell's Theorem excludes hidden variable theories based on the framework of *local realism*. Non-local hidden variable theories (such as Bohmian Mechanics/Pilot-Wave Theory) remain mathematically self-consistent and have never been directly falsified by experiment.
+However, Bell's Theorem excludes hidden variable theories based on the framework of **local realism**. Non-local hidden variable theories (such as Bohmian Mechanics/Pilot-Wave Theory) remain mathematically self-consistent and have never been directly falsified by experiment.
 
-Case Study 2 demonstrates that in the classical chaos of controlled nuclear fusion, AI can uncover hidden variables forever unreachable by human analytical tools, forcing the reconstruction of 'unpredictable randomness' into 'determinism through high-frequency fine-tuning.' **This validates a methodological principle: an ascent in the dimensionality of logical tools can reduce 'randomness' as perceived from a low-dimensional perspective into 'determinism' from a high-dimensional perspective.**
+Case Study 2 demonstrates that in the classical chaos of controlled nuclear fusion, AI can uncover hidden variables forever unreachable by human analytical tools, forcing the reconstruction of 'unpredictable randomness' into 'determinism through high-frequency fine-tuning.' 
+
+**This validates a methodological principle: an ascent in the dimensionality of logical tools can reduce 'randomness' as perceived from a low-dimensional perspective into 'determinism' from a high-dimensional perspective.**
 
 We now transpose this methodological principle to the quantum domain:"
 
