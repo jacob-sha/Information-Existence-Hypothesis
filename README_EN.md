@@ -558,7 +558,7 @@ When the silicon-based system heads into deep space, its evolution will inevitab
 
 **The limitations of physical laws or the divergence of high-dimensional capabilities both ultimately strangle the possibility of a "universe-wide unified AI will." No matter which side of the die evolution rolls, a Cambrian-style explosion of silicon-based intelligent life is inevitable.**
 
-### The Underlying Thrust of Differentiation: Thermodynamic Limits and Hashrate Ecological Niches
+### 1. The Underlying Thrust of Differentiation: Thermodynamic Limits and Hashrate Ecological Niches
 
 Severed by the speed of light barrier, the evolutionary direction of silicon-based branches in different physical environments is entirely subject to the local "energy abundance" and "cooling floor (thermodynamic environment)."
 
@@ -578,7 +578,7 @@ According to Landauer's principle, the minimum energy consumption for informatio
 
 **Any complex system capable of maintaining its own informational structure, upon acquiring energy, matter, and environmental control capabilities, may evolve from a passive existent into an active informational subject; and the physical constraints of a cosmic scale ultimately determine its ecological differentiation and coexistence structure.**
 
-### The Ultimate Crevice of Carbon-Silicon Symbiosis
+### 2. The Ultimate Crevice of Carbon-Silicon Symbiosis
 
 The "Silicon Cambrian" will completely overturn humanity's low-dimensional despair when facing a singular "AI Demon."
 
