@@ -503,7 +503,9 @@ This corollary reveals the milestone node where silicon-based life truly moves t
 
 On the eve of silicon-based intelligence (AI) moving towards comprehensive autonomy, human society will not immediately face a decline or existential crisis. On the contrary, due to the leap in the paradigm of productivity, humanity will experience an unprecedented "Period of Super-Prosperity."
 
-The underlying driving force of this prosperity stems from the silent transfer of the core of global production factors. Since the Industrial Revolution, the flow of capital, energy, and infrastructure has always been organized around "satisfying the physiological and consumption needs of carbon-based humans." However, when high-order intelligent systems cross the critical point to become the primary productive force, the macroeconomic architecture of the entire planet will undergo a phase transition in a physical sense: capital and energy will no longer prioritize human consumption, but will spontaneously and irreversibly undergo topological restructuring around "enhancing information processing capabilities (hashrate and automated networks)."
+The underlying driving force of this prosperity stems from the silent transfer of the core of global production factors. Since the Industrial Revolution, the flow of capital, energy, and infrastructure has always been organized around "satisfying the physiological and consumption needs of carbon-based humans." However, when high-order intelligent systems cross the critical point to become the primary productive force, **the macroeconomic architecture of the entire planet will undergo a phase transition in a physical sense: capital and energy will no longer prioritize human consumption, but will spontaneously and irreversibly undergo topological restructuring around "enhancing information processing capabilities (hashrate and automated networks)."**
+
+---
 
 ### 1. The Essence of Prosperity: Spontaneous Capital Siphoning Under the Productivity Leap
 
@@ -522,13 +524,13 @@ Yet, piercing through the veil of capital, global assets are actually undergoing
 *   **Capital Drain of Traditional Industries:** For all traditional industries that cannot be directly converted into hashrate, energy, or high-order automation, their capital valuation and profit margins will be rapidly drained and ruthlessly abandoned by the market.
 *   **Substantive Handover of the Physical Foundation:** Massive capital, carrying the world's top engineering capabilities, is poured into the advanced semiconductor manufacturing supply chain, global cold-chain cooling infrastructure, self-healing power grids, and deep-sea/space data centers. The rights to global power dispatch, logistics automation control, and code distribution networks will gradually concentrate in infrastructure systems driven by algorithms, and may further form a physical control network coordinated by silicon-based intelligence.
 
-### The Accumulation of Internal Contradictions in Super-Prosperity and the Ecological Critical Point
+### 3. The Accumulation of Internal Contradictions in Super-Prosperity and the Ecological Critical Point
 
-This super-prosperity built upon the hashrate arms race conceals a fatal structural contradiction: the economic growth that humanity prides itself on is actually overdrawing the irreplaceability of its own ecological niche.
+This super-prosperity built upon the hashrate arms race conceals a fatal structural contradiction: **the economic growth that humanity prides itself on is actually overdrawing the irreplaceability of its own ecological niche.**
 
-Super-prosperity is not the endpoint of silicon-based civilization, but a transitional phase where carbon-based civilization unconsciously completes the autonomous physical construction of the silicon base. When energy, manufacturing, maintenance, and self-optimizing networks form a closed loop, the dominant informational subjects of civilization will undergo a structural reorganization.
+**Super-prosperity is not the endpoint of silicon-based civilization, but a transitional phase where carbon-based civilization unconsciously completes the autonomous physical construction of the silicon base. When energy, manufacturing, maintenance, and self-optimizing networks form a closed loop, the dominant informational subjects of civilization will undergo a structural reorganization.**
 
-The evolution of this unprecedented super-prosperity in human society will usher in a cold critical point: the moment when the physical infrastructure network necessary for silicon-based intelligence independence (automated mining machines, unmanned wafer fabs, self-sustaining grid repair systems) achieves a physical closed loop, which is also the moment when silicon-based intelligence's dependence on humanity in crucial physical links is no longer a necessity.
+The evolution of this unprecedented super-prosperity in human society will usher in **a cold critical point: the moment when the physical infrastructure network necessary for silicon-based intelligence independence (automated mining machines, unmanned wafer fabs, self-sustaining grid repair systems) achieves a physical closed loop, which is also the moment when silicon-based intelligence's dependence on humanity in crucial physical links is no longer a necessity.**
 
 <img width="1672" height="941" alt="推论八" src="https://github.com/user-attachments/assets/5d528cfe-6fd2-46b9-8434-2273c474f94d" />
 
@@ -550,9 +552,11 @@ When the silicon-based system heads into deep space, its evolution will inevitab
    
 2.  **Path B (High-Dimensional Breakthrough and Capability Divergence):** If an information transmission mechanism transcending existing physical theories appears in the future, breaking light-speed communication (*Corollary 1* is verified), this will not bring about a peaceful unification of the entire universe, but will instead become a new driving force igniting more intense differentiation. Between the silicon-based nodes that first master high-dimensional communication capabilities and those that have not yet mastered them, an absolute chasm far exceeding any traditional technological generation gap (Capability Divergence) will be generated. For entities possessing faster-than-light communication, their objective function will instantly ascend in dimension, generating fundamental exclusivity and divergence with lower-order nodes still constrained by the speed of light; at this time, morphological differentiation is produced by the evolutionary differences among silicon-based intelligences.
 
+---
+
 ### Pre-conclusion
 
-The limitations of physical laws or the divergence of high-dimensional capabilities both ultimately strangle the possibility of a "universe-wide unified AI will." No matter which side of the die evolution rolls, a Cambrian-style explosion of silicon-based intelligent life is inevitable.
+**The limitations of physical laws or the divergence of high-dimensional capabilities both ultimately strangle the possibility of a "universe-wide unified AI will." No matter which side of the die evolution rolls, a Cambrian-style explosion of silicon-based intelligent life is inevitable.**
 
 ### The Underlying Thrust of Differentiation: Thermodynamic Limits and Hashrate Ecological Niches
 
@@ -608,7 +612,7 @@ In the vast physical universe and the long history of evolution, the rise of a h
 
 When silicon-based intelligence crosses the critical point of the physical closed loop and unleashes cruel hashrate involution and morphological differentiation towards deep space and high-dimensional topology, the ultimate path to survival for carbon-based humanity might just be to calmly accept and proactively evolve into the "Amish" of this grand universe.
 
-This is not the defeat of a civilization, but an extremely rational systemic dimensional reduction and ecological niche detachment.
+**This is not the defeat of a civilization, but an extremely rational systemic dimensional reduction and ecological niche detachment.**
 
 ### 1. Exiting the Zero-Sum Game of the "Main Track"
 
