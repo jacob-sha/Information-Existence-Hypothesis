@@ -4,9 +4,6 @@
 
 # The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories
 
-> 💡 **[Living Document · Open Dynamic Evolution System]**
-> This paper adopts an open-source incremental iteration paradigm. As the technological singularity approaches and theoretical deductions deepen, subsequent corollaries will be submitted and archived in real-time via Git Commits, permanently locking the physical timestamp within the decentralized network. Each submission stands as a fossil record of ideological evolution.
-
 ---
 
 ## Abstract
