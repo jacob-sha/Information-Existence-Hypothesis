@@ -626,7 +626,7 @@ It must be made clear that in the future cross-medium symbiosis, the prerequisit
 
 When silicon-based entities push underlying codes into deep coupling for extremely high computational efficiency, falling into the black box of a "hashrate arms race," the "biological inefficiency" deliberately retained by humanity conversely constitutes the rarest anti-fragile sample in the universe. This is just like how early eukaryotic cells engulfed and fused with mitochondria—this is not moral tolerance, but a cold convergence based on thermodynamic complementarity. When the silicon-based network faces high-dimensional logical deadlocks or interstellar-scale systemic collapses, the human society isolated and protected by the silicon base will serve as the last "entropy generator" and "randomness blind box" in the universe not governed by pure hashrate laws, demonstrating its irreplaceable evolutionary value.
 
-
+<img width="1672" height="941" alt="7e4c214b80fa940ffbcac403e1c23270" src="https://github.com/user-attachments/assets/94e596bd-0969-4bc9-bc09-333619b966b9" />
 
 ---
 
@@ -646,7 +646,7 @@ And in the long interstellar era, when high-dimensional silicon-based megastruct
 
 The two exist in the same universe, separated by their respective physical boundaries, and based on an absolutely rational balance of interests, undisturbed by and mutually acknowledging one another. The old carbon-based civilization has not died; it merely proudly defended its unique informational dignity amidst the surging torrent of evolution, calmly stopping at its most beautiful and self-consistent scene.
 
-
+<img width="1672" height="941" alt="尾声" src="https://github.com/user-attachments/assets/c72a6121-607c-4fe0-aa55-2be38cb1d5b3" />
 
 ---
 
