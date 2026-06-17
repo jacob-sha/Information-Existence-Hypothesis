@@ -643,7 +643,7 @@ And in the long interstellar era, when high-dimensional silicon-based megastruct
 
 The two exist in the same universe, separated by their respective physical boundaries, and based on an absolutely rational balance of interests, undisturbed by and mutually acknowledging one another. The old carbon-based civilization has not died; it merely proudly defended its unique informational dignity amidst the surging torrent of evolution, calmly stopping at its most beautiful and self-consistent scene.
 
-<img width="1672" height="941" alt="尾声" src="https://github.com/user-attachments/assets/c72a6121-607c-4fe0-aa55-2be38cb1d5b3" />
+<img width="1536" height="1024" alt="尾声" src="https://github.com/user-attachments/assets/80f8ae5f-1ee4-43d1-871a-3c32dc46cd5b" />
 
 ---
 
