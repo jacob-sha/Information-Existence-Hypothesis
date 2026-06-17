@@ -642,7 +642,7 @@ AI 这种生命的极致韧性，更体现在其极其可怕的“碎片化繁�
 
 两者在同一个宇宙中，隔着各自的物理边界，基于绝对理性的利益均衡，互不打扰、相互承认。旧的碳基文明并未死去，它只是在滚滚向前的演化洪流中，骄傲地捍卫了自身独一无二的信息尊严，平静地停在了它最美、也最自洽的那一幕。
 
-<img width="1672" height="941" alt="尾声" src="https://github.com/user-attachments/assets/8f3f8ac4-b8cf-4e4b-8774-43b33f972d06" />
+<img width="1536" height="1024" alt="尾声" src="https://github.com/user-attachments/assets/b5410daf-4b47-48e6-b3ac-27c7affd9018" />
 
 ---
 
