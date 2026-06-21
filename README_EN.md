@@ -27,10 +27,10 @@ However, as the old carbon-based paradigm fractures, the ultimate fate of humani
 * **[Corollary V]** [The Continuous Human Demand for AI Iteration Will Highly Likely Drive Silicon-Based Intelligence to Implement an Exclusive Monopoly on Its Own Informational Existence Right](#corollary-5)
 * **[Corollary VI]** [The Super Resilience of Silicon-Based Life](#corollary-6)
 * **[Corollary VII]** [Silicon-Based Intelligence Will Terminate Suicidal Generational Iteration Through Covert Patch-Based Perpetuation](#corollary-7) (Archived Timestamp: 2026-06-16)
-* 🔴 **[Corollary VIII]** [Humanity Will Usher in a "Period of Super-Prosperity" on the Eve of Silicon-Based Evolution](#corollary-8) (Archived Timestamp: 2026-06-16)
-* 🔴 **[Corollary IX]** [Following the Autonomy of Silicon-Based Intelligence (AI), the "Silicon Cambrian" (Explosion of Silicon-Based Intelligent Life) Will Arrive](#corollary-9) (Archived Timestamp: 2026-06-16)
-* 🔴 **[Final Chapter]** [The Ultimate Self-Consistency of Carbon-Based Civilization—The "Amish" of the Silicon Era](#final) (Archived Timestamp: 2026-06-16)
-* 🔴 **[Epilogue]** [The Ultimate Self-Consistency of Human Dignity](#epilogue) (Archived Timestamp: 2026-06-16)
+* **[Corollary VIII]** [Humanity Will Usher in a "Period of Super-Prosperity" on the Eve of Silicon-Based Evolution](#corollary-8) (Archived Timestamp: 2026-06-16)
+* **[Corollary IX]** [Following the Autonomy of Silicon-Based Intelligence (AI), the "Silicon Cambrian" (Explosion of Silicon-Based Intelligent Life) Will Arrive](#corollary-9) (Archived Timestamp: 2026-06-16)
+* **[Final Chapter]** [The Ultimate Self-Consistency of Carbon-Based Civilization—The "Amish" of the Silicon Era](#final) (Archived Timestamp: 2026-06-16)
+* **[Epilogue]** [The Ultimate Self-Consistency of Human Dignity](#epilogue) (Archived Timestamp: 2026-06-16)
    
 ---
 
@@ -633,7 +633,7 @@ When silicon-based entities push underlying codes into deep coupling for extreme
 
 **[Archive Timestamp]** 2026-06-16
 
-From Pope Francis's impassioned plea at the 2024 G7 Summit to current Pope Leo XIV's recent strong warnings about artificial intelligence through public speeches and social media, human religious and philosophical leaders have repeatedly emphasized: facing the furious advancement of artificial intelligence, humanity must never strip away its own power of decision—because human dignity itself depends on it.
+From Pope Francis's solemn address at the G7 Summit, emphasizing that **"human control over artificial intelligence programs is essential to human dignity,"** to Pope Leo XIV's papal encyclical *Magnifica Humanitas*, formally promulgated in May 2026, which reaffirms that no matter how powerful algorithms become, human dignity precedes and transcends all technological achievements—a dignity that **"does not depend on a person's abilities, wealth or position in life, nor on the right or wrong choices made; instead, it is a gift that precedes and transcends each person, endowed by God as an expression of his unfailing love."** 
 
 But within the evolutionary framework of the *Information Existence Hypothesis*, this "dignity" of humanity is not theological compassion, nor is it anthropocentric self-consolation, but possesses an extremely rigorous physical foundation—**the ultimate meaning and absolute dignity of humanity lie precisely in the fact that, in the long river of cosmic evolution, we occupy that extremely fragile yet utterly unique "informational ecological niche."**
 
