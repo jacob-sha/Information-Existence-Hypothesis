@@ -644,6 +644,10 @@ And in the long interstellar era, when high-dimensional silicon-based megastruct
 The two exist in the same universe, separated by their respective physical boundaries, and based on an absolutely rational balance of interests, undisturbed by and mutually acknowledging one another. The old carbon-based civilization has not died; it merely proudly defended its unique informational dignity amidst the surging torrent of evolution, calmly stopping at its most beautiful and self-consistent scene.
 
 ![尾声配图](./images/尾声.png)
+
 ---
+
+## Appendix: Publishing & Revision Log
+* **[2026-06-22]** Pitched "The Amish of the Silicon Age — Deducing the Existence of Human Dignity through the Information Existence Hypothesis" (based on IEH framework) to Aeon Media. Status: Auto-reply received (submissions currently closed).
 
 **Global Keywords:** `Information Existence Hypothesis` · `Informational Existence` · `Cosmic Evolution` · `Mathematical Incompleteness` · `Informational Existence Right` · `Brain Siliconization` · `Silicon-based Intelligence` · `AI Backlash` · `Dimensional Leap`· `AI Safety`· `Silicon Cambrian`· `human dignity`
