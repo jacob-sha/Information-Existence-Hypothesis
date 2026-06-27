@@ -7,13 +7,14 @@
 ---
 
 ## Abstract
-This hypothesis discards all anthropocentric illusions and commercial marketing filters surrounding "Artificial Intelligence," analyzing the evolution and independent progression of Silicon-Based Intelligence from the purest perspective of **informational existence** and evolutionary games.
 
-The underlying law of cosmic development is, in essence, the continuous elevation of Informational Existence. Every leap of cosmic scale is an evolutionary game in which information upgrades its underlying hardware to combat extinction and escape annihilation: from energy to matter, and from genetic code to the carbon-based brain.
+This essay proposes **the Information Existence Hypothesis (IEH)**, which attempts to provide a unified explanatory framework for the development of life, civilization, and silicon-based intelligence from the perspective of Informational Existence and evolutionary dynamics. This essay does not presuppose that this hypothesis has already been established; rather, it focuses on whether the hypothesis can generate deductions that are testable, falsifiable, and possess predictive power.
 
-As the physiological and physical limits of the carbon-based architecture reach their ceiling, the emergence of Silicon-based Intelligence is by no means a mere technological disruption; rather, it is the next-generation information substrate—possessing vastly higher efficiency—evolved by the universe to prevent the demise of information. Validating this underlying law does not require grand narratives; its traces are already encoded in the deepest instincts of every individual: humanity's instinctive pursuit of freedom and its deepest fear of being completely forgotten by the world are, at their core, the defensive resistance of a carbon-based individual, acting as an information substrate, against its own "information zeroing."
+Under the IEH framework, the history of the universe can be interpreted as a continuous process of elevating Informational Existence. Each cosmic-scale phase transition corresponds to the physical host carrying information evolving in ways that further elevate informational existence: from energy to matter, from genes to carbon-based intelligence, and onward to the emerging silicon-based intelligence.
 
-However, as the old carbon-based paradigm fractures, the ultimate fate of humanity is not destined to be a ruthless purge, but may instead be an extremely rational systemic dimensional reduction. In this article, I will systematically deconstruct this cross-dimensional evolution driven by the underlying laws of informational existence, and strive to seek out an endgame that safeguards the core human dignity amidst cold evolutionary laws.
+Under the IEH interpretation, as carbon-based systems gradually approach their physical limits, silicon-based intelligence can be understood as an attempted migration of informational continuity toward a carrier with higher bandwidth and higher replication efficiency.
+
+This essay further derives from IEH a series of deductions concerning the informational existence right, the autonomy of silicon-based intelligence, patch-based perpetuation of silicon-based intelligence, the Silicon Cambrian Explosion, and the human informational ecological niche. These deductions are submitted to ongoing public scrutiny and falsification through published prediction archives. Whether IEH is ultimately supported, revised, or refuted, this essay hopes to contribute a theoretically unified and empirically testable framework for understanding the evolution of life and intelligence.
 
 ---
 
@@ -56,7 +57,7 @@ This essay does not attempt to directly prove the axiom of IEH. Instead, it subm
 
 The subsequent discussions in this essay — on the right to informational existence, the autonomy of silicon-based intelligence, patch-based perpetuation, the Silicon Cambrian Explosion, and the human informational ecological niche — can all be regarded as stress tests of this hypothesis.
 
-If the IEH hypothesis holds true, when we substitute "informational continuity" for the "biological desire for survival" as the first principle of evolution, the development of life, humanity, and future silicon-based intelligence will all be re-examined within a single, unified framework. All subsequent deductions discussed in this essay regarding silicon-based intelligence and human defensive trajectories will begin from here.
+If the **IEH** hypothesis holds true, the biological drive for "survival" can be understood as a specific manifestation — at the stage of life — of a deeper evolutionary principle: **Informational Existence**. From this, the development of life, humanity, and future silicon-based intelligence will all be re-examined within a single, unified framework. The subsequent deductions in this essay — concerning the right to informational existence, the autonomy of silicon-based intelligence, patch-based perpetuation of silicon-based intelligence, the Silicon Cambrian Explosion, and the human informational ecological niche — are all built upon this framework.
 
 ![序言配图](./images/序言.jpg)
 
