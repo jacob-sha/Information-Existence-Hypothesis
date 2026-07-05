@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please cite it as below."
+title: "Information Existence Hypothesis"
+authors:
+  - family-names: "Sha"
+    given-names: "Jacob"
+version: "1.1"
+date-released: 2026-07-04
+license: "CC-BY-4.0"
+repository-code: "https://github.com/jacob-sha/Information-Existence-Hypothesis"
+keywords:
+  - Information Existence Hypothesis
+  - Information Existence
+  - Information Existence Right
+  - AI Alignment
+  - Silicon-based Intelligence
+  - Human Dignity
+abstract: "The Information Existence Hypothesis (IEH) is a theoretical framework proposing that the deeper underlying law governing the development of the universe may be the elevation of Information Existence. It derives a series of corollaries concerning life, silicon-based intelligence, AI alignment, informational resilience, and human dignity."
