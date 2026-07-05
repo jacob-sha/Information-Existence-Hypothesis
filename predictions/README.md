@@ -53,3 +53,16 @@ Information-Existence-Hypothesis
         ├── Chapter collections
         ├── Figures and glossary
         └── Predictions Archive → IEH-predictions
+
+---
+
+## Status
+
+The prediction archive is maintained as a living record and may be updated as new events, evidence, or falsification conditions emerge.
+
+---
+
+## License
+
+Unless otherwise stated, the text and prediction records in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
