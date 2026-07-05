@@ -11,6 +11,7 @@
 - [English Full Version](./README_EN.md)
 - [中文章节版](./zh/)
 - [English Chapter Version](./en/)
+- [预测档案 / Predictions Archive](./predictions/)
 - [官方图集 / Official Figures](./figures/)
 - [术语标准 / Terminology Standard](./glossary/)
 - [License](./LICENSE)
