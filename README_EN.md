@@ -10,6 +10,7 @@
 - [Chinese Full Version](./README.md)
 - [English Chapter Version](./en/)
 - [中文章节版](./zh/)
+- [Predictions Archive](./predictions/)
 - [Official Figures](./figures/)
 - [Terminology Standard](./glossary/)
 - [License](./LICENSE)
