@@ -1,6 +1,8 @@
 # The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories
 
 🌐 English Version | [中文版](./README.md)
+
+> 📢 Announcement: [IEH v1.1 and Predictions Archive Released](./ANNOUNCEMENT.md)
 ---
 
 ## Project Navigation
