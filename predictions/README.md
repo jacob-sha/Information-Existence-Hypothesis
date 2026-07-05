@@ -54,7 +54,7 @@ Information-Existence-Hypothesis
         ├── Figures and glossary
         └── Predictions Archive → IEH-predictions
 
----
+```
 
 ## Status
 
