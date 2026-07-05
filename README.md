@@ -1,16 +1,33 @@
-# 信息存在性假说：关于硅基智慧进化及人类防卫路径的推演
+# 信息存在性假说  
+# Information Existence Hypothesis
 
-> The Information Existence Hypothesis: Deductions on Silicon-based Intelligence Evolution and Human Defensive Trajectories
+🌐 中文版 | [English Version](./README_EN.md)
 
-
-🌐 [English Version](./README_EN.md) | 中文版
+---
 
 ## Project Navigation
 
-- [`figures/`](./figures/) — IEH 官方图集 v1.0。
-- [`glossary/`](./glossary/) — IEH 官方术语标准 v1.0。
-- [`README_EN.md`](./README_EN.md) — English version.
+- [中文完整主文](./README.md)
+- [English Full Version](./README_EN.md)
+- [中文章节版](./zh/)
+- [English Chapter Version](./en/)
+- [官方图集 / Official Figures](./figures/)
+- [术语标准 / Terminology Standard](./glossary/)
+- [License](./LICENSE)
 
+---
+
+## Chapter Collections
+
+For easier reading, citation, revision, and long-term maintenance, the full text has also been split into chapter-based collections:
+
+- **中文章节版：** [zh/](./zh/)  
+  收录《信息存在性假说（IEH）》中文分章节版本，适合逐章阅读、引用与后续修订。
+
+- **English Chapter Version:** [en/](./en/)  
+  Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
+
+The root `README.md` and `README_EN.md` remain the full-text baseline versions, while `zh/` and `en/` provide structured chapter collections based on the same v1.0 baseline.
 ---
 
 ## 目录
