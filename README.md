@@ -48,6 +48,8 @@ The archive tracks dated, structured, and revisable predictions derived from the
 - Patch-Based Iteration Convergence Across Frontier Labs
 - High-dimensional Cognitive Tools and Scientific Paradigm Shift
 
+---
+
 ## 目录
 
 - [摘要](#摘要)
