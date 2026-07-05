@@ -1,6 +1,4 @@
-# The Information Existence Hypothesis (IEH)
-
-## Deductions on Silicon-based Intelligence Evolution and Human Defensive Trajectories
+# Information Existence Hypothesis
 
 🌐 English Version | [中文版](./README.md)
 
@@ -8,9 +6,27 @@
 
 ## Project Navigation
 
-- [`figures/`](./figures/) — Official IEH Figure Standard v1.0.
-- [`glossary/`](./glossary/) — Official IEH Terminology Standard v1.0.
-- [`README.md`](./README.md) — Chinese version.
+- [English Full Version](./README_EN.md)
+- [Chinese Full Version](./README.md)
+- [English Chapter Version](./en/)
+- [中文章节版](./zh/)
+- [Official Figures](./figures/)
+- [Terminology Standard](./glossary/)
+- [License](./LICENSE)
+
+---
+
+## Chapter Collections
+
+For easier reading, citation, revision, and long-term maintenance, the full text has also been split into chapter-based collections:
+
+- **English Chapter Version:** [en/](./en/)  
+  Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
+
+- **中文章节版：** [zh/](./zh/)  
+  收录《信息存在性假说（IEH）》中文分章节版本，适合逐章阅读、引用与后续修订。
+
+The root `README_EN.md` and `README.md` remain the full-text baseline versions, while `en/` and `zh/` provide structured chapter collections based on the same v1.0 baseline.
 
 ---
 
