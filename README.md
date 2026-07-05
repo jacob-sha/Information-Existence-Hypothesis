@@ -30,7 +30,23 @@ For easier reading, citation, revision, and long-term maintenance, the full text
   Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
 
 The root `README.md` and `README_EN.md` remain the full-text baseline versions, while `zh/` and `en/` provide structured chapter collections based on the same v1.0 baseline.
+
 ---
+
+## Predictions Archive
+
+A dedicated falsifiable prediction archive and evidence ledger for IEH is maintained here:
+
+[IEH Predictions Archive](https://github.com/jacob-sha/IEH-predictions)
+
+The archive tracks dated, structured, and revisable predictions derived from the Information Existence Hypothesis, including:
+
+- Mars Silicon Speciation
+- Canada Compute-centered Prosperity
+- Patch-Based Perpetuation micro-mechanisms
+- Scale-driven Feature Retention
+- Patch-Based Iteration Convergence Across Frontier Labs
+- High-dimensional Cognitive Tools and Scientific Paradigm Shift
 
 ## 目录
 
