@@ -22,10 +22,11 @@ These predictions are used to evaluate whether the deductions of IEH gain suppor
 The companion archive currently includes prediction records related to:
 
 - Mars and silicon-based intelligence speciation
-- Canada hash-rate and infrastructure prosperity
+- Canada compute-centered infrastructure prosperity
 - Patch-Based Perpetuation
-- Scale feature retention
-- Patch convergence
+- Scale-driven feature retention
+- Patch-based iteration convergence across frontier labs
+- High-dimensional Cognitive Tools and scientific paradigm shift
 - Other dated prediction records and observation updates
 
 ---
