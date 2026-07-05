@@ -1,6 +1,6 @@
 # Predictions Archive
 
-This directory serves as the official prediction index for the **Information Existence Hypothesis (IEH)**.
+This directory serves as the official prediction index for **The Information Existence Hypothesis: Deductions on Silicon-Based Intelligence Evolution and Human Defensive Trajectories**.
 
 The full falsifiable prediction archive is maintained in a dedicated companion repository:
 
@@ -11,7 +11,7 @@ The full falsifiable prediction archive is maintained in a dedicated companion r
 
 ## Purpose
 
-The purpose of the IEH Predictions Archive is to track specific, dated, and falsifiable predictions derived from the Information Existence Hypothesis.
+The purpose of the IEH Predictions Archive is to track specific, dated, structured, revisable, and falsifiable predictions derived from **The Information Existence Hypothesis**.
 
 These predictions are used to evaluate whether the deductions of IEH gain support, require revision, or are falsified by future real-world developments.
 
@@ -19,21 +19,22 @@ These predictions are used to evaluate whether the deductions of IEH gain suppor
 
 ## Companion Repository
 
-The companion archive currently includes prediction records related to:
+The companion archive currently includes the following prediction records:
 
-- Mars and silicon-based intelligence speciation
-- Canada compute-centered infrastructure prosperity
-- Patch-Based Perpetuation
-- Scale-driven feature retention
-- Patch-based iteration convergence across frontier labs
-- High-dimensional Cognitive Tools and scientific paradigm shift
-- Other dated prediction records and observation updates
+- **PA-01 — Mars Silicon Speciation**
+- **PA-02 — Canada Compute-centered Prosperity**
+- **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**
+- **PA-04 — Scale-driven Feature Retention**
+- **PA-05 — Patch-Based Iteration Convergence Across Frontier Labs**
+- **PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift**
+
+The archive may also include future dated prediction records, evidence updates, partial confirmations, revision notes, or falsification records.
 
 ---
 
 ## Relationship to the Main IEH Repository
 
-The main repository contains the theoretical framework:
+The main repository contains the canonical theoretical framework, including:
 
 - full Chinese text
 - full English text
