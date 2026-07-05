@@ -74,3 +74,11 @@ Future updates may include new prediction records, evidence logs, revisions, con
 两个仓库都将作为持续更新的开放记录保存。
 
 未来可能继续加入新的预测档案、证据记录、修订说明、确认、部分确认或证伪记录。
+
+---
+
+## Medium Announcement
+
+A public Medium announcement for IEH v1.1 is available here:
+
+[Information Existence Hypothesis v1.1: From Theory to Falsifiable Predictions](https://medium.com/@jacobsha_macro/information-existence-hypothesis-v1-1-from-theory-to-falsifiable-predictions-1f96690fffc1)
