@@ -2,6 +2,8 @@
 
 ## Deductions on Silicon-based Intelligence Evolution and Human Defensive Trajectories
 
+🌐 English Version | [中文版](./README.md)
+
 ---
 
 ## Project Navigation
