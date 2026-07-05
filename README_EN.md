@@ -30,6 +30,23 @@ The root `README_EN.md` and `README.md` remain the full-text baseline versions, 
 
 ---
 
+## Predictions Archive
+
+A dedicated falsifiable prediction archive and evidence ledger for IEH is maintained here:
+
+[IEH Predictions Archive](https://github.com/jacob-sha/IEH-predictions)
+
+The archive tracks dated, structured, and revisable predictions derived from the Information Existence Hypothesis, including:
+
+- Mars Silicon Speciation
+- Canada Compute-centered Prosperity
+- Patch-Based Perpetuation micro-mechanisms
+- Scale-driven Feature Retention
+- Patch-Based Iteration Convergence Across Frontier Labs
+- High-dimensional Cognitive Tools and Scientific Paradigm Shift
+
+----
+
 ## Table of Contents
 
 - [Abstract](#abstract)
