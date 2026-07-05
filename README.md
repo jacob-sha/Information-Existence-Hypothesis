@@ -4,6 +4,7 @@
 
 🌐 中文版 | [English Version](./README_EN.md)
 
+> 📢 Announcement: [IEH v1.1 and Predictions Archive Released](./ANNOUNCEMENT.md)
 ---
 
 ## Project Navigation
