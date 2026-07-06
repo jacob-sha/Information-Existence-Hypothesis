@@ -87,6 +87,39 @@ The archive tracks dated, structured, and revisable predictions derived from the
 
 无论IEH最终是否得到支持、修正或被否证，本文都希望为生命、人类文明与硅基智慧演化提供一个具有统一解释力（Unified explanatory power）、可产生经验预测（Empirical predictions）并能够接受持续检验（Continuous empirical testing）的理论框架。
 
+---
+
+## 项目扩展
+
+本仓库为《信息存在假设》（Information Existence Hypothesis, IEH）的主理论仓库。除主体理论文本外，项目还包含两个辅助模块：
+
+### 1. 证据笔记
+
+证据笔记用于记录与 IEH 相关的外部研究、技术进展和机制层旁证。这些内容不构成对 IEH 的证明，而是用于说明相关现象与 IEH 之间可能存在的理论联系。
+
+- [证据笔记 001：Anthropic 的 Global Workspace 发现与 IEH 的关系](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+
+### 2. 形式化建模子仓
+
+IEH 已建立独立的形式化建模子仓，用于存放 AI 辅助数学与理论建模草案：
+
+- [Information-Existence-Hypothesis-Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
+
+该子仓内容不是最终数学证明，也不是同行评审物理论文，而是作者主导、AI 辅助的探索性建模笔记，主要用于澄清假设、检验理论自洽性，并生成可检验、可反驳的预测。
+
+<details>
+<summary>English Note</summary>
+
+This is the main repository for the Information Existence Hypothesis (IEH).  
+In addition to the core theoretical text, the project includes evidence notes and a companion formalization repository.
+
+Evidence notes document external research and mechanistic observations related to IEH. They should not be read as proof of IEH, but as records of theoretical relevance.
+
+The companion repository contains AI-assisted mathematical and theoretical modeling drafts. These documents are not presented as final mathematical proofs or peer-reviewed physics papers. They are author-directed, AI-assisted exploratory modeling notes intended to clarify assumptions, test internal consistency, and generate falsifiable predictions.
+
+</details>
+
+
 ## 序言
 
 ![Preface](./figures/Fig00-Preface.png)
