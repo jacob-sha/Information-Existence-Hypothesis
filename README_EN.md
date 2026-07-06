@@ -86,6 +86,26 @@ Whether IEH is ultimately supported, revised, or refuted, this essay hopes to co
 
 ---
 
+## Project Extensions
+
+This repository is the main theoretical repository for the **Information Existence Hypothesis (IEH)**. In addition to the core theoretical text, the project includes two auxiliary modules: **Evidence Notes** and a **Formalization Companion Repository**.
+
+### 1. Evidence Notes
+
+Evidence Notes document external research, technological developments, and mechanistic observations that may be relevant to IEH. These notes should not be read as proof of IEH. They are intended to record possible theoretical resonance between IEH and emerging empirical or technical findings.
+
+- [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+
+### 2. Formalization Companion Repository
+
+A companion repository has been created for AI-assisted mathematical and theoretical modeling notes related to IEH:
+
+- [Information-Existence-Hypothesis-Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
+
+The companion repository contains exploratory formalization drafts. These documents are not presented as final mathematical proofs, peer-reviewed physics papers, or authoritative scientific claims. They are author-directed, AI-assisted modeling notes intended to clarify assumptions, test internal consistency, identify boundary conditions, and generate falsifiable predictions.
+
+---
+
 ## Foreword
 
 ![Preface](./figures/Fig00-Preface.png)
