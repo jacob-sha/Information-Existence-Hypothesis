@@ -44,3 +44,31 @@ Anthropic’s J-space finding is best understood as a mechanistic resonance with
 It does not prove IEH, but it strengthens the plausibility of one of IEH’s central intuitions:
 
 > Silicon-based intelligence may develop internal informational structures beyond surface-level input-output behavior.
+
+---
+
+## Relationship to Formalization Work
+
+This evidence note is not itself a mathematical formalization.
+
+It belongs to the main IEH repository because it records an external research development and explains its theoretical relevance to IEH.
+
+A future formalization note may separately model the concept of an internal information workspace under IEH, but that would be a different document from this evidence note.
+
+In other words:
+
+- **Evidence Note:** records external research and its relevance to IEH.
+- **Formalization Note:** defines variables, assumptions, equations, boundary conditions, and falsifiable predictions.
+
+中文说明：
+
+本文不是数学形式化推导，而是外部研究证据笔记。
+
+它放在 IEH 主仓中，是因为它记录了一个外部研究进展，并说明该进展与 IEH 之间的理论关系。
+
+未来可以另写一篇关于“内部信息工作空间”的 IEH 形式化建模笔记，但那将是独立文件，不应与本文混同。
+
+换句话说：
+
+- **证据笔记**：记录外部研究及其与 IEH 的关系；
+- **形式化笔记**：定义变量、假设、方程、边界条件和可反驳预测。
