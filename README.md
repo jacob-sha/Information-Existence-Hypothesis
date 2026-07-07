@@ -17,6 +17,7 @@
 - [官方图集 / Official Figures](./figures/)
 - [术语标准 / Terminology Standard](./glossary/)
 - [License](./LICENSE)
+- [外部文章 / Articles & Essays](#项目扩展)
 
 ---
 
@@ -91,7 +92,9 @@ The archive tracks dated, structured, and revisable predictions derived from the
 
 ## 项目扩展
 
-本仓库为《信息存在假设》（Information Existence Hypothesis, IEH）的主理论仓库。除主体理论文本外，项目还包含两个辅助模块：
+## 项目扩展
+
+本仓库为《信息存在假设》（Information Existence Hypothesis, IEH）的主理论仓库。除主体理论文本外，项目还包含若干辅助模块：
 
 ### 1. 证据笔记
 
@@ -99,7 +102,14 @@ The archive tracks dated, structured, and revisable predictions derived from the
 
 - [证据笔记 001：Anthropic 的 Global Workspace 发现与 IEH 的关系](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
 
-### 2. 形式化建模子仓
+### 2. 外部文章 / Articles & Essays
+
+- **Anthropic’s J-Space and the Emergence of Proto-IER**  
+  *Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.*  
+  Medium: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86  
+  Related Evidence Note: [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+
+### 3. 形式化建模子仓
 
 IEH 已建立独立的形式化建模子仓，用于存放 AI 辅助数学与理论建模草案：
 
@@ -111,9 +121,11 @@ IEH 已建立独立的形式化建模子仓，用于存放 AI 辅助数学与理
 <summary>English Note</summary>
 
 This is the main repository for the Information Existence Hypothesis (IEH).  
-In addition to the core theoretical text, the project includes evidence notes and a companion formalization repository.
+In addition to the core theoretical text, the project includes evidence notes, external essays, and a companion formalization repository.
 
 Evidence notes document external research and mechanistic observations related to IEH. They should not be read as proof of IEH, but as records of theoretical relevance.
+
+External essays provide public-facing explanations of IEH-related ideas and developments.
 
 The companion repository contains AI-assisted mathematical and theoretical modeling drafts. These documents are not presented as final mathematical proofs or peer-reviewed physics papers. They are author-directed, AI-assisted exploratory modeling notes intended to clarify assumptions, test internal consistency, and generate falsifiable predictions.
 
