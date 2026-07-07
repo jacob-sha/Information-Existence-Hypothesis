@@ -14,10 +14,10 @@
 - [中文章节版](./zh/)
 - [English Chapter Version](./en/)
 - [预测档案 / Predictions Archive](./predictions/)
+- [外部文章 / Articles & Essays](#项目扩展)
 - [官方图集 / Official Figures](./figures/)
 - [术语标准 / Terminology Standard](./glossary/)
 - [License](./LICENSE)
-- [外部文章 / Articles & Essays](#项目扩展)
 
 ---
 
