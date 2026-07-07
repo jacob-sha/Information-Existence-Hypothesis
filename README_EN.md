@@ -12,6 +12,7 @@
 - [English Chapter Version](./en/)
 - [中文章节版](./zh/)
 - [Predictions Archive](./predictions/)
+- [Articles / Essays](#project-extensions)
 - [Official Figures](./figures/)
 - [Terminology Standard](./glossary/)
 - [License](./LICENSE)
@@ -88,7 +89,7 @@ Whether IEH is ultimately supported, revised, or refuted, this essay hopes to co
 
 ## Project Extensions
 
-This repository is the main theoretical repository for the **Information Existence Hypothesis (IEH)**. In addition to the core theoretical text, the project includes two auxiliary modules: **Evidence Notes** and a **Formalization Companion Repository**.
+This repository is the main theoretical repository for the Information Existence Hypothesis (IEH). In addition to the core theoretical text, the project includes evidence notes, external essays, and a parallel formalization repository.
 
 ### 1. Evidence Notes
 
@@ -96,13 +97,22 @@ Evidence Notes document external research, technological developments, and mecha
 
 - [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
 
-### 2. Formalization Companion Repository
+### 2. Articles / Essays
 
-A companion repository has been created for AI-assisted mathematical and theoretical modeling notes related to IEH:
+- **Anthropic’s J-Space and the Emergence of Proto-IER**  
+  *Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.*  
+  Medium: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86  
+  Related Evidence Note: [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+
+### 3. Parallel Formalization Repository
+
+IEH has a parallel repository for AI-assisted mathematical and theoretical modeling drafts:
 
 - [Information-Existence-Hypothesis-Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
 
-The companion repository contains exploratory formalization drafts. These documents are not presented as final mathematical proofs, peer-reviewed physics papers, or authoritative scientific claims. They are author-directed, AI-assisted modeling notes intended to clarify assumptions, test internal consistency, identify boundary conditions, and generate falsifiable predictions.
+The two repositories are related but serve different purposes. This main repository contains the core theory, terminology, predictions, evidence notes, and public-facing essays of IEH. The formalization repository is used to translate IEH chapters into variables, models, boundary conditions, and falsifiable predictions.
+
+The materials in the formalization repository are not presented as final mathematical proofs or peer-reviewed physics papers. They are author-directed, AI-assisted exploratory modeling notes.
 
 ---
 
