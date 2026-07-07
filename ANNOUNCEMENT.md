@@ -1,3 +1,17 @@
+## 2026-07-07 — New Medium Essay on J-space and proto-IER
+
+A new Medium essay has been published:
+
+**Anthropic’s J-Space and the Emergence of Proto-IER**  
+Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.
+
+This essay connects Anthropic’s J-space / global-workspace-like finding with the Information Existence Hypothesis (IEH), arguing that it may be interpreted as an early mechanistic signal of proto-IER in silicon-based intelligence.
+
+- Medium essay: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86
+- Evidence Note 001: ./evidence-notes/001-anthropic-global-workspace-and-ieh.md
+
+---
+
 # IEH v1.1 and Predictions Archive Released  
 # 信息存在性假说 v1.1 与预测档案发布
 
