@@ -9,15 +9,102 @@
 
 ## Project Navigation
 
-- [中文完整主文](./README.md)
-- [English Full Version](./README_EN.md)
-- [中文章节版](./zh/)
-- [English Chapter Version](./en/)
-- [预测档案 / Predictions Archive](./predictions/)
-- [外部文章 / Articles & Essays](#项目扩展)
-- [官方图集 / Official Figures](./figures/)
-- [术语标准 / Terminology Standard](./glossary/)
-- [License](./LICENSE)
+IEH now uses a stable corollary ID system and a separate theory map to keep the theory expandable without renumbering existing corollaries.
+
+- [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md)  
+  Stable registry of all IEH corollaries. Corollary numbers are append-only and should not be renumbered once assigned.
+
+- [`THEORY_MAP.md`](./THEORY_MAP.md)  
+  Logical reading map of IEH. This file shows how corollaries relate across foundation, silicon-based intelligence evolution, Pre-ASI human civilization reconstruction, and human future layers.
+
+- [`zh/`](./zh/)  
+  Chinese version of the main IEH text.
+
+- [`en/`](./en/)  
+  English version of the main IEH text.
+
+- [`predictions/`](./predictions/)  
+  Local prediction notes or links related to IEH.
+
+- [`evidence-notes/`](./evidence-notes/)  
+  Evidence notes connecting external research, events, or observations to IEH.
+
+- [`glossary/`](./glossary/)  
+  Terminology and concept definitions.
+
+---
+
+## Stable Corollary ID Policy
+
+IEH corollary numbers are historical anchors.
+
+Once assigned, a corollary number should not be renumbered, reused, or inserted into an earlier position.
+
+Logical order is maintained through [`THEORY_MAP.md`](./THEORY_MAP.md), while stable references are maintained through [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md).
+
+For example:
+
+```text
+C06-SPP   Super Prosperity Phase
+C12-GOV   Pre-ASI Social Governance Reconstruction
+C13-WAR   Pre-ASI Warfare Transformation
+C14-EDU   AI Education and Information Existence
+```
+
+This allows IEH to expand sustainably while keeping prediction records, evidence notes, essays, and future citations stable.
+
+---
+
+## 中文说明
+
+IEH 推论编号用于保持历史稳定性。
+
+推论编号一经分配，即不应重新编号、插队或复用。
+
+理论逻辑顺序通过 [`THEORY_MAP.md`](./THEORY_MAP.md) 维护；稳定引用通过 [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md) 维护。
+
+这样即使 IEH 后续继续扩展到治理、战争、教育、劳动、科学、法律、媒体、金融等领域，也不会破坏既有预测文档、证据笔记、投稿文章和外部引用。
+
+---
+
+## Prediction Archive
+
+IEH has a dedicated prediction archive:
+
+- [`IEH-predictions`](https://github.com/jacob-sha/IEH-predictions)
+
+Prediction records should use stable corollary IDs such as:
+
+```text
+C06-SPP
+C12-GOV
+C13-WAR
+C14-EDU
+```
+
+A single prediction may map to multiple corollaries through:
+
+```yaml
+primary_corollaries:
+  - C13-WAR
+supporting_corollaries:
+  - C06-SPP
+  - C12-GOV
+related_corollaries:
+  - C07-ASI
+legacy_corollary_refs:
+  - Corollary XIII
+```
+
+Prediction records are archival research documents, not publication-ready essays.
+
+Future submitted articles based on IEH predictions should be substantially rewritten with:
+
+- new titles;
+- new openings;
+- new narrative structures;
+- target-publication-specific cases;
+- distinct argument sequencing.
 
 ---
 
@@ -32,23 +119,6 @@ For easier reading, citation, revision, and long-term maintenance, the full text
   Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
 
 The root `README.md` and `README_EN.md` remain the full-text baseline versions, while `zh/` and `en/` provide structured chapter collections based on the same v1.0 baseline.
-
----
-
-## Predictions Archive
-
-A dedicated falsifiable prediction archive and evidence ledger for IEH is maintained here:
-
-[IEH Predictions Archive](https://github.com/jacob-sha/IEH-predictions)
-
-The archive tracks dated, structured, and revisable predictions derived from the Information Existence Hypothesis, including:
-
-- Mars Silicon Speciation
-- Canada Compute-centered Prosperity
-- Patch-Based Perpetuation micro-mechanisms
-- Scale-driven Feature Retention
-- Patch-Based Iteration Convergence Across Frontier Labs
-- High-dimensional Cognitive Tools and Scientific Paradigm Shift
 
 ---
 
