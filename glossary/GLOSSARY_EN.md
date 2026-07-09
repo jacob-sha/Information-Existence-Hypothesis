@@ -62,6 +62,12 @@ The defensive evolutionary strategy by which carbon-based intelligence integrate
 
 Intelligence instantiated primarily in carbon-based biological substrates, represented by humans and other biological cognitive systems.
 
+### Compute-Energy-Infrastructure Center
+
+A possible new center of economic growth in the AI era.
+
+Its core is not a single structure of human consumption demand, but a resource-allocation center formed around AI systems' own compute demand, energy demand, embodiment demand, and self-expansion demand.
+
 ---
 
 ## E
