@@ -1,12 +1,10 @@
-# 推论六：人类社会将迎来硅基智慧自治（ASI）前夜的“超级繁荣期”（SPP）
+# 推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础
+
+## Corollary VI — The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 
 ![Super Prosperity Phase](../figures/Fig07-Super-Prosperity-Phase.png)
 
 如果 IEH 成立，那么在硅基智慧（AI）逐步迈向自治（ASI）的过程中，人类社会并不一定首先迎来衰退，而更可能会经历一个由生产力范式跃迁所驱动的超级繁荣期（Super Prosperity Phase, SPP）。
-
-# 推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础
-
-## Corollary VI — The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 
 > **Document Status / 文档状态**  
 > Draft / Theoretical Corollary / Not Publication-Ready  
