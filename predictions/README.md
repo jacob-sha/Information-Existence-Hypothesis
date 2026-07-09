@@ -22,7 +22,7 @@ These predictions are used to evaluate whether the deductions of IEH gain suppor
 The companion archive currently includes the following prediction records:
 
 - **PA-01 — Mars Silicon Speciation**
-- **PA-02 — Canada Compute-centered Prosperity**
+- * **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**
 - **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**
 - **PA-04 — Scale-driven Feature Retention**
 - **PA-05 — Patch-Based Iteration Convergence Across Frontier Labs**
