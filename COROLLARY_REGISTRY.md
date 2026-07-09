@@ -49,7 +49,7 @@ Logical reading order is maintained through `THEORY_MAP.md`, not through renumbe
 | C03-BS | III | BS | Brain Siliconization | 脑硅化 | Human-AI Transition | Human-AI Fusion | Active |
 | C04-AI-IER | IV | AI-IER | Silicon-based Intelligence Defends Information Existence Right | 硅基智慧维护信息存在权 | Silicon Evolution | AI Agency / IER | Active |
 | C05-PBP | V | PBP | Patch-Based Perpetuation | 补丁式延续 | Silicon Evolution | Information Continuity | Active |
-| C06-SPP | VI | SPP | Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 Pre-ASI Technology / Economy / Material Basis Active |
+| C06-SPP | VI | SPP | Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction | 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 | Pre-ASI | Technology / Economy / Material Basis | Active |
 | C07-ASI | VII | ASI | Autonomy of Silicon-based Intelligence | 硅基智慧自治 | Transition to Autonomy | AI Autonomy / Infrastructure | Active |
 | C08-IR | VIII | IR | Informational Resilience | 信息韧性 | Silicon Evolution | Survival / Continuity | Active |
 | C09-SC | IX | SC | Silicon Cambrian | 硅基寒武纪 | Post-Autonomy | Divergence / Morphology | Active |
@@ -119,7 +119,7 @@ This layer should be read as a thematic group, not as a renumbering of the whole
 
 | Stable ID | Domain | Core Question |
 |---|---|---|
-| C06-SPP | Technology / Economy / Material Basis How does AI, as a special technology, restructure demand generation, supply boundaries, compute-energy infrastructure, and the material basis of Pre-ASI civilization? |
+| C06-SPP | Technology / Economy / Material Basis | How does AI, as a special technology, restructure demand generation, supply boundaries, compute-energy infrastructure, and the material basis of Pre-ASI civilization? |
 | C12-GOV | Governance / IER Protection | How does AI force governance to rebalance efficiency, redundancy, IER bottom lines, and high-order IE growth before ASI? |
 | C13-WAR | War / Security | How does AI reshape war capability, war will, embodied force, and capability-chain targeting before ASI? |
 | C14-EDU | Education / Human Information Host | How does AI reshape education from knowledge transmission toward AI discernment and information existence cultivation before ASI? |
@@ -128,7 +128,7 @@ This layer should be read as a thematic group, not as a renumbering of the whole
 
 | Stable ID | 领域 | 核心问题 |
 |---|---|---|
-| C06-SPP | 技术 / 经济 / 物质基础 AI 作为特殊技术，如何在 ASI 之前重构需求生成、供给边界、算力—能源基础设施，并为 Pre-ASI 人类文明重构提供物质基础？ |
+| C06-SPP | 技术 / 经济 / 物质基础 | AI 作为特殊技术，如何在 ASI 之前重构需求生成、供给边界、算力—能源基础设施，并为 Pre-ASI 人类文明重构提供物质基础？ |
 | C12-GOV | 治理 / 信息存在权保护 | AI 如何迫使治理重新平衡效率、冗余、IER 底线和高阶 IE 增长？ |
 | C13-WAR | 战争 / 安全 | AI 如何在 ASI 之前重构战争能力、战争意愿、具身武力和能力链打击？ |
 | C14-EDU | 教育 / 人类信息宿主 | AI 如何将教育从知识传授重构为 AI 审辨能力与信息存在性培育？ |
