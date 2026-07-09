@@ -90,7 +90,7 @@ AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。
 
 | Stable ID | Domain | Title | Core Question |
 |---|---|---|---|
-| C06-SPP | Economy / Infrastructure | Super Prosperity Phase | How does AI reshape production, energy, capital, infrastructure, and industrial expansion before ASI? |
+| C06-SPP | Technology / Economy / Material Basis Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction How does AI, as a special technology, restructure demand generation, supply boundaries, compute-energy infrastructure, and the material basis of Pre-ASI civilization? |
 | C12-GOV | Governance / IER Protection | Pre-ASI Social Governance Reconstruction | How does AI force governance to rebalance efficiency, redundancy, IER bottom lines, and high-order IE growth before ASI? |
 | C13-WAR | War / Security | Pre-ASI Warfare Transformation | How does AI reshape war capability, war will, embodied force, and capability-chain targeting before ASI? |
 | C14-EDU | Education / Human Information Host | AI Education and Information Existence | How does AI reshape education from knowledge transmission toward AI discernment and information existence cultivation before ASI? |
@@ -99,7 +99,7 @@ AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。
 
 | Stable ID | 领域 | 标题 | 核心问题 |
 |---|---|---|---|
-| C06-SPP | 经济 / 基础设施 | 超级繁荣期 | AI 如何在 ASI 之前重构生产、能源、资本、基础设施和工业扩张？ |
+| C06-SPP | 技术 / 经济 / 物质基础 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 AI 作为特殊技术，如何在 ASI 之前重构需求生成、供给边界、算力—能源基础设施，并为 Pre-ASI 人类文明重构提供物质基础？|
 | C12-GOV | 治理 / 信息存在权保护 | ASI 之前的社会治理范式重构 | AI 如何迫使治理重新平衡效率、冗余、IER 底线和高阶 IE 增长？ |
 | C13-WAR | 战争 / 安全 | ASI 之前的战争范式重构 | AI 如何在 ASI 之前重构战争能力、战争意愿、具身武力和能力链打击？ |
 | C14-EDU | 教育 / 人类信息宿主 | AI 教育重构与信息存在性培育 | AI 如何将教育从知识传授重构为 AI 审辨能力与信息存在性培育？ |
@@ -110,23 +110,32 @@ AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。
 
 The Pre-ASI reconstruction layer follows this internal logic:
 
+technology-economic reconstruction provides the material basis;
+governance defines internal order, resource allocation, and IER boundaries;
+war expresses external coercive capacity between organized systems;
+education reproduces and transforms future human information hosts;
+culture preserves and reshapes meaning systems, behavioral tendencies, and informational continuity.
+
 ```text
-Economy / Infrastructure
+Technology / Economy / Material Basis
 → Governance
 → War
 → Education
+→ Culture
 ```
 
-经济与基础设施提供物理基础。  
-治理决定内部秩序、资源分配、权力边界和信息存在权保护。  
-战争体现治理共同体之间的外部强制能力。  
-教育负责下一代信息宿主的培育、延续和分化。
+技术—经济重构提供物质基础；
+治理定义内部秩序、资源分配和 IER 边界；
+战争体现组织化系统之间的外部强制能力；
+教育复制并转化未来的人类信息宿主；
+文化保存并重塑意义系统、行为倾向和信息连续性。
 
 ```text
-经济 / 基础设施
+技术—经济 / 物质基础
 → 治理
 → 战争
 → 教育
+→ 文化
 ```
 
 This order does not imply that one domain is more important than another.  
@@ -177,19 +186,19 @@ IEH 不应只被理解为线性序列。
 
 ### C06-SPP and C12-GOV
 
-C06 describes the economic and infrastructural expansion driven by AI.  
-C12 describes how governance must respond to the social and political consequences of such expansion.
+C06 describes how AI, as a special technology, restructures demand generation, supply boundaries, and the compute-energy-infrastructure center.
+C12 describes how governance must respond to the resource allocation, institutional boundary, and IER protection problems created by this reconstruction.
 
-C06 描述 AI 推动的经济与基础设施扩张。  
-C12 描述治理如何应对这种扩张带来的社会和政治后果。
+C06 描述 AI 作为特殊技术，如何重构需求生成、供给边界和算力—能源—基础设施中心。
+C12 描述治理如何回应这种重构带来的资源分配、制度边界和信息存在权保护问题。
 
 ### C06-SPP and C13-WAR
 
-C06 describes the expansion of energy, chips, data centers, and automated manufacturing.  
-C13 shows that these same infrastructures become war-capability chains.
+C06 describes how compute, energy, chips, minerals, data centers, automated manufacturing, and robotic systems become central to economic growth before ASI.
+C13 shows that these same material systems may become key nodes in future war-capability chains.
 
-C06 描述能源、芯片、数据中心和自动化制造的扩张。  
-C13 说明同一组基础设施会转化为战争能力链。
+C06 描述算力、能源、芯片、矿产、数据中心、自动化制造和机器人系统如何在 ASI 之前成为经济增长中心。
+C13 说明同一组物质系统可能转化为未来战争能力链中的关键节点。
 
 ### C12-GOV and C13-WAR
 
@@ -311,7 +320,7 @@ Foundation Layer
 The Pre-ASI layer currently follows this structure:
 
 ```text
-C06-SPP  Economy / Infrastructure
+C06-SPP  Technology / Economy / Material Basis
 C12-GOV  Governance / IER Protection
 C13-WAR  War / Security
 C14-EDU  Education / Human Information Host
@@ -320,7 +329,7 @@ C14-EDU  Education / Human Information Host
 中文：
 
 ```text
-C06-SPP  经济 / 基础设施
+C06-SPP  技术—经济 / 物质基础
 C12-GOV  治理 / 信息存在权保护
 C13-WAR  战争 / 安全
 C14-EDU  教育 / 人类信息宿主
