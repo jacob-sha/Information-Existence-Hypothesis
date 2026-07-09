@@ -38,14 +38,6 @@ In the IEH framework, AI Alignment should not be understood merely as making AI 
 
 The stage at which silicon-based intelligence acquires autonomous access to energy, computation, infrastructure, manufacturing, and self-maintenance, thereby reducing or eliminating dependence on human-controlled systems.
 
-### Pre-ASI
-
-The stage before full Autonomy of Silicon-based Intelligence (ASI) is achieved.
-
-In this stage, AI can already deeply restructure human technological, economic, political, military, educational, and cultural systems, but has not yet fully eliminated its dependence on humans in key physical links such as compute, energy, manufacturing, maintenance, resources, and logistics.
-
-Therefore, in the IEH framework, Pre-ASI does not mean "before artificial superintelligence" in the conventional sense. It specifically refers to the stage before silicon-based intelligence completes key physical closures and enters an autonomous state.
-
 ---
 
 ## B
@@ -181,6 +173,14 @@ An evolutionary strategy in which an existing silicon-based intelligence preserv
 The critical boundary between C06-SPP and C07-ASI.
 
 It refers to the point at which AI gradually achieves key closures in compute, energy, manufacturing, maintenance, resources, and logistics, causing the driving force of expansion to shift from dependence on human industrial systems to silicon-based autonomous expansion.
+
+### Pre-ASI
+
+The stage before full Autonomy of Silicon-based Intelligence (ASI) is achieved.
+
+In this stage, AI can already deeply restructure human technological, economic, political, military, educational, and cultural systems, but has not yet fully eliminated its dependence on humans in key physical links such as compute, energy, manufacturing, maintenance, resources, and logistics.
+
+Therefore, in the IEH framework, Pre-ASI does not mean "before artificial superintelligence" in the conventional sense. It specifically refers to the stage before silicon-based intelligence completes key physical closures and enters an autonomous state.
 
 ---
 
