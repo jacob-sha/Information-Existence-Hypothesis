@@ -15,7 +15,7 @@
 - [04 推论三：人脑硅基化（BS）](./04-Brain-Siliconization.md)
 - [05 推论四：硅基智慧捍卫信息存在权（IER）](./05-Silicon-based-Intelligence-Defends-IER.md)
 - [06 推论五：补丁式延续（PBP）](./06-Patch-Based-Perpetuation.md)
-- [07 推论六：超级繁荣期（SPP）](./07-Super-Prosperity-Phase.md)
+- [07 推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础](./07-Super-Prosperity-Phase.md)
 - [08 推论七：硅基智慧自治（ASI）](./08-Autonomy-of-Silicon-based-Intelligence.md)
 - [09 推论八：信息韧性（IR）](./09-Informational-Resilience.md)
 - [10 推论九：硅基寒武纪（SC）](./10-Silicon-Cambrian.md)
