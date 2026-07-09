@@ -4,7 +4,7 @@
 
 ![Super Prosperity Phase](../figures/Fig07-Super-Prosperity-Phase.png)
 
-如果 IEH 成立，那么在硅基智慧（AI）逐步迈向自治（ASI）的过程中，人类社会并不一定首先迎来衰退，而更可能会经历一个由生产力范式跃迁所驱动的超级繁荣期（Super Prosperity Phase, SPP）。
+在 IEH 框架下，C06-SPP 描述的是 ASI 完全形成之前，AI 作为特殊技术重构需求生成、供给边界和物质基础设施，并推动人类社会进入阶段性超级繁荣的技术—经济过程。
 
 > **Document Status / 文档状态**  
 > Draft / Theoretical Corollary / Not Publication-Ready  
@@ -26,6 +26,7 @@
 超级繁荣期（Super Prosperity Phase, SPP）是指在硅基智慧完全自治之前，由 AI 能力提升、社会资源投入、算力—能源—基础设施扩张以及预期产出红利共同推动的人类社会阶段性高繁荣状态。
 
 在 IEH 框架下，SPP 不是 AI 追求人类福利的目标，而是 AI 作为特殊技术重构需求生成、供给边界和物质基础设施时，由人类资本、工业、能源、制造和治理体系共同参与形成的过渡性繁荣阶段。
+
 
 ### Pre-ASI / 硅基智慧完全自治之前
 
