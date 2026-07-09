@@ -138,21 +138,25 @@ Technology / Economy / Material Basis
 → 文化
 ```
 
-This order does not imply that one domain is more important than another.  
+This order does not imply that one domain is more important than another. 
+
 It means that these systems are structurally connected:
 
-- economic and infrastructural expansion provides the material base;
-- governance defines internal order and IER boundaries;
+- technology-economic reconstruction provides the material basis;
+- governance defines internal order, resource allocation, and IER boundaries;
 - war expresses external coercive capacity between organized systems;
-- education reproduces and transforms future human information hosts.
+- education reproduces and transforms future human information hosts;
+- culture preserves and reshapes meaning systems, behavioral tendencies, and informational continuity.
 
-这个顺序不意味着某一领域比另一领域更重要。  
+这个顺序不意味着某一领域比另一领域更重要。
+
 它表示这些系统之间存在结构连接：
 
-- 经济与基础设施提供物理基础；
-- 治理定义内部秩序和 IER 边界；
+- 技术—经济重构提供物质基础；
+- 治理定义内部秩序、资源分配和 IER 边界；
 - 战争体现组织化系统之间的外部强制能力；
-- 教育复制并转化未来的人类信息宿主。
+- 教育复制并转化未来的人类信息宿主；
+- 文化保存并重塑意义系统、行为倾向和信息连续性。
 
 ---
 
