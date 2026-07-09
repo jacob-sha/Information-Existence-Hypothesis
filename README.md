@@ -162,8 +162,6 @@ The root `README.md` and `README_EN.md` remain the full-text baseline versions, 
 
 ## 项目扩展
 
-## 项目扩展
-
 本仓库为《信息存在假设》（Information Existence Hypothesis, IEH）的主理论仓库。除主体理论文本外，项目还包含若干辅助模块：
 
 ### 1. 证据笔记
