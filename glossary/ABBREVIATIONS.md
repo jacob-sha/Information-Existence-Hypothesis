@@ -14,6 +14,7 @@
 | MCO | Minimum Cognitive Oversight | 最低认知监督能力 |
 | PBP | Patch-Based Perpetuation | 补丁式延续 |
 | SPP | Super Prosperity Phase | 超级繁荣期 |
+| Pre-ASI | Pre-Autonomy of Silicon-based Intelligence | 硅基智慧完全自治之前 |
 | ASI | Autonomy of Silicon-based Intelligence | 硅基智慧自治 |
 | IR | Informational Resilience | 信息韧性 |
 | SC | Silicon Cambrian | 硅基寒武纪 |
