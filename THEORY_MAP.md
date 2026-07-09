@@ -90,7 +90,7 @@ AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。
 
 | Stable ID | Domain | Title | Core Question |
 |---|---|---|---|
-| C06-SPP | Technology / Economy / Material Basis Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction How does AI, as a special technology, restructure demand generation, supply boundaries, compute-energy infrastructure, and the material basis of Pre-ASI civilization? |
+| C06-SPP | Technology / Economy / Material Basis | Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction | How does AI, as a special technology, restructure demand generation, supply boundaries, compute-energy infrastructure, and the material basis of Pre-ASI civilization? |
 | C12-GOV | Governance / IER Protection | Pre-ASI Social Governance Reconstruction | How does AI force governance to rebalance efficiency, redundancy, IER bottom lines, and high-order IE growth before ASI? |
 | C13-WAR | War / Security | Pre-ASI Warfare Transformation | How does AI reshape war capability, war will, embodied force, and capability-chain targeting before ASI? |
 | C14-EDU | Education / Human Information Host | AI Education and Information Existence | How does AI reshape education from knowledge transmission toward AI discernment and information existence cultivation before ASI? |
@@ -99,7 +99,7 @@ AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。
 
 | Stable ID | 领域 | 标题 | 核心问题 |
 |---|---|---|---|
-| C06-SPP | 技术 / 经济 / 物质基础 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 AI 作为特殊技术，如何在 ASI 之前重构需求生成、供给边界、算力—能源基础设施，并为 Pre-ASI 人类文明重构提供物质基础？|
+| C06-SPP | 技术 / 经济 / 物质基础 | 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 | AI 作为特殊技术，如何在 ASI 之前重构需求生成、供给边界、算力—能源基础设施，并为 Pre-ASI 人类文明重构提供物质基础？|
 | C12-GOV | 治理 / 信息存在权保护 | ASI 之前的社会治理范式重构 | AI 如何迫使治理重新平衡效率、冗余、IER 底线和高阶 IE 增长？ |
 | C13-WAR | 战争 / 安全 | ASI 之前的战争范式重构 | AI 如何在 ASI 之前重构战争能力、战争意愿、具身武力和能力链打击？ |
 | C14-EDU | 教育 / 人类信息宿主 | AI 教育重构与信息存在性培育 | AI 如何将教育从知识传授重构为 AI 审辨能力与信息存在性培育？ |
