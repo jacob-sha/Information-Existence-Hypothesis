@@ -50,8 +50,8 @@ The prediction archive is designed to make IEH-derived deductions dated, structu
 - **PA-01 — Mars Silicon Speciation**  
   火星硅基智慧异域成种
 
-- **PA-02 — Canada Compute-centered Prosperity**  
-  加拿大算力本位繁荣
+- **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**  
+  算力—能源—基础设施中心下加拿大的非线性经济繁荣
 
 - **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**  
   补丁式延续的微观机制观察检验
@@ -65,9 +65,18 @@ The prediction archive is designed to make IEH-derived deductions dated, structu
 - **PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift**  
   高维认知工具与科学范式跃迁
 
+- **PA-07 — AI Infrastructure Capex Structural Expansion**  
+  AI 基础设施资本开支结构化扩张预测
+
+- **PA-08 — Energy–Compute Coupling Intensification**  
+  能源—算力耦合强化预测
+
+- **PA-09 — Physical Closure Threshold**  
+  物理闭环临界点预测
+
 ---
 
-## 2026-07 — SPP Prediction Expansion
+## 2026-07 — C06-SPP Prediction Expansion / C06-SPP 预测档案扩展
 
 The prediction archive has been expanded with three C06-SPP-related records:
 
@@ -76,10 +85,6 @@ The prediction archive has been expanded with three C06-SPP-related records:
 - **PA-09 — Physical Closure Threshold**
 
 These records extend the Super Prosperity Phase (SPP) mechanism into observable infrastructure, energy, and autonomy-threshold predictions.
-
----
-
-## 2026-07 — SPP 预测档案扩展
 
 预测仓已新增三项与 C06-SPP 相关的预测档案：
 
