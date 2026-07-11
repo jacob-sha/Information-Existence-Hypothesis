@@ -96,15 +96,15 @@ legacy_corollary_refs:
   - Corollary XIII
 ```
 
-### Current SPP-related Prediction Records
+### 当前与 SPP 相关的预测档案
 
-Recent prediction records derived from C06-SPP include:
+近期由 C06-SPP 推导出的预测档案包括：
 
-- **PA-07:** AI Infrastructure Capex Structural Expansion  
-- **PA-08:** Energy–Compute Coupling Intensification  
-- **PA-09:** Physical Closure Threshold  
+- **PA-07：** AI 基础设施资本开支结构化扩张预测  
+- **PA-08：** 能源—算力耦合强化预测  
+- **PA-09：** 物理闭环临界点预测  
 
-These records further specify how the Super Prosperity Phase (SPP) may be observed through AI infrastructure capital expenditure, energy–compute coupling, and the emergence of physical closure conditions before deeper silicon-based autonomy.
+这些预测档案进一步说明，超级繁荣期（SPP）可以通过 AI 基础设施资本开支、能源—算力耦合以及更深层硅基自治之前的物理闭环条件来进行现实观察。
 
 Prediction records are archival research documents, not publication-ready essays.
 
