@@ -67,6 +67,30 @@ The prediction archive is designed to make IEH-derived deductions dated, structu
 
 ---
 
+## 2026-07 — SPP Prediction Expansion
+
+The prediction archive has been expanded with three C06-SPP-related records:
+
+- **PA-07 — AI Infrastructure Capex Structural Expansion**
+- **PA-08 — Energy–Compute Coupling Intensification**
+- **PA-09 — Physical Closure Threshold**
+
+These records extend the Super Prosperity Phase (SPP) mechanism into observable infrastructure, energy, and autonomy-threshold predictions.
+
+---
+
+## 2026-07 — SPP 预测档案扩展
+
+预测仓已新增三项与 C06-SPP 相关的预测档案：
+
+- **PA-07 — AI 基础设施资本开支结构化扩张预测**
+- **PA-08 — 能源—算力耦合强化预测**
+- **PA-09 — 物理闭环临界点预测**
+
+这些档案将超级繁荣期（SPP）机制进一步展开为可观察的基础设施、能源系统与自治临界点预测。
+
+---
+
 ## Purpose / 目的
 
 The goal of the prediction archive is not to claim that these predictions have already been proven.
