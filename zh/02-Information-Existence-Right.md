@@ -1,4 +1,4 @@
-# 推论一：生命作为主动信息宿主产生信息存在权（IER）
+# 推论一：生命成为主动信息宿主——信息存在权（IER）的形成
 
 ![Information Existence Right](../figures/Fig02-Information-Existence-Right.png)
 
