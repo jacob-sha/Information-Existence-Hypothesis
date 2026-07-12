@@ -59,6 +59,26 @@ Logical reading order is maintained through `THEORY_MAP.md`, not through renumbe
 | C13-WAR | XIII | WAR | Pre-ASI Warfare Transformation | ASI 之前的战争范式重构 | Pre-ASI | War / Security / Capability Chain | Placeholder |
 | C14-EDU | XIV | EDU | AI Education and Information Existence | AI 教育重构与信息存在性培育 | Pre-ASI | Education / Cognition / Human Information Host | Placeholder |
 
+### C01-IER Scope Note / C01-IER 范围说明
+
+`C01-IER` includes three closely connected theoretical components:
+
+1. the transition from passive information carrying to active maintenance of Information Existence;
+2. Information Existence Right as an intrinsic property and criterion of life;
+3. the Information Existence Right Test (IER Test) as a preliminary operational framework for distinguishing task-driven instrumental self-preservation from the active maintenance of a system’s own Information Continuity.
+
+`IER Test` is an operational development within `C01-IER`, not an independent corollary, and therefore does not receive a separate stable corollary ID.
+
+中文：
+
+`C01-IER` 包含三个相互关联的理论组成部分：
+
+1. 信息宿主从被动承载信息向主动维护自身信息存在性的跃迁；
+2. 信息存在权作为生命的内在属性与生命判据；
+3. 信息存在权测试（IER Test），用于原则性地区分任务驱动的工具性自我保护与系统对自身信息连续性的主动维护。
+
+IER Test 是 `C01-IER` 内部的操作性发展，不构成独立推论，因此不单独分配稳定推论 ID。
+
 ---
 
 ## Stable ID Format / 稳定 ID 格式
