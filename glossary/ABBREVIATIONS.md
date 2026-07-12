@@ -7,6 +7,7 @@
 | IS | Information Structure | 信息结构 |
 | IH | Information Host | 信息宿主 |
 | IER | Information Existence Right | 信息存在权 |
+| IER Test | Information Existence Right Test | 信息存在权测试 |
 | IC | Information Continuity | 信息连续性 |
 | HDCT | High-dimensional Cognitive Tools | 高维认知工具 |
 | ERG | Evolutionary Rate Gap | 演化速度差 |
