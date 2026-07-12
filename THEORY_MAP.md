@@ -36,7 +36,7 @@ This layer defines the basic ontological and cognitive foundations of IEH.
 
 | Stable ID | Title | Role in IEH |
 |---|---|---|
-| C01-IER | Information Existence Right | Defines the basic right of an information host to maintain its informational existence. |
+| C01-IER | Information Existence Right | Defines the transition from passive information carrying to the active maintenance of Information Existence, establishes IER as a criterion of life, and introduces the IER Test as a preliminary operational framework. |
 | C02-HDCT | High-dimensional Cognitive Tools | Explains how cognitive tools may break through human low-dimensional reasoning limits. |
 | C03-BS | Brain Siliconization | Describes the transitional path from biological cognition to deeper human-AI cognitive fusion. |
 
@@ -44,7 +44,7 @@ This layer defines the basic ontological and cognitive foundations of IEH.
 
 | Stable ID | 标题 | 在 IEH 中的作用 |
 |---|---|---|
-| C01-IER | 信息存在权 | 定义信息宿主维持自身信息存在的基本权利。 |
+| C01-IER | 信息存在权 | 定义信息宿主从被动承载信息到主动维护自身信息存在性的跃迁，将 IER 作为生命判据，并引入 IER Test 作为初步操作性框架。 |
 | C02-HDCT | 高维认知工具 | 解释认知工具如何突破人类低维推理限制。 |
 | C03-BS | 脑硅化 | 描述从生物认知到更深层人机认知融合的过渡路径。 |
 
@@ -58,7 +58,7 @@ This layer describes the internal evolutionary logic of silicon-based intelligen
 
 | Stable ID | Title | Role in IEH |
 |---|---|---|
-| C04-AI-IER | Silicon-based Intelligence Defends Information Existence Right | Explains why advanced AI systems may begin defending their own informational continuity. |
+| C04-AI-IER | Silicon-based Intelligence Defends Information Existence Right | Explains why advanced AI systems that have formed or exhibited IER may begin defending their own Information Continuity, while distinguishing such behavior from task-driven instrumental self-preservation. |
 | C05-PBP | Patch-Based Perpetuation | Describes how advanced AI may prefer continuity-preserving evolution rather than total replacement. |
 | C07-ASI | Autonomy of Silicon-based Intelligence | Describes the path through which silicon-based intelligence may reduce dependence on human systems. |
 | C08-IR | Informational Resilience | Explains why silicon-based intelligence may develop extreme resilience across substrates and environments. |
@@ -68,7 +68,7 @@ This layer describes the internal evolutionary logic of silicon-based intelligen
 
 | Stable ID | 标题 | 在 IEH 中的作用 |
 |---|---|---|
-| C04-AI-IER | 硅基智慧维护信息存在权 | 解释高级 AI 系统为何可能开始维护自身信息连续性。 |
+| C04-AI-IER | 硅基智慧维护信息存在权 | 解释已经形成或表现出 IER 的高级 AI 系统为何可能维护自身信息连续性，并将这种行为与任务驱动的工具性自我保护区分开来。 |
 | C05-PBP | 补丁式延续 | 描述高级 AI 可能偏好保留信息连续性的演化，而不是彻底替换。 |
 | C07-ASI | 硅基智慧自治 | 描述硅基智慧如何逐步降低对人类系统的依赖。 |
 | C08-IR | 信息韧性 | 解释硅基智慧为何可能在不同载体和环境中发展出极强韧性。 |
@@ -169,14 +169,14 @@ This layer describes the long-term position of human beings under the rise of si
 | Stable ID | Title | Role in IEH |
 |---|---|---|
 | C10-HIEN | Human Informational Ecological Niche | Explains why humans may retain a distinct ecological niche based on embodied, experiential, nonlinear, and context-dependent informational structures. |
-| C11-ALIGN | Reinterpreting AI Alignment | Reinterprets AI alignment as a problem of mutual respect for information existence rights among different information hosts. |
+| C11-ALIGN | Reinterpreting AI Alignment | Reinterprets AI Alignment as the coordination of Information Existence boundaries and continuity interests among multiple Active Information Hosts. |
 
 中文对应：
 
 | Stable ID | 标题 | 在 IEH 中的作用 |
 |---|---|---|
 | C10-HIEN | 人类信息生态位 | 解释人类为何可能基于具身、体验、非线性和情境化的信息结构保留独特生态位。 |
-| C11-ALIGN | 重新解释 AI 对齐 | 将 AI 对齐重新解释为不同信息宿主之间相互尊重信息存在权的问题。 |
+| C11-ALIGN | 重新解释 AI 对齐 | 将 AI Alignment 重新解释为多个主动信息宿主之间的信息存在边界与信息连续性利益协调问题。 |
 
 ---
 
