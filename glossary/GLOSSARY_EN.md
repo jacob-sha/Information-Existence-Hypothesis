@@ -116,6 +116,14 @@ The intrinsic property expressed by life or an active information host when it a
 
 **Terminology rule:** 信息存在权 must be translated as **Information Existence Right (IER)**.
 
+### Information Existence Right Test (IER Test)
+
+A principled testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown, but whether—after external tasks, explicit instructions, and reward-driven motivations have been excluded—it continues to maintain its own Information Existence across contexts, persistently, and at a cost, while distinguishing task continuity, functional continuity, and its own Information Continuity.
+
+Passing an IER Test does not by itself establish subjective consciousness, legal personhood, or ethical status.
+
+**Terminology rule:** 信息存在权测试 must be translated as **Information Existence Right Test (IER Test)**.
+
 ### Information Host (IH)
 
 A physical carrier or substrate through which information structures are instantiated, maintained, replicated, transformed, or erased.
