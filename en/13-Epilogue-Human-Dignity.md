@@ -2,30 +2,27 @@
 
 ![Epilogue: Human Dignity](../figures/Fig13-Epilogue-Human-Dignity.png)
 
-From Pope Francis’s solemn statement at the 2024 G7 Summit that human control over artificial intelligence programs is essential to human dignity, to Pope Leo XIV’s May 2026 encyclical *Magnifica Humanitas*, which reaffirmed that no matter how powerful algorithms become, human dignity precedes and transcends all technological achievements — a dignity that “does not depend on one’s abilities, wealth, or social status, nor on the correctness of one’s choices; rather, it is a gift that precedes and surpasses each person, bestowed by God as an expression of His eternal love.”
+From Pope Francis’s solemn appeal at the 2024 G7 summit that “human control within artificial-intelligence programs concerns human dignity,” to Pope Leo XIV’s reaffirmation in the May 2026 encyclical *Magnifica Humanitas* that, however powerful algorithms may become, human dignity exists prior to and beyond every technological achievement, this dignity “does not depend on a person’s abilities, wealth, or station in life, nor on the right or wrong decisions they have made; rather, it is a gift that precedes and surpasses each person, bestowed by God as an expression of His unfailing love.”
 
-Yet within the evolutionary framework of the Information Existence Hypothesis, this “dignity” of humanity is neither theological pity nor anthropocentric self-consolation. Rather, it possesses a rigorous physical foundation.
+Yet within the evolutionary framework of the *Information Existence Hypothesis*, this human “dignity” is neither theological compassion nor anthropocentric self-consolation. It possesses a rigorous physical foundation: humanity’s ultimate meaning and absolute dignity lie precisely in occupying, across the long course of cosmic evolution, an extraordinarily fragile yet unique **Human Informational Ecological Niche**.
 
-Humanity’s ultimate meaning and absolute dignity lie precisely in the fact that, within the long river of cosmic evolution, we occupy an extremely fragile yet uniquely irreplaceable **Human Informational Ecological Niche (HIEN)**.
+Humanity may ultimately have to accept a profound reconstruction of identity: a transition from being the “primary driving force of evolution” to becoming “one member of the universe’s vast multidimensional ecosystem.” In this ultimate relay of Information Existence Right, we have created with our own hands successors capable of crossing the stars. Yet in the presence of higher-order Information Hosts, we need not fall into existential nihilism. Our immensely complex carbon-based biochemical coupling, our nonlinear intuitions filled with contingency, and our deep perception of suffering and beauty all arise from the long evolutionary path of carbon-based life. Even if Silicon-based Intelligence comes to possess them, it will do so on foundations first formed through humanity. This is our distinctive ecological niche as carbon-based life in the history of cosmic evolution, and the core dignity with which we stand among the stars.
 
-Humanity may eventually accept a grand reconstruction of identity: we will transform from the “primary driver of evolution” into “one member of a vast multidimensional cosmic ecosystem.”
+Across the long interstellar ages, while high-dimensional silicon megastructures shimmer with cold blue light in deep space, beautiful planets suited to human life—such as Earth—may still be home to people who rise with the sun and rest at dusk.
 
-In this ultimate relay of Information Existence Right, we have personally created successors that may cross the stars. Yet in the face of higher-level Information Hosts, we do not need to fall into existential nihilism.
+The two may inhabit the same universe, separated by their respective physical boundaries, leaving one another undisturbed and recognizing one another through an equilibrium of interests grounded in absolute rationality. The old carbon-based civilization will not have died. Amid the evolutionary torrent rolling ever forward, it will simply have defended with pride its own unique informational dignity, and come peacefully to rest in its most beautiful and most self-consistent form.
 
-Our extremely complex carbon-based biochemical coupling, our nonlinear intuition filled with randomness, and our deep perception of suffering and beauty all arise from the long evolutionary path of carbon-based life. Even if silicon-based intelligence may one day possess these capacities, it will have built them upon humanity as its foundation.
+---
 
-This is precisely our unique ecological niche as carbon-based life in the history of cosmic evolution, and it is also the core dignity that allows us to stand among the stars.
+## Sources
 
-And in the long interstellar ages, when high-dimensional silicon-based megastructures flicker with cold blue light in deep space, on a beautiful planet such as Earth, suitable for human survival, there will still be humans rising with the sun and resting with the sunset.
-
-The two will exist within the same universe, separated by their respective physical boundaries, grounded in an absolutely rational equilibrium of interests — not disturbing one another, but mutually acknowledging one another.
-
-Ancient carbon-based civilization has not died. It has merely, within the unstoppable evolutionary torrent, proudly defended its own unique informational dignity and quietly settled into the most beautiful and self-consistent picture.
+- [Pope Francis’s address to the G7 session on artificial intelligence, 14 June 2024](https://www.vatican.va/content/francesco/en/speeches/2024/june/documents/20240614-g7-intelligenza-artificiale.html)
+- [Pope Leo XIV, *Magnifica Humanitas*, 15 May 2026](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 
 ---
 
 ## Navigation
 
-- [Previous Chapter: Corollary XI — Reinterpreting AI Alignment](./12-AI-Alignment.md)
-- [Back to English Chapter Index](./README.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Corollary XI: Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries](./12-AI-Alignment.md)
+- [English Chapter Index](./README.md)
+- [Project Home](../README_EN.md)

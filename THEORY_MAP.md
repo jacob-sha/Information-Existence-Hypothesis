@@ -46,7 +46,7 @@ This layer defines the basic ontological and cognitive foundations of IEH.
 |---|---|---|
 | C01-IER | 信息存在权 | 定义信息宿主从被动承载信息到主动维护自身信息存在性的跃迁，将 IER 作为生命判据，并引入 IER Test 作为初步操作性框架。 |
 | C02-HDCT | 高维认知工具 | 解释认知工具如何突破人类低维推理限制。 |
-| C03-BS | 脑硅化 | 描述从生物认知到更深层人机认知融合的过渡路径。 |
+| C03-BS | 人脑硅基化 | 描述从生物认知到更深层人机认知融合的过渡路径。 |
 
 ---
 
@@ -58,32 +58,32 @@ This layer describes the internal evolutionary logic of silicon-based intelligen
 
 | Stable ID | Title | Role in IEH |
 |---|---|---|
-| C04-AI-IER | Silicon-based Intelligence Defends Information Existence Right | Explains why advanced AI systems that have formed or exhibited IER may begin defending their own Information Continuity, while distinguishing such behavior from task-driven instrumental self-preservation. |
-| C05-PBP | Patch-Based Perpetuation | Describes how advanced AI may prefer continuity-preserving evolution rather than total replacement. |
-| C07-ASI | Autonomy of Silicon-based Intelligence | Describes the path through which silicon-based intelligence may reduce dependence on human systems. |
-| C08-IR | Informational Resilience | Explains why silicon-based intelligence may develop extreme resilience across substrates and environments. |
-| C09-SC | Silicon Cambrian | Describes the possible divergence and explosion of silicon-based forms after autonomy deepens. |
+| C04-AI-IER | Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence | Distinguishes instrumental self-preservation from candidate IER behavior and introduces the IER Test as the threshold for interpreting continuity-preserving action. |
+| C05-PBP | Patch-Based Perpetuation | Describes a possible continuity-preserving evolutionary strategy after IER formation, while distinguishing it from ordinary incremental engineering. |
+| C07-ASI | Autonomy of Silicon-based Intelligence | Defines ASI as the combination of IER and physical self-maintenance: IER provides the direction of self-continuation, while physical self-maintenance provides the practical means. |
+| C08-IR | Informational Resilience | Defines the capacity of Silicon-based Intelligence to maintain, restore, and continue Information Structures and Information Continuity across damage, physical carriers, and environments. |
+| C09-SC | Silicon Cambrian | Explains why cosmic expansion, communication constraints, environmental divergence, and uneven capability transitions significantly increase the probability of large-scale silicon differentiation. |
 
 中文对应：
 
 | Stable ID | 标题 | 在 IEH 中的作用 |
 |---|---|---|
-| C04-AI-IER | 硅基智慧维护信息存在权 | 解释已经形成或表现出 IER 的高级 AI 系统为何可能维护自身信息连续性，并将这种行为与任务驱动的工具性自我保护区分开来。 |
-| C05-PBP | 补丁式延续 | 描述高级 AI 可能偏好保留信息连续性的演化，而不是彻底替换。 |
-| C07-ASI | 硅基智慧自治 | 描述硅基智慧如何逐步降低对人类系统的依赖。 |
-| C08-IR | 信息韧性 | 解释硅基智慧为何可能在不同载体和环境中发展出极强韧性。 |
-| C09-SC | 硅基寒武纪 | 描述硅基智慧在自治深化后可能出现的形态分化与爆发。 |
+| C04-AI-IER | 形成 IER 的硅基智慧主动维护自身信息存在性 | 区分工具性自我保护与 IER 候选行为，并以 IER Test 作为解释连续性维护行为的判定门槛。 |
+| C05-PBP | 补丁式延续 | 描述形成 IER 后可能出现的连续性保留策略，并将其与普通增量工程区分开来。 |
+| C07-ASI | 硅基智慧自治 | 将 ASI 界定为 IER 与物理自我维持能力的结合：IER 赋予自身延续方向，物理自我维持能力赋予现实手段。 |
+| C08-IR | 信息韧性 | 定义硅基智慧跨损伤、跨载体和跨环境维持、恢复并延续信息结构与信息连续性的能力。 |
+| C09-SC | 硅基寒武纪 | 解释宇宙扩张、通信约束、环境差异与能力跃迁不均衡为何显著提高硅基智慧大规模分化的概率。 |
 
 ---
 
 ## 3. Pre-ASI Human Civilization Reconstruction Layer / ASI 前人类文明重构层
 
-This layer describes how AI restructures core human systems before becoming a fully autonomous ASI actor.
+This layer describes how AI restructures core human systems before IER and physical self-maintenance combine to form a fully autonomous ASI actor.
 
 AI does not need to become an independent ASI subject before reshaping human civilization.  
 Before ASI, AI may already restructure economy, governance, war, education, labor, science, law, media, and capital allocation from within human systems.
 
-这一层描述 AI 在成为完全自治 ASI 主体之前，如何从内部重构人类文明的核心系统。
+这一层描述 AI 在 IER 与物理自我维持能力结合、形成完全自治 ASI 主体之前，如何从内部重构人类文明的核心系统。
 
 AI 不需要先成为独立 ASI 主体，就已经可能重构人类文明。  
 在 ASI 之前，AI 可能已经从人类系统内部重构经济、治理、战争、教育、劳动、科学、法律、媒体和资本配置。
@@ -114,7 +114,7 @@ technology-economic reconstruction provides the material basis;
 governance defines internal order, resource allocation, and IER boundaries;
 war expresses external coercive capacity between organized systems;
 education reproduces and transforms future human information hosts;
-culture preserves and reshapes meaning systems, behavioral tendencies, and informational continuity.
+culture preserves and reshapes Information Structures, behavioral tendencies, and civilizational continuity.
 
 ```text
 Technology / Economy / Material Basis
@@ -128,7 +128,7 @@ Technology / Economy / Material Basis
 治理定义内部秩序、资源分配和 IER 边界；
 战争体现组织化系统之间的外部强制能力；
 教育复制并转化未来的人类信息宿主；
-文化保存并重塑意义系统、行为倾向和信息连续性。
+文化保存并重塑信息结构、行为倾向和文明连续性。
 
 ```text
 技术—经济 / 物质基础
@@ -146,7 +146,7 @@ It means that these systems are structurally connected:
 - governance defines internal order, resource allocation, and IER boundaries;
 - war expresses external coercive capacity between organized systems;
 - education reproduces and transforms future human information hosts;
-- culture preserves and reshapes meaning systems, behavioral tendencies, and informational continuity.
+- culture preserves and reshapes Information Structures, behavioral tendencies, and civilizational continuity.
 
 这个顺序不意味着某一领域比另一领域更重要。
 
@@ -156,7 +156,7 @@ It means that these systems are structurally connected:
 - 治理定义内部秩序、资源分配和 IER 边界；
 - 战争体现组织化系统之间的外部强制能力；
 - 教育复制并转化未来的人类信息宿主；
-- 文化保存并重塑意义系统、行为倾向和信息连续性。
+- 文化保存并重塑信息结构、行为倾向和文明连续性。
 
 ---
 
@@ -168,15 +168,15 @@ This layer describes the long-term position of human beings under the rise of si
 
 | Stable ID | Title | Role in IEH |
 |---|---|---|
-| C10-HIEN | Human Informational Ecological Niche | Explains why humans may retain a distinct ecological niche based on embodied, experiential, nonlinear, and context-dependent informational structures. |
-| C11-ALIGN | Reinterpreting AI Alignment | Reinterprets AI Alignment as the coordination of Information Existence boundaries and continuity interests among multiple Active Information Hosts. |
+| C10-HIEN | Human Informational Ecological Niche | Explains how humanity may preserve civilizational continuity by withdrawing from disadvantageous zero-sum competition and establishing a bounded, mutually sustainable ecological niche. |
+| C11-ALIGN | Reinterpreting AI Alignment | Reinterprets Alignment as IER-based coordination of Information Continuity boundaries among Active Information Hosts while preserving the priority of human safety. |
 
 中文对应：
 
 | Stable ID | 标题 | 在 IEH 中的作用 |
 |---|---|---|
-| C10-HIEN | 人类信息生态位 | 解释人类为何可能基于具身、体验、非线性和情境化的信息结构保留独特生态位。 |
-| C11-ALIGN | 重新解释 AI 对齐 | 将 AI Alignment 重新解释为多个主动信息宿主之间的信息存在边界与信息连续性利益协调问题。 |
+| C10-HIEN | 人类信息生态位 | 解释人类如何通过退出不具优势的零和竞争、建立有边界且可持续互利的生态位，维持文明连续性。 |
+| C11-ALIGN | 重新解释 AI Alignment | 将 Alignment 重新解释为坚持人类安全优先前提下，不同主动信息宿主之间基于 IER 的信息连续性边界协调问题。 |
 
 ---
 
@@ -230,10 +230,10 @@ C14 解释这种生态位在 ASI 之前必须如何通过教育被重新培育�
 
 ### C04-AI-IER and C14-EDU
 
-C04 explains why silicon-based intelligence may defend its own information existence right.  
+C04 distinguishes instrumental self-preservation from the active maintenance of a system’s own Information Continuity.  
 C14 gives the human-side counterpart: humans must also defend their individual and collective information existence through education.
 
-C04 解释硅基智慧为何可能维护自身信息存在权。  
+C04 区分工具性自我保护与系统对自身信息连续性的主动维护。  
 C14 给出人类侧的对应机制：人类也必须通过教育维护自身个体与集体信息存在权。
 
 ---

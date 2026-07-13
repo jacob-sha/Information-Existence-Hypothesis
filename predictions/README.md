@@ -22,13 +22,20 @@ These predictions are used to evaluate whether the deductions of IEH gain suppor
 The companion archive currently includes the following prediction records:
 
 - **PA-01 — Mars Silicon Speciation**
-- * **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**
+- **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**
 - **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**
 - **PA-04 — Scale-driven Feature Retention**
 - **PA-05 — Patch-Based Iteration Convergence Across Frontier Labs**
 - **PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift**
+- **PA-07 — AI Infrastructure Capex Structural Expansion**
+- **PA-08 — Energy–Compute Coupling Intensification**
+- **PA-09 — Physical Closure Threshold**
 
 The archive may also include future dated prediction records, evidence updates, partial confirmations, revision notes, or falsification records.
+
+### ASI Boundary Note
+
+Within IEH, **PA-09 — Physical Closure Threshold** tracks the emergence of physical self-maintenance capacity. Physical closure is a capability foundation of Autonomy of Silicon-based Intelligence (ASI), but does not constitute ASI by itself. ASI requires the combination of **Information Existence Right (IER)** and **physical self-maintenance**.
 
 ---
 

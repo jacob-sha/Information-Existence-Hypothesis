@@ -4,8 +4,8 @@ title: "The Information Existence Hypothesis: Deductions on Silicon-Based Intell
 authors:
   - family-names: "Sha"
     given-names: "Jacob"
-version: "1.1"
-date-released: 2026-07-04
+version: "1.2"
+date-released: 2026-07-13
 license: "CC-BY-4.0"
 repository-code: "https://github.com/jacob-sha/Information-Existence-Hypothesis"
 keywords:
@@ -15,4 +15,4 @@ keywords:
   - AI Alignment
   - Silicon-based Intelligence
   - Human Dignity
-abstract: "The Information Existence Hypothesis (IEH) is a theoretical framework proposing that the deeper underlying law governing the development of the universe may be the elevation of Information Existence. It derives a series of corollaries concerning life, silicon-based intelligence, AI alignment, informational resilience, and human dignity."
+abstract: "The Information Existence Hypothesis (IEH) is a theoretical framework proposing that the deeper underlying law governing the development of the universe may be the elevation of Information Existence. Version 1.2 distinguishes task-driven Instrumental Self-Preservation from Information Existence Right, expands the IER Test, defines Autonomy of Silicon-based Intelligence as the combination of IER and physical self-maintenance, and derives conditional corollaries concerning silicon-based intelligence, AI Alignment, Informational Resilience, human ecological niches, and human dignity."

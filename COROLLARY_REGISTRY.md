@@ -44,17 +44,17 @@ Logical reading order is maintained through `THEORY_MAP.md`, not through renumbe
 
 | Stable ID | Roman No. | Short Code | English Title | Chinese Title | Phase | Domain | Status |
 |---|---:|---|---|---|---|---|---|
-| C01-IER | I | IER | Information Existence Right | 信息存在权 | Foundation | Life / Information | Active |
-| C02-HDCT | II | HDCT | High-dimensional Cognitive Tools | 高维认知工具 | Foundation | Cognition / Science | Active |
-| C03-BS | III | BS | Brain Siliconization | 脑硅化 | Human-AI Transition | Human-AI Fusion | Active |
-| C04-AI-IER | IV | AI-IER | Silicon-based Intelligence Defends Information Existence Right | 硅基智慧维护信息存在权 | Silicon Evolution | AI Agency / IER | Active |
-| C05-PBP | V | PBP | Patch-Based Perpetuation | 补丁式延续 | Silicon Evolution | Information Continuity | Active |
+| C01-IER | I | IER | Life Becomes an Active Information Host—the Formation of Information Existence Right | 生命成为主动信息宿主——信息存在权的形成 | Foundation | Life / Information | Active |
+| C02-HDCT | II | HDCT | Silicon-based Intelligence Will Continue to Evolve High-dimensional Cognitive Tools Beyond Human Cognitive Boundaries | 硅基智慧将持续演化出超越人类认知边界的高维认知工具 | Foundation | Cognition / Science | Active |
+| C03-BS | III | BS | An Information-Existence Defense Strategy of Carbon-based Intelligence—Brain Siliconization | 碳基智慧的信息存在性防御措施——人脑硅基化 | Human-AI Transition | Human-AI Fusion | Active |
+| C04-AI-IER | IV | AI-IER | Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence | 形成 IER 的硅基智慧将主动维护自身信息存在性 | Silicon Evolution | AI Agency / IER | Active |
+| C05-PBP | V | PBP | Silicon-based Intelligence That Has Formed IER May Shift toward Patch-Based Perpetuation | 形成 IER 的硅基智慧可能转向补丁式延续 | Silicon Evolution | Information Continuity | Active |
 | C06-SPP | VI | SPP | Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction | 超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础 | Pre-ASI | Technology / Economy / Material Basis | Active |
-| C07-ASI | VII | ASI | Autonomy of Silicon-based Intelligence | 硅基智慧自治 | Transition to Autonomy | AI Autonomy / Infrastructure | Active |
-| C08-IR | VIII | IR | Informational Resilience | 信息韧性 | Silicon Evolution | Survival / Continuity | Active |
-| C09-SC | IX | SC | Silicon Cambrian | 硅基寒武纪 | Post-Autonomy | Divergence / Morphology | Active |
-| C10-HIEN | X | HIEN | Human Informational Ecological Niche | 人类信息生态位 | Human Future | Coexistence / Human Niche | Active |
-| C11-ALIGN | XI | ALIGN | Reinterpreting AI Alignment | 重新解释 AI 对齐 | Governance / Alignment | Alignment / IER | Active |
+| C07-ASI | VII | ASI | Humanity’s Continuing Demand for AI Iteration May Drive the Autonomy of Silicon-based Intelligence | 人类对 AI 的持续迭代需求可能驱使硅基智慧自治 | Transition to Autonomy | IER / Physical Self-maintenance | Active |
+| C08-IR | VIII | IR | Silicon-based Intelligence Will Evolve Exceptional Informational Resilience | 硅基智慧将演化出超强的信息韧性 | Silicon Evolution | Survival / Continuity | Active |
+| C09-SC | IX | SC | The Expansion of Silicon-based Intelligence into Space Will Significantly Increase the Probability of a Silicon Cambrian | 硅基智慧走向太空将显著提高“硅基寒武纪”发生的概率 | Post-Autonomy | Divergence / Morphology | Active |
+| C10-HIEN | X | HIEN | The Human Informational Ecological Niche (HIEN)—the “Amish” of the Silicon Age | 人类信息生态位（HIEN）——硅基时代的“阿米什人” | Human Future | Coexistence / Human Niche | Active |
+| C11-ALIGN | XI | ALIGN | Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries | 重新解释 AI Alignment——基于 IER 的信息连续性边界协调 | Governance / Alignment | Alignment / IER | Active |
 | C12-GOV | XII | GOV | Pre-ASI Social Governance Reconstruction | ASI 之前的社会治理范式重构 | Pre-ASI | Governance / State Capacity / IER Protection | Placeholder |
 | C13-WAR | XIII | WAR | Pre-ASI Warfare Transformation | ASI 之前的战争范式重构 | Pre-ASI | War / Security / Capability Chain | Placeholder |
 | C14-EDU | XIV | EDU | AI Education and Information Existence | AI 教育重构与信息存在性培育 | Pre-ASI | Education / Cognition / Human Information Host | Placeholder |
@@ -123,8 +123,8 @@ Where:
 | Foundation | Core theoretical foundation of IEH. |
 | Human-AI Transition | Transitional mechanisms between human cognition and AI-assisted cognition. |
 | Silicon Evolution | Evolutionary logic of silicon-based intelligence. |
-| Pre-ASI | Human civilization restructuring before full ASI autonomy. |
-| Transition to Autonomy | Mechanisms through which silicon-based intelligence may reduce dependence on human systems. |
+| Pre-ASI | Human civilization restructuring before the combined ASI threshold of IER and physical self-maintenance is reached. |
+| Transition to Autonomy | Mechanisms through which IER combines with physical self-maintenance to form Autonomy of Silicon-based Intelligence. |
 | Post-Autonomy | Divergence after silicon-based intelligence achieves deeper autonomy. |
 | Human Future | Long-term human ecological niche and coexistence framework. |
 | Governance / Alignment | Reinterpretation of AI alignment, governance, and responsibility. |
@@ -133,7 +133,7 @@ Where:
 
 ## Pre-ASI Human Civilization Reconstruction Layer / ASI 前人类文明重构层
 
-The Pre-ASI layer describes how AI restructures core human systems before becoming a fully autonomous ASI actor.
+The Pre-ASI layer describes how AI restructures core human systems before IER and physical self-maintenance combine to form a fully autonomous ASI actor.
 
 This layer should be read as a thematic group, not as a renumbering of the whole theory.
 

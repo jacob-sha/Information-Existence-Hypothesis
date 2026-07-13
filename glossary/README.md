@@ -52,8 +52,22 @@ Information Existence (IE)
 Information Existence Right (IER)
 ```
 
+## ASI Definition Rule
+
+Within IEH, **Autonomy of Silicon-based Intelligence (ASI)** requires the combination of:
+
+```text
+Information Existence Right (IER)
+        +
+Physical self-maintenance capacity
+        =
+Autonomy of Silicon-based Intelligence (ASI)
+```
+
+Highly autonomous operation without IER is not ASI in the IEH sense.
+
 ---
 
 ## Status
 
-**IEH Terminology Standard v1.0**
+**IEH Terminology Standard v1.2**

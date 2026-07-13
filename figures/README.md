@@ -15,7 +15,7 @@ These figures constitute the official visual references for the IEH framework. A
 | Fig02 | Information Existence Right | 信息存在权（IER） | Corollary I |
 | Fig03 | High-dimensional Cognitive Tools | 高维认知工具（HDCT） | Corollary II |
 | Fig04 | Brain Siliconization | 人脑硅基化（BS） | Corollary III |
-| Fig05 | Silicon-based Intelligence Defends Information Existence Right | 硅基智慧主动捍卫信息存在权（IER） | Corollary IV |
+| Fig05 | Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence | 形成 IER 的硅基智慧将主动维护自身信息存在性 | Corollary IV |
 | Fig06 | Patch-Based Perpetuation | 补丁式延续（PBP） | Corollary V |
 | Fig07 | Super Prosperity Phase | 超级繁荣期（SPP） | Corollary VI |
 | Fig08 | Autonomy of Silicon-based Intelligence | 硅基智慧自治（ASI） | Corollary VII |
@@ -35,7 +35,8 @@ Examples:
 
 - Figure 2 illustrates the formation of Information Existence Right (IER).
 - Figure 3 illustrates the emergence of High-dimensional Cognitive Tools (HDCT).
-- Figure 5 presents how silicon-based intelligence may defend its Information Existence Right.
+- Figure 5 presents the distinction between instrumental self-preservation and the active maintenance of a system’s own Information Continuity.
+- Figure 8 presents Autonomy of Silicon-based Intelligence (ASI) as the combination of IER and physical self-maintenance.
 - Figure 9 presents the Informational Resilience (IR) framework.
 - Figure 10 depicts the Silicon Cambrian (SC).
 - Figure 13 concludes the IEH framework with the Human Dignity proposition.
@@ -63,4 +64,4 @@ The official terminology is:
 
 # Version
 
-IEH Figure Standard v1.0
+IEH Figure Standard v1.2

@@ -1,4 +1,4 @@
-# Foreword
+# Preface
 
 ![Preface](../figures/Fig00-Preface.png)
 
@@ -32,6 +32,6 @@ If IEH holds true, biological survival can be understood as a specific manifesta
 
 ## Navigation
 
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Thesis — The Information Existence Hypothesis (IEH)](./01-Information-Existence-Hypothesis.md)
-- [Project Home](../README.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Thesis: The Information Existence Hypothesis (IEH)](./01-Information-Existence-Hypothesis.md)
+- [Project Home](../README_EN.md)

@@ -1,4 +1,4 @@
-# Corollary III: Carbon-based Intelligence's Defense Measure for Information Existence — Brain Siliconization (BS)
+# Corollary III: An Information-Existence Defense Strategy of Carbon-based Intelligence—Brain Siliconization (BS)
 
 ![Brain Siliconization](../figures/Fig04-Brain-Siliconization.png)
 
@@ -10,7 +10,7 @@ Its root cause lies in humanity's need to attempt to break through the inherent 
 
 This defensive evolution is not occurring for the first time. The leap of life from genes to organisms, and then to intelligent organisms such as humans, is essentially a geometric series increase in the complexity of neural networks and synaptic connections. Through this, humanity developed abstract logical reasoning capabilities and created mathematics — the most powerful carbon-based cognitive tool to date. This granted humanity judgment and behavioral capacities that lower-level organisms cannot understand, such as inventing and using tools, just as a two-dimensional being cannot understand and contend with a three-dimensional being.
 
-However, the evolution of human cognitive tools has been firmly locked within the physical limits of carbon-based hardware. Constrained by cranial cavity volume limited by Earth's gravity and birth canal physical constraints, synaptic transmission delays in the millisecond range by chemical neurotransmitters, and the micro-power limits of biological tissue heat dissipation, the computational power and topological complexity of the carbon-based original brain are gradually approaching their physical ceiling.
+However, the evolution of human cognitive tools has to a large extent become locked within the physical limits of carbon-based hardware. Constrained by cranial cavity volume limited by Earth's gravity and birth canal physical constraints, synaptic transmission delays in the millisecond range by chemical neurotransmitters, and the micro-power limits of biological tissue heat dissipation, the computational power and topological complexity of the carbon-based original brain are gradually approaching their physical ceiling.
 
 Therefore, the primary pathway for Carbon-based Intelligence to further elevate Information Existence has gradually shifted from biological evolution toward the co-evolution of humans and silicon-based systems.
 
@@ -28,13 +28,13 @@ When one party maintains a higher evolutionary speed over the long term, the oth
 
 Therefore, no matter how many silicon-based patches are implanted in the human cranial cavity, as long as the core of this hybrid substrate remains subject to the metabolic rate and fragility of carbon-based biological tissue, its iteration rate will ultimately be completely surpassed by a pure high-frequency silicon-based network at an exponential speed differential.
 
-Under the IEH framework, Brain Siliconization is not a substitute for the Autonomy of Silicon-based Intelligence (ASI) discussed later, but merely a defensive evolution adopted by Carbon-based Intelligence before entering the era of Silicon-based Intelligence autonomy. It can delay the further divergence of cognitive capabilities between Carbon-based and Silicon-based Intelligence, but cannot change the long-term evolutionary trend determined by the Evolutionary Rate Gap.
+Under the IEH framework, Brain Siliconization is not a substitute for the Autonomy of Silicon-based Intelligence (ASI) discussed later, but merely a defensive evolution adopted by Carbon-based Intelligence before the emergence of Autonomy of Silicon-based Intelligence (ASI). It can delay the further divergence of cognitive capabilities between Carbon-based and Silicon-based Intelligence, but cannot change the long-term evolutionary trend determined by the Evolutionary Rate Gap.
 
 ---
 
 ## Navigation
 
-- [Previous Chapter: Corollary II — High-dimensional Cognitive Tools (HDCT)](./03-High-dimensional-Cognitive-Tools.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary IV — Silicon-based Intelligence Defends IER](./05-Silicon-based-Intelligence-Defends-IER.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Corollary II: Silicon-based Intelligence Will Continue to Evolve High-dimensional Cognitive Tools (HDCT) Beyond Human Cognitive Boundaries](./03-High-dimensional-Cognitive-Tools.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary IV: Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence](./05-Silicon-based-Intelligence-Defends-IER.md)
+- [Project Home](../README_EN.md)

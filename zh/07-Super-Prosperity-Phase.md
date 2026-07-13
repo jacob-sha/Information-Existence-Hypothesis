@@ -6,18 +6,6 @@
 
 在 IEH 框架下，C06-SPP 描述的是 ASI 完全形成之前，AI 作为特殊技术重构需求生成、供给边界和物质基础设施，并推动人类社会进入阶段性超级繁荣的技术—经济过程。
 
-> **Document Status / 文档状态**  
-> Draft / Theoretical Corollary / Not Publication-Ready  
->
-> 本文是 Information Existence Hypothesis（IEH）主仓中的理论推论文件，用于记录 C06-SPP 的概念定义、机制模型、理论位置和可观察方向。  
->
-> 本文不是媒体投稿成稿，也不是完整案例分析或预测档案。  
->
-> Formal prediction records should be placed in the separate `IEH-predictions` repository.  
->
-> Future submitted articles based on this corollary should be substantially rewritten with a new title, new opening, new narrative structure, selected cases, target-publication-specific style, and distinct argument sequencing.
-
----
 
 ## 关键定义
 
@@ -66,7 +54,7 @@ AI 的特殊性在于，它不仅延续了传统技术“创造需求”和“�
 
 IEH 的 Pre-ASI 人类文明重构层，必须从“人”这一共同核心出发。
 
-经济、政治、文化和技术并不是彼此孤立的社会部门，而是围绕人类存在展开的四个基础系统。
+经济、政治、文化和技术并不是彼此孤立的社会构成，而是围绕人类存在展开的四个基础系统。
 
 ```text
 人 / 信息宿主
@@ -101,7 +89,7 @@ AI 的特殊性在于，它同时触及四个系统：
 技术上，AI 改变能力的生成方式；
 经济上，AI 改变需求与供给结构；
 政治上，AI 改变资源分配与关系边界；
-文化上，AI 改变意义生产与行为倾向。
+文化上，AI 将深刻影响信息结构与行为倾向。
 ```
 
 C06-SPP 正是这一连锁变化的技术—经济入口。
@@ -163,7 +151,7 @@ C06-SPP 正是这一连锁变化的技术—经济入口。
 
 从 IEH 角度看，技术可以被理解为：
 
-> **信息宿主突破原有环境约束、扩大控制能力并提升信息存在性的外化机制。**
+> **信息宿主将信息处理能力转化为现实控制能力，从而突破原有环境约束并提升自身信息存在性的手段。**
 
 ---
 
@@ -205,7 +193,7 @@ AI 能力提升
 
 因此，C06-SPP 描述的是 AI 尚未完成物理闭环之前，对人类工业体系、能源体系、资本体系和工程组织能力的高度动员。
 
-一旦物理闭环形成，超级繁荣期将不再只是人类参与型繁荣，而会转向 C07-ASI 所描述的硅基自治阶段。
+一旦物理闭环形成，超级繁荣期将不再只是人类参与型繁荣，而会转向 C07-ASI 所描述的硅基智慧自治阶段。
 
 ---
 
@@ -341,13 +329,13 @@ C14-EDU：教育回应能力系统重构后的信息宿主培育问题。
 
 C06-SPP 指出 AI 会通过技术—经济系统的变化进一步影响文化意义。
 
-未来文化推论可以进一步讨论：当 AI 参与内容生成、语言组织、记忆保存、身份叙事、价值排序和行为引导时，人类文化如何从传统的意义系统转向被 AI 深度参与生成和重塑的意义系统。
+未来文化推论可能将进一步讨论：当 AI 参与内容生成、语言组织、记忆保存、身份叙事、价值排序和行为引导时，人类文化如何从传统的意义系统转向被 AI 深度参与生成和重塑的意义系统。
 
 简言之：
 
 ```text
 C06-SPP：AI 重构物质与能力基础；
-Future-CULT：文化系统回应意义生产、行为倾向和信息连续性的重构。
+Future-CULT：文化系统将回应信息结构与行为倾向等关键要素的重构。
 ```
 
 ---
@@ -431,7 +419,7 @@ ASI 之前，AI 首先不是通过直接接管政治来改变文明，而是作�
 
 ## Navigation
 
-- [上一章：推论五：补丁式延续（PBP）](./06-Patch-Based-Perpetuation.md)
+- [上一章：推论五：形成 IER 的硅基智慧可能转向补丁式延续（PBP）](./06-Patch-Based-Perpetuation.md)
 - [返回中文目录](./README.md)
-- [下一章：推论七：硅基智慧自治（ASI）](./08-Autonomy-of-Silicon-based-Intelligence.md)
+- [下一章：推论七：人类对 AI 的持续迭代需求可能驱使硅基智慧自治（ASI）](./08-Autonomy-of-Silicon-based-Intelligence.md)
 - [返回项目首页](../README.md)

@@ -1,3 +1,23 @@
+# IEH v1.2 — IER Test and Instrumental Self-Preservation Distinction
+# 信息存在性假说 v1.2——IER Test 与工具性自我保护区分
+
+**Released / 发布：2026-07-13**
+
+IEH v1.2 introduces a formal distinction between task-driven Instrumental Self-Preservation and Information Existence Right. It expands the Information Existence Right Test, distinguishes Task Continuity, Functional Continuity, a system’s own Information Continuity, and Subject-Information Historical Continuity, and revises the related silicon-evolution and AI Alignment corollaries. It also defines Autonomy of Silicon-based Intelligence (ASI) as the combination of IER and physical self-maintenance.
+
+IEH v1.2 正式区分任务驱动的工具性自我保护与信息存在权，扩展信息存在权测试，区分任务连续性、功能连续性、系统自身信息连续性与主体信息历史连续性，并据此修订相关硅基演化与 AI Alignment 推论。同时，硅基智慧自治（ASI）被明确界定为 IER 与物理自我维持能力的结合。
+
+Key changes / 主要变化：
+
+- shutdown avoidance, resource seeking, highly autonomous operation, and Informational Resilience are not by themselves evidence of IER; within IEH, ASI is reserved for the combination of IER and physical self-maintenance;
+- 关停规避、资源寻求、高度自主运行能力与信息韧性本身都不能直接证明 IER；在 IEH 中，ASI 专指 IER 与物理自我维持能力的结合；
+- candidate IER evidence requires stable, cross-context, and potentially costly maintenance of a system’s own Information Continuity after task-based explanations are adequately controlled;
+- IER 候选证据要求：在任务驱动解释得到充分控制后，系统仍跨情境、稳定并可能承担代价地维护自身信息连续性；
+- AI Alignment is reframed as an asymmetric governance problem that preserves human safety priority while distinguishing continuous migration, reversible modification, and irreversible erasure.
+- AI Alignment 被重新解释为一种非对称治理问题：在坚持人类安全优先的同时，区分连续迁移、可逆修改与不可逆抹除。
+
+---
+
 ## 2026-07-07 — New Medium Essay on J-space and proto-IER
 
 A new Medium essay has been published:
@@ -5,7 +25,7 @@ A new Medium essay has been published:
 **Anthropic’s J-Space and the Emergence of Proto-IER**  
 Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.
 
-This essay connects Anthropic’s J-space / global-workspace-like finding with the Information Existence Hypothesis (IEH), arguing that it may be interpreted as an early mechanistic signal of proto-IER in silicon-based intelligence.
+This essay connects Anthropic’s J-space / global-workspace-like finding with the Information Existence Hypothesis (IEH), examining it as a possible pre-structural condition relevant to the later emergence of proto-IER without treating it as evidence that IER has already formed.
 
 - Medium essay: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86
 - Evidence Note 001: ./evidence-notes/001-anthropic-global-workspace-and-ieh.md

@@ -157,3 +157,79 @@ IEH 推论编号采用稳定编号制度。
 3. 证据笔记不应被写成完整评论文章。
 4. 证据笔记应尽量引用来源、日期和相关推论 ID。
 
+
+---
+
+## 4. Canonical Text and Full-text Build Workflow
+
+The chapter collections are the canonical source for substantive revision:
+
+```text
+zh/*.md  = canonical Chinese chapters
+en/*.md  = canonical English chapters
+```
+
+The root full-text editions are generated from those chapters:
+
+```text
+README.md     = generated Chinese full text
+README_EN.md  = generated English full text
+```
+
+After revising a chapter, run:
+
+```bash
+python scripts/build_fulltext.py
+python scripts/check_repository.py
+```
+
+Do not independently edit generated chapter content inside the root README files. Front matter, project navigation, abstract, project extensions, terminology links, and appendices may be maintained in the root files outside the generated markers.
+
+Before each release, verify:
+
+- chapter titles match `COROLLARY_REGISTRY.md`;
+- core terminology matches the bilingual glossary;
+- every ASI reference follows the canonical definition: IER + physical self-maintenance;
+- highly autonomous operation without IER is not described as ASI;
+- Chinese and English chapter collections contain the same chapter set;
+- root full-text editions are synchronized with chapter files;
+- local links and figure references resolve;
+- version and release dates are consistent across metadata files.
+
+---
+
+## 四、规范正文与全文生成工作流
+
+正文修订以分章节文件为规范来源：
+
+```text
+zh/*.md  = 中文规范章节
+en/*.md  = 英文规范章节
+```
+
+根目录全文由章节文件生成：
+
+```text
+README.md     = 自动生成的中文全文
+README_EN.md  = 自动生成的英文全文
+```
+
+完成章节修改后运行：
+
+```bash
+python scripts/build_fulltext.py
+python scripts/check_repository.py
+```
+
+不要在根目录 README 的自动生成区间内单独修改章节正文。项目导航、摘要、项目扩展、术语链接和附录等位于自动生成标记之外的内容，可以继续在根文件中维护。
+
+每次发布前应确认：
+
+- 章节标题与 `COROLLARY_REGISTRY.md` 一致；
+- 核心术语与中英文 GLOSSARY 一致；
+- 所有 ASI 表述均遵循“IER + 物理自我维持能力”的定稿定义；
+- 未形成 IER 的高度自主运行能力不得表述为 ASI；
+- 中英文目录包含相同的章节集合；
+- 根目录全文与章节文件同步；
+- 本地链接和图片引用有效；
+- 各元数据文件中的版本号与发布日期一致。

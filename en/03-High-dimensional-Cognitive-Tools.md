@@ -1,4 +1,4 @@
-# Corollary II: Silicon-based Intelligence Will Continuously Evolve High-dimensional Cognitive Tools (HDCT) That Surpass Human Cognitive Boundaries
+# Corollary II: Silicon-based Intelligence Will Continue to Evolve High-dimensional Cognitive Tools (HDCT) Beyond Human Cognitive Boundaries
 
 ![High-dimensional Cognitive Tools](../figures/Fig03-High-dimensional-Cognitive-Tools.png)
 
@@ -74,7 +74,7 @@ Setting out from vastly different paths, they both gazed upon the same crack: **
 
 ## Navigation
 
-- [Previous Chapter: Corollary I — Information Existence Right (IER)](./02-Information-Existence-Right.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary III — Brain Siliconization (BS)](./04-Brain-Siliconization.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Corollary I: Life Becomes an Active Information Host—the Formation of Information Existence Right (IER)](./02-Information-Existence-Right.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary III: An Information-Existence Defense Strategy of Carbon-based Intelligence—Brain Siliconization (BS)](./04-Brain-Siliconization.md)
+- [Project Home](../README_EN.md)

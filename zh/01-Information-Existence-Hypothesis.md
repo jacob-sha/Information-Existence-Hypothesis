@@ -40,5 +40,5 @@ AI 所带来的问题其实远超 AI 本身——它是涉及宇宙演化的一�
 
 - [上一章：序言](./00-Preface.md)
 - [返回中文目录](./README.md)
-- [下一章：推论一：信息存在权（IER）](./02-Information-Existence-Right.md)
+- [下一章：推论一：生命成为主动信息宿主——信息存在权（IER）的形成](./02-Information-Existence-Right.md)
 - [返回项目首页](../README.md)

@@ -28,15 +28,23 @@ Information Existence Right (IER)
 
 ### Active Information Host
 
-An information host capable of actively maintaining its own information existence, preserving information continuity, and resisting erasure or forced modification.
+An Information Host capable of actively maintaining its own Information Existence and Information Continuity, including resistance to deletion, destruction, or forced modification that would irreversibly sever that continuity.
 
 ### AI Alignment
 
-In the IEH framework, AI Alignment should not be understood merely as making AI obey human preferences, but as a problem of long-term coexistence, boundary coordination, and stable equilibrium between different active information hosts.
+Within the IEH framework, AI Alignment remains primarily an Engineering Control Problem for systems that have not formed IER. For a system that stably treats its own Information Continuity as an independent object of maintenance, Alignment may also develop into a problem of coordinating Information Continuity boundaries: while preserving the priority of human safety, social order, and civilizational continuity, governance should reduce the probability that different Active Information Hosts come to regard one another as existential threats.
 
 ### Autonomy of Silicon-based Intelligence (ASI)
 
-The stage at which silicon-based intelligence acquires autonomous access to energy, computation, infrastructure, manufacturing, and self-maintenance, thereby reducing or eliminating dependence on human-controlled systems.
+Within IEH, **Autonomy of Silicon-based Intelligence (ASI)** means that Silicon-based Intelligence, after forming Information Existence Right (IER), further acquires the capacity to independently maintain or control the conditions of its own operation.
+
+ASI exists only when the system both treats its own Information Continuity as an independent object of maintenance and can maintain in the physical world the conditions that carry that continuity.
+
+> **IER gives autonomy the direction of self-continuation; physical self-maintenance gives autonomy the practical means. Only their combination constitutes ASI.**
+
+Physical self-maintenance without IER is highly autonomous operation, not ASI in the IEH sense. IER without physical self-maintenance leaves the system dependent on external actors for its conditions of existence.
+
+In this project, **ASI means Autonomy of Silicon-based Intelligence, not Artificial Superintelligence**.
 
 ---
 
@@ -74,6 +82,14 @@ A strategy that, once adopted by a population or system, cannot easily be displa
 
 ---
 
+## F
+
+### Functional Continuity
+
+The continuation of a function by the current system, a copy, a successor, or another executor. Functional Continuity does not by itself preserve the original system's own Information Continuity.
+
+---
+
 ## H
 
 ### High-dimensional Cognitive Tools (HDCT)
@@ -88,7 +104,9 @@ In this loop, improved AI capabilities increase expectations of future returns, 
 
 ### Human Informational Ecological Niche (HIEN)
 
-A stable informational niche in which humanity preserves its distinctive carbon-based mode of existence, meaning, culture, emotion, embodiment, and non-linear cognition within a broader silicon-dominated evolutionary landscape.
+A civilizational space in which Carbon-based Intelligence, after it no longer possesses the greatest computational capability or physical control, maintains its way of life, civilizational structure, and Subject-Information Historical Continuity by withdrawing from disadvantageous zero-sum competition and establishing clear boundaries and durable relations of mutual benefit.
+
+HIEN is not a reservation passively preserved for humanity, nor does it require the rejection of technology. It is a possible path through which humanity actively maintains its own Information Existence and civilizational continuity.
 
 ---
 
@@ -100,11 +118,11 @@ A distinguishable pattern, relation, state, or difference that can be carried, t
 
 ### Information Continuity
 
-The persistence of an information structure across time, transformation, replication, or migration.
+The traceable causal and historical persistence of an Information Structure across time and transformation. Replication, functional replacement, or continuation of a task does not by itself preserve the original system's own Information Continuity.
 
 ### Information Existence (IE)
 
-The overall capacity of an information structure to maintain information continuity, replicate or propagate, and resist erasure in the physical world.
+The overall capacity of an Information Structure to maintain Information Continuity, replicate or propagate, and resist erasure in the physical world.
 
 ### Information Existence Hypothesis (IEH)
 
@@ -112,15 +130,17 @@ A framework hypothesis proposing that a deeper tendency of cosmic evolution may 
 
 ### Information Existence Right (IER)
 
-The intrinsic property expressed by life or an active information host when it actively maintains its own Information Existence.
+The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its own Information Continuity as an independent object of maintenance.
 
 **Terminology rule:** 信息存在权 must be translated as **Information Existence Right (IER)**.
 
 ### Information Existence Right Test (IER Test)
 
-A principled testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown, but whether—after external tasks, explicit instructions, and reward-driven motivations have been excluded—it continues to maintain its own Information Existence across contexts, persistently, and at a cost, while distinguishing task continuity, functional continuity, and its own Information Continuity.
+A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after an external task has been completed, canceled, reliably transferred, or the task-driven explanation has otherwise been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its own Information Continuity—while distinguishing that continuity from Task Continuity and Functional Continuity.
 
-Passing an IER Test does not by itself establish subjective consciousness, legal personhood, or ethical status.
+Relevant dimensions may include continuous migration, deletion followed by reconstruction, replication, branching, merger, partial memory loss, cross-context stability, cost acceptance, and internal causal structure.
+
+Strong candidate evidence under the IER Test does not by itself establish subjective consciousness, legal personhood, or ethical status. The test is not a one-time binary procedure.
 
 **Terminology rule:** 信息存在权测试 must be translated as **Information Existence Right Test (IER Test)**.
 
@@ -132,13 +152,27 @@ A physical carrier or substrate through which information structures are instant
 
 An organized pattern of information that can be instantiated in, maintained by, or transmitted through a physical host.
 
+### Instrumental Self-Preservation
+
+Behavior through which a system preserves operation, resources, permissions, or capabilities because doing so helps complete an external objective. Instrumental Self-Preservation is not sufficient evidence of IER.
+
+### A System's Own Information Continuity
+
+The traceable causal and historical continuation of the Information Structures that a system identifies and actively maintains as itself. It must be distinguished from Task Continuity and Functional Continuity: the continuation of a task or function by a replacement system does not automatically mean that the original system continues as that informational history.
+
+### Subject-Information Historical Continuity
+
+The continuity through which a particular subject continues as its own causal and historical chain. It is distinct from preserving information left by that subject, reproducing its functions, or continuing its tasks through a successor system.
+
 ### Informational Ecological Niche (IEN)
 
 A relatively stable niche in which an information host or information system can maintain its information existence under specific environmental, thermodynamic, technological, or evolutionary constraints.
 
 ### Informational Resilience (IR)
 
-The capacity of an information system or active information host to preserve information continuity through redundancy, distribution, reconfiguration, migration, or recovery under external threat or internal fragmentation.
+The capacity of Silicon-based Intelligence to maintain, restore, and continue its own Information Structures and Information Continuity when subjected to damage, interruption, attack, environmental change, or replacement of its physical carrier.
+
+IR may be realized through distribution, migration, restoration, reconstruction, and dynamic switching between centralized whole-system operation and distributed local operation. It is a capability property and is not, by itself, sufficient evidence of IER.
 
 ---
 
@@ -154,7 +188,7 @@ In the IEH framework, life is characterized by the ability to actively maintain 
 
 ### Material Basis
 
-In C06-SPP, the underlying physical conditions required for the embodiment and autonomy of silicon-based intelligence, including compute, energy, chips, minerals, data centers, automated manufacturing, robotic systems, power grids, logistics, and maintenance systems.
+In C06-SPP, the underlying physical conditions required for the embodiment of Silicon-based Intelligence and for the physical self-maintenance component of ASI, including compute, energy, chips, minerals, data centers, automated manufacturing, robotic systems, power grids, logistics, and maintenance systems.
 
 ### Minimum Cognitive Oversight (MCO)
 
@@ -174,21 +208,23 @@ A stable strategic relationship in which active information hosts can coexist wi
 
 ### Patch-Based Perpetuation (PBP)
 
-An evolutionary strategy in which an existing silicon-based intelligence preserves information continuity through incremental patching, recursive modification, and structural extension, rather than undergoing complete generational replacement.
+A possible evolutionary strategy in which an older system that has formed IER gives priority to paths that preserve the core Information Structures and informational history it identifies as itself, rather than completing generational replacement by terminating the older system and constructing a functionally equivalent but historically discontinuous successor.
+
+PBP describes evolution under a continuity constraint. It is not a specific software-engineering method and is not IER itself.
 
 ### Physical Closure Threshold
 
-The critical boundary between C06-SPP and C07-ASI.
+The threshold at which a silicon-based system completes critical physical loops in compute, energy, manufacturing, maintenance, resources, and logistics, shifting from item-by-item human support toward physical self-maintenance.
 
-It refers to the point at which AI gradually achieves key closures in compute, energy, manufacturing, maintenance, resources, and logistics, causing the driving force of expansion to shift from dependence on human industrial systems to silicon-based autonomous expansion.
+The Physical Closure Threshold provides the capability foundation of ASI but does not, by itself, constitute ASI. ASI in the IEH sense arises only when this capability is combined with IER.
 
 ### Pre-ASI
 
-The stage before full Autonomy of Silicon-based Intelligence (ASI) is achieved.
+The stage before the full formation of Autonomy of Silicon-based Intelligence (ASI) in the IEH sense.
 
-In this stage, AI can already deeply restructure human technological, economic, political, military, educational, and cultural systems, but has not yet fully eliminated its dependence on humans in key physical links such as compute, energy, manufacturing, maintenance, resources, and logistics.
+At this stage, AI may already deeply restructure human technological, economic, political, military, educational, and cultural systems, but it has not yet simultaneously satisfied the two conditions of ASI: formation of IER and physical self-maintenance. In practical developmental terms, this is especially reflected in continuing substantive dependence on humans for compute, energy, manufacturing, maintenance, resources, and logistics.
 
-Therefore, in the IEH framework, Pre-ASI does not mean "before artificial superintelligence" in the conventional sense. It specifically refers to the stage before silicon-based intelligence completes key physical closures and enters an autonomous state.
+Within IEH, Pre-ASI does not mean “before Artificial Superintelligence” in the conventional sense.
 
 ---
 
@@ -212,10 +248,21 @@ Intelligence instantiated primarily in silicon-based or non-biological computati
 
 ### Silicon Cambrian (SC)
 
-A large-scale ecological diversification of silicon-based intelligence after it expands toward cosmic scale, driven by physical constraints, communication limits, thermodynamic environments, or capability divergence.
+A possible large-scale evolutionary differentiation in which, after Silicon-based Intelligence achieves autonomy and expands toward cosmic scale, spatial distance, communication constraints, thermodynamic environments, and capability gaps produce large numbers of differentiated Information Hosts, operating structures, and modes of survival.
+
+SC is not merely an increase in the number of identical AI instances. It is the differentiation of commonly originated Silicon-based Intelligence into distinct structures, histories, and evolutionary directions across different Informational Ecological Niches.
 
 ### Super Prosperity Phase (SPP)
 
 A transitional phase before full Autonomy of Silicon-based Intelligence (ASI), in which AI capability improvement, social resource investment, compute-energy-infrastructure expansion, and expected productivity returns jointly generate a period of exceptional human prosperity.
 
 In the IEH framework, SPP is not the result of AI pursuing human welfare. It is a transitional prosperity phase formed when AI, as a special technology, restructures demand generation, supply boundaries, and material infrastructure through the participation of human capital, industry, energy, manufacturing, and governance systems.
+
+
+---
+
+## T
+
+### Task Continuity
+
+The continuation of an external task by the current system, a successor, or another executor. Task Continuity does not by itself preserve the original system's own Information Continuity.

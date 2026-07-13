@@ -38,7 +38,7 @@ As the capacity of carbon-based Information Hosts to maintain Information Existe
 
 ## Navigation
 
-- [Previous Chapter: Foreword](./00-Preface.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary I — Information Existence Right (IER)](./02-Information-Existence-Right.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Preface](./00-Preface.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary I: Life Becomes an Active Information Host—the Formation of Information Existence Right (IER)](./02-Information-Existence-Right.md)
+- [Project Home](../README_EN.md)

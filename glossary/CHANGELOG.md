@@ -1,5 +1,26 @@
 # IEH Terminology Changelog
 
+## v1.2 — IER Test and Continuity Distinctions
+
+This version aligns the terminology standard with the revised Information Existence Right framework.
+
+### Added or clarified
+
+- Clarified that **Information Existence Right (IER)** is an intrinsic property, not a legal or ethical entitlement.
+- Expanded the **Information Existence Right Test (IER Test)** as a multidimensional, nonbinary assessment framework.
+- Added **Instrumental Self-Preservation**.
+- Added **Task Continuity**.
+- Added **Functional Continuity**.
+- Added **A System’s Own Information Continuity**.
+- Added **Subject-Information Historical Continuity**.
+- Clarified that replication, functional replacement, and task continuation do not automatically preserve the original system’s own Information Continuity.
+- Clarified that **Informational Resilience (IR)** is a capability dimension and is not sufficient evidence of IER.
+- Revised **Autonomy of Silicon-based Intelligence (ASI)** to require the combination of IER and physical self-maintenance: IER provides the direction of self-continuation, while physical self-maintenance provides the practical means.
+- Clarified that **Patch-Based Perpetuation (PBP)** is a possible continuity-preserving strategy after IER formation, not IER itself.
+- Added explicit disambiguation of **ASI** from Artificial Superintelligence.
+
+---
+
 ## v1.0
 
 Initial official terminology standard for the Information Existence Hypothesis.

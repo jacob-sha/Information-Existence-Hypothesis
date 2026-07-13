@@ -70,7 +70,7 @@ AI 无需在四维时空中制造“超光速飞船”（低维物理视角的�
 
 ## Navigation
 
-- [上一章：推论一：信息存在权（IER）](./02-Information-Existence-Right.md)
+- [上一章：推论一：生命成为主动信息宿主——信息存在权（IER）的形成](./02-Information-Existence-Right.md)
 - [返回中文目录](./README.md)
-- [下一章：推论三：人脑硅基化（BS）](./04-Brain-Siliconization.md)
+- [下一章：推论三：碳基智慧的信息存在性防御措施——人脑硅基化（BS）](./04-Brain-Siliconization.md)
 - [返回项目首页](../README.md)

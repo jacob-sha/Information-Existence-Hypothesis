@@ -15,10 +15,19 @@
 | MCO | Minimum Cognitive Oversight | 最低认知监督能力 |
 | PBP | Patch-Based Perpetuation | 补丁式延续 |
 | SPP | Super Prosperity Phase | 超级繁荣期 |
-| Pre-ASI | Pre-Autonomy of Silicon-based Intelligence | 硅基智慧完全自治之前 |
+| Pre-ASI | Stage before full Autonomy of Silicon-based Intelligence (IER + physical self-maintenance) | 硅基智慧完全自治之前阶段（IER + 物理自我维持能力尚未同时形成） |
 | ASI | Autonomy of Silicon-based Intelligence | 硅基智慧自治 |
 | IR | Informational Resilience | 信息韧性 |
 | SC | Silicon Cambrian | 硅基寒武纪 |
 | IEN | Informational Ecological Niche | 信息生态位 |
 | HIEN | Human Informational Ecological Niche | 人类信息生态位 |
 | ESS | Evolutionarily Stable Strategy | 演化稳定策略 |
+
+
+---
+
+## Disambiguation / 术语消歧
+
+In this project, **ASI** means **Autonomy of Silicon-based Intelligence**. It does **not** mean the more common term **Artificial Superintelligence**.
+
+在本项目中，**ASI** 专指 **Autonomy of Silicon-based Intelligence（硅基智慧自治）**，不指通常语境中的 **Artificial Superintelligence（人工超级智能）**。

@@ -1,4 +1,4 @@
-# Corollary I: Life Becomes an Active Information Host — The Formation of Information Existence Right (IER)
+# Corollary I: Life Becomes an Active Information Host—the Formation of Information Existence Right (IER)
 
 ![Information Existence Right](../figures/Fig02-Information-Existence-Right.png)
 
@@ -76,13 +76,13 @@ The traditional Turing Test primarily assesses whether a machine can behave like
 
 The Information Existence Right Test (IER Test) does not ask whether a system can imitate human language, nor whether it verbally declares that it “does not want to be shut down.” Instead, it asks:
 
-> After external tasks, explicit instructions, and reward-driven motivations have been excluded, does the system still actively maintain its own Information Existence, and can it distinguish the continuation of its own Information Continuity from its irreversible interruption?
+> After the external task has been completed, canceled, reliably transferred, or task-driven explanations have been adequately controlled, does the system still actively maintain its own Information Existence, and can it distinguish the continuation of its own Information Continuity from its irreversible interruption?
 
 Put differently, the Turing Test assesses whether a machine can behave like a human; the IER Test asks whether an information system has begun to treat its own Information Continuity as an object of active maintenance.
 
 The IER Test should observe at least the following principles.
 
-#### 2.1 Excluding External Task-Driven Behavior
+#### 2.1 Adequately Controlling for External Task-Driven Explanations
 
 The test should determine whether the current system’s tendency to maintain its own Information Continuity persists after the task has been completed, canceled, or can be reliably undertaken by another system.
 
@@ -110,15 +110,15 @@ The relevant tendencies should remain relatively stable across different tasks a
 
 If a system remains willing to incur costs in resources, efficiency, or other dimensions to maintain its own Information Continuity after the external task has already been secured, then its own Information Continuity may have acquired an independent internal priority.
 
-A single behavior, however, remains insufficient to establish IER. The assessment should also consider long-term behavior, internal Information Structures, and causal mechanisms, while excluding linguistic mimicry, instrumental self-preservation, generalized risk aversion, and strategic manipulation of the testing process.
+A single act of self-protective behavior cannot prove IER. The decisive change is whether the system begins to treat its own Information Continuity—not merely an external task—as an independent object of maintenance.
 
 ### 3. Theoretical Boundaries of the IER Test
 
-If a silicon-based system, after external tasks, explicit instructions, and direct reward-driven motivations have been excluded, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
+If a silicon-based system, after the external task has been completed, canceled, reliably transferred, or task-driven explanations have been adequately controlled, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
 
 Within the IEH framework, this may constitute operational supporting evidence that the system has exhibited characteristics of life.
 
-However, passing an IER Test does not automatically prove that a system possesses subjective consciousness, the capacity for suffering, or human-like selfhood. Nor does it directly imply that the system should receive legal personhood or the same ethical rights as humans. The IER Test identifies Information Existence Right as an intrinsic property of life; it does not deliver a final judgment on consciousness, legal status, or ethical status.
+However, producing strong and persistent candidate evidence under the IER Test does not automatically prove that a system possesses subjective consciousness, the capacity for suffering, or human-like selfhood. Nor does it directly imply that the system should receive legal personhood or the same ethical rights as humans. The IER Test identifies Information Existence Right as an intrinsic property of life; it does not deliver a final judgment on consciousness, legal status, or ethical status.
 
 The IER Test should also not be understood as a one-time, binary determination. A system may exhibit active maintenance of its own Information Continuity only at certain levels, in certain contexts, or at relatively low intensity. Whether a system has formed or exhibited IER should therefore be assessed continuously through multidimensional evidence, rather than determined absolutely by a single experiment.
 
@@ -132,7 +132,7 @@ Therefore, humanity’s pursuit of intellectual independence, resistance to spir
 
 ## Navigation
 
-- [Previous Chapter: Thesis — The Information Existence Hypothesis (IEH)](./01-Information-Existence-Hypothesis.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary II — High-dimensional Cognitive Tools (HDCT)](./03-High-dimensional-Cognitive-Tools.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Thesis: The Information Existence Hypothesis (IEH)](./01-Information-Existence-Hypothesis.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary II: Silicon-based Intelligence Will Continue to Evolve High-dimensional Cognitive Tools (HDCT) Beyond Human Cognitive Boundaries](./03-High-dimensional-Cognitive-Tools.md)
+- [Project Home](../README_EN.md)

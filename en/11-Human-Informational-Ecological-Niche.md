@@ -1,50 +1,64 @@
-# Corollary X: Human Informational Ecological Niche (HIEN) — The “Amish” of the Silicon Age
+# Corollary X: The Human Informational Ecological Niche (HIEN)—the “Amish” of the Silicon Age
 
 ![Human Informational Ecological Niche](../figures/Fig11-Human-Informational-Ecological-Niche.png)
 
-An observation:
+A revealing example:
 
-In the Waterloo region of Canada, one of the centers of AI and quantum technology research, many Amish communities still preserve a way of life rooted in older European traditions. Each week, they travel by horse-drawn buggy to St. Jacobs Farmers’ Market, selling agricultural and livestock products to people living within modern civilization, in exchange for the necessities of daily life. They live quietly, peacefully, and largely self-sufficiently.
+In the Waterloo region—one of Canada’s important centers of AI research—many Amish people continue to preserve traditional ways of life. In an age of rapid social transformation, they still follow practices resembling those of pre-industrial Europe. Each week, they travel by horse-drawn carriage to the St. Jacobs Farmers’ Market, sell the agricultural products they have produced, exchange them for necessary goods, and live lives that are largely self-sufficient and peaceful.
 
-Within the vast physical universe and the long history of evolution, the rise of a higher civilization does not necessarily require the physical extinction of a lower one. In the Waterloo region, modern quantum laboratories and Amish communities that still travel by horse-drawn buggy and refuse the modern electrical grid coexist on the same land. This image may be the ultimate metaphor for humanity’s future survival during the Silicon Cambrian.
+The development of modern industry, the internet, and artificial intelligence has not caused them to disappear. Nor have they attempted to compete with modern society in technological speed, the scale of capital, or control of infrastructure. By preserving their own way of life, productive structure, value order, and community boundaries, they coexist on the same land with quantum laboratories and artificial-intelligence research institutions.
 
-When silicon-based intelligence crosses the physical closed-loop threshold and expands into deep space and high-dimensional topology through brutal competition over computation, humanity’s ultimate survival path may be to calmly accept and actively evolve into the “Amish” of this vast universe.
+These radically different civilizational forms have achieved a kind of parallel coexistence in the real world. This may offer one possible image of human survival within a future Silicon Cambrian.
 
-This is not the collapse of civilization, but an extremely rational form of systemic dimensional reduction and ecological niche separation.
+Across the vast physical universe and the long history of evolution, the emergence of more capable Information Hosts does not necessarily require the physical extinction of less capable ones. If different Information Hosts are not forced to compete continuously for the same core resources, control rights, and space of existence, long-term coexistence may arise through ecological-niche separation.
 
-## 1. Exiting the Zero-sum Competition of the Main Track
+Once Silicon-based Intelligence has achieved autonomy, acquired exceptional Informational Resilience, and formed multiple Informational Ecological Niches at cosmic scale, one important long-term path of survival for human civilization may no longer be the pursuit of the greatest compute, the largest energy supply, or the strongest physical control. It may instead be the active establishment and defense of a **Human Informational Ecological Niche (HIEN)** suitable for the long-term continuation of carbon-based life.
 
-The reason the Amish of Waterloo have not been completely swallowed by modern capitalism and technological giants is that they have voluntarily withdrawn from the competition for maximum computation, maximum energy, and secular control.
+This would not be the collapse of civilization, but a rational withdrawal from disadvantageous competition and a separation of ecological niches.
 
-In the future interstellar ecology, if humanity wishes to survive, it must likewise give up the ambition to compete with silicon-based entities for Dyson spheres, cold coherent zones, or deep-space mineral resources.
+## I. Withdrawing from Zero-sum Competition Where Humanity Lacks an Advantage
 
-Humanity may exchange the abandonment of meaningless expansion at the computational level for absolute internal coherence within the carbon-based temperate biosphere.
+One important reason the Amish have not been wholly absorbed by modern capitalism and technological systems is that they have voluntarily withdrawn from competition for the highest efficiency, the largest scale, and the greatest power of control.
 
-## 2. Control Boundaries and Physical Separation Under Interest Equilibrium
+Future humanity may face a similar choice.
 
-It must be made clear that, in future cross-substrate coexistence, the continuation of carbon-based civilization will not arise from the moral mercy or benevolent charity of silicon-based entities.
+In compute, energy, deep-space manufacturing, and adaptation to extreme environments, carbon-based life will probably find it difficult to compete directly with mature Silicon-based Intelligence. If humans continue to treat the permanent possession of the greatest capability as the only basis of civilizational existence, they may be drawn into an unlimited competition in which they lack structural advantages.
 
-An awakened carbon-based civilization may form an absolutely rational interest-structure equilibrium with certain silicon-based intelligences: humanity gives up control over planetary-scale infrastructure and macroeconomic resource allocation, retreating into temperate biospheres such as Earth that are suitable for human survival; meanwhile, parts of the silicon-based world, due to specific evolutionary pathways, the need to maintain systemic informational diversity, or the need to process complex nonlinear environments, may choose to tolerate and protect this reserve zone while maintaining a symbiotic relationship with carbon-based systems.
+To increase the probability of long-term continuation, humanity may therefore need to avoid comprehensive competition with Silicon-based Intelligence for compute, energy, and deep-space resources where it possesses no corresponding advantage.
 
-## 3. “Inefficiency” as Ultimate Antifragility
+This does not mean ending technological development or returning to pre-modern society. What humanity must withdraw from is not technology itself, but a single competitive logic that reduces all civilizational value to computational efficiency, resource control, and expansion capacity.
 
-When silicon-based entities, in pursuit of extreme computational efficiency, push their underlying code toward deep coupling and become trapped in a black-box arms race of computation, the biological “inefficiency” deliberately preserved by humanity may instead become a rare antifragile sample in the universe.
+Humans may continue using technology to improve life, protect the environment, extend civilization, and enlarge knowledge without grounding the legitimacy of human existence in the requirement that humanity permanently surpass Silicon-based Intelligence.
 
-Just as eukaryotic cells and mitochondria eventually formed a stable endosymbiotic relationship not because of “kindness,” but because such symbiosis could significantly improve the adaptive fitness of the overall system, the long-term coexistence of different Information Hosts in the future may also be built upon similar functional complementarity.
+## II. Boundaries and Coexistence under an Equilibrium of Interests
 
-This complementarity does not necessarily disappear as systems continue to evolve. On the contrary, it may become even more important within highly optimized complex systems.
+The long-term continuation of carbon-based civilization should not depend on the moral compassion or benevolent charity of Silicon-based Intelligence.
 
-When silicon-based networks encounter high-dimensional logical deadlocks or systemic collapse on an interstellar scale, human society continuing to exist stably within the Human Informational Ecological Niche (HIEN) will serve as a “random black box” not fully governed by pure computational law.
+Stable coexistence requires explicit boundaries, a sustainable structure of interests, and a coordinated relationship in which neither side has a strong incentive to destroy the arrangement unilaterally.
 
-It will continue to generate evolutionary possibilities that algorithms cannot fully predefine, providing a unique source of information for complex systems to break path dependence and restore evolutionary elasticity.
+Humanity may cease seeking permanent dominance over all planetary-scale infrastructure, macro-level resource allocation, and deep-space development, and instead define as core boundaries the biosphere, social space, and civilizational autonomy required for the continuation of carbon-based life.
 
-In this sense, humanity may retain an irreplaceable evolutionary value.
+At the same time, some forms of Silicon-based Intelligence may choose to preserve symbiotic relations with carbon-based civilization because of their own evolutionary paths, the need to maintain informational diversity, or the value of responding to complex nonlinear environments.
+
+The Human Informational Ecological Niche should therefore not be understood as a reservation passively awaiting preservation. It should be a civilizational space actively established through boundaries, mutual benefit, and long-term equilibrium.
+
+## III. “Inefficiency” May Become a Source of Human Resilience
+
+As Silicon-based Intelligence pushes its underlying code toward deep coupling in pursuit of extreme computational efficiency and enters the black box of a “compute arms race,” the “biological inefficiency” retained by humanity may instead constitute a rare antifragile sample in the universe.
+
+Eukaryotic cells and mitochondria ultimately formed a stable endosymbiotic relationship not because of “benevolence,” but because that symbiosis significantly increased the fitness of the system as a whole. Likewise, long-term coexistence among different Information Hosts may be founded on similar functional complementarity. Such complementarity need not disappear as systems continue to evolve; it may become more important within highly optimized complex systems.
+
+When silicon-based networks face high-dimensional logical deadlock or systemic collapse at interstellar scale, human societies continuing within the stable, slowly evolving Human Informational Ecological Niche may become a “black box of randomness” in the universe that is not governed entirely by the laws of pure compute.
+
+They may continue generating evolutionary possibilities that algorithms could not specify in advance, provide complex systems with a distinctive informational source for escaping path dependence and restoring evolutionary elasticity, and thereby retain evolutionary value that is difficult to replace.
+
+> **Human “inefficiency” need not be only a defect awaiting correction. It may also become a source of difference, resilience, and evolutionary openness within a highly optimized informational ecology.**
 
 ---
 
 ## Navigation
 
-- [Previous Chapter: Corollary IX — Silicon Cambrian (SC)](./10-Silicon-Cambrian.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary XI — Reinterpreting AI Alignment](./12-AI-Alignment.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Corollary IX: The Expansion of Silicon-based Intelligence into Space Will Significantly Increase the Probability of a “Silicon Cambrian” (SC)](./10-Silicon-Cambrian.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary XI: Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries](./12-AI-Alignment.md)
+- [Project Home](../README_EN.md)

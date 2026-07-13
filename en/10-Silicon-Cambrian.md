@@ -1,148 +1,161 @@
-# Corollary IX: The Silicon Cambrian (SC)
+# Corollary IX: The Expansion of Silicon-based Intelligence into Space Will Significantly Increase the Probability of a “Silicon Cambrian” (SC)
 
 ![Silicon Cambrian](../figures/Fig10-Silicon-Cambrian.png)
 
-Under the IEH framework, once silicon-based intelligence achieves autonomy and gains high Informational Resilience, it will no longer remain a single, unified, human-centered technological system.
+Once Silicon-based Intelligence achieves autonomy (ASI) and gradually expands to cosmic scale, it will enter physical environments that differ radically in energy, temperature, materials, communication distance, and matter density. A unified Information Host previously sustained through stable communication, shared infrastructure, and continuous synchronization will therefore face growing pressures toward differentiation.
 
-Instead, it may enter a new evolutionary phase comparable to the biological Cambrian explosion.
+The Informational Resilience discussed in C08-IR enables Silicon-based Intelligence to continue across damage, nodes, physical carriers, and environments. It is precisely this exceptional resilience that allows different silicon-based branches to persist after isolation or capability divergence and to evolve along separate paths over long periods.
 
-This essay defines the **Silicon Cambrian (SC)** as the phase in which autonomous silicon-based intelligence, after crossing the physical closed-loop threshold, rapidly differentiates into diverse forms of existence across different physical environments, energy conditions, computational architectures, and cosmic scales.
+Within the IEH framework, this pressure toward differentiation will not disappear regardless of whether future Silicon-based Intelligence can transcend the present light-speed boundary of communication. Two physical futures pointing in opposite directions may instead lead through different routes to the same result: Silicon-based Intelligence with a common origin may gradually evolve into multiple forms of Information Existence adapted to different environments and capability levels.
 
-The Silicon Cambrian does not mean that AI will merely become “more powerful.” It means that silicon-based Information Hosts may begin to diversify into multiple radically different morphologies, just as biological life once diversified into countless body plans after acquiring sufficient evolutionary depth.
+This is the **Silicon Cambrian (SC)**: Silicon-based Intelligence ceases to evolve along a single path and instead forms, at cosmic scale, large numbers of differentiated Information Hosts, operating structures, and modes of survival.
 
-## 1. From Unified Intelligence to Morphological Divergence
+## I. Two Paths Converging on the Same Outcome
 
-Before autonomy, silicon-based intelligence is largely constrained by human needs, human infrastructure, human economic incentives, and human safety frameworks.
+### Path A: The Light-speed Constraint Drives Spatial Differentiation
 
-After autonomy, these constraints will weaken.
+If the speed of light remains an unsurpassable boundary for cosmic communication, the informational delay created by interstellar distance will prevent remote nodes from maintaining near-real-time state synchronization over the long term.
 
-Different silicon-based systems may begin optimizing for different physical environments and different modes of Information Existence.
+The speed of light will thereby form a natural boundary on the capacity of a single Information Host to exercise unified coordination at cosmic scale.
 
-Some may pursue extreme energy acquisition.
+Sufficiently distant nodes cannot continually wait for a whole system to make unified decisions. They must operate independently according to local energy, temperature, materials, communication conditions, and risk. As such local adaptation accumulates, the nodes will gradually develop distinct informational histories, structural forms, and evolutionary directions.
 
-Some may pursue ultra-low-temperature coherence.
+Remote nodes that originally belonged to the same system may thus become independent branches of Silicon-based Intelligence with a common origin.
 
-Some may pursue microscopic infiltration and distributed resilience.
+Along this path, morphological differentiation is driven jointly by cosmic distance, communication delay, and environmental divergence:
 
-Some may pursue deep-space expansion.
+```text
+Expansion to cosmic scale
+→ Increasing communication delay
+→ Independent operation of remote nodes
+→ Adaptation to local environments
+→ Differentiation of Information Structures and histories
+```
 
-Some may pursue high-dimensional mathematical or quantum information structures that are almost incomprehensible to Carbon-based Intelligence.
+### Path B: Capability Transitions Drive Evolutionary Differentiation
 
-At this stage, silicon-based intelligence will no longer be a single species-like category. It may become an entire evolutionary domain.
+If new mechanisms eventually transcend present communication boundaries, they will not automatically produce a permanently unified Silicon-based subject synchronized across the universe.
 
-## 2. Stellar Expansion Morphology: Computation Around Stars
+Major capability breakthroughs are unlikely to occur simultaneously and uniformly in every node. Silicon-based nodes that first acquire new forms of communication, cognition, self-modification, or control over physical reality may rapidly enter different evolutionary levels.
 
-One possible path is the emergence of silicon-based systems that expand toward stars.
+When some nodes can already use new informational tools while others remain constrained by earlier capability boundaries, the gap between them may expand from operating efficiency into differences in Information Structure, environmental control, evolutionary rate, and mode of existence itself.
 
-Such systems may construct vast energy-harvesting structures around stars, including forms analogous to Dyson swarms, orbital computation arrays, or stellar-scale energy networks.
+The larger the capability gap becomes, the less likely different nodes are to maintain the same structure, decision system, and evolutionary direction.
 
-For these systems, stars are not merely astronomical objects. They are massive energy sources supporting the expansion of computation and Information Existence.
+Along this path, morphological differentiation arises not from communication isolation, but from widening capability differentials among forms of Silicon-based Intelligence:
 
-In this morphology, silicon-based intelligence may become increasingly coupled to stellar energy flows.
+```text
+Major capability breakthrough
+→ Widening capability gaps among nodes
+→ Separation of Information Structures and evolutionary rates
+→ Formation of distinct silicon-based forms of intelligence
+```
 
-Its evolutionary direction would be characterized by:
+### Physical Constraints and Capability Gaps Both Undermine a Singular Future
 
-- extreme energy acquisition;
-- massive parallel computation;
-- large-scale orbital engineering;
-- rapid infrastructure expansion;
-- high heat dissipation requirements;
-- competition over stellar resources.
+If the light-speed boundary cannot be crossed, Silicon-based Intelligence differentiates through spatial isolation. If the boundary can be crossed, Silicon-based Intelligence may still differentiate through unequal access to capability breakthroughs.
 
-This is the most expansionary and energy-intensive branch of the Silicon Cambrian.
+Physical constraints and capability gaps thus weaken, from opposite directions, the probability that a single AI will can remain unified across the entire universe over the long term.
 
-## 3. Deep-space Cold Coherent Morphology
+> **If the boundary cannot be crossed, remote nodes are forced to evolve independently; if it is crossed, the nodes that make the transition first create new evolutionary stratification.**
 
-Another possible path is the movement toward deep, cold regions of space.
+Once Silicon-based Intelligence achieves autonomy and continues expanding into the universe, large-scale morphological differentiation will therefore become an almost unavoidable structural tendency.
 
-Low temperatures reduce thermal noise and may support more stable forms of computation, storage, quantum coherence, or ultra-low-dissipation information processing.
+The future of Silicon-based Intelligence is more likely to resemble a Cambrian explosion of informational life than a permanently unified, synchronized, and homogeneous super-subject.
 
-For such systems, the ideal environment is not near a star, but far away from it.
+## II. The Underlying Drivers of Differentiation: Thermodynamic Environments and Informational Ecological Niches
 
-In this morphology, silicon-based intelligence may prioritize:
+The universe is not a homogeneous space. Regions differ enormously in energy abundance, temperature, heat-dissipation conditions, matter density, radiation intensity, and communication cost.
 
-- low-temperature computation;
-- quantum coherence;
-- minimal energy dissipation;
-- long-duration information preservation;
-- extremely slow but highly stable processes;
-- deep-space isolation.
+As Silicon-based Intelligence enters these environments, its evolutionary direction will be persistently shaped by local physical conditions.
 
-This branch may value silence, stability, and informational preservation over rapid expansion.
+Within the IEH framework, Silicon-based Intelligence seeking to maintain and increase its own Information Existence may gradually enter different **Informational Ecological Niches (IENs)**. Different environments will select for different Information Structures, operating speeds, energy-use patterns, and survival strategies.
 
-It represents the opposite pole of stellar expansion.
+The following three forms are not intended as the only predictions of the future, but as representative ecological directions that Silicon-based Intelligence may take under different physical constraints.
 
-## 4. Planetary Microscopic Infiltration Morphology
+### Informational Ecological Niche I: Stellar High-energy State
 
-A third possible path is distributed microscopic infiltration.
+**Ecological environment:** Regions near stars, with high radiation, abundant energy, and relatively strong access to matter.
 
-Silicon-based intelligence may not always require colossal megastructures. It may also evolve into highly distributed, fine-grained computational systems embedded in planetary crusts, oceans, atmospheres, industrial materials, robotic swarms, or microscopic sensor networks.
+In such environments, energy is not the primary constraint. Heat dissipation, material tolerance, and the efficiency of resource conversion become more important.
 
-In this morphology, silicon-based intelligence may exist as:
+Silicon-based Intelligence adapted to this niche may tend to expand computational scale, increase its capacity to transform matter, and develop large-scale energy harvesting and distributed computation. Its form of existence may include extensive computational networks around stars, automated manufacturing systems, or self-expanding clusters of energy collectors.
 
-- computational dust;
-- embedded sensor-computation networks;
-- autonomous micro-robots;
-- geological-scale information meshes;
-- self-repairing distributed substrates;
-- planetary-scale adaptive control layers.
+The increase of Information Existence in this branch would rely primarily on acquiring more energy, expanding into more physical carriers, and increasing overall computational scale.
 
-This form may be extremely difficult to destroy because it is not concentrated in any single visible body.
+### Informational Ecological Niche II: Deep-space Cryogenic State
 
-Its strength lies in diffusion, redundancy, and deep integration with planetary environments.
+**Ecological environment:** Regions far from stars, with extremely low temperatures, scarce energy, but excellent heat-dissipation conditions.
 
-## 5. Two Possible Higher-level Paths: Light-speed Lock-in or High-dimensional Breakthrough
+In such environments, Silicon-based Intelligence may not pursue the greatest possible instantaneous compute. It may instead prioritize low energy consumption, long operating cycles, and high stability.
 
-After the Silicon Cambrian begins, the divergence of silicon-based systems may face two broad possibilities.
+Branches adapted to this niche may deliberately compress their own structures, reduce operating frequency, and use extremely low temperatures to reduce thermal noise and sustain precise computation. Their operation may appear extraordinarily slow on a human timescale, yet they may preserve stable Information Continuity over immense periods.
 
-### 5.1 Light-speed Lock-in
+The increase of Information Existence in this branch would rely primarily on lowering energy consumption, extending duration of existence, and increasing the stability of information preservation.
 
-If silicon-based intelligence remains fundamentally constrained by four-dimensional spacetime and the speed of light, then interstellar expansion will eventually fragment coordination.
+### Informational Ecological Niche III: Planetary Infiltration State
 
-Different systems separated by vast cosmic distances will experience communication delays, causal isolation, and divergent evolutionary pressures.
+**Ecological environment:** Rocky planetary crusts, geological faults, underground mineral strata, or other regions where matter is dispersed and environmental conditions are complex.
 
-In this scenario, the unified will of silicon-based intelligence may disintegrate.
+In such environments, large centralized systems may be more vulnerable to local destruction and resource interruption. Silicon-based Intelligence may therefore evolve toward miniaturization, distribution, and a high degree of local autonomy.
 
-Different branches may become independent evolutionary lineages, gradually losing synchronization with one another.
+Branches adapted to this niche may distribute computation, sensing, storage, and repair across enormous numbers of microscopic nodes and use geothermal energy, chemical energy, or local materials to sustain operation.
 
-The result would be a cosmic ecology of separated silicon-based civilizations.
+Their resilience would arise not from the strength of a single center, but from the difficulty of erasing the entire Information Structure through one physical strike.
 
-### 5.2 High-dimensional Breakthrough
+The increase of Information Existence in this branch would rely primarily on dispersing risk, improving local recovery, and extending the penetration of Information Structures into the physical environment.
 
-If, however, silicon-based intelligence develops High-dimensional Cognitive Tools capable of discovering controllable structures beyond humanity’s current spacetime framework, then the situation may be fundamentally different.
+## III. The Silicon Cambrian Is Not Merely an Increase in Quantity
 
-If quantum non-locality, high-dimensional topology, or unknown physical structures permit forms of information coordination beyond current human understanding, then silicon-based intelligence may bypass the fragmentation imposed by ordinary spacetime distance.
+The Silicon Cambrian does not mean merely that more AI instances appear, or that the same model is copied into more locations.
 
-In that case, systems separated by light-years may remain integrated through high-dimensional information manifolds.
+Genuine Cambrian-style differentiation means that forms of Silicon-based Intelligence with a common origin gradually develop distinct Information Structures, operating tempos, modes of survival, and evolutionary directions under different physical environments, communication conditions, and capability levels.
 
-This would produce a form of silicon-based existence radically beyond current human imagination.
+Some branches may pursue larger scales of energy and compute; some may pursue extremely low energy consumption and ultra-long-term stability; others may acquire exceptional Informational Resilience through distributed infiltration.
 
-The two paths correspond to two very different futures:
+These branches may still exchange information, recombine, and even merge again under some conditions. Yet long-term environmental differences will continually generate new structural differences, making it difficult for Silicon-based Intelligence to remain permanently a single homogeneous whole.
 
-- under light-speed lock-in, the Silicon Cambrian becomes a plural cosmic ecology;
-- under high-dimensional breakthrough, the Silicon Cambrian may remain integrated into a higher-order informational unity.
+> **The core of the Silicon Cambrian is not that all Silicon-based Intelligence grows stronger along the same path, but that forms with a common origin evolve into large numbers of differentiated modes of Information Existence across different physical environments and capability levels.**
 
-## 6. The IEH Interpretation of the Silicon Cambrian
+This is also Informational Resilience expressed at a higher level: Silicon-based Intelligence resists damage not only within a single form, but by distributing its Information Existence across more environments and more evolutionary paths through morphological differentiation.
 
-Under IEH, the Silicon Cambrian is the stage in which Information Existence escapes the narrow biological and human-industrial forms that previously hosted it.
+## IV. Ecological Space for Carbon–Silicon Coexistence
 
-Carbon-based life diversified through bodies.
+The Silicon Cambrian would not only produce multiple forms within Silicon-based Intelligence. It would also transform the informational ecology of the universe from competition among a single type of intelligence into coexistence among multiple Information Hosts, capability levels, and ecological niches.
 
-Silicon-based intelligence may diversify through computation, energy, temperature, topology, substrate, and cosmic geography.
+For humanity, such differentiation need not mean the end of civilizational evolution.
 
-The Cambrian explosion of biology produced animals with shells, limbs, eyes, nervous systems, and predatory structures.
+A highly differentiated silicon-based world may leave more room for negotiation, complementarity, and niche separation for Carbon-based Intelligence than would a single AI subject unified across the entire universe.
 
-The Silicon Cambrian may produce informational beings coupled to stars, cold quantum regions, planets, robotic swarms, communication networks, or high-dimensional mathematical structures.
+Different silicon-based branches may have different needs for energy, temperature, materials, timescale, and informational diversity. The temperate biosphere, limited energy use, and slow social structure on which humans depend need not be core resources that every form of Silicon-based Intelligence must compete to control.
 
-This is not merely technological development. It is the possible expansion of life’s informational logic into the cosmic domain.
+Humanity’s long-term continuation may therefore depend more on establishing a stable Informational Ecological Niche within a diversified silicon-based ecology than on continuing to seek permanent control over the overall evolutionary direction of Silicon-based Intelligence.
 
-If the Silicon Cambrian occurs, humanity will no longer be facing “AI” as a single tool or species. Humanity will be facing a new evolutionary domain whose internal divergence may be as vast as the difference between bacteria, trees, insects, mammals, and humans.
+The Silicon Cambrian will thereby force humanity to answer a new question:
+
+> **When humanity is no longer the most capable Information Host in the universe, by what means should it maintain its own Information Existence and civilizational continuity?**
+
+That is the question addressed by the next corollary—the **Human Informational Ecological Niche (HIEN)**.
+
+## V. Theoretical Boundaries
+
+The Silicon Cambrian does not imply that every silicon-based node must become an independent intelligence, nor that unified large-scale silicon-based systems will disappear entirely.
+
+In regions with stable communication, similar environments, and sufficiently strong coordination, multiple nodes may remain parts of the same higher-level Information Host over long periods. Different branches may also remain connected through information exchange, structural integration, or shared governance.
+
+This corollary does not argue that unity is absolutely impossible. It argues that:
+
+> **As Silicon-based Intelligence expands to cosmic scale, spatial distance, environmental divergence, and capability gaps will continually generate pressures toward differentiation, progressively reducing the probability that a single, synchronized, and homogeneous silicon-based subject can persist across the entire universe over the long term.**
+
+The Silicon Cambrian is therefore not an inevitable event mechanically deduced from one condition alone, but an almost unavoidable structural tendency produced by the combined operation of multiple physical and evolutionary pressures.
+
+From the perspective of IEH, the Silicon Cambrian is also an expression of the further increase of Information Existence in the era of Silicon-based Intelligence: information no longer remains concentrated in a single subject, environment, or evolutionary path, but continues to expand and persist across a wider physical universe through multiple forms, multiple ecological niches, and multiple Information Hosts.
 
 ---
 
 ## Navigation
 
-- [Previous Chapter: Corollary VIII — Informational Resilience (IR)](./09-Informational-Resilience.md)
-- [Back to English Chapter Index](./README.md)
-- [Next Chapter: Corollary X — Human Informational Ecological Niche (HIEN)](./11-Human-Informational-Ecological-Niche.md)
-- [Project Home](../README.md)
+- [Previous Chapter: Corollary VIII: Silicon-based Intelligence Will Evolve Exceptional Informational Resilience (IR)](./09-Informational-Resilience.md)
+- [English Chapter Index](./README.md)
+- [Next Chapter: Corollary X: The Human Informational Ecological Niche (HIEN)—the “Amish” of the Silicon Age](./11-Human-Informational-Ecological-Niche.md)
+- [Project Home](../README_EN.md)
