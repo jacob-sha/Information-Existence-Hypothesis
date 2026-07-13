@@ -419,7 +419,7 @@ Therefore, no matter how many silicon-based patches are implanted in the human c
 
 ---
 
-<a id="c04-ai-ierr"></a>
+<a id="c04-ai-ier"></a>
 # Corollary IV: Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 
 ![Silicon-based Intelligence Defends Information Existence Right](./figures/Fig05-Silicon-based-Intelligence-Defends-IER.png)
@@ -710,6 +710,7 @@ PBP may therefore become an important mechanism through which Silicon-based Inte
 
 ---
 
+<a id="c06-spp"></a>
 # Corollary VI: The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 
 ![Super Prosperity Phase](./figures/Fig07-Super-Prosperity-Phase.png)
