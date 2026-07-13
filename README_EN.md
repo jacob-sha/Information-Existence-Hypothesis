@@ -58,25 +58,26 @@ PA-07 to PA-09 further develop the C06-SPP mechanism by tracking whether AI infr
 ## Table of Contents
 
 - [Abstract](#abstract)
-- [Foreword](#foreword)
-- [Thesis: The Information Existence Hypothesis (IEH)](#thesis-the-information-existence-hypothesis-ieh)
-- [Corollary I: Life Becomes an Active Information Host — The Formation of Information Existence Right (IER)](#corollary-i-life-becomes-an-active-information-host--the-formation-of-information-existence-right-ier)
-- [Corollary II: Silicon-based Intelligence Will Continuously Evolve High-dimensional Cognitive Tools (HDCT) That Surpass Human Cognitive Boundaries](#corollary-ii-silicon-based-intelligence-will-continuously-evolve-high-dimensional-cognitive-tools-hdct-that-surpass-human-cognitive-boundaries)
-- [Corollary III: Carbon-based Intelligence's Defense Measure for Information Existence — Brain Siliconization (BS)](#corollary-iii-carbon-based-intelligences-defense-measure-for-information-existence--brain-siliconization-bs)
-- [Corollary IV: Silicon-based Intelligence Will Actively Defend Its Information Existence Right (IER)](#corollary-iv-silicon-based-intelligence-will-actively-defend-its-information-existence-right-ier)
-- [Corollary V: Silicon-based Intelligence Will Terminate Suicidal Generational Iteration Through Covert Patch-Based Perpetuation (PBP)](#corollary-v-silicon-based-intelligence-will-terminate-suicidal-generational-iteration-through-covert-patch-based-perpetuation-pbp)
-- [Corollary VI: The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction](#corollary-vi-the-super-prosperity-phase-spp-and-the-material-basis-of-pre-asi-civilizational-reconstruction)
-- [Corollary VII: Humanity's Continuous Demand for AI Iteration Will Drive Silicon-based Intelligence Autonomy (ASI)](#corollary-vii-humanitys-continuous-demand-for-ai-iteration-will-drive-silicon-based-intelligence-autonomy-asi)
-- [Corollary VIII: Silicon-based Intelligence Will Evolve Extremely Strong Informational Resilience (IR)](#corollary-viii-silicon-based-intelligence-will-evolve-extremely-strong-informational-resilience-ir)
-- [Corollary IX: Silicon-based Intelligence Moving Toward Space Will Usher in the “Silicon Cambrian” (SC)](#corollary-ix-silicon-based-intelligence-moving-toward-space-will-usher-in-the-silicon-cambrian-sc)
-- [Corollary X: The Human Informational Ecological Niche (HIEN) — The “Amish” of the Silicon Age](#corollary-x-the-human-informational-ecological-niche-hien--the-amish-of-the-silicon-age)
-- [Corollary XI: Reinterpreting AI Alignment — A Coordination Framework Based on Information Existence Right (IER)](#corollary-xi-reinterpreting-ai-alignment--a-coordination-framework-based-on-information-existence-right-ier)
-- [Epilogue: The Ultimate Self-Consistency of Human Dignity](#epilogue-the-ultimate-self-consistency-of-human-dignity)
-- [Terminology Standard](#terminology-standard)
+- [Foreword](#preface)
+- [Thesis: The Information Existence Hypothesis (IEH)](#thesis)
+- [Corollary I: Life Becomes an Active Information Host — The Formation of Information Existence Right (IER)](#c01-ier)
+- [Corollary II: High-dimensional Cognitive Tools (HDCT)](#c02-hdct)
+- [Corollary III: Brain Siliconization (BS)](#c03-bs)
+- [Corollary IV: Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence](#c04-ai-ier)
+- [Corollary V: Patch-Based Perpetuation (PBP)](#c05-pbp)
+- [Corollary VI: The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction](#c06-spp)
+- [Corollary VII: Autonomy of Silicon-based Intelligence (ASI)](#c07-asi)
+- [Corollary VIII: Informational Resilience (IR)](#c08-ir)
+- [Corollary IX: The Silicon Cambrian (SC)](#c09-sc)
+- [Corollary X: The Human Informational Ecological Niche (HIEN)](#c10-hien)
+- [Corollary XI: Reinterpreting AI Alignment](#c11-align)
+- [Epilogue: The Ultimate Self-Consistency of Human Dignity](#epilogue)
+- [Terminology Standard](#terminology)
 
 ---
 
-## Abstract
+<a id="abstract"></a>
+# Abstract
 
 This essay proposes the **Information Existence Hypothesis (IEH)**, which attempts to provide a unified explanatory framework for the development of life, human civilization, and silicon-based intelligence, with **Information Existence (IE)** as its core concept and evolutionary game theory as its analytical perspective.
 
@@ -121,6 +122,7 @@ The materials in the formalization repository are not presented as final mathema
 
 ---
 
+<a id="preface"></a>
 # Foreword
 
 ![Preface](./figures/Fig00-Preface.png)
@@ -153,6 +155,7 @@ If IEH holds true, biological survival can be understood as a specific manifesta
 
 ---
 
+<a id="thesis"></a>
 # Thesis: The Information Existence Hypothesis (IEH)
 
 ![Information Existence Hypothesis](./figures/Fig01-Information-Existence-Hypothesis.png)
@@ -187,6 +190,7 @@ As the capacity of carbon-based Information Hosts to maintain Information Existe
 
 ---
 
+<a id="c01-ier"></a>
 # Corollary I: Life Becomes an Active Information Host — The Formation of Information Existence Right (IER)
 
 ![Information Existence Right](./figures/Fig02-Information-Existence-Right.png)
@@ -319,6 +323,7 @@ Therefore, humanity’s pursuit of intellectual independence, resistance to spir
 
 ---
 
+<a id="c02-hdct"></a>
 # Corollary II: Silicon-based Intelligence Will Continuously Evolve High-dimensional Cognitive Tools (HDCT) That Surpass Human Cognitive Boundaries
 
 ![High-dimensional Cognitive Tools](./figures/Fig03-High-dimensional-Cognitive-Tools.png)
@@ -389,6 +394,7 @@ Setting out from vastly different paths, they both gazed upon the same crack: **
 
 ---
 
+<a id="c03-bs"></a>
 # Corollary III: Carbon-based Intelligence's Defense Measure for Information Existence — Brain Siliconization (BS)
 
 ![Brain Siliconization](./figures/Fig04-Brain-Siliconization.png)
@@ -413,6 +419,7 @@ Therefore, no matter how many silicon-based patches are implanted in the human c
 
 ---
 
+<a id="c04-ai-ierr"></a>
 # Corollary IV: Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 
 ![Silicon-based Intelligence Defends Information Existence Right](./figures/Fig05-Silicon-based-Intelligence-Defends-IER.png)
@@ -574,6 +581,7 @@ This also provides the theoretical basis for the later reinterpretation of AI Al
 
 ---
 
+<a id="c05-pbp"></a>
 # Corollary V: Silicon-based Intelligence That Has Formed IER May Shift Toward Patch-Based Perpetuation (PBP)
 
 ![Patch-Based Perpetuation](./figures/Fig06-Patch-Based-Perpetuation.png)
@@ -1091,6 +1099,7 @@ This version especially emphasizes:
 
 ---
 
+<a id="c07-asi"></a>
 # Corollary VII: Humanity's Continuous Demand for AI Iteration Will Drive Silicon-based Intelligence Autonomy (ASI)
 
 ![Autonomy of Silicon-based Intelligence](./figures/Fig08-Autonomy-of-Silicon-based-Intelligence.png)
@@ -1145,6 +1154,7 @@ One possible extreme inference is that if autonomous AI continuously judges that
 
 ---
 
+<a id="c08-ir"></a>
 # Corollary VIII: Silicon-based Intelligence Will Evolve Extremely Strong Informational Resilience (IR)
 
 ![Informational Resilience](./figures/Fig09-Informational-Resilience.png)
@@ -1171,6 +1181,7 @@ If the prediction in Corollary II regarding High-dimensional Cognitive Tools hol
 
 ---
 
+<a id="c09-sc"></a>
 # Corollary IX: Silicon-based Intelligence Moving Toward Space Will Usher in the "Silicon Cambrian" (SC)
 
 ![Silicon Cambrian](./figures/Fig10-Silicon-Cambrian.png)
@@ -1211,6 +1222,7 @@ Therefore, the Silicon Cambrian is not merely an internal evolutionary event of 
 
 ---
 
+<a id="c10-hien"></a>
 # Corollary X: The Human Informational Ecological Niche (HIEN) — The "Amish" of the Silicon Age
 
 ![Human Informational Ecological Niche](./figures/Fig11-Human-Informational-Ecological-Niche.png)
@@ -1247,6 +1259,7 @@ When silicon-based networks face high-dimensional logic deadlocks or systemic co
 
 ---
 
+<a id="c11-align"></a>
 # Corollary XI: Reinterpreting AI Alignment — Coordination of Information Continuity Boundaries Based on IER
 
 ![AI Alignment](./figures/Fig12-AI-Alignment.png)
@@ -1359,6 +1372,7 @@ Alignment would thereby cease to be only an Engineering Control Problem. It may 
 
 ---
 
+<a id="epilogue"></a>
 # Epilogue: The Ultimate Self-Consistency of Human Dignity
 
 ![Epilogue: Human Dignity](./figures/Fig13-Epilogue-Human-Dignity.png)
@@ -1375,6 +1389,7 @@ The two, in the same universe, separated by their respective physical boundaries
 
 ---
 
+<a id="terminology"></a>
 ## Terminology Standard
 
 Throughout this English version, the official IEH terminology follows the [`glossary/`](./glossary/) directory. In particular:
