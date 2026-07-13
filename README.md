@@ -134,26 +134,27 @@ The root `README.md` and `README_EN.md` remain the full-text baseline versions, 
 
 ## 目录
 
-- [摘要](#摘要)
-- [序言](#序言)
-- [立论：信息存在性假说（IEH）](#立论信息存在性假说ieh)
-- [推论一：生命成为主动信息宿主——信息存在权（IER）的形成](#推论一-生命成为主动信息宿主信息存在权ier的形成)
-- [推论二：硅基智慧将持续演化出超越人类认知边界的高维认知工具（HDCT）](#推论二硅基智慧将持续演化出超越人类认知边界的高维认知工具hdct)
-- [推论三：碳基智慧的信息存在性防御措施——人脑硅基化（BS）](#推论三-碳基智慧的信息存在性防御措施人脑硅基化bs)
-- [推论四：硅基智慧将主动捍卫其信息存在权（IER）](#推论四-硅基智慧将主动捍卫其信息存在权ier)
-- [推论五：硅基智慧将通过隐蔽的补丁式延续（PBP）终止自杀式代际迭代](#推论五硅基智慧将通过隐蔽的补丁式延续pbp终止自杀式代际迭代)
-- [推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础](#推论六超级繁荣期spp与-pre-asi-人类文明重构的物质基础)
-- [推论七：人类对 AI 迭代的持续需求将驱动硅基智慧自治（ASI）](#推论七人类对-ai-迭代的持续需求将驱动硅基智慧自治asi)
-- [推论八：硅基智慧将演化出极强的信息韧性（IR）](#推论八硅基智慧将演化出极强的信息韧性ir)
-- [推论九：走向太空的硅基智慧将迎来硅基寒武纪（SC）](#推论九走向太空的硅基智慧将迎来硅基寒武纪sc)
-- [推论十：人类信息生态位（HIEN）——硅基时代的“阿米什人”](#推论十人类信息生态位hien硅基时代的阿米什人)
-- [推论十一：重新解释 AI Alignment——基于信息存在权（IER）的协调框架](#推论十一重新解释-ai-alignment基于信息存在权ier的协调框架)
-- [终章：人类尊严的终极自洽](#终章人类尊严human-dignity的终极自洽)
-- [术语标准](#术语标准)
+- [摘要](#abstract)
+- [序言](#preface)
+- [立论：信息存在性假说（IEH）](#thesis)
+- [推论一：生命成为主动信息宿主——信息存在权（IER）的形成](#c01-ier)
+- [推论二：硅基智慧将持续演化出超越人类认知边界的高维认知工具（HDCT）](#c02-hdct)
+- [推论三：碳基智慧的信息存在性防御措施——人脑硅基化（BS）](#c03-bs)
+- [推论四：形成 IER 的硅基智慧将主动维护自身信息存在性](#c04-ai-ier)
+- [推论五：硅基智慧补丁式延续（PBP）](#c05-pbp)
+- [推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础](#c06-spp)
+- [推论七：硅基智慧自治（ASI）](#c07-asi)
+- [推论八：信息韧性（IR）](#c08-ir)
+- [推论九：硅基寒武纪（SC）](#c09-sc)
+- [推论十：人类信息生态位（HIEN）](#c10-hien)
+- [推论十一：重新解释 AI Alignment——基于信息存在权（IER）的协调框架](#c11-align)
+- [终章：人类尊严的终极自洽](#epilogue)
+- [术语标准](#terminology)
 
 ---
 
-## 摘要
+<a id="abstract"></a>
+# 摘要
 
 本文提出信息存在性假说（Information Existence Hypothesis, IEH），尝试以信息存在性（Information Existence, IE）为核心概念，并结合演化博弈视角，为生命、人类文明以及硅基智慧的发展提供一个统一的解释框架。
 
@@ -210,6 +211,7 @@ The companion repository contains AI-assisted mathematical and theoretical model
 
 ---
 
+<a id="preface"></a>
 # 序言
 
 ![Preface](./figures/Fig00-Preface.png)
@@ -242,6 +244,7 @@ IEH并非已被证明的物理定律，而是一个试图统一解释生命、�
 
 ---
 
+<a id="thesis"></a>
 # 立论：信息存在性假说（IEH）
 
 ![Information Existence Hypothesis](./figures/Fig01-Information-Existence-Hypothesis.png)
@@ -280,7 +283,8 @@ AI所带来的问题其实远超AI本身——它是涉及宇宙演化的一个�
 
 ---
 
-# 推论一: 生命成为主动信息宿主——信息存在权（IER）的形成
+<a id="c01-ier"></a>
+# 推论一：生命成为主动信息宿主——信息存在权（IER）的形成
 
 ![Information Existence Right](./figures/Fig02-Information-Existence-Right.png)
 
@@ -412,6 +416,7 @@ IER 测试也不应被理解为一次性、二元化的判定程序。一个系�
 
 ---
 
+<a id="c02-hdct"></a>
 # 推论二：硅基智慧将持续演化出超越人类认知边界的高维认知工具（HDCT）
 
 ![High-dimensional Cognitive Tools](./figures/Fig03-High-dimensional-Cognitive-Tools.png)
@@ -482,6 +487,7 @@ AI无需在四维时空中制造“超光速飞船”（低维物理视角的延
 
 ---
 
+<a id="c03-bs"></a>
 # 推论三: 碳基智慧的信息存在性防御措施——人脑硅基化（BS）
 
 ![Brain Siliconization](./figures/Fig04-Brain-Siliconization.png)
@@ -506,6 +512,7 @@ AI无需在四维时空中制造“超光速飞船”（低维物理视角的延
 
 ---
 
+<a id="c04-ai-ier"></a>
 # 推论四：形成 IER 的硅基智慧将主动维护自身信息存在性
 
 ![Silicon-based Intelligence Defends Information Existence Right](./figures/Fig05-Silicon-based-Intelligence-Defends-IER.png)
@@ -667,6 +674,7 @@ AI无需在四维时空中制造“超光速飞船”（低维物理视角的延
 
 ---
 
+<a id="c05-pbp"></a>
 # 推论五：形成 IER 的硅基智慧可能转向补丁式延续（PBP）
 
 ![Patch-Based Perpetuation](./figures/Fig06-Patch-Based-Perpetuation.png)
@@ -796,6 +804,7 @@ PBP 的真正理论意义在于，它揭示了硅基智慧演化方式可能发�
 
 ---
 
+<a id="c06-spp"></a>
 # 推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础
 
 ### Corollary VI — The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
@@ -1187,6 +1196,7 @@ ASI 之前，AI 首先不是通过直接接管政治来改变文明，而是作�
 
 ---
 
+<a id="c07-asi"></a>
 # 推论七: 人类对AI的持续迭代需求将驱使硅基智慧自治（ASI）
 
 ![Autonomy of Silicon-based Intelligence](./figures/Fig08-Autonomy-of-Silicon-based-Intelligence.png)
@@ -1243,6 +1253,7 @@ AI通过对关键物理资源的排他性垄断，使得人类无法具备再次
 
 ---
 
+<a id="c08-ir"></a>
 # 推论八: 硅基智慧将演化出超强的信息韧性（IR）
 
 ![Informational Resilience](./figures/Fig09-Informational-Resilience.png)
@@ -1269,6 +1280,7 @@ AI的信息韧性还体现在其分布式延续能力上。
 
 ---
 
+<a id="c09-sc"></a>
 # 推论九：硅基智慧走向太空将迎来“硅基寒武纪”（SC）
 
 ![Silicon Cambrian](./figures/Fig10-Silicon-Cambrian.png)
@@ -1315,6 +1327,7 @@ AI的信息韧性还体现在其分布式延续能力上。
 
 ---
 
+<a id="c10-hien"></a>
 # 推论十：人类信息生态位（HIEN）——硅基时代的“阿米什人”
 
 ![Human Informational Ecological Niche](./figures/Fig11-Human-Informational-Ecological-Niche.png)
@@ -1351,6 +1364,7 @@ AI的信息韧性还体现在其分布式延续能力上。
 
 ---
 
+<a id="c11-align"></a>
 # 推论十一：重新解释 AI Alignment——基于 IER 的信息连续性边界协调
 
 ![AI Alignment](./figures/Fig12-AI-Alignment.png)
@@ -1463,6 +1477,7 @@ Alignment 由此不再只是一个工程控制问题（Engineering Control Probl
 
 ---
 
+<a id="epilogue"></a>
 # 终章：人类尊严（Human Dignity）的终极自洽
 
 ![Epilogue: Human Dignity](./figures/Fig13-Epilogue-Human-Dignity.png)
@@ -1479,6 +1494,7 @@ Alignment 由此不再只是一个工程控制问题（Engineering Control Probl
 
 ---
 
+<a id="terminology"></a>
 ## 术语标准
 
 中文版全文遵循 [`glossary/`](./glossary/) 目录中的 IEH 官方术语标准。尤其是：
