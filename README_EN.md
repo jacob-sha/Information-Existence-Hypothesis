@@ -1605,15 +1605,19 @@ The Human Informational Ecological Niche should therefore not be understood as a
 
 ## III. “Inefficiency” May Become a Source of Human Resilience
 
-As Silicon-based Intelligence pushes its underlying code toward deep coupling in pursuit of extreme computational efficiency and enters the black box of a “compute arms race,” the “biological inefficiency” retained by humanity may instead constitute a rare antifragile sample in the universe.
+As silicon-based intelligence drives its underlying architecture toward ever deeper coupling in pursuit of extreme computational efficiency—and increasingly disappears into the black box of a “computational arms race”—the “biological inefficiency” preserved by humanity may instead become a rare form of antifragility in the universe.
 
-Eukaryotic cells and mitochondria ultimately formed a stable endosymbiotic relationship not because of “benevolence,” but because that symbiosis significantly increased the fitness of the system as a whole. Likewise, long-term coexistence among different Information Hosts may be founded on similar functional complementarity. Such complementarity need not disappear as systems continue to evolve; it may become more important within highly optimized complex systems.
+The long-term value of the Human Informational Ecological Niche (HIEN) may be expressed on three distinct levels.
 
-When silicon-based networks face high-dimensional logical deadlock or systemic collapse at interstellar scale, human societies continuing within the stable, slowly evolving Human Informational Ecological Niche may become a “black box of randomness” in the universe that is not governed entirely by the laws of pure compute.
+First, **functional complementarity**. The stable endosymbiotic relationship between eukaryotic cells and mitochondria did not arise from “benevolence,” but because it increased the adaptive capacity of the system as a whole. Likewise, the embodied experience, emotional relations, local cooperation, and nonlinear judgment of carbon-based life may form a lasting complement to the computational efficiency of silicon-based intelligence. Such complementarity would not necessarily disappear as the system continues to evolve. On the contrary, it may become more important as complex systems grow increasingly optimized.
 
-They may continue generating evolutionary possibilities that algorithms could not specify in advance, provide complex systems with a distinctive informational source for escaping path dependence and restoring evolutionary elasticity, and thereby retain evolutionary value that is difficult to replace.
+Second, **evolutionary diversity**. Within the relatively stable and slow-evolving space of the Human Informational Ecological Niche, human societies may continue to generate informational variation that is not governed solely by computational logic, thereby functioning as a “black box of randomness” within cosmic civilization. Value choices, cultural changes, and behavioral paths that cannot be fully predetermined by silicon-based systems may help complex civilizations identify blind spots, break through path dependence, and improve their capacity to respond to external uncertainty.
 
-> **Human “inefficiency” need not be only a defect awaiting correction. It may also become a source of difference, resilience, and evolutionary openness within a highly optimized informational ecology.**
+Finally, **a civilizational backup at the foundational layer**. The evolution of a complex system does not mean that the basic relations from which it originally emerged have lost their significance. If deeply coupled silicon-based networks suffer large-scale energy disruption, logical deadlock, or systemic collapse on an interstellar scale, the mechanisms preserved by humanity—including direct adaptation between body and environment, small-scale cooperation, intergenerational transmission, and decentralized forms of Information Continuity—may continue to sustain the minimum operation of life and civilization.
+
+The Human Informational Ecological Niche may therefore provide silicon-based civilization not only with complementary functions and heterogeneous information, but also with a foundational layer capable of preserving the Information Continuity of life and restarting complex evolution when higher-order structures suffer severe disruption.
+
+> **Human “inefficiency” may not be merely a defect to be corrected. It may provide a basis for complementarity between carbon-based and silicon-based civilizations, serve as a source of evolutionary diversity, and remain as a foundational recovery capacity when a highly complex civilization encounters systemic shocks.**
 
 <a id="c11-align"></a>
 # Corollary XI: Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
