@@ -5,12 +5,14 @@
 **Status:** Preliminary and revisable  
 **Relation to IEH:** Biological compatibility with nested Information Structures and a prerequisite of cross-host Information Continuity, not proof of life or IER  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
-**Date:** 2026-07-17  
+**Version:** v0.2 — archive-safe edition  
+**Date revised:** 2026-07-19  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative claim that “genes are alive,” a complete theory of biological individuality, a comprehensive comparison among viruses, plasmids, transposons, introns, cells, organisms, and civilizations, and a publication-ready account of evolution as cross-host information ecology. Any future article should be independently written from the primary research and the underlying IEH framework rather than expanded directly from this note.
 
-> **Source-use boundary:** No substantial passage from the source paper is reproduced. The study is recorded through compact factual summaries, evidence classification, competing explanations, and independently derived IEH predictions. The article, figures, supplementary materials, and experimental data remain attributable to their authors and publisher.
+> **Source-use boundary:** This note records only the original peer-reviewed article and its deposited primary sequence dataset. PubMed indexing, media coverage, background papers cited by the article, and internal IEH links are excluded from the external evidence record. No substantial passage from the primary source is reproduced.
+
+> **Revision record — v0.2:** PubMed indexing, the media-discovery note, background references and internal IEH links were removed under the repository-wide primary-source rule. No adverse primary finding was deleted. The revision retains and emphasizes that the recipient cells were interpreted as dead, the event was rare, no genomic integration or recipient-lineage replication was shown, active maintenance was absent, and passive leakage, necromass trapping, differential degradation and probe artefact remain competing explanations.
 
 ---
 
@@ -21,12 +23,14 @@
 **状态：** 初步记录，可随复现研究修订  
 **与 IEH 的关系：** 与嵌套信息结构及跨宿主信息连续性的前置条件相容，而非生命或 IER 的证明  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
-**日期：** 2026-07-17  
+**版本：** v0.2 — 投稿隔离版  
+**修订日期：** 2026-07-19  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开“基因是否是生命”的叙事性论证、生物个体性的完整哲学分析、病毒、质粒、转座子、内含子、细胞、个体与文明之间的系统比较，以及把演化解释为跨宿主信息生态的可直接投稿论证。未来文章应重新阅读原始研究，并基于 IEH 基础理论独立建立结构和语言，而不应由本笔记直接扩写。
 
-> **来源使用边界：** 本文件不复制原论文的大段表达，只通过简短事实摘要、证据分级、竞争性解释和 IEH 独立预测记录研究现象。原论文、图表、补充材料和实验数据归其作者及发布方。
+> **来源使用边界：** 本笔记只记录经同行评审的原始论文及其公开存储的原始序列数据。PubMed 索引、媒体报道、论文引用的背景研究和 IEH 内部链接不进入外部证据记录。本文件不复制原始出处的大段表达。
+
+> **v0.2 修订记录：** 按照证据仓“只记录原始出处”规则，删除 PubMed 索引、媒体发现说明、背景文献和 IEH 内部链接。没有删除任何不利原始发现；本版继续保留并强化以下限制：接受细胞被解释为死亡细胞、事件频率极低、没有证明基因组整合或接受者谱系复制、没有主动维护，并且被动泄漏、死亡生物质截留、差异降解和探针伪影仍是竞争性解释。
 
 ---
 
@@ -41,9 +45,8 @@
 - **Published:** 2026-05-07
 - **DOI:** 10.1038/s41598-026-51721-6
 - **Primary URL:** https://www.nature.com/articles/s41598-026-51721-6
-- **PubMed:** https://pubmed.ncbi.nlm.nih.gov/42098263/
 - **Material type:** Biological observation in a long-term methanogenic enrichment culture, using CARD-FISH and metatranscriptome reanalysis
-- **Evidence class in IEH repository:** External biological observational and cross-host-transfer evidence
+- **Evidence class in IEH repository:** External biological observational evidence of cross-host molecular entry and accumulation
 - **Independent replication status:** Not established in this note
 - **Data record:** NCBI Sequence Read Archive SRR30230645
 
@@ -54,10 +57,6 @@
 - **Information Structure:** A group I intron located in the bacterial predator’s 23S ribosomal RNA gene
 - **Observed molecular form:** Intron RNA detected by CARD-FISH
 - **Observed recipient-cell condition:** Archaeal cells interpreted as dead or severely nonviable, including absence of detectable archaeal 16S rRNA while DNA could remain detectable
-
-### Associated media coverage
-
-News reports about “jumping genes crossing species” are treated only as discovery leads. They are not used as the evidential foundation of this note. The primary paper controls all factual classification.
 
 ### IEH terminology used in this note
 
@@ -84,9 +83,8 @@ News reports about “jumping genes crossing species” are treated only as disc
 - **发表日期：** 2026-05-07
 - **DOI：** 10.1038/s41598-026-51721-6
 - **原始链接：** https://www.nature.com/articles/s41598-026-51721-6
-- **PubMed：** https://pubmed.ncbi.nlm.nih.gov/42098263/
 - **材料性质：** 在长期甲烷生成富集培养物中进行的生物观察研究，使用 CARD-FISH 并重新分析宏转录组数据
-- **在 IEH 证据仓中的类别：** 外部生物观察证据与跨宿主迁移证据
+- **在 IEH 证据仓中的类别：** 外部生物观察证据，以及跨宿主分子进入与积累证据
 - **独立复现状态：** 本笔记未确认
 - **数据记录：** NCBI Sequence Read Archive SRR30230645
 
@@ -97,10 +95,6 @@ News reports about “jumping genes crossing species” are treated only as disc
 - **信息结构：** 位于捕食性细菌 23S 核糖体 RNA 基因中的 group I intron
 - **观察到的分子形式：** 通过 CARD-FISH 检测到的内含子 RNA
 - **接受细胞状态：** 被解释为死亡或严重失活的古菌细胞，包括检测不到古菌 16S rRNA、但仍可能检测到 DNA 的细胞
-
-### 相关媒体报道
-
-关于“跳跃基因跨越物种”的新闻报道只作为发现研究的线索，不构成本笔记的证据基础。所有事实分级以原论文为准。
 
 ### 本笔记使用的 IEH 术语
 
@@ -170,7 +164,7 @@ The following entries are compact summaries of the source study. They are not qu
 |---|---|
 | Evidence type | Biological observational evidence with molecular localization and transcriptomic support |
 | Research setting | Long-term methanogenic enrichment culture |
-| Directness to cross-host information transfer | Direct |
+| Directness to cross-host molecular entry | Direct within the reported culture and localization method |
 | Directness to nested Information Structures | Medium to direct |
 | Directness to cross-host Information Continuity | Preliminary prerequisite only |
 | Directness to the IEH definition of life | Indirect to medium |
@@ -188,7 +182,7 @@ The following entries are compact summaries of the source study. They are not qu
 
 The strongest currently defensible classification is:
 
-> The study provides direct observational evidence that a mobile intron RNA originating in one cellular organism can leave its source host and be detected inside cells of a different organism. Under IEH, this is compatible with the separability of an Information Structure from a single host and with an early prerequisite of cross-host Information Continuity.
+> The study provides direct observational evidence, within its culture and localization framework, that a mobile intron RNA originating in one cellular organism can be detected inside cells of a different organism. Under IEH, this is compatible with the separability of an Information Structure from a single host and with an early prerequisite of cross-host Information Continuity.
 
 The evidence does **not** establish:
 
@@ -222,13 +216,27 @@ It does not establish the later stages.
 
 ---
 
+### Adverse or non-supportive evidence retained
+
+The revision explicitly retains the following constraints from the primary research:
+
+- recipient archaeal cells carrying the signal were interpreted as dead or severely nonviable;
+- signal-positive recipient cells were rare;
+- the study did not demonstrate stable integration into the recipient genome;
+- no replication in viable recipient descendants was observed;
+- no cross-generational inheritance was established;
+- no active threat recognition, host selection or self-maintenance by the intron was shown;
+- passive leakage, trapping in necromass, differential degradation and probe artefact remain viable alternatives;
+- independent replication is not established.
+
+
 ## 3. IEH 证据分级
 
 | 维度 | 当前分级 |
 |---|---|
 | 证据类型 | 具有分子定位和转录组支持的生物观察证据 |
 | 研究环境 | 长期甲烷生成富集培养物 |
-| 与跨宿主信息迁移的直接程度 | 直接 |
+| 与跨宿主分子进入的直接程度 | 在报告的培养系统和定位方法内为直接 |
 | 与嵌套信息结构的直接程度 | 中等至直接 |
 | 与跨宿主信息连续性的直接程度 | 仅为初步前置条件 |
 | 与 IEH 生命定义的直接程度 | 间接至中等 |
@@ -279,6 +287,20 @@ It does not establish the later stages.
 它没有建立后续阶段。
 
 ---
+### 保留的不利或不支持性证据
+
+本次修订明确保留原始研究中的以下约束：
+
+- 带有信号的接受古菌细胞被解释为死亡或严重失活；
+- 阳性接受细胞极为稀少；
+- 研究没有证明稳定整合进接受者基因组；
+- 没有观察到在存活接受者后代中的复制；
+- 没有建立跨代遗传；
+- 没有显示内含子主动识别威胁、选择宿主或进行自我维护；
+- 被动泄漏、死亡生物质截留、差异降解和探针伪影仍是可行替代解释；
+- 尚未建立独立复现。
+
+
 ## 4. Core IEH Inference
 
 ### 4.1 Information Structure and host are not one-to-one
@@ -1498,29 +1520,8 @@ Any future article should independently reconstruct its claims, biological liter
 1. Kizina, Jana, Almud Lonsing, and Jens Harder. *Mobile intron RNA from a bacterial predator accumulates in dead archaeal cells*. Scientific Reports 16, 14654 (2026).  
    https://doi.org/10.1038/s41598-026-51721-6
 
-2. Full-text article page.  
-   https://www.nature.com/articles/s41598-026-51721-6
-
-3. PubMed record, PMID 42098263.  
-   https://pubmed.ncbi.nlm.nih.gov/42098263/
-
-4. Kizina, J. et al. *Methanosaeta and Candidatus Velamenicoccus archaeovorus*. Applied and Environmental Microbiology 88, e02407-21 (2022).  
-   Cited by the primary study as prior characterization of the enrichment culture and predator–victim interaction.
-
-5. Lonsing, A. et al. *Anaerobic limonene metabolism in a methanogenic enrichment involves a glycine radical enzyme*. Environmental Microbiology 27, e70192 (2025).  
-   Cited by the primary study for the enrichment-culture metatranscriptome.
-
-6. NCBI Sequence Read Archive dataset SRR30230645.  
+2. NCBI Sequence Read Archive. SRR30230645. Primary metatranscriptomic data associated with the study.  
    https://www.ncbi.nlm.nih.gov/sra/SRR30230645
-
-7. Information Existence Hypothesis repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis
-
-8. IEH Terminology and Definitions.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis/tree/main/glossary
-
-9. Information Existence Hypothesis Formalization repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization
 
 ---
 

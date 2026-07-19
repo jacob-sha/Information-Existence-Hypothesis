@@ -5,12 +5,14 @@
 **Status:** Preliminary and revisable  
 **Relation to IEH:** Possible mechanistic pathway toward C02-HDCT, not proof  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
-**Date:** 2026-07-17  
+**Version:** v0.2 — archive-safe edition  
+**Date revised:** 2026-07-19  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative account of machine creativity, a developed philosophy of artificial invention, a comprehensive comparison between human imagination and generative models, a full theory of High-dimensional Cognitive Tools, and a publication-ready argument about silicon-based scientific cognition. Any future article should be independently written from the primary research and the underlying IEH framework rather than expanded directly from this note.
 
-> **Source-use boundary:** No substantial passage from the source paper or associated Google Research exposition is reproduced. The research is recorded through compact factual summaries, evidence classification, competing explanations, and independently derived IEH predictions. The paper, terminology, figures, code, and explanatory materials remain attributable to their respective author and publishers.
+> **Source-use boundary:** This note records only the accepted ICLR 2026 paper and its associated primary code artifact. The Google Research exposition, conference listing, duplicate arXiv record, news coverage and internal IEH links are excluded from the external evidence record. No substantial passage from the primary source is reproduced.
+
+> **Revision record — v0.2:** Secondary and duplicate source entries were removed under the repository-wide primary-source rule. No adverse primary finding was deleted. The revision retains and emphasizes that the strongest analysis concerns uniformly distributed data in a one-dimensional subspace, extensions are limited to simple nonlinear manifolds, interpolation is not extrapolation or semantic understanding, and independent replication is not established.
 
 ---
 
@@ -21,12 +23,14 @@
 **状态：** 初步记录，可随复现研究修订  
 **与 IEH 的关系：** C02-HDCT 的可能机制路径，而非理论证明  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
-**日期：** 2026-07-17  
+**版本：** v0.2 — 投稿隔离版  
+**修订日期：** 2026-07-19  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开机器创造力的叙事性论证、人工发明的完整哲学解释、人类想象力与生成模型的系统比较、高维认知工具的完整理论，以及关于硅基科学认知的可直接投稿论证。未来文章应重新阅读原始研究，并基于 IEH 基础理论独立建立结构和语言，而不应由本笔记直接扩写。
 
-> **来源使用边界：** 本文件不复制原论文或 Google Research 官方解读中的大段表达，只通过简短事实摘要、证据分级、竞争性解释和 IEH 独立预测记录研究现象。原论文、术语、图表、代码及解读材料归其作者和发布方。
+> **来源使用边界：** 本笔记只记录 ICLR 2026 录用论文及其配套原始代码。Google Research 解读、会议索引页、重复 arXiv 版本、新闻报道和 IEH 内部链接不进入外部证据记录。本文件不复制原始出处的大段表达。
+
+> **v0.2 修订记录：** 按照证据仓“只记录原始出处”规则，删除二次解读和重复来源。没有删除任何不利原始发现；本版继续保留并强化以下限制：最强分析主要针对均匀分布于一维子空间的数据；扩展只涉及简单非线性流形；插值不等于外推或语义理解；尚未建立独立复现。
 
 ---
 
@@ -40,25 +44,15 @@
 - **Presentation type:** Poster
 - **Year:** 2026
 - **OpenReview URL:** https://openreview.net/forum?id=O33LAUliUF
-- **arXiv URL:** https://arxiv.org/abs/2502.19499
 - **Material type:** Learning-theory analysis with analytical solutions and numerical experiments
 - **Evidence class in IEH repository:** External theoretical-mechanism and numerical-experiment evidence
 - **Independent replication status:** Not established in this note
 
-### Associated official research exposition
-
-- **Title:** *Towards demystifying the creativity of diffusion models*
-- **Author:** Zhengdao Chen
-- **Publisher:** Google Research
-- **Date:** 2026-07-15
-- **URL:** https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
-- **Role in this note:** Official explanatory material associated with the primary research; not a substitute for the paper
-
-### Associated code
+### Associated primary code artifact
 
 - **Repository:** `google-research/diffusion-score-smoothing`
 - **URL:** https://github.com/google-research/diffusion-score-smoothing
-- **Role:** Numerical-experiment notebook associated with the paper
+- **Role:** Primary computational artifact supporting the paper’s numerical experiments
 
 ### IEH terminology used in this note
 
@@ -80,25 +74,15 @@
 - **展示类型：** Poster
 - **年份：** 2026
 - **OpenReview 链接：** https://openreview.net/forum?id=O33LAUliUF
-- **arXiv 链接：** https://arxiv.org/abs/2502.19499
 - **材料性质：** 包含解析解和数值实验的学习理论研究
 - **在 IEH 证据仓中的类别：** 外部理论机制证据与数值实验证据
 - **独立复现状态：** 本笔记未确认
 
-### 相关官方研究解读
-
-- **标题：** *Towards demystifying the creativity of diffusion models*
-- **作者：** Zhengdao Chen
-- **发布平台：** Google Research
-- **日期：** 2026-07-15
-- **链接：** https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
-- **在本笔记中的作用：** 与原论文配套的官方解释材料，不能替代原论文
-
-### 相关代码
+### 配套原始代码
 
 - **代码仓：** `google-research/diffusion-score-smoothing`
 - **链接：** https://github.com/google-research/diffusion-score-smoothing
-- **作用：** 与论文数值实验相关的 notebook
+- **作用：** 支持论文数值实验的原始计算材料
 
 ### 本笔记使用的 IEH 术语
 
@@ -112,7 +96,7 @@
 
 ## 2. Minimal Finding Index
 
-The following entries are compact summaries of the primary research and associated official exposition. They are not quotations and do not substitute for reading the original materials.
+The following entries are compact summaries of the primary research. They are not quotations and do not substitute for reading the original paper and code.
 
 | ID | Reported research feature | Minimal relevance to IEH |
 |---|---|---|
@@ -123,14 +107,14 @@ The following entries are compact summaries of the primary research and associat
 | F5 | The study presents theoretical and empirical evidence that neural networks can learn smoother score functions, including through explicit regularization. | Neural-network learning dynamics may naturally construct internal transformations that generalize beyond individual samples. |
 | F6 | Experiments also indicate that smoothing-like effects can arise without explicit regularization, through properties of gradient-based neural-network training. | The mechanism may not depend exclusively on a manually imposed regularizer. |
 | F7 | Related effects are reported in simple nonlinear-manifold settings. | The mechanism may extend beyond a strictly linear one-dimensional example, although broad high-dimensional generality is not established. |
-| F8 | The official exposition describes direction-dependent smoothing in multidimensional settings: movement toward the manifold may be retained while collapse along tangential directions is reduced. | Internal dynamics may simultaneously preserve structural validity and permit novelty within an inferred state space. |
+| F8 | The primary paper reports direction-dependent smoothing effects in its studied multidimensional and manifold settings: movement toward the manifold may be retained while collapse along tangential directions is reduced. | Internal dynamics may simultaneously preserve structural validity and permit novelty within an inferred state space. |
 | F9 | The authors describe the work as an initial effort and leave more complex data distributions and architectures unresolved. | The evidential scope remains limited and preliminary. |
 
 ---
 
 ## 2. 最小事实索引
 
-以下内容只是对原论文及其官方解读所报告内容的压缩记录，不是直接引述，也不能替代阅读原始材料。
+以下内容只是对原始论文所报告内容的压缩记录，不是直接引述，也不能替代阅读原始论文和代码。
 
 | 编号 | 研究报告的特征 | 与 IEH 的最低限度关联 |
 |---|---|---|
@@ -141,7 +125,7 @@ The following entries are compact summaries of the primary research and associat
 | F5 | 研究提供理论和实验证据，说明神经网络可以学得较平滑的分数函数，包括通过显式正则化形成这种效果。 | 神经网络学习过程可能自然形成能够超越单个样本进行泛化的内部变换。 |
 | F6 | 实验还显示，即使没有显式正则化，基于梯度的神经网络训练也可能产生类似平滑效应。 | 该机制可能并不完全依赖人工指定的正则化器。 |
 | F7 | 研究在简单非线性流形条件中也报告了相关效应。 | 该机制可能超越严格线性的一维案例，但尚未建立广泛的高维普适性。 |
-| F8 | 官方解读将多维条件中的平滑描述为具有方向差异：系统仍可向流形移动，同时减少沿切向方向向训练样本坍缩。 | 内部动力学可能在维持结构有效性的同时，允许在推断出的状态空间内部产生新颖性。 |
+| F8 | 原始论文在其研究的多维和流形条件中报告了方向不同的平滑效应：系统仍可向流形移动，同时减少沿切向方向向训练样本坍缩。 | 内部动力学可能在维持结构有效性的同时，允许在推断出的状态空间内部产生新颖性。 |
 | F9 | 作者将该工作定位为初步研究，并明确保留复杂数据分布和复杂神经网络架构的问题。 | 当前证据范围有限，仍属初步。 |
 
 ---
@@ -179,6 +163,19 @@ The transition from the reported mechanism to HDCT would require additional evid
 
 ---
 
+### Adverse or non-supportive evidence retained
+
+The revision explicitly retains the following constraints from the primary research:
+
+- the central analytical setting is highly simplified;
+- the strongest results concern data uniformly distributed in a one-dimensional subspace;
+- nonlinear-manifold evidence remains simple and limited;
+- novelty can be explained as interpolation within learned structure;
+- the mechanism does not establish semantic understanding, scientific discovery or useful extrapolation;
+- the representation, objective and data space are human-defined;
+- independent replication is not established.
+
+
 ## 3. IEH 证据分级
 
 | 维度 | 当前分级 |
@@ -211,6 +208,19 @@ The transition from the reported mechanism to HDCT would require additional evid
 从该机制过渡到 HDCT，还需要证明类似内部结构能够在复杂领域中支持一般化建模、预测、推理、优化和决策。
 
 ---
+
+### 保留的不利或不支持性证据
+
+本次修订明确保留原始研究中的以下约束：
+
+- 核心解析条件高度简化；
+- 最强结果主要针对均匀分布于一维子空间的数据；
+- 非线性流形证据仍然简单且有限；
+- 新颖输出可以被解释为在学得结构内进行插值；
+- 该机制不能建立语义理解、科学发现或有效外推；
+- 表示空间、目标和数据空间均由人类设定；
+- 尚未建立独立复现。
+
 
 ## 4. Core IEH Inference
 
@@ -300,7 +310,7 @@ The latter can become more informationally powerful because it supports navigati
 
 ### 4.3 Possible connection to latent-manifold recovery
 
-The official exposition describes the multidimensional problem as one in which meaningful data occupy a small manifold within a much larger ambient space.
+The primary paper treats the multidimensional problem as one in which meaningful data occupy a small manifold within a much larger ambient space.
 
 A limited IEH interpretation is:
 
@@ -686,7 +696,7 @@ The output can be interpreted as recombination or interpolation of existing info
 
 ### 6.9 Expository framing
 
-The Google Research article uses “creativity” in an operational sense—generating novel data rather than memorizing the training set. Philosophical or psychological meanings of creativity should not be imported into the evidence classification.
+The Primary paper uses “creativity” in an operational sense—generating novel data rather than memorizing the training set. Philosophical or psychological meanings of creativity should not be imported into the evidence classification.
 
 ### Current evidential rule
 
@@ -738,7 +748,7 @@ The HDCT interpretation should become stronger only if later research demonstrat
 
 ### 6.9 官方解读中的表达边界
 
-Google Research 文章中的“创造力”具有操作性含义，即生成新数据而不是记忆训练集。不能把哲学或心理学意义上的创造力直接带入证据分级。
+原始论文中的“创造力”具有操作性含义，即生成新数据而不是记忆训练集。不能把哲学或心理学意义上的创造力直接带入证据分级。
 
 ### 当前证据规则
 
@@ -1508,29 +1518,11 @@ Any future article should independently reconstruct its title, thesis, examples,
 
 ## 12. References
 
-1. Chen, Zhengdao. *On the Interpolation Effect of Score Smoothing in Diffusion Models*. The Fourteenth International Conference on Learning Representations, 2026.  
+1. Chen, Zhengdao. *On the Interpolation Effect of Score Smoothing in Diffusion Models*. ICLR 2026.  
    https://openreview.net/forum?id=O33LAUliUF
 
-2. Chen, Zhengdao. *On the Interpolation Effect of Score Smoothing in Diffusion Models*. arXiv:2502.19499.  
-   https://arxiv.org/abs/2502.19499
-
-3. Chen, Zhengdao. *Towards demystifying the creativity of diffusion models*. Google Research, 2026-07-15.  
-   https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/
-
-4. ICLR 2026 poster page: *On the Interpolation Effect of Score Smoothing in Diffusion Models*.  
-   https://iclr.cc/virtual/2026/poster/10009816
-
-5. Google Research code repository: `diffusion-score-smoothing`.  
+2. Chen, Zhengdao. `diffusion-score-smoothing`. Primary code artifact associated with the paper.  
    https://github.com/google-research/diffusion-score-smoothing
-
-6. Information Existence Hypothesis repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis
-
-7. IEH Terminology and Definitions.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis/tree/main/glossary
-
-8. Information Existence Hypothesis Formalization repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization
 
 ---
 

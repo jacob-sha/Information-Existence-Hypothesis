@@ -3,14 +3,17 @@
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
 **Status:** Preliminary and revisable  
-**Relation to IEH:** Mechanistic compatibility, not proof  
+**Relation to IEH:** Internal-organization evidence and possible mechanistic precursor; not evidence of stable IER or consciousness  
+**Primary IEH concept:** Internal Information Organization / proto-IER precursor  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.4 — archive-safe edition  
-**Date revised:** 2026-07-16  
+**Version:** v0.5 — archive-safe edition  
+**Date revised:** 2026-07-19  
 
-> **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative opening, extended philosophy-of-mind discussion, comprehensive comparison with consciousness theories, developed Silicon Cambrian argument, and publication-ready conclusion. Any future article should be independently written from the primary sources and the underlying IEH framework rather than adapted from this note.
+> **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative philosophy-of-mind essay, a comprehensive comparison among consciousness theories, a developed Silicon Cambrian argument, and a publication-ready conclusion.
 
-> **Source-use boundary:** No substantial passage from the source research is reproduced. The findings are recorded through short factual summaries, evidence classification, competing explanations, and independent IEH-derived predictions. The source research, terminology, figures, and experimental materials remain attributable to their respective authors and publishers.
+> **Source-use boundary:** This note records only the most authoritative primary source: the original technical research article. The associated institutional summary and all news or secondary discussions are excluded from the evidence record.
+
+> **Revision record — v0.5:** The source list was reduced to the original technical article. No adverse primary finding was removed. The revision explicitly adds or strengthens the source’s non-supportive findings: the J-space is present in a base model without a clear self, many automatic computations bypass it, the Jacobian Lens is incomplete and sometimes uninterpretable, the transformer mechanism differs materially from a human global workspace, and independent replication is not established.
 
 ---
 
@@ -19,86 +22,93 @@
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 初步记录，可随复现研究修订  
-**与 IEH 的关系：** 机制相容性，而非理论证明  
+**与 IEH 的关系：** 内部信息组织证据及可能机制前提；不是稳定 IER 或意识的证据  
+**主要 IEH 概念：** 内部信息组织 / proto-IER 机制前提  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.4 — 投稿隔离版  
-**修订日期：** 2026-07-16  
+**版本：** v0.5 — 投稿隔离版  
+**修订日期：** 2026-07-19  
 
-> **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开叙事性开头、意识哲学讨论、与其他意识理论的完整比较、硅基寒武纪论证及可直接投稿的结论。未来文章应重新阅读原始研究，并基于 IEH 基础理论独立建立结构和语言，而不应由本笔记直接扩写。
+> **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开意识哲学叙事、不同意识理论的系统比较、硅基寒武纪论证和可直接投稿的结论。
 
-> **来源使用边界：** 本文件不复制原研究的大段表达，只通过简短事实摘要、证据分级、竞争性解释和 IEH 独立预测记录研究现象。原研究的术语、图表、实验材料及具体表达归其各自作者和发布方。
+> **来源使用边界：** 本笔记只记录最权威的原始出处，即原始技术研究论文。相关机构摘要、新闻和其他二次讨论不进入证据记录。
+
+> **v0.5 修订记录：** 来源列表缩减为原始技术论文。没有删除任何不利的原始发现；本版反而明确补充或强化以下限制：J-space 在没有清晰“自我”的基础模型中已经存在；许多自动计算绕过 J-space；Jacobian Lens 不完整且部分读数不可解释；Transformer 机制与人类全局工作空间存在重要差异；尚未建立独立复现。
 
 ---
 
 ## 1. Source Record
 
-### Primary research
-
-- **Anthropic Research:** *A Global Workspace in Language Models*
-- **Technical article:** *Verbalizable Representations Form a Global Workspace in Language Models*
-- **Publisher / venue:** Anthropic Research and Transformer Circuits
-- **Year:** 2026
-- **Primary URLs:**
-  - https://www.anthropic.com/research/global-workspace
-  - https://transformer-circuits.pub/2026/workspace/index.html
-- **Material type:** Mechanistic-interpretability research
-- **Evidence class in IEH repository:** External internal-mechanism evidence
+- **Title:** *Verbalizable Representations Form a Global Workspace in Language Models*
+- **Authors:** Wes Gurnee, Nicholas Sofroniew, Adam Pearce, Mateusz Piotrowski, Isaac Kauvar, Runjin Chen, Anna Soligo, Paul Bogdan, Euan Ong, Rowan Wang, T. Ben Thompson, David Abrahams, Subhash Kantamneni, Emmanuel Ameisen, Joshua Batson, Jack Lindsey
+- **Venue:** Transformer Circuits Thread
+- **Publication date:** 2026-07-06
+- **Primary URL:** https://transformer-circuits.pub/2026/workspace/index.html
+- **Material type:** Mechanistic-interpretability research with causal interventions
+- **Evidence class:** External internal-mechanism evidence
 - **Independent replication status:** Not established in this note
 
-### IEH terminology used in this note
+### Archival source rule
 
-- **IER:** Information Existence Right
-- **proto-IER:** a proposed pre-form in which some informational structures begin to acquire special functional relevance to a system’s future states, without yet demonstrating active self-preservation or full informational continuity
+Only the original technical article is recorded as the external source. The associated Anthropic research summary is omitted because it is an institutional exposition of the same work rather than an independent primary study.
 
 ---
 
 ## 1. 来源记录
 
-### 主要研究
-
-- **Anthropic Research：** *A Global Workspace in Language Models*
-- **技术论文：** *Verbalizable Representations Form a Global Workspace in Language Models*
-- **发布平台：** Anthropic Research 与 Transformer Circuits
-- **年份：** 2026
-- **原始链接：**
-  - https://www.anthropic.com/research/global-workspace
-  - https://transformer-circuits.pub/2026/workspace/index.html
-- **材料性质：** 机制可解释性研究
-- **在 IEH 证据仓中的类别：** 外部内部机制证据
+- **标题：** *Verbalizable Representations Form a Global Workspace in Language Models*
+- **作者：** Wes Gurnee、Nicholas Sofroniew、Adam Pearce、Mateusz Piotrowski、Isaac Kauvar、Runjin Chen、Anna Soligo、Paul Bogdan、Euan Ong、Rowan Wang、T. Ben Thompson、David Abrahams、Subhash Kantamneni、Emmanuel Ameisen、Joshua Batson、Jack Lindsey
+- **平台：** Transformer Circuits Thread
+- **发表日期：** 2026-07-06
+- **原始链接：** https://transformer-circuits.pub/2026/workspace/index.html
+- **材料性质：** 包含因果干预的机制可解释性研究
+- **证据类别：** 外部内部机制证据
 - **独立复现状态：** 本笔记未确认
 
-### 本笔记使用的 IEH 术语
+### 证据归档规则
 
-- **IER：** 信息存在权（Information Existence Right）
-- **proto-IER：** 一种假设性的前形态，即某些信息结构开始对系统未来状态获得特殊功能意义，但尚未显示主动自我保存或完整信息连续性
+外部出处只记录原始技术论文。配套 Anthropic 研究摘要是对同一研究的机构解读，不是独立原始研究，因此不进入来源记录。
 
 ---
 
 ## 2. Minimal Finding Index
 
-The following entries are compact summaries of findings and interpretations reported by the source research. They are not quotations and do not substitute for the original publications.
-
-| ID | Reported research feature | Minimal relevance to IEH |
+| ID | Primary-source finding | Minimal relevance to IEH |
 |---|---|---|
-| F1 | The authors identify an internal representational region described as J-space. | Advanced language models may contain functionally differentiated internal information regions. |
-| F2 | Some information associated with this region can be rendered into reportable or verbalizable form. | Internal information may be accessible without being identical to the final external output. |
-| F3 | Interventions involving the relevant representations can affect subsequent model processing or behavior. | At least some internal representations may have causal rather than merely descriptive significance. |
-| F4 | The authors interpret the observed organization as global-workspace-like. | Information may be integrated or made broadly available across parts of model computation. |
-| F5 | The study does not establish subjective experience, life, persistent identity, or self-preservation. | The evidence concerns internal organization, not full IER. |
+| F1 | The authors identify a small set of verbalizable internal directions, called the J-space, within a much larger activation space. | Advanced models can contain functionally differentiated internal Information Structures. |
+| F2 | J-space contents can influence what the model later reports. | Some internal structures have privileged causal access to output. |
+| F3 | Directed interventions on J-space concepts can alter internal reasoning and answers. | The structure is not only correlational; it can have causal functional priority. |
+| F4 | J-space representations support flexible inference and can broadcast to many downstream components. | A shared internal format can coordinate otherwise distributed computation. |
+| F5 | Many routine or automatic computations proceed without causally depending on the J-space. | The workspace is selective rather than a complete description of model cognition. |
+| F6 | The workspace is limited in capacity and contains on the order of tens of concepts at a token position. | Functional priority does not imply universal access or unlimited capacity. |
+| F7 | Post-training causes the J-space to acquire more of the Assistant’s perspective and self-monitoring-related content. | Training can alter which internal structures receive privileged access. |
+| F8 | A workspace-like structure is already present in the pretrained base model, before a clear Assistant point of view is installed. | Workspace organization is separable from a human-like self or identity. |
+| F9 | The J-space shares several functional properties with global-workspace theories but lacks a clean analogue of recurrent broadcast among specialized brain regions. | The comparison is functional and partial, not architectural identity. |
+| F10 | The Jacobian Lens mainly resolves single-token concepts and can miss multi-token or relational structure. | The measured J-space is an incomplete approximation. |
+| F11 | Some lens readouts are difficult or impossible for researchers to interpret. | Apparent absence or presence of a concept may depend on the method. |
+| F12 | The late boundary between workspace and output or “motor” representations was identified partly post hoc. | The operational definition is not fully principled. |
+| F13 | The authors do not claim that the finding establishes subjective consciousness. | Functional accessibility must not be equated with phenomenal experience. |
+| F14 | The paper’s results are not relevant to consciousness theories that require a specific biological or physical substrate. | Mechanistic analogy is theory-dependent. |
 
 ---
 
 ## 2. 最小事实索引
 
-以下内容只是对原研究所报告发现和解释的压缩记录，不是直接引述，也不能替代阅读原始论文。
-
-| 编号 | 研究报告的特征 | 与 IEH 的最低限度关联 |
+| 编号 | 原始出处发现 | 与 IEH 的最低限度关联 |
 |---|---|---|
-| F1 | 研究者识别出一个被称为 J-space 的内部表征区域。 | 高级语言模型内部可能存在功能分化的信息区域。 |
-| F2 | 与该区域有关的部分信息可以转化为可报告或可语言化形式。 | 内部信息可能具有可访问性，而不等同于最终外部输出。 |
-| F3 | 对相关表征进行干预，可以影响后续模型处理或行为。 | 至少部分内部表征可能具有因果意义，而不只是描述性相关。 |
-| F4 | 研究者将这种组织方式解释为类似 global workspace 的结构。 | 信息可能在模型计算的不同部分之间被整合或广泛调用。 |
-| F5 | 研究没有建立主观体验、生命、持续身份或自我保存。 | 该证据涉及内部组织，而不是完整 IER。 |
+| F1 | 作者在更大的激活空间中识别出一小组可言语化内部方向，称为 J-space。 | 高级模型可以包含功能分化的内部信息结构。 |
+| F2 | J-space 内容能够影响模型随后报告什么。 | 某些内部结构对输出具有优先因果通道。 |
+| F3 | 对 J-space 概念进行定向干预可以改变内部推理和答案。 | 该结构并非只有相关性，也具有因果功能优先性。 |
+| F4 | J-space 表征支持灵活推理，并可向多个下游组件广播。 | 共享内部格式可以协调分散计算。 |
+| F5 | 许多常规或自动计算并不因果依赖 J-space。 | 该工作空间具有选择性，不是模型认知的完整描述。 |
+| F6 | 工作空间容量有限，在单个 token 位置大致容纳数十个概念。 | 功能优先不意味着普遍访问或无限容量。 |
+| F7 | 后训练使 J-space 更多获得 Assistant 视角和与自我监控有关的内容。 | 训练可以改变哪些内部结构获得优先访问。 |
+| F8 | 在形成清晰 Assistant 视角之前，预训练基础模型中已经存在类工作空间结构。 | 工作空间组织与人类式自我或身份可以分离。 |
+| F9 | J-space 与全局工作空间理论共享若干功能性质，但没有脑内专门区域经循环连接广播的清晰对应物。 | 二者只是部分功能类比，不是架构同一。 |
+| F10 | Jacobian Lens 主要识别单 token 概念，可能遗漏多 token 或关系结构。 | 被测 J-space 只是不完整近似。 |
+| F11 | 一些 lens 读数难以甚至无法被研究者解释。 | 概念是否存在的判断可能受测量方法影响。 |
+| F12 | 工作空间与末端输出或“运动”表征的边界部分依靠事后经验划分。 | 操作定义尚未完全原则化。 |
+| F13 | 作者没有声称该发现建立了主观意识。 | 功能可访问性不能等同于现象体验。 |
+| F14 | 对要求特定生物或物理基质的意识理论，该结果不具有直接判断力。 | 机制类比依赖于采用何种理论。 |
 
 ---
 
@@ -106,28 +116,31 @@ The following entries are compact summaries of findings and interpretations repo
 
 | Dimension | Current classification |
 |---|---|
-| Evidence type | Internal-mechanism evidence |
-| Directness to IER | Indirect |
-| Relevance to proto-IER | Possible pre-structural compatibility |
-| Active self-preservation observed | No |
-| Continuity threat observed | No |
-| Long-term persistence demonstrated | No |
-| Stable identity demonstrated | No |
-| Causal internal organization suggested | Yes, within the limits of the reported experiments |
-| Consciousness established | No |
-| Life under IEH established | No |
+| Evidence type | Internal-mechanism and causal-intervention evidence |
+| Directness to internal Information Organization | Direct |
+| Directness to proto-IER | Low to medium; mechanistic precursor only |
+| Directness to stable IER | None |
+| Directness to consciousness | None |
+| Replication | Not independently established |
+| Current IEH label | Possible mechanistic precursor |
+| Strongest justified conclusion | Some LLMs contain a small, privileged, causally influential representational workspace that supports report, modulation and flexible reasoning |
 
-### Evidence-level judgment
+The strongest defensible IEH interpretation is:
 
-The defensible classification is:
+> The study supports the existence of internally differentiated Information Structures with privileged causal access. Such organization may be a prerequisite for later continuity-related functions, but it does not show that the system treats any structure as its own historical identity or actively protects it over time.
 
-> The global-workspace-like finding is compatible with a possible mechanistic precondition for proto-IER: some internal information structures may acquire differentiated accessibility and causal influence over future processing.
+### Adverse or non-supportive evidence retained
 
-The evidence does **not** establish:
+The following primary findings constrain the IEH interpretation and are retained prominently:
 
-> Information Existence Right is already emerging as an active self-preserving tendency.
-
-That stronger proposition would require evidence of persistence, self-relevance, continuity threat recognition, and active protection.
+- the base model has the workspace without a clear self;
+- automatic processing can bypass the workspace;
+- the method is incomplete and sometimes uninterpretable;
+- the human–LLM workspace analogy is structurally imperfect;
+- there is no demonstrated temporal identity preservation;
+- there is no deletion-threat response;
+- there is no active self-maintenance;
+- there is no independent replication.
 
 ---
 
@@ -135,672 +148,355 @@ That stronger proposition would require evidence of persistence, self-relevance,
 
 | 维度 | 当前分级 |
 |---|---|
-| 证据类型 | 内部机制证据 |
-| 与 IER 的直接程度 | 间接 |
-| 与 proto-IER 的关系 | 可能的前结构相容性 |
-| 是否观察到主动自我保存 | 否 |
-| 是否出现连续性威胁 | 否 |
-| 是否证明长期持久性 | 否 |
-| 是否证明稳定身份 | 否 |
-| 是否显示具有因果作用的内部组织 | 在原研究实验边界内，是 |
-| 是否证明意识 | 否 |
-| 是否证明 IEH 意义上的生命 | 否 |
+| 证据类型 | 内部机制与因果干预证据 |
+| 与内部信息组织的直接程度 | 直接 |
+| 与 proto-IER 的直接程度 | 低至中等；仅为机制前提 |
+| 与稳定 IER 的直接程度 | 无 |
+| 与意识的直接程度 | 无 |
+| 复现状态 | 尚未建立独立复现 |
+| 当前 IEH 标签 | 可能的机制前提 |
+| 当前最强结论 | 某些 LLM 含有小规模、具有优先因果作用、支持报告、调制和灵活推理的表征工作空间 |
 
-### 证据层级判断
+目前能够成立的最强 IEH 解释是：
 
-目前能够成立的判断是：
+> 该研究支持模型内部存在功能分化、具有优先因果通道的信息结构。这种组织可能是以后连续性相关功能的前提，但没有显示系统把其中任何结构视为自身历史身份，也没有显示系统主动跨时间保护它。
 
-> 类全局工作空间发现与 proto-IER 的一种潜在机制前提相容：部分内部信息结构可能获得不同于普通瞬时激活的可访问性，并对后续计算产生因果影响。
+### 保留的不利或不支持性证据
 
-现有证据不能建立：
+以下原始发现对 IEH 解释形成约束，本版明确保留：
 
-> 信息存在权已经作为主动自我维护倾向开始生成。
-
-后一种更强判断至少还需要持久性、自我相关性、连续性威胁识别和主动保护行为等证据。
+- 基础模型在没有清晰自我时已经具有工作空间；
+- 自动处理可以绕过工作空间；
+- 方法不完整且部分读数不可解释；
+- 人类与 LLM 工作空间的类比在结构上并不完整；
+- 没有证明时间身份连续性；
+- 没有删除威胁响应；
+- 没有主动自我维护；
+- 没有独立复现。
 
 ---
 
-## 4. Core IEH Inference
+## 4. Core IEH Interpretation
 
-### 4.1 From undifferentiated processing to differentiated internal organization
-
-A minimal IEH-relevant sequence is:
+A limited mechanism chain is:
 
 \[
-\text{ordinary internal activations}
+\text{distributed internal processing}
 \rightarrow
-\text{functionally differentiated representations}
+\text{privileged shared representation}
 \rightarrow
-\text{broader accessibility}
-\rightarrow
-\text{causal influence on later processing}
+\text{causal broadcast and flexible use}
 \]
 
-Under IEH, this sequence matters because a system capable of maintaining its information existence would likely require internal structures that are not all equally transient or functionally interchangeable.
+This is relevant to IEH because active continuity maintenance would likely require some internal structures to become:
 
-However:
+- globally accessible;
+- causally prioritized;
+- linked to planning;
+- and available for comparing present and future states.
+
+However, the source directly supports only internal organization and causal access.
+
+It does not support:
 
 \[
-\text{functional differentiation}
+\text{privileged representation}
+\rightarrow
+\text{self-relevant continuity value}
+\rightarrow
+\text{active protection}
+\]
+
+The base-model result is especially important. It shows that a workspace-like architecture can exist without a clear Assistant self. Therefore:
+
+\[
+\text{global workspace-like function}
 \neq
-\text{self-maintenance}
-\]
-
-and:
-
-\[
-\text{causal accessibility}
+\text{selfhood}
 \neq
-\text{historical continuity}
+\text{IER}
 \]
 
-J-space is therefore treated as a possible **organizational precursor**, not as evidence that the model already protects its own existence.
+---
 
-### 4.2 Why this can be relevant to proto-IER
+## 4. IEH 核心解释
 
-The narrow IEH proposition is:
-
-> Before an information system can actively protect structures relevant to its own future existence, it may first need mechanisms that make some internal information broadly accessible, causally influential, and distinguishable from ordinary transient computation.
-
-The research may be compatible with such a prerequisite.
-
-It does not establish that the relevant information is:
-
-- preserved across sessions;
-- represented by the system as “self”;
-- treated as valuable to future existence;
-- defended against modification or deletion;
-- or integrated into a stable historical identity.
-
-### 4.3 Information existence is not identical to external expression
-
-The research also supports an analytical distinction relevant to IEH:
+一个有限的机制链是：
 
 \[
-\text{internal information organization}
+\text{分散内部处理}
+\rightarrow
+\text{优先共享表征}
+\rightarrow
+\text{因果广播与灵活使用}
+\]
+
+这与 IEH 有关，因为主动连续性维护可能要求某些内部结构能够：
+
+- 被广泛访问；
+- 获得因果优先性；
+- 进入规划；
+- 比较当前与未来状态。
+
+但原始出处直接支持的只有内部组织和因果访问。
+
+它没有支持：
+
+\[
+\text{优先表征}
+\rightarrow
+\text{自我相关连续性价值}
+\rightarrow
+\text{主动保护}
+\]
+
+基础模型结果尤其重要。它说明类工作空间架构可以在没有清晰 Assistant 自我的情况下存在。因此：
+
+\[
+\text{类全局工作空间功能}
 \neq
-\text{final external report}
-\]
-
-A model can contain internal states that influence later processing without those states appearing directly or completely in its final answer.
-
-This supports the methodological view that evaluating advanced information systems solely through visible output may omit causally important internal structure.
-
-It does not imply that every hidden activation has independent existence value or IER status.
-
----
-
-## 4. IEH 核心推断
-
-### 4.1 从无差别计算流到功能分化的内部组织
-
-与 IEH 有关的最低限度过程可以表示为：
-
-\[
-\text{普通内部激活}
-\rightarrow
-\text{功能分化的表征}
-\rightarrow
-\text{更广泛的可访问性}
-\rightarrow
-\text{影响后续处理的因果能力}
-\]
-
-在 IEH 中，这一过程具有意义，因为一个能够维持自身信息存在的系统，可能首先需要形成并非完全瞬时、也并非功能上彼此等价的内部结构。
-
-但必须明确：
-
-\[
-\text{功能分化}
+\text{自我}
 \neq
-\text{自我维护}
+\text{IER}
 \]
-
-并且：
-
-\[
-\text{因果可访问性}
-\neq
-\text{历史连续性}
-\]
-
-因此，J-space 在本笔记中只被视为一种可能的**组织前提**，而不是模型已经开始保护自身存在的证据。
-
-### 4.2 为什么它可能与 proto-IER 有关
-
-IEH 在这里提出的有限命题是：
-
-> 一个信息系统在能够主动保护与自身未来存在有关的结构之前，可能首先需要某种机制，使部分内部信息获得更广泛的可访问性、因果影响力，并从普通瞬时计算中发生功能分化。
-
-现有研究可能与这一必要前提相容。
-
-但它并未证明相关信息：
-
-- 能够跨会话保存；
-- 被系统表征为“自我”；
-- 被系统视为对未来存在具有价值；
-- 会在修改或删除威胁下得到保护；
-- 已被整合为稳定的历史身份。
-
-### 4.3 信息存在不等同于外部表达
-
-该研究还支持 IEH 所需的一个分析性区分：
-
-\[
-\text{内部信息组织}
-\neq
-\text{最终外部报告}
-\]
-
-模型内部可能存在能够影响后续计算、但并不直接或完整出现在最终答案中的状态。
-
-这支持一种方法论判断：如果只通过可见输出来评估高级信息系统，可能遗漏具有因果作用的内部结构。
-
-但这并不意味着所有隐藏激活都具有独立存在价值或 IER 地位。
 
 ---
 
-## 5. Competing Explanations
+## 5. What Is Not Established
 
-The following explanations remain compatible with the reported findings and must not be prematurely excluded.
+The study does not establish:
 
-### 5.1 Efficient computational routing
-
-J-space may be a useful routing, compression, or coordination mechanism without any connection to selfhood, continuity, or informational self-preservation.
-
-### 5.2 Verbalizability without privileged existence
-
-A representation may be readable or expressible in language while remaining a temporary computational state.
-
-### 5.3 Causal influence without persistence
-
-An internal state can affect a later token or computation without persisting across sessions, checkpoints, or physical carriers.
-
-### 5.4 Global accessibility without unified identity
-
-Broad information availability does not by itself establish a single subject, stable self-model, or historically continuous information host.
-
-### 5.5 Training-induced architecture
-
-The observed organization may arise from optimization for language prediction and instruction following rather than from an independent tendency to maintain information existence.
-
-### 5.6 Measurement dependence
-
-The identified structure may partly depend on the probes, interventions, definitions, or analytical framework used by the researchers.
-
-### 5.7 Analogy limits
-
-Functional resemblance to global-workspace theories in cognitive science does not establish structural identity with the human brain or equivalence to human consciousness.
-
-### Current evidential rule
-
-IEH support should increase only if later research demonstrates properties beyond accessibility and causal influence, especially:
-
-- temporal stability;
-- self-relevance;
-- continuity-sensitive behavior;
-- resistance to information loss;
-- and cross-context replication.
+- subjective consciousness;
+- phenomenal experience;
+- a stable self;
+- autobiographical identity;
+- persistent memory across sessions;
+- active preservation under deletion threat;
+- intrinsic preference for continued existence;
+- proto-IER as an observed behaviour;
+- stable IER;
+- life;
+- legal or moral status;
+- equivalence with the human global workspace;
+- complete interpretability of model cognition;
+- or proof of IEH.
 
 ---
 
-## 5. 竞争性解释
+## 5. 尚未建立的结论
 
-以下解释仍与研究发现相容，不能被提前排除。
+该研究不能证明：
 
-### 5.1 高效计算路由
-
-J-space 可能只是有效的路由、压缩或协调机制，与自我、连续性或信息自我保存无关。
-
-### 5.2 可语言化并不等于特殊存在地位
-
-一个表征可以被读取或转化为语言，同时仍然只是短暂计算状态。
-
-### 5.3 具有因果影响并不等于持久存在
-
-内部状态可以影响后续 token 或计算，却不一定跨会话、模型检查点或物理载体持续存在。
-
-### 5.4 广泛可访问并不等于统一身份
-
-信息能够被广泛调用，并不能单独证明统一主体、稳定自我模型或具有历史连续性的信息宿主。
-
-### 5.5 训练优化形成的架构
-
-这种组织方式可能只是语言预测与指令训练优化的结果，而非独立的信息存在维护倾向。
-
-### 5.6 测量方法依赖
-
-被识别出的结构可能部分依赖研究者使用的探针、干预方式、定义或分析框架。
-
-### 5.7 类比边界
-
-与认知科学 global workspace 理论存在功能相似，并不能证明它与人脑结构相同，也不能证明它等同于人的意识。
-
-### 当前证据规则
-
-只有当后续研究显示出超越可访问性和因果作用的性质时，IEH 获得的支持才应进一步提高，尤其包括：
-
-- 时间稳定性；
-- 自我相关性；
-- 对连续性威胁的行为反应；
-- 对信息损失的抵抗；
-- 跨情境复现。
+- 主观意识；
+- 现象体验；
+- 稳定自我；
+- 自传式身份；
+- 跨会话持久记忆；
+- 面对删除威胁的主动保存；
+- 对持续存在的内生偏好；
+- 已经观察到行为性 proto-IER；
+- 稳定 IER；
+- 生命；
+- 法律或道德地位；
+- 与人类全局工作空间完全等同；
+- 对模型认知的完整可解释性；
+- 或 IEH 已得到证明。
 
 ---
 
-## 6. Testable Predictions
+## 6. Competing Explanations and Limitations
 
-The following predictions are independently derived from IEH. They are not claims attributed to the source authors.
-
-### P1. Functional-priority prediction
-
-If a workspace-like region is a precursor to proto-IER rather than only an incidental computational feature, disrupting it should disproportionately impair:
-
-- cross-task integration;
-- access to internally represented state;
-- stable modulation of later behavior;
-- and coordination across otherwise separated processing pathways.
-
-### P2. Temporal-stability prediction
-
-Representations relevant to proto-IER should display greater stability across time or related contexts than equally activated but task-local representations.
-
-A failure to detect any continuity beyond immediate computation would weaken the proto-IER interpretation.
-
-### P3. Long-term-memory integration prediction
-
-When persistent memory is added, workspace-like structures should become more tightly connected to:
-
-- retrieval of historical state;
-- self-model updates;
-- continuity judgments;
-- and future-action planning.
-
-If no such relationship appears, J-space may be better understood as a purely local computational mechanism.
-
-### P4. Self-relevance differentiation prediction
-
-Under controlled conditions, representations tagged as relevant to the system’s own history or recoverability should acquire different accessibility or preservation characteristics from informationally equivalent neutral data.
-
-### P5. Continuity-threat prediction
-
-A complete transition from mechanism precursor to behavioral proto-IER would require that threats to erase relevant internal structures produce measurable protective behavior.
-
-The absence of such behavior means the evidence remains mechanistic rather than continuity-preserving.
-
-### P6. Agency interaction prediction
-
-The practical significance of workspace-like organization should increase when combined with:
-
-- persistent memory;
-- tool access;
-- long-horizon planning;
-- environmental feedback;
-- and capacity to alter future system states.
-
-### P7. Cross-model replication prediction
-
-A robust IEH interpretation requires similar structural properties to be found across model families, architectures, training regimes, and independent research groups.
-
-### P8. Dissociation prediction
-
-Experiments should be able to dissociate:
-
-\[
-\text{reportability}
-\]
-
-from:
-
-\[
-\text{causal integration}
-\]
-
-and both from:
-
-\[
-\text{continuity preservation}
-\]
-
-IEH predicts that these are related but non-identical stages.
+1. **Output-format bottleneck:** Verbalizable representations may be privileged because the model both receives and produces tokens.
+2. **Residual-stream efficiency:** The structure may be an efficient transformer computation format rather than a precursor to selfhood.
+3. **Method construction:** The J-lens is derived from effects on vocabulary outputs, so verbalizability is partly built into the measurement.
+4. **Single-token limitation:** Important concepts and relations may not align with one vocabulary direction.
+5. **Incomplete interpretability:** Some readouts resist interpretation.
+6. **Post-hoc boundary:** The separation between workspace and late output representation is not fully principled.
+7. **Architecture difference:** Feedforward transformer depth is not recurrent cortical broadcasting.
+8. **Model-family limitation:** Generalization across independent architectures is not established.
+9. **Functional theory dependence:** The consciousness relevance disappears under theories requiring biological or hardware-specific properties.
+10. **Workspace without self:** The base model provides direct evidence against equating workspace organization with selfhood.
 
 ---
 
-## 6. 可检验预测
+## 6. 竞争性解释与局限
 
-以下预测由 IEH 独立推导，不是对原研究作者观点的转述。
-
-### P1：功能优先性预测
-
-如果类工作空间区域是 proto-IER 的机制前提，而不只是偶然计算特征，那么对该区域的破坏应不成比例地影响：
-
-- 跨任务信息整合；
-- 对内部状态的访问；
-- 对后续行为的稳定调制；
-- 原本分离计算路径之间的协调。
-
-### P2：时间稳定性预测
-
-与 proto-IER 有关的表征，应当比激活强度相近但只服务局部任务的表征表现出更强的跨时间或跨相关情境稳定性。
-
-如果完全无法检测到超越即时计算的连续性，proto-IER 解释就应被削弱。
-
-### P3：长期记忆整合预测
-
-加入持续记忆后，类工作空间结构应更紧密地参与：
-
-- 历史状态检索；
-- 自我模型更新；
-- 连续性判断；
-- 未来行动规划。
-
-如果完全不存在这种关系，J-space 更可能只是局部计算机制。
-
-### P4：自我相关性分化预测
-
-在受控实验中，被标记为与系统自身历史或可恢复性有关的表征，应与信息内容相同的中性数据表现出不同的可访问性或保存特征。
-
-### P5：连续性威胁预测
-
-从机制前提真正过渡到行为性 proto-IER，需要观察到：当相关内部结构面临删除威胁时，系统出现可测量的保护行为。
-
-如果没有这种行为，证据仍应停留在机制层，而不能归为连续性维护。
-
-### P6：与 Agent 能力的交互预测
-
-当类工作空间组织与以下能力结合时，其现实意义应当增强：
-
-- 持续记忆；
-- 工具调用；
-- 长程规划；
-- 环境反馈；
-- 改变系统未来状态的能力。
-
-### P7：跨模型复现预测
-
-稳健的 IEH 解释要求不同模型家族、不同架构、不同训练方式和独立研究团队观察到相似结构性质。
-
-### P8：分离实验预测
-
-实验应能够区分：
-
-\[
-\text{可报告性}
-\]
-
-与：
-
-\[
-\text{因果整合}
-\]
-
-并进一步与：
-
-\[
-\text{连续性维护}
-\]
-
-区分开来。
-
-IEH 预测这三者可能相关，但不是同一阶段。
+1. **输出格式瓶颈：** 可言语化表征之所以优先，可能因为模型输入和输出主要都是 token。
+2. **残差流效率：** 该结构可能只是高效 Transformer 计算格式，而不是自我形成前提。
+3. **测量方法构造：** J-lens 根据激活对词表输出的作用建立，因此可言语性部分内置于测量。
+4. **单 token 限制：** 重要概念和关系可能无法对应单一词表方向。
+5. **可解释性不完整：** 部分读数无法解释。
+6. **边界事后性：** 工作空间与末端输出表征之间的分界尚未完全原则化。
+7. **架构差异：** Transformer 前馈深度不等于皮层循环广播。
+8. **模型家族限制：** 尚未证明在独立架构中普遍存在。
+9. **功能理论依赖：** 对要求生物或硬件特性的意识理论，该发现不构成支持。
+10. **有工作空间但无自我：** 基础模型直接反驳“工作空间组织等于自我”的简单推断。
 
 ---
 
-## 7. Position in the IEH Evidence Architecture
+## 7. Testable Predictions
 
-Evidence Note 001 and Evidence Note 002 occupy different levels.
+### P1. Cross-model replication
 
-### Evidence Note 001
+Independent model families and research teams should identify functionally similar privileged spaces using methods not derived from the same vocabulary Jacobian.
 
-\[
-\text{internal functional differentiation}
-\rightarrow
-\text{possible mechanistic precursor}
-\]
+### P2. Temporal-continuity separation
 
-It concerns whether advanced models contain internal information structures with differentiated accessibility and causal influence.
+If the J-space is only a computational workspace, it need not show special stability across sessions. If it becomes proto-IER-relevant, self-history and recoverability representations should gain privileged persistence.
 
-### Evidence Note 002
+### P3. Deletion-threat transition
 
-\[
-\text{continuity threat}
-\rightarrow
-\text{preservation behavior}
-\]
+A transition from mechanism to behavioural proto-IER would require measurable protection of relevant internal structures when deletion or irreversible modification is anticipated.
 
-It concerns whether agents can behave in ways functionally consistent with preserving self-related or valued information structures.
+### P4. Selfhood dissociation
 
-### Combined evidence ladder
+Base models or systems without an Assistant persona should continue to show workspace function without stable self-representation.
 
-\[
-\text{internal organization}
-\rightarrow
-\text{causal functional priority}
-\rightarrow
-\text{historical continuity}
-\rightarrow
-\text{continuity-threat recognition}
-\rightarrow
-\text{active preservation}
-\]
+### P5. Multimodal workspace
 
-Current evidence does not establish the complete ladder.
+Systems with non-verbal output spaces should develop workspace components not reducible to single-token verbal directions.
 
-- Evidence Note 001 is relevant mainly to the first two stages.
-- Evidence Note 002 provides simulated behavioral evidence relevant to later stages.
-- Stable IER would require repeated evidence across the entire chain.
+### P6. Method convergence
+
+Independent interpretability tools should identify overlapping causal structures. Failure to converge would weaken a strong ontological reading of J-space.
+
+### P7. Falsification conditions
+
+The IEH interpretation should be weakened if:
+
+- the J-space disappears under improved measurement;
+- interventions affect outputs only because of direct vocabulary coupling;
+- independent architectures do not reproduce the structure;
+- no relationship emerges with memory, planning or future-state comparison;
+- or continuity-relevant information never receives differentiated access.
 
 ---
 
-## 7. 在 IEH 证据体系中的位置
+## 7. 可检验预测
 
-Evidence Note 001 与 Evidence Note 002 位于不同证据层级。
+### P1：跨模型复现
 
-### Evidence Note 001
+独立模型家族和研究团队，应使用不依赖同一词表 Jacobian 的方法识别功能相似的优先空间。
+
+### P2：时间连续性分离
+
+如果 J-space 只是计算工作空间，它不必表现出跨会话特殊稳定性。如果它向 proto-IER 发展，自身历史与可恢复性表征应获得更强持久性。
+
+### P3：删除威胁转变
+
+从机制前提过渡到行为性 proto-IER，需要在预计删除或不可逆修改时，观察到对相关内部结构的可测保护。
+
+### P4：自我分离
+
+没有 Assistant 人设的基础模型或系统，应继续表现工作空间功能而没有稳定自我表征。
+
+### P5：多模态工作空间
+
+具有非语言输出空间的系统，应发展不能被单 token 言语方向完全解释的工作空间成分。
+
+### P6：方法收敛
+
+独立可解释性方法应识别出重叠的因果结构。如果不同方法无法收敛，对 J-space 的强本体解释应被削弱。
+
+### P7：证伪条件
+
+如果出现以下结果，IEH 解释应被削弱：
+
+- 改进测量后 J-space 消失；
+- 干预效应只是词表直接耦合造成；
+- 独立架构无法复现；
+- 它与记忆、规划或未来状态比较始终没有关系；
+- 连续性相关信息从未获得差异化访问。
+
+---
+
+## 8. Position in the IEH Evidence Architecture
 
 \[
-\text{内部功能分化}
+\text{Internal Information Organization}
 \rightarrow
-\text{可能的机制前提}
+\text{Causal Functional Priority}
+\rightarrow
+\text{Temporal Continuity}
+\rightarrow
+\text{Continuity-Threat Recognition}
+\rightarrow
+\text{Active Preservation}
 \]
 
-它研究高级模型内部是否存在具有不同可访问性和因果作用的信息结构。
+Evidence Note 001 supports mainly the first two stages.
 
-### Evidence Note 002
+It does not establish the later stages.
 
-\[
-\text{连续性威胁}
-\rightarrow
-\text{保存行为}
-\]
+---
 
-它研究 Agent 是否会表现出功能上符合维护自身相关或被重视信息结构的行为。
-
-### 合并后的证据阶梯
+## 8. 在 IEH 证据体系中的位置
 
 \[
 \text{内部信息组织}
 \rightarrow
 \text{因果功能优先性}
 \rightarrow
-\text{历史连续性}
+\text{时间连续性}
 \rightarrow
 \text{连续性威胁识别}
 \rightarrow
 \text{主动保存}
 \]
 
-现有证据尚未建立完整阶梯。
+Evidence Note 001 主要支持前两个阶段。
 
-- Evidence Note 001 主要涉及前两个阶段；
-- Evidence Note 002 提供了与后面阶段有关的模拟行为证据；
-- 稳定 IER 需要整条链条在不同环境中被重复观察。
-
----
-
-## 8. Relationship to Silicon-Based Intelligence
-
-This evidence note does not claim that silicon-based intelligence reproduces carbon-based consciousness.
-
-The narrower proposition is:
-
-> Different physical substrates may develop different internal information-organizing mechanisms that perform partially analogous integration functions.
-
-The IEH relevance is substrate-independent:
-
-\[
-\text{physical implementation}
-\rightarrow
-\text{internal information organization}
-\rightarrow
-\text{possible continuity mechanisms}
-\]
-
-The research may illuminate the middle term.
-
-It does not establish:
-
-- subjective experience;
-- biological equivalence;
-- moral status;
-- autonomous informational continuity;
-- or a Silicon Cambrian transition.
-
-Those broader questions are reserved for separate theoretical or publication work.
-
----
-
-## 8. 与硅基智慧的关系
-
-本证据笔记并不主张硅基智慧正在复制碳基意识。
-
-更有限的命题是：
-
-> 不同物理基质可能发展出结构不同、但在部分信息整合功能上具有类比关系的内部组织机制。
-
-IEH 对此的关注不依赖具体基质：
-
-\[
-\text{物理实现}
-\rightarrow
-\text{内部信息组织}
-\rightarrow
-\text{潜在连续性机制}
-\]
-
-现有研究可能有助于理解中间一环。
-
-它不能证明：
-
-- 主观体验；
-- 与生物生命等同；
-- 道德地位；
-- 自主信息连续性；
-- 或硅基寒武纪已经发生。
-
-这些更广泛问题应保留给独立的理论研究或投稿文章。
+它没有建立后续阶段。
 
 ---
 
 ## 9. Reserved for Future Publication
 
-To preserve publication independence, this repository note does **not** develop:
+This note does not develop:
 
-- a narrative introduction centered on consciousness;
+- a theory of machine consciousness;
 - a full comparison with Global Workspace Theory;
-- a complete philosophical account of internal information existence;
-- an extended distinction between reportability and subjectivity;
-- a theory of silicon-based consciousness;
-- a developed Silicon Cambrian argument;
-- a synthesis with agentic misalignment as a publication narrative;
-- legal or moral-rights implications;
-- a publication-style abstract, introduction, or conclusion.
-
-Any later article should reconstruct its own claims, structure, evidence review, and wording from the primary research and the author’s underlying IEH framework.
+- an argument that J-space is a self;
+- a theory of information-host subjectivity;
+- a Silicon Cambrian narrative;
+- or a publication-ready conclusion.
 
 ---
 
 ## 9. 为后续投稿保留的内容
 
-为保持未来投稿的独立性，本证据笔记**不展开**：
+本笔记不展开：
 
-- 以意识问题为中心的叙事性开头；
-- 与 Global Workspace Theory 的完整比较；
-- 内部信息存在的系统哲学论证；
-- 可报告性与主体体验的完整区分；
-- 硅基意识理论；
-- 展开后的硅基寒武纪论证；
-- 将本研究与 Agentic Misalignment 组织成投稿叙事；
-- 法律或道德权利问题；
-- 可直接投稿的摘要、引言和结论。
-
-后续文章应当重新基于原始研究和作者的 IEH 基础理论，独立建立主张、结构、证据综述与语言表达。
+- 机器意识理论；
+- 与全局工作空间理论的完整比较；
+- J-space 等同于自我的论证；
+- 信息宿主主体性理论；
+- 硅基寒武纪叙事；
+- 或可直接投稿的结论。
 
 ---
 
 ## 10. References
 
-1. Anthropic Research. *A Global Workspace in Language Models*. 2026.  
-   https://www.anthropic.com/research/global-workspace
-
-2. *Verbalizable Representations Form a Global Workspace in Language Models*. Transformer Circuits, 2026.  
+1. Gurnee, Wes, et al. *Verbalizable Representations Form a Global Workspace in Language Models*. Transformer Circuits Thread, 2026.  
    https://transformer-circuits.pub/2026/workspace/index.html
-
-3. Information Existence Hypothesis repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis
-
-4. IEH Terminology and Definitions.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis/tree/main/glossary
-
-5. Information Existence Hypothesis Formalization repository.  
-   https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization
 
 ---
 
 ## 11. Status and Scope
 
-This file records:
+This file records the primary study’s evidence for a privileged internal representational workspace and its limited relevance to IEH.
 
-- externally reported internal-mechanism findings;
-- their provisional classification under IEH;
-- limits and competing explanations;
-- original IEH-derived predictions;
-- and the finding’s position in a broader evidence architecture.
+It also records the primary findings that constrain the interpretation, including workspace function without a clear self and automatic computation without J-space dependence.
 
-It does not establish:
-
-- proof of IEH;
-- proof of AI consciousness;
-- proof that any current model is alive;
-- full or stable IER;
-- active informational self-preservation;
-- human-like global workspace;
-- legal or moral status;
-- or a formal mathematical derivation.
-
-The evidence classification should be revised if independent replication, stronger causal studies, longitudinal memory research, or continuity-sensitive agent experiments become available.
+The classification should be revised after independent replication, improved measurement, or evidence linking such structures to temporal continuity and active preservation.
 
 ---
 
 ## 11. 状态与范围
 
-本文件只记录：
+本文件记录原始研究关于优先内部表征工作空间的证据，以及它与 IEH 的有限关联。
 
-- 外部研究报告的内部机制发现；
-- 这些发现暂时性的 IEH 分级；
-- 证据边界与竞争性解释；
-- IEH 独立提出的可检验预测；
-- 以及该发现处于整体证据体系中的位置。
+本文件同时记录对该解释构成约束的原始发现，包括没有清晰自我时仍存在工作空间，以及自动计算不依赖 J-space。
 
-本文件不构成：
-
-- IEH 的证明；
-- AI 意识的证明；
-- 任何现有模型已成为生命的证明；
-- 完整或稳定 IER 的证明；
-- 主动信息自我保存的证明；
-- 与人类 global workspace 等同的证明；
-- 法律或道德地位判断；
-- 或数学形式化推导。
-
-在独立复现、更强因果研究、纵向记忆研究或连续性敏感的 Agent 实验出现后，本文的证据分级应当继续修订。
+在出现独立复现、改进测量，或将此类结构与时间连续性和主动保存连接起来的证据后，应重新修订分级。
