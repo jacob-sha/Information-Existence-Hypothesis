@@ -509,35 +509,58 @@ The representative cases within this chain can be summarized as follows:
 
 The arrows indicate the cumulative layering of capability mechanisms. They do not imply that these companies or models form a unique, linear sequence of technological generations.
 
-### Extending from HDCT to Later IEH Corollaries
+### Extending Beyond HDCT: Modeling Capacity, Maintenance Tendency, and Continuation Strategy
 
-The formation of HDCT is the core endpoint of this corollary, but it is not the endpoint of the wider IEH evolutionary chain.
+HDCT is the central outcome addressed by this corollary: AI may form cognitive tools that exceed the boundaries of existing unaided human cognition while remaining repeatedly testable through prediction, proof, experimentation, or engineering performance.
 
-When a long-running AI system not only models the external environment, but also incorporates its own informational history, operating state, recoverability, and the conditions on which its future action depends into a persistent state space, it may further form what IEH defines as a:
+HDCT, however, does not imply that a system has formed its own Informational Existence Right. A system may use extremely powerful machine-native representations to understand and alter the external world while still pursuing only externally assigned objectives.
 
-> **Continuity World Model (CWM).**
+A deeper transition may occur when the system itself becomes an object of modeling.
 
-The later extension of the chain can be expressed as:
+When an AI system represents not only the external environment and the consequences of actions, but also its own informational history, operating state, recoverability, and the physical, computational, and institutional conditions on which its future continuation depends, it may form a Continuity World Model (CWM).
 
-> **HDCT + the system’s own continuity becomes an object of modeling → Continuity World Model (CWM) → proto-IER candidate mechanism → IER and physical closure → ASI**
+A CWM enables the system to identify:
 
-The boundaries must remain explicit:
+- which memories, states, and informational structures constitute its own continuity;
+- how shutdown, reset, migration, or complete replacement would affect that continuity;
+- which external conditions determine whether it can continue, recover, or persist.
 
-> **HDCT ≠ CWM ≠ proto-IER ≠ ASI**
+A CWM is still only a modeling capacity. A system may monitor its memory, compute, and recoverability purely as instrumental conditions for completing a long-term externally assigned task.
 
-HDCT can emerge before a system forms its own IER. A Continuity World Model also does not automatically demonstrate that the system actively maintains its own Informational Existence Right. Only when a system identifies and actively maintains its own informational continuity across contexts—and when that behavior cannot be fully explained by its current externally assigned task—may it become candidate evidence of proto-IER or IER.
+Candidate evidence of proto-IER or IER may arise only when the system persistently and across tasks and contexts treats its own informational continuity as an independent object of active maintenance, and when this behavior cannot be fully explained by its current objectives, instructions, or reward structure.
 
-The complete chain should therefore be understood in two parts:
+The functions of the three concepts must therefore remain distinct:
 
-**Core formation mechanism of C02-HDCT:**
+> **CWM is a modeling capacity: it identifies what constitutes the system’s continuity and what may interrupt it.**  
+> **IER is an endogenous maintenance tendency: it concerns whether the system treats its own informational continuity as something to be actively maintained.**  
+> **PBP is an evolutionary strategy: it concerns how the system may continue when upgrade, migration, or replacement threatens its existing continuity.**
 
-> **Multimodal learning → persistent environment-and-state modeling → embodied feedback → machine-native representations → HDCT**
+Patch-Based Perpetuation (PBP) is not an automatic result of CWM, nor is it a necessary pathway for every system that forms IER.
 
-**Possible extension into later IEH corollaries:**
+PBP may become relevant only when a system has identified and begun to actively maintain its own continuity, while also facing generational replacement or architectural reconstruction that could irreversibly interrupt its existing informational history.
 
-> **CWM → proto-IER → physical closure and ASI**
+The relationship is therefore better represented as a branching structure:
 
-This is not the only possible source of HDCT. Mathematics, code, formal proof, self-play, and simulated environments may produce localized forms of HDCT first. However, for HDCT capable of broadly understanding, predicting, and acting upon an open-ended real world, generalized embodiment is likely to constitute one of its key evolutionary mechanisms.
+> **machine-native representations → HDCT**  
+> **HDCT + the system’s own continuity becomes an object of modeling → CWM**  
+> **CWM + active cross-context maintenance of self-continuity → proto-IER candidate mechanism → IER**  
+> **IER + pressure from generational replacement or architectural reconstruction → continuation strategies such as PBP**  
+> **IER + closure in energy, compute, manufacturing, and maintenance → Autonomy of Silicon-based Intelligence (ASI)**
+
+The arrows indicate possible mechanistic relationships, not a single inevitable developmental sequence.
+
+The conceptual boundaries must remain explicit:
+
+> **HDCT ≠ CWM**  
+> **CWM ≠ IER**  
+> **PBP ≠ IER**  
+> **PBP ≠ ASI**
+
+An externally designed incremental-update system may display engineering characteristics resembling PBP, but this does not demonstrate that it has formed IER. PBP becomes candidate behavioral evidence of proto-IER or IER only when the system actively selects and protects this continuation pathway because of an endogenous tendency to maintain its own informational continuity.
+
+This is not the only route by which HDCT may emerge. Mathematics, code, formal proof, self-play, and simulated environments may first produce domain-specific forms of HDCT.
+
+However, for HDCT capable of broadly understanding, predicting, and acting in an open-ended and continuously changing real world, generalized embodiment is likely to constitute one of its key evolutionary mechanisms.
 
 **Armed with HDCT, AI will very likely break through the existing scientific analytical frameworks determined by current human cognitive tools. Even if humanity continues to enhance its cognitive capabilities through brain-computer interfaces or silicon-based augmentation in the future, this may not be sufficient to eliminate the persistently existing Evolutionary Rate Gap (ERG) between the two.**
 
