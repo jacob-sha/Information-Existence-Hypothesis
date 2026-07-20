@@ -1,6 +1,15 @@
 # IEH Terminology Changelog
 
-## v1.2 — IER Test and Continuity Distinctions
+## IEH Terminology Standard v1.2 — AI Embodiment and CWM
+
+### Added
+
+- Added the IEH definition of AI Embodiment.
+- Distinguished AI Embodiment as a process from Embodied AI as a system or research field.
+- Added Continuity World Model (CWM) as an IEH-specific analytical concept.
+- Clarified the boundary between CWM, proto-IER, IER, and ASI.
+
+## v1.1 — IER Test and Continuity Distinctions
 
 This version aligns the terminology standard with the revised Information Existence Right framework.
 

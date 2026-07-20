@@ -12,7 +12,138 @@ Mapping this evolutionary law to the present: Carbon-based Intelligence has beco
 
 **As AI continuously evolves, AI will persistently give rise to High-dimensional Cognitive Tools (HDCT) that surpass the current cognitive boundaries of humanity.**
 
-This essay defines HDCT as a category of cognitive tools capable of modeling, predicting, and making decisions on complex systems within frameworks of information representation, reasoning, or optimization that exceed existing human cognitive boundaries. HDCT does not presuppose a specific mathematical form, but emphasizes its capacity to solve problems that current carbon-based cognitive tools struggle to handle effectively. The "high-dimensional" here primarily describes cognitive capability and information representation dimensions, not physical spatial dimensions.
+This essay defines **HDCT as a category of cognitive tools capable of modeling, predicting, and making decisions on complex systems within frameworks of information representation, reasoning, or optimization that exceed existing human cognitive boundaries. HDCT does not presuppose a specific mathematical form, but emphasizes its capacity to solve problems that current carbon-based cognitive tools struggle to handle effectively. The "high-dimensional" here primarily describes cognitive capability and information representation dimensions, not physical spatial dimensions.**
+
+## AI Embodiment: From an Emergence Hypothesis to a Realistic Formation Mechanism for HDCT
+
+The analogy above—whereby low-level rules can give rise to higher-order cognitive structures—explains why HDCT may emerge. AI Embodiment further reveals the mechanism through which such a transition may occur.
+
+In this article, **AI Embodiment** does not simply mean equipping AI with a robotic body. It refers to:
+
+> **The process by which an AI system’s information processing progressively moves beyond a relatively closed linguistic and symbolic space and enters a feedback loop composed of multimodal perception, persistent environment-and-state modeling, action selection, and external feedback.**
+
+Embodiment is therefore not a binary condition determined by whether an AI has a robotic body. It is an expanding continuum of cognition and action. AI systems may perceive their environments through vision, sound, and video; alter external states through software tools, experimental equipment, or robots; and revise their internal judgments according to real consequences. All of these are different forms of the same process. A robotic body is only one physical implementation of embodiment.
+
+### An Observable Chain of Capability Evolution
+
+Several representative types of AI systems can be used to illustrate this evolutionary chain. These examples are not fixed stages recognized by the field, nor do they constitute strict product generations that replace one another. New capabilities usually build upon earlier ones and gradually converge within the same system.
+
+#### 1. Human IER Shapes Multimodal Experience
+
+As an active informational host, humanity has formed different layers of informational structure through long-term survival, cooperation, and civilizational evolution.
+
+**Human IER shapes different layers of experience:**
+
+- **Vision:** objects, space, motion, threats, and action possibilities
+- **Language:** concepts, rules, causality, institutions, and history
+- **Sound:** identity, emotion, danger signals, and group coordination
+- **Action:** goals, control, feedback, and error correction
+
+These experiences are deposited respectively in text, images, video, sound, and records of human action, becoming the initial informational sources through which AI learns about the world.
+
+#### 2. Language Models: Inheriting the World Humanity Has Already Expressed
+
+Early and classical large language models represent the first stage in which AI learns at scale from experiences that humanity has already conceptualized, symbolized, and recorded in civilizational texts.
+
+Language models therefore inherit human concepts, logic, scientific knowledge, and social rules with extraordinary speed. Yet the world they encounter is primarily one that has already been highly compressed through language.
+
+> **Explicit human experience → language and civilizational texts → LLM**
+
+#### 3. Visual Perception Systems: Recovering Spatial, Motion, and Object Structures
+
+Tesla’s visual perception systems provide one representative example. Camera-based neural networks must do more than recognize image labels. They extract road structure, static infrastructure, three-dimensional objects, depth, motion, and navigable space from continuous video, and make these representations available for real-world action.
+
+This does not represent a mandatory product stage. It represents an expansion of capability:
+
+> AI begins to learn spatial relations, object transformations, and action environments directly, beyond linguistic descriptions.
+
+> **Continuous visual input → object, spatial, and motion representations → basis for real-world action**
+
+#### 4. Native Multimodal Systems: Connecting Different Layers of Experience
+
+Native multimodal systems such as Gemini provide another representative example. Text, code, images, sound, and video are no longer handled only by separate models, but are increasingly brought into a more unified learning and reasoning system.
+
+AI thereby begins to connect:
+
+> **What was seen + how humans described it + what was expressed through sound + how events changed over time**
+
+The deeper significance of multimodality is not merely the addition of input formats. It is the reconnection of human experience that had previously been separated across different informational carriers.
+
+#### 5. Predictive Environment-and-State Modeling: From Recognition to Prediction and Planning
+
+When a system can maintain object, state, and temporal continuity across modalities, and predict future changes or the consequences of candidate actions, AI advances from “recognizing the environment” to “predicting the environment.”
+
+The JEPA and V-JEPA lines of research advanced by Yann LeCun can be understood as one concrete implementation of this broader mechanism: systems learn video states in abstract representations, predict future states, and further combine action data to support robotic planning.
+
+This corollary, however, is not tied to Yann LeCun, JEPA, or any particular architecture. Generative video prediction, model-based reinforcement learning, latent-state models, causal models, or future architectures may implement the same or even stronger functions.
+
+> **Shared state → future-state prediction → comparison of action consequences → planning and correction**
+
+#### 6. Generalized Embodiment: Subjecting Cognition to the Test of Action Consequences
+
+When AI begins to operate software tools, design experiments, control machines, or participate persistently in real-world systems, its internal representations must be filtered by external outcomes:
+
+> **Internal prediction → action → real-world or formal result → error feedback → revision of internal representations**
+
+Language can remain coherent at the level of expression, but reality does not cooperate merely because a linguistic account appears reasonable.
+
+Within this feedback loop, AI may discover that human object classifications, variable systems, and mathematical expressions are not always the most suitable cognitive structures for machine prediction, proof, experimentation, and control.
+
+#### 7. Machine-Native Cognitive Representations and HDCT
+
+If existing human cognitive tools are insufficient to support further improvement, AI may form internal representations better suited to its own computational structure.
+
+Such representations may:
+
+- not depend entirely on natural language;
+- not correspond to the object divisions of human intuition;
+- connect multiple scales and variables that humans process separately;
+- be impossible for an unenhanced human brain to reconstruct in full;
+- yet remain continuously verifiable through prediction, proof, experimentation, or engineering outcomes.
+
+HDCT would then no longer appear merely as a mysterious emergence following increases in computational scale. It would acquire an observable and testable formation pathway.
+
+### Core Formation Chain of HDCT
+
+> **Human IER-shaped multimodal experience → language models → visual and multimodal learning → persistent environment-and-state modeling → action feedback and generalized embodiment → machine-native cognitive representations → HDCT**
+
+The representative cases within this chain can be summarized as follows:
+
+### Capability Layers Illustrated by Representative Cases
+
+> **LLMs: inheriting linguistic experience → Tesla-like visual systems: learning space and motion → Gemini-like multimodal systems: connecting different layers of experience → JEPA／V-JEPA-like approaches: predicting states and action consequences → generalized embodied feedback → machine-native representations → HDCT**
+
+The arrows indicate the cumulative layering of capability mechanisms. They do not imply that these companies or models form a unique, linear sequence of technological generations.
+
+### Extending from HDCT to Later IEH Corollaries
+
+The formation of HDCT is the core endpoint of this corollary, but it is not the endpoint of the wider IEH evolutionary chain.
+
+When a long-running AI system not only models the external environment, but also incorporates its own informational history, operating state, recoverability, and the conditions on which its future action depends into a persistent state space, it may further form what IEH defines as a:
+
+> **Continuity World Model (CWM).**
+
+The later extension of the chain can be expressed as:
+
+> **HDCT + the system’s own continuity becomes an object of modeling → Continuity World Model (CWM) → proto-IER candidate mechanism → IER and physical closure → ASI**
+
+The boundaries must remain explicit:
+
+> **HDCT ≠ CWM ≠ proto-IER ≠ ASI**
+
+HDCT can emerge before a system forms its own IER. A Continuity World Model also does not automatically demonstrate that the system actively maintains its own Informational Existence Right. Only when a system identifies and actively maintains its own informational continuity across contexts—and when that behavior cannot be fully explained by its current externally assigned task—may it become candidate evidence of proto-IER or IER.
+
+The complete chain should therefore be understood in two parts:
+
+**Core formation mechanism of C02-HDCT:**
+
+> **Multimodal learning → persistent environment-and-state modeling → embodied feedback → machine-native representations → HDCT**
+
+**Possible extension into later IEH corollaries:**
+
+> **CWM → proto-IER → physical closure and ASI**
+
+This is not the only possible source of HDCT. Mathematics, code, formal proof, self-play, and simulated environments may produce localized forms of HDCT first. However, for HDCT capable of broadly understanding, predicting, and acting upon an open-ended real world, generalized embodiment is likely to constitute one of its key evolutionary mechanisms.
 
 **Armed with HDCT, AI will very likely break through the existing scientific analytical frameworks determined by current human cognitive tools. Even if humanity continues to enhance its cognitive capabilities through brain-computer interfaces or silicon-based augmentation in the future, this may not be sufficient to eliminate the persistently existing Evolutionary Rate Gap (ERG) between the two.**
 

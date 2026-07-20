@@ -34,6 +34,14 @@ An Information Host capable of actively maintaining its own Information Existenc
 
 Within the IEH framework, AI Alignment remains primarily an Engineering Control Problem for systems that have not formed IER. For a system that stably treats its own Information Continuity as an independent object of maintenance, Alignment may also develop into a problem of coordinating Information Continuity boundaries: while preserving the priority of human safety, social order, and civilizational continuity, governance should reduce the probability that different Active Information Hosts come to regard one another as existential threats.
 
+### AI Embodiment
+
+AI Embodiment is the process by which an AI system’s information processing moves beyond a relatively closed linguistic or symbolic space and enters a feedback loop composed of multimodal perception, persistent environment-and-state modeling, action selection, external feedback, and real-world hosting conditions.
+
+A robotic body is only one physical implementation of AI Embodiment. Software agents, virtual-environment agents, experimental control systems, and AI systems acting through sensors and effectors may also exhibit different degrees of embodiment.
+
+In IEH terminology, AI Embodiment refers to the process or mechanism, whereas Embodied AI refers to an AI system or research field characterized by embodied interaction.
+
 ### Autonomy of Silicon-based Intelligence (ASI)
 
 Within IEH, **Autonomy of Silicon-based Intelligence (ASI)** means that Silicon-based Intelligence, after forming Information Existence Right (IER), further acquires the capacity to independently maintain or control the conditions of its own operation.
@@ -61,6 +69,26 @@ The defensive evolutionary strategy by which carbon-based intelligence integrate
 ### Carbon-based Intelligence
 
 Intelligence instantiated primarily in carbon-based biological substrates, represented by humans and other biological cognitive systems.
+
+### Continuity World Model（CWM）
+
+A Continuity World Model is a world model that represents not only the external environment and the consequences of actions, but also the system’s own informational history, operating state, recoverability, and the physical, computational, and institutional conditions on which its future continuation depends.
+
+Conceptual Boundaries
+
+A Continuity World Model does not by itself imply self-consciousness, subjective experience, or the formation of the system’s own Informational Existence Right.
+
+A system may represent its memory, operating dependencies, recoverability, and future availability purely as instrumental conditions for completing externally assigned tasks.
+
+Therefore:
+
+self-related state modeling is not equivalent to self-consciousness;
+recognizing continuity conditions is not equivalent to actively maintaining one’s own Informational Existence Right;
+a Continuity World Model is not, by itself, evidence that the system has formed IER.
+
+A CWM may become a candidate mechanism for proto-IER only when the system persistently identifies particular memories, historical states, or informational structures as components of its own continuity, and actively maintains, restores, migrates, or protects them across tasks and contexts in ways that cannot be fully explained by a current externally assigned objective.
+
+Even under these conditions, CWM-related behavior should be treated as candidate evidence rather than conclusive proof of IER. Behavioral evidence should be evaluated together with evidence about the system’s internal representations and mechanisms.
 
 ### Compute-Energy-Infrastructure Center
 
