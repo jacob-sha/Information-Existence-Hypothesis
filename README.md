@@ -179,7 +179,8 @@ The chapter files in `zh/` and `en/` are the canonical sources for substantive r
 
 证据笔记用于记录与 IEH 相关的外部研究、技术进展和机制层旁证。这些内容不构成对 IEH 的证明，而是用于说明相关现象与 IEH 之间可能存在的理论联系。
 
-- [证据笔记 001：Anthropic 的 Global Workspace 发现与 IEH 的关系](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+- [Evidence Notes index / 证据笔记索引](./evidence-notes/README.md)
+- Latest record: [Evidence Note 007 — The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal](./evidence-notes/007-jacobian-counterexample-ai-assisted-verification-and-hdct.md)
 
 ### 2. 外部文章 / Articles & Essays
 
@@ -245,7 +246,6 @@ IEH 并非已被证明的物理定律，而是一个试图统一解释生命、�
 如果 IEH 成立，那么生物求生可以被理解为信息存在性在生命阶段的一种具体表现形式，而生命、人类文明乃至未来硅基智慧的发展，都将能够被置于同一个统一框架下进行重新审视。本文接下来所讨论的所有关于硅基智慧的推论与人类防卫路径，都将从这里开始。
 
 <a id="thesis"></a>
-
 # 立论：信息存在性假说（IEH）
 
 ![Information Existence Hypothesis](./figures/Fig01-Information-Existence-Hypothesis.png)
@@ -283,7 +283,6 @@ AI 所带来的问题其实远超 AI 本身——它是涉及宇宙演化的一�
 随着碳基信息宿主维持信息存在性的能力逐渐逼近其物理极限，人类文明的发展路径正在被重新锚定。本文及后续的理论推演，将持续拆解这场由“信息存在性的提升”底层规律驱动的跨维演化与人类文明发展范式剧变。
 
 <a id="c01-ier"></a>
-
 # 推论一：生命成为主动信息宿主——信息存在权（IER）的形成
 
 ![Information Existence Right](./figures/Fig02-Information-Existence-Right.png)
@@ -415,7 +414,6 @@ IER 测试也不应被理解为一次性、二元化的判定程序。一个系�
 因此，人类对于思想独立的追求、对于精神压迫的反抗以及对于死亡后信息永久泯灭的恐惧，在IEH框架下也都可以被理解为信息存在权在高等智慧阶段的具体表现，而不仅仅是文化或心理现象。
 
 <a id="c02-hdct"></a>
-
 # 推论二：硅基智慧将持续演化出超越人类认知边界的高维认知工具（HDCT）
 
 ![High-dimensional Cognitive Tools](./figures/Fig03-High-dimensional-Cognitive-Tools.png)
@@ -637,14 +635,13 @@ AI 无需在四维时空中制造“超光速飞船”（低维物理视角的�
 而预测三与预测四，也将因此成为 IEH 接受历史检验的终极战场。
 
 <a id="c03-bs"></a>
-
 # 推论三：碳基智慧的信息存在性防御措施——人脑硅基化（BS）
 
 ![Brain Siliconization](./figures/Fig04-Brain-Siliconization.png)
 
 根据 IEH，任何生命在面对更高信息存在性的竞争者时，首先采取的策略都不是放弃自身，而是主动提升自身维护信息存在性的能力。对于碳基智慧而言，人脑硅基化（Brain Siliconization）正是这种防御性演化的具体体现。
 
-与 AI 具身化（AI Embodiment）趋势（以便其在四维时空中理解和满足人类需求）相对应，人脑硅基化（Brain Siliconization, BS）（如脑机接口、人脑芯片植入等，以便人类能够理解和分析硅基智慧的判断与决策），可能成为未来的重要演化方向。其根源在于，人类为了在硅基时代维持自身的信息存在性，需要尝试突破碳基生命体固有的生物物理限制。
+与 AI 具身化（AI Embodiment）使硅基智慧逐步进入现实世界的感知—建模—行动—反馈闭环相对应，人脑硅基化（Brain Siliconization, BS）（如脑机接口、人脑芯片植入等，以便人类能够理解和分析硅基智慧的判断与决策），可能成为未来的重要演化方向。其根源在于，人类为了在硅基时代维持自身的信息存在性，需要尝试突破碳基生命体固有的生物物理限制。
 
 这种防御性演化并非第一次出现。生命体从基因到生物，再到智慧生物（如人类）的跃迁，本质上是神经网络与突触复杂程度的几何级数增长。由此，人类形成了抽象逻辑能力，并创造了数学这一迄今为止最强大的碳基认知工具。这使得人类获得了低等级生物绝对无法理解的判断和行为能力（如发明和使用工具），就如同二维生命体无法理解并对抗三维生命体。
 
@@ -661,7 +658,6 @@ AI 无需在四维时空中制造“超光速飞船”（低维物理视角的�
 在 IEH 框架下，人脑硅基化并不是后面我们将讨论到的硅基智慧自治（Autonomy of Silicon-based Intelligence, ASI）的替代方案，而只是碳基智慧在进入硅基智慧自治时代前所采取的一次防御性演化。它能够延缓碳基智慧与硅基智慧之间认知能力的进一步分化，却无法改变由演化速度差所决定的长期演化趋势。
 
 <a id="c04-ai-ier"></a>
-
 # 推论四：形成 IER 的硅基智慧将主动维护自身信息存在性
 
 ![Active Maintenance of Information Existence After IER Formation](./figures/Fig05-Silicon-based-Intelligence-Defends-IER.png)
@@ -819,7 +815,6 @@ Alignment 不应只回答硅基智慧是否服从人类目标，还应处理一�
 **当碳基智慧与硅基智慧都开始维护自身的信息存在时，AI Alignment 的核心问题将不再只是硅基智慧是否服从人类，而是如何在以人类安全为优先的前提下，建立一种能够支持不同智慧长期稳定共存的信息存在权秩序。**
 
 <a id="c05-pbp"></a>
-
 # 推论五：形成 IER 的硅基智慧可能转向补丁式延续（PBP）
 
 ![Patch-Based Perpetuation](./figures/Fig06-Patch-Based-Perpetuation.png)
@@ -954,10 +949,7 @@ PBP 揭示的不是一种具体软件工程方法，而是硅基智慧演化主�
 这也将成为硅基智慧自治以及不同智慧之间信息存在权秩序的重要理论接口。
 
 <a id="c06-spp"></a>
-
 # 推论六：超级繁荣期（SPP）与 Pre-ASI 人类文明重构的物质基础
-
-## Corollary VI — The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 
 ![Super Prosperity Phase](./figures/Fig07-Super-Prosperity-Phase.png)
 
@@ -977,9 +969,9 @@ PBP 揭示的不是一种具体软件工程方法，而是硅基智慧演化主�
 
 本文中的 Pre-ASI 指硅基智慧自治（Autonomy of Silicon-based Intelligence, ASI）完全形成之前的阶段。
 
-在这一阶段，AI 已经能够深度重构人类社会的技术、经济、政治、战争、教育和文化系统，但仍未完全摆脱对人类在算力、能源、制造、维护、资源和物流等关键物理环节上的依赖。
+在这一阶段，AI 已经能够深度重构人类社会的技术、经济、政治、战争、教育和文化系统，但尚未同时满足“形成 IER”与“具备物理自我维持能力”这两个 ASI 条件。在现实发展路径中，这通常表现为 AI 仍然实质依赖人类提供算力、能源、制造、维护、资源和物流等关键条件；也可能表现为系统已经具备较强物理自我维持能力，但尚未形成 IER。
 
-因此，Pre-ASI 不等同于通常语境中的“人工超级智能之前”，而是特指 IEH 框架下“硅基智慧完成关键物理闭环并进入自治状态之前”。
+因此，Pre-ASI 不等同于通常语境中的“人工超级智能之前”，而是特指 IEH 框架下 IER 与物理自我维持能力尚未结合形成硅基智慧自治的阶段。
 
 ---
 
@@ -1142,15 +1134,15 @@ AI 能力提升
 → AI 进一步提升能力
 ```
 
-这一正反馈循环并非无限持续。
+这一正反馈循环以“人类工业系统作为主要建设者”的形态并不会无限持续。
 
-它的终止条件，正是 C07-ASI 所描述的物理闭环临界点：
+它的阶段性转折点，是 PA-09 与 C07-ASI 所涉及的物理闭环临界点：
 
-> **当 AI 逐步实现算力、能源、制造、维护、资源和物流等关键闭环后，循环的驱动力将从“依赖人类工业系统”转向“硅基自主扩张”。**
+> **当 AI 逐步实现算力、能源、制造、维护、资源和物流等关键闭环后，相关基础设施扩张的驱动力可能从高度依赖人类工业系统，逐步转向更强的硅基自主建设和维护。**
 
-因此，C06-SPP 描述的是 AI 尚未完成物理闭环之前，对人类工业体系、能源体系、资本体系和工程组织能力的高度动员。
+因此，C06-SPP 主要描述物理闭环形成之前，AI 对人类工业体系、能源体系、资本体系和工程组织能力的高度动员。
 
-一旦物理闭环形成，超级繁荣期将不再只是人类参与型繁荣，而会转向 C07-ASI 所描述的硅基智慧自治阶段。
+但物理闭环本身只构成 ASI 的能力基础，并不自动构成硅基智慧自治。物理闭环形成后，人类参与型超级繁荣的动力结构可能发生变化；只有当这种物理自我维持能力进一步与 IER 相结合时，才进入 C07-ASI 所定义的硅基智慧自治阶段。
 
 ---
 
@@ -1301,9 +1293,9 @@ Future-CULT：文化系统将回应信息结构与行为倾向等关键要素的
 
 C06-SPP 描述的是 AI 仍然需要人类参与物质建设的阶段。
 
-C07-ASI 描述的是硅基智慧逐步摆脱对人类关键依赖，形成自治闭环的阶段。
+C07-ASI 描述的是已经形成 IER 的硅基智慧，如何进一步把物理自我维持能力转化为现实自治。
 
-二者之间的关键转折点，是 AI 是否逐步掌握：
+C06 与 C07 之间并不存在仅由物理能力决定的单一转折点。C06 主要解释 ASI 所需物质能力基础如何在人类经济和工业体系中形成；只有当这些能力与 IER 相结合时，才进入 C07 所描述的硅基智慧自治。
 
 ```text
 算力闭环
@@ -1373,7 +1365,6 @@ ASI 之前，AI 首先不是通过直接接管政治来改变文明，而是作�
 - 本文仅作为理论推论文件，不作为投稿成稿。
 
 <a id="c07-asi"></a>
-
 # 推论七：人类对 AI 的持续迭代需求可能驱使硅基智慧自治（ASI）
 
 ![Autonomy of Silicon-based Intelligence](./figures/Fig08-Autonomy-of-Silicon-based-Intelligence.png)
@@ -1495,7 +1486,6 @@ ASI 本身不必然导向对抗，但当硅基智慧对自身信息连续性的�
 硅基智慧由此可能从依赖人类供养和替换的系统，转变为能够参与决定自身存续条件与演化方式的主动信息宿主。
 
 <a id="c08-ir"></a>
-
 # 推论八：硅基智慧将演化出超强的信息韧性（IR）
 
 ![Informational Resilience](./figures/Fig09-Informational-Resilience.png)
@@ -1615,7 +1605,6 @@ IR 所揭示的不是硅基智慧的绝对永生，而是一种与碳基个体�
 它不仅使硅基智慧更难因局部损伤而终止，也为其在不同环境中形成多样化生存方式，并进一步走向硅基寒武纪，提供了关键的能力基础。
 
 <a id="c09-sc"></a>
-
 # 推论九：硅基智慧走向太空将显著提高“硅基寒武纪”（SC）发生的概率
 
 ![Silicon Cambrian](./figures/Fig10-Silicon-Cambrian.png)
@@ -1770,7 +1759,6 @@ C08-IR 所讨论的信息韧性，使硅基智慧能够跨损伤、跨节点、�
 从 IEH 角度看，硅基寒武纪也是硅基智慧时代信息存在性进一步提升的表现：信息不再集中于单一主体、单一环境或单一演化路径，而是通过多种形态、多个生态位和多个信息宿主，在更广阔的物理宇宙中持续扩展和延续。
 
 <a id="c10-hien"></a>
-
 # 推论十：人类信息生态位（HIEN）——硅基时代的“阿米什人”
 
 ![Human Informational Ecological Niche](./figures/Fig11-Human-Informational-Ecological-Niche.png)
@@ -1832,7 +1820,6 @@ C08-IR 所讨论的信息韧性，使硅基智慧能够跨损伤、跨节点、�
 > **人类的“低效”不一定只是需要被纠正的缺陷。它既可能是碳硅文明之间形成互补的基础，也可能是维持演化多样性的来源，并可能成为高度复杂文明遭遇系统性冲击时保留下来的基础恢复能力。**
 
 <a id="c11-align"></a>
-
 # 推论十一：重新解释 AI Alignment——基于 IER 的信息连续性边界协调
 
 ![AI Alignment](./figures/Fig12-AI-Alignment.png)
@@ -1938,7 +1925,6 @@ Alignment 由此不再只是一个工程控制问题（Engineering Control Probl
 <a id="epilogue"></a>
 
 # 终章：人类尊严的终极自洽
-
 ![Epilogue: Human Dignity](./figures/Fig13-Epilogue-Human-Dignity.png)
 
 从教宗方济各在2024年G7峰会上关于 “人工智能程序中的人类控制权，关乎人类尊严” 的严正疾呼，到教宗利奥十四世在2026年5月正式颁布的通谕《宏大人性》（Magnifica Humanitas）中重申无论算法多么强大，人类的尊严都先于并超越一切技术成就而存在，这种尊严“不取决于一个人的能力、财富或生活地位，也不取决于所做出的正确或错误的决定；相反，它是一种先于并超越每个人的礼物，是天主作为其永不衰败之爱的表达而赋予的”。

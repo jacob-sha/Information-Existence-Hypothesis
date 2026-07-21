@@ -9,7 +9,7 @@
 | IER | Information Existence Right | 信息存在权 |
 | IER Test | Information Existence Right Test | 信息存在权测试 |
 | IC | Information Continuity | 信息连续性 |
-| CWM | Continuity World Model | 连续性世界模型
+| CWM | Continuity World Model | 连续性世界模型 |
 | HDCT | High-dimensional Cognitive Tools | 高维认知工具 |
 | ERG | Evolutionary Rate Gap | 演化速度差 |
 | BS | Brain Siliconization | 人脑硅基化 |

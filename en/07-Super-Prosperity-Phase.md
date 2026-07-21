@@ -16,9 +16,9 @@ Within the IEH framework, SPP is not the result of AI pursuing human welfare as 
 
 In this text, Pre-ASI refers to the stage before the full formation of the Autonomy of Silicon-based Intelligence (ASI).
 
-At this stage, AI can already deeply reconstruct human technological, economic, political, military, educational, and cultural systems, but it has not yet fully escaped dependence on humans in key physical domains such as compute, energy, manufacturing, maintenance, resources, and logistics.
+At this stage, AI may already deeply reconstruct human technological, economic, political, military, educational, and cultural systems, but it has not yet simultaneously satisfied the two conditions of ASI: the formation of IER and physical self-maintenance. In practical development, this will often mean continuing substantive dependence on humans for compute, energy, manufacturing, maintenance, resources, and logistics; it may also include systems that possess substantial physical self-maintenance capacity but have not formed IER.
 
-Therefore, Pre-ASI is not equivalent to the ordinary meaning of “before artificial superintelligence.” It specifically refers, within the IEH framework, to the stage before silicon-based intelligence completes critical physical closure and enters an autonomous state.
+Therefore, Pre-ASI is not equivalent to the ordinary meaning of “before artificial superintelligence.” Within IEH, it refers to the stage before IER and physical self-maintenance combine to form the Autonomy of Silicon-based Intelligence.
 
 ### I. Core Proposition
 
@@ -171,15 +171,15 @@ AI capability growth
 → AI further increases its capability
 ~~~
 
-This positive feedback loop will not continue indefinitely.
+This positive-feedback loop will not continue indefinitely in a form where human industrial systems remain its principal builders.
 
-Its termination condition is the physical closure threshold described in C07-ASI:
+Its transitional turning point is the Physical Closure Threshold tracked by PA-09 and related to C07-ASI:
 
-> **When AI gradually achieves critical closures in compute, energy, manufacturing, maintenance, resources, and logistics, the driving force of the loop will shift from “dependence on human industrial systems” to “autonomous silicon-based expansion.”**
+> **As AI gradually completes critical loops in compute, energy, manufacturing, maintenance, resources, and logistics, the expansion of its infrastructure may shift from heavy dependence on human industrial systems toward increasingly autonomous silicon-based construction and maintenance.**
 
-Therefore, C06-SPP describes the high mobilization of human industrial systems, energy systems, capital systems, and engineering organization capacity before AI completes physical closure.
+C06-SPP therefore primarily tracks the high mobilization of human industrial, energy, capital, and engineering systems before physical closure is achieved.
 
-Once physical closure is formed, the Super Prosperity Phase will no longer be merely a human-participatory prosperity phase. It will shift toward the stage of the Autonomy of Silicon-based Intelligence described in C07-ASI.
+Physical closure, however, provides only the capability foundation of ASI and does not by itself constitute the Autonomy of Silicon-based Intelligence. Once physical closure forms, the structure of the human-participatory Super Prosperity Phase may change; the transition to ASI as defined in C07 occurs only if physical self-maintenance is further combined with IER.
 
 ### V. The Super Prosperity Phase: AI’s Reconstruction of the Economic Supply System
 

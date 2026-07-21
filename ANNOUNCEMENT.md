@@ -67,32 +67,8 @@ The prediction archive is designed to make IEH-derived deductions dated, structu
 
 ## Current Prediction Records / 当前预测档案
 
-- **PA-01 — Mars Silicon Speciation**  
-  火星硅基智慧异域成种
-
-- **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**  
-  算力—能源—基础设施中心下加拿大的非线性经济繁荣
-
-- **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**  
-  补丁式延续的微观机制观察检验
-
-- **PA-04 — Scale-driven Feature Retention**  
-  规模驱动的特征保留
-
-- **PA-05 — Patch-Based Iteration Convergence Across Frontier Labs**  
-  前沿 AI 实验室的补丁式迭代收敛
-
-- **PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift**  
-  高维认知工具与科学范式跃迁
-
-- **PA-07 — AI Infrastructure Capex Structural Expansion**  
-  AI 基础设施资本开支结构化扩张预测
-
-- **PA-08 — Energy–Compute Coupling Intensification**  
-  能源—算力耦合强化预测
-
-- **PA-09 — Physical Closure Threshold**  
-  物理闭环临界点预测
+For the current canonical prediction index, see the dedicated IEH Predictions Archive:
+https://github.com/jacob-sha/IEH-predictions
 
 ---
 

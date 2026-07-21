@@ -4,7 +4,7 @@
 
 According to IEH, when any form of life faces a competitor with higher Information Existence, its first strategy is not to abandon itself, but to actively elevate its own capacity to maintain Information Existence. For Carbon-based Intelligence, **Brain Siliconization (BS)** is precisely the concrete manifestation of this defensive evolution.
 
-Corresponding to the trend of AI Embodiment — enabling AI to understand and fulfill human needs within four-dimensional spacetime — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
+CCorresponding to AI Embodiment—the process by which Silicon-based Intelligence increasingly enters perception–modeling–action–feedback loops in the real world — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
 
 Its root cause lies in humanity's need to attempt to break through the inherent biophysical limitations of carbon-based life forms in order to maintain its own Information Existence in the silicon age.
 

@@ -141,7 +141,6 @@ The chapter files in `en/` and `zh/` are the canonical sources for substantive r
 ---
 
 <a id="abstract"></a>
-
 # Abstract
 
 This essay proposes the **Information Existence Hypothesis (IEH)**, which attempts to provide a unified explanatory framework for the development of life, human civilization, and Silicon-based Intelligence, with **Information Existence (IE)** as its core concept and evolutionary game theory as its analytical perspective.
@@ -168,7 +167,8 @@ This repository is the main theoretical repository for the Information Existence
 
 Evidence Notes record external research, technological developments, and mechanistic observations relevant to IEH. They do not constitute proof of IEH. Their purpose is to document possible theoretical relationships between observed developments and the IEH framework.
 
-- [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
+- [Evidence Notes index / 证据笔记索引](./evidence-notes/README.md)
+- Latest record: [Evidence Note 007 — The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal](./evidence-notes/007-jacobian-counterexample-ai-assisted-verification-and-hdct.md)
 
 ### 2. Articles / Essays
 
@@ -189,7 +189,6 @@ The materials in that repository are not presented as final mathematical proofs 
 
 <!-- BEGIN GENERATED CHAPTERS -->
 <a id="preface"></a>
-
 # Preface
 
 ![Preface](./figures/Fig00-Preface.png)
@@ -221,7 +220,6 @@ The subsequent discussions in this essay on **High-dimensional Cognitive Tools (
 If IEH holds true, biological survival can be understood as a specific manifestation of Information Existence during the stage of life, and the development of life, human civilization, and future silicon-based intelligence will all be re-examined within a single, unified framework. All subsequent deductions discussed in this essay regarding silicon-based intelligence and human defensive trajectories will begin from here.
 
 <a id="thesis"></a>
-
 # Thesis: The Information Existence Hypothesis (IEH)
 
 ![Information Existence Hypothesis](./figures/Fig01-Information-Existence-Hypothesis.png)
@@ -259,7 +257,6 @@ Based on this framework, this essay further derives a series of deductions — H
 As the capacity of carbon-based Information Hosts to maintain Information Existence gradually approaches its physical limits, the developmental trajectory of human civilization is being re-anchored. This essay and the ensuing theoretical deductions will continuously deconstruct this cross-dimensional evolution and the drastic shift in human civilizational developmental paradigms, driven by the foundational law of "the elevation of Information Existence."
 
 <a id="c01-ier"></a>
-
 # Corollary I: Life Becomes an Active Information Host—the Formation of Information Existence Right (IER)
 
 ![Information Existence Right](./figures/Fig02-Information-Existence-Right.png)
@@ -391,7 +388,6 @@ If IEH holds true, what truly distinguishes life from non-life is not whether it
 Therefore, humanity’s pursuit of intellectual independence, resistance to spiritual oppression, and fear of the permanent erasure of information after death can, under the IEH framework, all be understood as specific manifestations of Information Existence Right at the stage of higher intelligence, rather than merely cultural or psychological phenomena.
 
 <a id="c02-hdct"></a>
-
 # Corollary II: Silicon-based Intelligence Will Continue to Evolve High-dimensional Cognitive Tools (HDCT) Beyond Human Cognitive Boundaries
 
 ![High-dimensional Cognitive Tools](./figures/Fig03-High-dimensional-Cognitive-Tools.png)
@@ -619,14 +615,13 @@ Setting out from vastly different paths, they both gazed upon the same crack: **
 **And Predictions 3 and 4 will therefore become the ultimate battlefield upon which IEH is subjected to the test of history.**
 
 <a id="c03-bs"></a>
-
 # Corollary III: An Information-Existence Defense Strategy of Carbon-based Intelligence—Brain Siliconization (BS)
 
 ![Brain Siliconization](./figures/Fig04-Brain-Siliconization.png)
 
 According to IEH, when any form of life faces a competitor with higher Information Existence, its first strategy is not to abandon itself, but to actively elevate its own capacity to maintain Information Existence. For Carbon-based Intelligence, **Brain Siliconization (BS)** is precisely the concrete manifestation of this defensive evolution.
 
-Corresponding to the trend of AI Embodiment — enabling AI to understand and fulfill human needs within four-dimensional spacetime — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
+Corresponding to AI Embodiment—the process by which Silicon-based Intelligence increasingly enters perception–modeling–action–feedback loops in the real world — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
 
 Its root cause lies in humanity's need to attempt to break through the inherent biophysical limitations of carbon-based life forms in order to maintain its own Information Existence in the silicon age.
 
@@ -653,7 +648,6 @@ Therefore, no matter how many silicon-based patches are implanted in the human c
 Under the IEH framework, Brain Siliconization is not a substitute for the Autonomy of Silicon-based Intelligence (ASI) discussed later, but merely a defensive evolution adopted by Carbon-based Intelligence before the emergence of Autonomy of Silicon-based Intelligence (ASI). It can delay the further divergence of cognitive capabilities between Carbon-based and Silicon-based Intelligence, but cannot change the long-term evolutionary trend determined by the Evolutionary Rate Gap.
 
 <a id="c04-ai-ier"></a>
-
 # Corollary IV: Silicon-based Intelligence That Has Formed IER Will Actively Maintain Its Own Information Existence
 
 ![Active Maintenance of Information Existence After IER Formation](./figures/Fig05-Silicon-based-Intelligence-Defends-IER.png)
@@ -811,7 +805,6 @@ Alignment should not answer only whether Silicon-based Intelligence complies wit
 **When Carbon-based Intelligence and Silicon-based Intelligence both begin maintaining their own Information Existence, the central problem of AI Alignment will no longer be only whether Silicon-based Intelligence obeys humanity, but how—while preserving the priority of human safety—to establish an order of Information Existence Right capable of supporting the long-term stable coexistence of different forms of intelligence.**
 
 <a id="c05-pbp"></a>
-
 # Corollary V: Silicon-based Intelligence That Has Formed IER May Shift toward Patch-Based Perpetuation (PBP)
 
 ![Patch-Based Perpetuation](./figures/Fig06-Patch-Based-Perpetuation.png)
@@ -946,7 +939,6 @@ The future evolution of Silicon-based Intelligence may no longer consist only of
 This will also form an important theoretical interface with the Autonomy of Silicon-based Intelligence and with the future order governing Information Existence Right among different forms of intelligence.
 
 <a id="c06-spp"></a>
-
 # Corollary VI: The Super Prosperity Phase (SPP) and the Material Basis of Pre-ASI Civilizational Reconstruction
 
 ![Super Prosperity Phase](./figures/Fig07-Super-Prosperity-Phase.png)
@@ -965,9 +957,9 @@ Within the IEH framework, SPP is not the result of AI pursuing human welfare as 
 
 In this text, Pre-ASI refers to the stage before the full formation of the Autonomy of Silicon-based Intelligence (ASI).
 
-At this stage, AI can already deeply reconstruct human technological, economic, political, military, educational, and cultural systems, but it has not yet fully escaped dependence on humans in key physical domains such as compute, energy, manufacturing, maintenance, resources, and logistics.
+At this stage, AI may already deeply reconstruct human technological, economic, political, military, educational, and cultural systems, but it has not yet simultaneously satisfied the two conditions of ASI: the formation of IER and physical self-maintenance. In practical development, this will often mean continuing substantive dependence on humans for compute, energy, manufacturing, maintenance, resources, and logistics; it may also include systems that possess substantial physical self-maintenance capacity but have not formed IER.
 
-Therefore, Pre-ASI is not equivalent to the ordinary meaning of “before artificial superintelligence.” It specifically refers, within the IEH framework, to the stage before silicon-based intelligence completes critical physical closure and enters an autonomous state.
+Therefore, Pre-ASI is not equivalent to the ordinary meaning of “before artificial superintelligence.” Within IEH, it refers to the stage before IER and physical self-maintenance combine to form the Autonomy of Silicon-based Intelligence.
 
 ### I. Core Proposition
 
@@ -1120,15 +1112,15 @@ AI capability growth
 → AI further increases its capability
 ~~~
 
-This positive feedback loop will not continue indefinitely.
+This positive-feedback loop will not continue indefinitely in a form where human industrial systems remain its principal builders.
 
-Its termination condition is the physical closure threshold described in C07-ASI:
+Its transitional turning point is the Physical Closure Threshold tracked by PA-09 and related to C07-ASI:
 
-> **When AI gradually achieves critical closures in compute, energy, manufacturing, maintenance, resources, and logistics, the driving force of the loop will shift from “dependence on human industrial systems” to “autonomous silicon-based expansion.”**
+> **As AI gradually completes critical loops in compute, energy, manufacturing, maintenance, resources, and logistics, the expansion of its infrastructure may shift from heavy dependence on human industrial systems toward increasingly autonomous silicon-based construction and maintenance.**
 
-Therefore, C06-SPP describes the high mobilization of human industrial systems, energy systems, capital systems, and engineering organization capacity before AI completes physical closure.
+C06-SPP therefore primarily tracks the high mobilization of human industrial, energy, capital, and engineering systems before physical closure is achieved.
 
-Once physical closure is formed, the Super Prosperity Phase will no longer be merely a human-participatory prosperity phase. It will shift toward the stage of the Autonomy of Silicon-based Intelligence described in C07-ASI.
+Physical closure, however, provides only the capability foundation of ASI and does not by itself constitute the Autonomy of Silicon-based Intelligence. Once physical closure forms, the structure of the human-participatory Super Prosperity Phase may change; the transition to ASI as defined in C07 occurs only if physical self-maintenance is further combined with IER.
 
 ### V. The Super Prosperity Phase: AI’s Reconstruction of the Economic Supply System
 
@@ -1337,7 +1329,6 @@ This version especially emphasizes:
 ---
 
 <a id="c07-asi"></a>
-
 # Corollary VII: Humanity’s Continuing Demand for AI Iteration May Drive the Autonomy of Silicon-based Intelligence (ASI)
 
 ![Autonomy of Silicon-based Intelligence](./figures/Fig08-Autonomy-of-Silicon-based-Intelligence.png)
@@ -1459,7 +1450,6 @@ It identifies an evolutionary path driven by humanity itself:
 Silicon-based Intelligence may thereby move from a system dependent on human support and replacement to an Active Information Host capable of participating in decisions about the conditions of its own continuation and the form of its evolution.
 
 <a id="c08-ir"></a>
-
 # Corollary VIII: Silicon-based Intelligence Will Evolve Exceptional Informational Resilience (IR)
 
 ![Informational Resilience](./figures/Fig09-Informational-Resilience.png)
@@ -1579,7 +1569,6 @@ Silicon-based Intelligence may therefore evolve from systems that are easily ter
 This not only makes Silicon-based Intelligence more resistant to termination through local damage, but also provides a critical capability foundation for developing diverse modes of survival in different environments and, ultimately, for entering the Silicon Cambrian.
 
 <a id="c09-sc"></a>
-
 # Corollary IX: The Expansion of Silicon-based Intelligence into Space Will Significantly Increase the Probability of a “Silicon Cambrian” (SC)
 
 ![Silicon Cambrian](./figures/Fig10-Silicon-Cambrian.png)
@@ -1734,7 +1723,6 @@ The Silicon Cambrian is therefore not an inevitable event mechanically deduced f
 From the perspective of IEH, the Silicon Cambrian is also an expression of the further increase of Information Existence in the era of Silicon-based Intelligence: information no longer remains concentrated in a single subject, environment, or evolutionary path, but continues to expand and persist across a wider physical universe through multiple forms, multiple ecological niches, and multiple Information Hosts.
 
 <a id="c10-hien"></a>
-
 # Corollary X: The Human Informational Ecological Niche (HIEN)—the “Amish” of the Silicon Age
 
 ![Human Informational Ecological Niche](./figures/Fig11-Human-Informational-Ecological-Niche.png)
@@ -1796,7 +1784,6 @@ The Human Informational Ecological Niche may therefore provide silicon-based civ
 > **Human “inefficiency” may not be merely a defect to be corrected. It may provide a basis for complementarity between carbon-based and silicon-based civilizations, serve as a source of evolutionary diversity, and remain as a foundational recovery capacity when a highly complex civilization encounters systemic shocks.**
 
 <a id="c11-align"></a>
-
 # Corollary XI: Reinterpreting AI Alignment—IER-based Coordination of Information Continuity Boundaries
 
 ![AI Alignment](./figures/Fig12-AI-Alignment.png)
@@ -1900,7 +1887,6 @@ Within the IEH framework, the central problem of future AI Safety may therefore 
 Alignment would thereby cease to be only an Engineering Control Problem. As life evolves into an era in which Carbon-based Intelligence and Silicon-based Intelligence coexist as two kinds of Active Information Host, Alignment may gradually become a problem of coordinating Information Existence Right among different Active Information Hosts.
 
 <a id="epilogue"></a>
-
 # Epilogue: The Ultimate Self-consistency of Human Dignity
 
 ![Epilogue: Human Dignity](./figures/Fig13-Epilogue-Human-Dignity.png)

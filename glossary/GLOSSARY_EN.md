@@ -70,7 +70,7 @@ The defensive evolutionary strategy by which carbon-based intelligence integrate
 
 Intelligence instantiated primarily in carbon-based biological substrates, represented by humans and other biological cognitive systems.
 
-### Continuity World Model（CWM）
+### Continuity World Model (CWM)
 
 A Continuity World Model is a world model that represents not only the external environment and the consequences of actions, but also the system’s own informational history, operating state, recoverability, and the physical, computational, and institutional conditions on which its future continuation depends.
 

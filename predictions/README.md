@@ -19,17 +19,8 @@ These predictions are used to evaluate whether the deductions of IEH gain suppor
 
 ## Companion Repository
 
-The companion archive currently includes the following prediction records:
-
-- **PA-01 — Mars Silicon Speciation**
-- **PA-02 — Canada’s Nonlinear Economic Prosperity under the Compute-Energy-Infrastructure Center**
-- **PA-03 — Patch-Based Perpetuation Micro-mechanism Test**
-- **PA-04 — Scale-driven Feature Retention**
-- **PA-05 — Patch-Based Iteration Convergence Across Frontier Labs**
-- **PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift**
-- **PA-07 — AI Infrastructure Capex Structural Expansion**
-- **PA-08 — Energy–Compute Coupling Intensification**
-- **PA-09 — Physical Closure Threshold**
+For the current canonical prediction index, see the dedicated IEH Predictions Archive:
+https://github.com/jacob-sha/IEH-predictions
 
 The archive may also include future dated prediction records, evidence updates, partial confirmations, revision notes, or falsification records.
 

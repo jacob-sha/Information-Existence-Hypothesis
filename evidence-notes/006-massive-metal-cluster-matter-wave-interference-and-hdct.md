@@ -729,7 +729,7 @@ The following distinctions must remain explicit:
 \[
 \text{instrument-assisted human cognition}
 \neq
-\text{autonomous machine-native cognition}
+\text{autonomous cognition driven by machine-native representations}
 \]
 
 \[
@@ -789,7 +789,7 @@ The following distinctions must remain explicit:
 \[
 \text{仪器辅助的人类认知}
 \neq
-\text{自主机器原生认知}
+\text{由机器原生表示驱动的自主认知}
 \]
 
 \[
