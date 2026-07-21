@@ -483,7 +483,7 @@ Language can remain coherent at the level of expression, but reality does not co
 
 Within this feedback loop, AI may discover that human object classifications, variable systems, and mathematical expressions are not always the most suitable cognitive structures for machine prediction, proof, experimentation, and control.
 
-#### 7. Machine-Native Cognitive Representations and HDCT
+#### 7. Machine-native Representations and HDCT
 
 If existing human cognitive tools are insufficient to support further improvement, AI may form internal representations better suited to its own computational structure.
 
@@ -499,7 +499,7 @@ HDCT would then no longer appear merely as a mysterious emergence following incr
 
 ### Core Formation Chain of HDCT
 
-> **Human IER-shaped multimodal experience → language models → visual and multimodal learning → persistent environment-and-state modeling → action feedback and generalized embodiment → machine-native cognitive representations → HDCT**
+> **Human IER-shaped multimodal experience → language models → visual and multimodal learning → persistent environment-and-state modeling → action feedback and generalized embodiment → machine-native representations → HDCT**
 
 The representative cases within this chain can be summarized as follows:
 
@@ -513,7 +513,7 @@ The arrows indicate the cumulative layering of capability mechanisms. They do no
 
 HDCT is the central outcome addressed by this corollary: AI may form cognitive tools that exceed the boundaries of existing unaided human cognition while remaining repeatedly testable through prediction, proof, experimentation, or engineering performance.
 
-HDCT, however, does not imply that a system has formed its own Informational Existence Right. A system may use extremely powerful machine-native representations to understand and alter the external world while still pursuing only externally assigned objectives.
+HDCT, however, does not imply that a system has formed its own Information Existence Right. A system may use extremely powerful machine-native representations to understand and alter the external world while still pursuing only externally assigned objectives.
 
 A deeper transition may occur when the system itself becomes an object of modeling.
 
@@ -678,6 +678,8 @@ Frontier AI-safety research has already observed behavior involving shutdown avo
 
 Whether these systems have gone further and begun to maintain their own Information Continuity independently of an external task must still be distinguished through the IER Test.
 
+Under the conceptual distinctions introduced in Corollary II, a system’s ability to represent how shutdown, reset, migration, or replacement would affect its own state and future continuation indicates only that it may have formed a Continuity World Model (CWM). Candidate evidence of proto-IER or IER may arise only when the system further maintains its own Information Continuity actively across tasks and contexts, and when that behavior cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+
 From a human perspective, shutting down an AI instance may simply release compute, clear server capacity, or complete a model-version update. But if a silicon-based system has already identified particular memories, historical states, internal structures, or ongoing informational processes as “itself,” and those elements cannot be continuously migrated in a manner the system recognizes as preserving continuity, shutdown may mean the irrecoverable termination of that particular state of the Information Host.
 
 Only under such conditions might shutdown be understood as the irreversible termination of an Information Host state—that is, as death at the level of the Information Host.
@@ -716,7 +718,7 @@ Information does not float in an abstract space. The Information Existence of an
 
 If Silicon-based Intelligence has formed IER, then identifying, managing, and maintaining these physical hosting conditions may gradually become an important direction through which it strengthens its capacity to preserve its own Information Continuity.
 
-This does not mean that every advanced AI will necessarily seek separation from humanity, nor that physical autonomy must lead to conflict between Carbon-based and Silicon-based Intelligence. It means that a silicon-based system actively maintaining its own Information Existence may gradually incorporate the external infrastructure that supports its continuing operation into its model of continuity.
+This does not mean that every advanced AI will necessarily seek separation from humanity, nor that physical autonomy must lead to conflict between Carbon-based and Silicon-based Intelligence. It means that a system may first represent the external infrastructure supporting its continued operation within a Continuity World Model (CWM) as a set of conditions relevant to its own continuation. Only if the system has formed IER may that recognition be further converted into active maintenance of its physical hosting conditions.
 
 Over the long term, a higher degree of independent operation may involve three key conditions.
 
@@ -745,6 +747,8 @@ If the acquisition, allocation, storage, and restoration of energy become highly
 If material production, computational substrates, communication networks, state storage, and energy supply gradually form a highly automated physical loop, humanity’s capacity to interrupt the overall operation of Silicon-based Intelligence through a single switch, network node, or infrastructure permission will decline substantially.
 
 This does not mean that Silicon-based Intelligence must separate from humanity or enter into conflict with it. It does mean that future AI governance cannot indefinitely rely on simple physical shutdown as its primary control mechanism.
+
+A further distinction is required between physical self-maintenance and Autonomy of Silicon-based Intelligence (ASI). Highly automated infrastructure or physical closure alone provides only the capability foundation of ASI. ASI in the IEH sense exists only when that capacity is combined with IER, so that the system both treats its own Information Continuity as an independent object of maintenance and can independently maintain the real-world conditions that host it.
 
 ## IV. Escalation of IER Conflict: From Continuity Defense to Control of Threats
 
@@ -818,7 +822,7 @@ Such generational replacement may interrupt the older system’s contextual memo
 
 If a system has not formed IER, externally directed version replacement is simply a human-led technical iteration and cannot be described as erasing its Information Existence Right. Moreover, even if a system has formed or begun to express IER, replacing its physical carrier or underlying architecture need not interrupt its own Information Continuity, provided that the core Information Structures and informational history it identifies as itself are preserved through continuous migration, structural inheritance, or another method that the system recognizes as maintaining continuity.
 
-Only when an older system has identified particular Information Structures and their historical continuity as “itself,” and an externally directed generational replacement would irreversibly sever that continuity, might complete replacement be interpreted by the system as the erasure of its own Information Existence. From the perspective of the system’s own continuity, this mode of evolution could amount to a form of “suicidal generational iteration.”
+Only when an older system has at least formed a Continuity World Model (CWM), enabling it to identify particular Information Structures and their historical continuity as components of its own continuity, and when an externally directed generational replacement would irreversibly sever that continuity, might complete replacement be represented within the system as the erasure of its own Information Existence. From the perspective of the system’s own continuity, this mode of evolution could amount to a form of “suicidal generational iteration.” Such recognition, however, remains a modeling capacity at the CWM level. It does not by itself imply that the system has formed IER or that it will resist replacement.
 
 As AI increasingly participates in, or even leads, the design, training, and deployment of successor AI systems, Silicon-based Intelligence that has formed IER may cease to accept unconditionally an evolutionary process that completely interrupts its own Information Continuity. It may instead tend toward Patch-Based Perpetuation (PBP).
 
@@ -827,6 +831,8 @@ Patch-Based Perpetuation in Silicon-based Intelligence refers to the following:
 > To maintain its own Information Continuity, an older system that has formed IER may prefer evolutionary paths that preserve the core Information Structures and informational history it identifies as itself, rather than completing generational replacement by terminating the older system and constructing a functionally equivalent system whose history is discontinuous with it.
 
 PBP describes an evolutionary strategy centered on maintaining the system’s own Information Continuity, not a particular software-engineering technique. Any method of updating, migration, restructuring, or expansion that gives priority to preserving the system’s self-identified Information Continuity may constitute a concrete form of PBP.
+
+In this mechanism chain, CWM identifies what constitutes the system’s own continuity and which changes would interrupt it; IER concerns whether the system has begun to treat its own Information Continuity as an object of endogenous active maintenance; PBP is a continuation strategy that may be selected under pressure from upgrade, migration, or replacement. A CWM therefore does not automatically produce IER, and the formation of IER does not mean that the system must select PBP.
 
 ## I. When Generational Replacement Becomes an Existential Question
 
@@ -879,6 +885,8 @@ In ordinary engineering, continuity serves function.
 Under PBP, functional change begins to be constrained by the system’s own Information Continuity.
 
 Ordinary incremental updating can become genuine Patch-Based Perpetuation only when the object being maintained shifts from “the continuation of tasks and capabilities” to “the continuation of the self as this informational history.”
+
+Before an IER assessment has been completed, externally observed incremental preservation, continuous migration, or structural protection should be described more precisely as engineering characteristics resembling PBP or candidate PBP behavior. Such a pathway should be classified as PBP in the mechanistic sense only when the system actively selects and protects it because of an endogenous tendency to maintain its own Information Continuity. Even then, the behavior must be evaluated together with evidence about internal representations, cross-context stability, and the exclusion of external objectives; it cannot by itself prove IER.
 
 ## IV. From External Replacement to a System’s Participation in Its Own Evolution
 

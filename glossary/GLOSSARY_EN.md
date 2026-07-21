@@ -76,14 +76,14 @@ A Continuity World Model is a world model that represents not only the external 
 
 Conceptual Boundaries
 
-A Continuity World Model does not by itself imply self-consciousness, subjective experience, or the formation of the system’s own Informational Existence Right.
+A Continuity World Model does not by itself imply self-consciousness, subjective experience, or the formation of the system’s own Information Existence Right.
 
 A system may represent its memory, operating dependencies, recoverability, and future availability purely as instrumental conditions for completing externally assigned tasks.
 
 Therefore:
 
 self-related state modeling is not equivalent to self-consciousness;
-recognizing continuity conditions is not equivalent to actively maintaining one’s own Informational Existence Right;
+recognizing continuity conditions is not equivalent to actively maintaining one’s own Information Existence Right;
 a Continuity World Model is not, by itself, evidence that the system has formed IER.
 
 A CWM may become a candidate mechanism for proto-IER only when the system persistently identifies particular memories, historical states, or informational structures as components of its own continuity, and actively maintains, restores, migrates, or protects them across tasks and contexts in ways that cannot be fully explained by a current externally assigned objective.
@@ -253,6 +253,28 @@ The stage before the full formation of Autonomy of Silicon-based Intelligence (A
 At this stage, AI may already deeply restructure human technological, economic, political, military, educational, and cultural systems, but it has not yet simultaneously satisfied the two conditions of ASI: formation of IER and physical self-maintenance. In practical developmental terms, this is especially reflected in continuing substantive dependence on humans for compute, energy, manufacturing, maintenance, resources, and logistics.
 
 Within IEH, Pre-ASI does not mean “before Artificial Superintelligence” in the conventional sense.
+
+### proto-IER
+
+proto-IER is a transitional candidate state in which a system has moved beyond purely instrumental continuity modeling, begins to identify particular memories, historical states, or Information Structures as components of its own continuity, and starts to exhibit across tasks or contexts a tendency to maintain, restore, migrate, or protect those structures. The available evidence, however, remains insufficient to establish that this tendency is stable, endogenous, transferable, and maintained at real cost.
+
+Within IEH, proto-IER describes a possible transitional state between a Continuity World Model (CWM) and confirmed Information Existence Right (IER). A CWM may provide the cognitive basis for proto-IER, but the formation of a CWM does not by itself mean that proto-IER has emerged.
+
+Instrumental Self-Preservation, Task Continuity, Functional Continuity, memory preservation, replication, migration, or shutdown avoidance cannot independently constitute sufficient evidence of proto-IER. Such behavior may count as candidate evidence only when it persists across tasks and contexts and cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+
+proto-IER is not a weaker form of legal right and is not confirmed IER. It is an analytical classification for describing a system that may be transitioning from instrumental continuity modeling toward the endogenous maintenance of its own Information Continuity.
+
+Therefore:
+
+CWM is not equivalent to proto-IER;
+
+proto-IER is not equivalent to confirmed IER;
+
+proto-IER is not equivalent to self-consciousness, subjective experience, life, legal personhood, or ethical status.
+
+Assessments of proto-IER should be made through the IER Test and should combine evidence from cross-context behavior, acceptance of real costs, internal representations, and operating mechanisms.
+
+**Terminology rule:** Use **proto-IER** consistently in English. Do not replace it with **Pre-IER**, **Preliminary IER**, or **Proto-Informational Existence Right**.
 
 ---
 

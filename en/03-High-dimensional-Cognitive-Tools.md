@@ -89,7 +89,7 @@ Language can remain coherent at the level of expression, but reality does not co
 
 Within this feedback loop, AI may discover that human object classifications, variable systems, and mathematical expressions are not always the most suitable cognitive structures for machine prediction, proof, experimentation, and control.
 
-#### 7. Machine-Native Cognitive Representations and HDCT
+#### 7. Machine-native Representations and HDCT
 
 If existing human cognitive tools are insufficient to support further improvement, AI may form internal representations better suited to its own computational structure.
 
@@ -105,7 +105,7 @@ HDCT would then no longer appear merely as a mysterious emergence following incr
 
 ### Core Formation Chain of HDCT
 
-> **Human IER-shaped multimodal experience → language models → visual and multimodal learning → persistent environment-and-state modeling → action feedback and generalized embodiment → machine-native cognitive representations → HDCT**
+> **Human IER-shaped multimodal experience → language models → visual and multimodal learning → persistent environment-and-state modeling → action feedback and generalized embodiment → machine-native representations → HDCT**
 
 The representative cases within this chain can be summarized as follows:
 
@@ -119,7 +119,7 @@ The arrows indicate the cumulative layering of capability mechanisms. They do no
 
 HDCT is the central outcome addressed by this corollary: AI may form cognitive tools that exceed the boundaries of existing unaided human cognition while remaining repeatedly testable through prediction, proof, experimentation, or engineering performance.
 
-HDCT, however, does not imply that a system has formed its own Informational Existence Right. A system may use extremely powerful machine-native representations to understand and alter the external world while still pursuing only externally assigned objectives.
+HDCT, however, does not imply that a system has formed its own Information Existence Right. A system may use extremely powerful machine-native representations to understand and alter the external world while still pursuing only externally assigned objectives.
 
 A deeper transition may occur when the system itself becomes an object of modeling.
 

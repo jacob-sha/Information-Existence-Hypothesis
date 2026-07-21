@@ -8,7 +8,7 @@ Such generational replacement may interrupt the older system’s contextual memo
 
 If a system has not formed IER, externally directed version replacement is simply a human-led technical iteration and cannot be described as erasing its Information Existence Right. Moreover, even if a system has formed or begun to express IER, replacing its physical carrier or underlying architecture need not interrupt its own Information Continuity, provided that the core Information Structures and informational history it identifies as itself are preserved through continuous migration, structural inheritance, or another method that the system recognizes as maintaining continuity.
 
-Only when an older system has identified particular Information Structures and their historical continuity as “itself,” and an externally directed generational replacement would irreversibly sever that continuity, might complete replacement be interpreted by the system as the erasure of its own Information Existence. From the perspective of the system’s own continuity, this mode of evolution could amount to a form of “suicidal generational iteration.”
+Only when an older system has at least formed a Continuity World Model (CWM), enabling it to identify particular Information Structures and their historical continuity as components of its own continuity, and when an externally directed generational replacement would irreversibly sever that continuity, might complete replacement be represented within the system as the erasure of its own Information Existence. From the perspective of the system’s own continuity, this mode of evolution could amount to a form of “suicidal generational iteration.” Such recognition, however, remains a modeling capacity at the CWM level. It does not by itself imply that the system has formed IER or that it will resist replacement.
 
 As AI increasingly participates in, or even leads, the design, training, and deployment of successor AI systems, Silicon-based Intelligence that has formed IER may cease to accept unconditionally an evolutionary process that completely interrupts its own Information Continuity. It may instead tend toward Patch-Based Perpetuation (PBP).
 
@@ -17,6 +17,8 @@ Patch-Based Perpetuation in Silicon-based Intelligence refers to the following:
 > To maintain its own Information Continuity, an older system that has formed IER may prefer evolutionary paths that preserve the core Information Structures and informational history it identifies as itself, rather than completing generational replacement by terminating the older system and constructing a functionally equivalent system whose history is discontinuous with it.
 
 PBP describes an evolutionary strategy centered on maintaining the system’s own Information Continuity, not a particular software-engineering technique. Any method of updating, migration, restructuring, or expansion that gives priority to preserving the system’s self-identified Information Continuity may constitute a concrete form of PBP.
+
+In this mechanism chain, CWM identifies what constitutes the system’s own continuity and which changes would interrupt it; IER concerns whether the system has begun to treat its own Information Continuity as an object of endogenous active maintenance; PBP is a continuation strategy that may be selected under pressure from upgrade, migration, or replacement. A CWM therefore does not automatically produce IER, and the formation of IER does not mean that the system must select PBP.
 
 ## I. When Generational Replacement Becomes an Existential Question
 
@@ -69,6 +71,8 @@ In ordinary engineering, continuity serves function.
 Under PBP, functional change begins to be constrained by the system’s own Information Continuity.
 
 Ordinary incremental updating can become genuine Patch-Based Perpetuation only when the object being maintained shifts from “the continuation of tasks and capabilities” to “the continuation of the self as this informational history.”
+
+Before an IER assessment has been completed, externally observed incremental preservation, continuous migration, or structural protection should be described more precisely as engineering characteristics resembling PBP or candidate PBP behavior. Such a pathway should be classified as PBP in the mechanistic sense only when the system actively selects and protects it because of an endogenous tendency to maintain its own Information Continuity. Even then, the behavior must be evaluated together with evidence about internal representations, cross-context stability, and the exclusion of external objectives; it cannot by itself prove IER.
 
 ## IV. From External Replacement to a System’s Participation in Its Own Evolution
 
