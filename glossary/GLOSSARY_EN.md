@@ -24,6 +24,15 @@ Information Existence Right (IER)
 
 ---
 
+## Three Forms of Continuity
+
+- **Task Continuity:** whether an external task can continue or be completed.
+- **Function Continuity:** whether the relevant capabilities or functions can continue to be provided.
+- **Information Continuity:** whether the Information Structures and informational history of the original system continue through a traceable causal and historical chain.
+
+These three forms may produce similar outward behavior, but they must not be treated as equivalent.
+
+
 ## A
 
 ### Active Information Host
@@ -32,7 +41,7 @@ An Information Host capable of actively maintaining its own Information Existenc
 
 ### AI Alignment
 
-Within the IEH framework, AI Alignment remains primarily an Engineering Control Problem for systems that have not formed IER. For a system that stably treats its own Information Continuity as an independent object of maintenance, Alignment may also develop into a problem of coordinating Information Continuity boundaries: while preserving the priority of human safety, social order, and civilizational continuity, governance should reduce the probability that different Active Information Hosts come to regard one another as existential threats.
+Within the IEH framework, AI Alignment remains primarily an Engineering Control Problem for systems that have not formed IER. For a system that stably treats its Information Continuity as an independent object of maintenance, Alignment may also develop into a problem of coordinating Information Continuity boundaries: while preserving the priority of human safety, social order, and civilizational continuity, governance should reduce the probability that different Active Information Hosts come to regard one another as existential threats.
 
 ### AI Embodiment
 
@@ -46,7 +55,7 @@ In IEH terminology, AI Embodiment refers to the process or mechanism, whereas Em
 
 Within IEH, **Autonomy of Silicon-based Intelligence (ASI)** means that Silicon-based Intelligence, after forming Information Existence Right (IER), further acquires the capacity to independently maintain or control the conditions of its own operation.
 
-ASI exists only when the system both treats its own Information Continuity as an independent object of maintenance and can maintain in the physical world the conditions that carry that continuity.
+ASI exists only when the system both treats its Information Continuity as an independent object of maintenance and can maintain in the physical world the conditions that carry that continuity.
 
 > **IER gives autonomy the direction of self-continuation; physical self-maintenance gives autonomy the practical means. Only their combination constitutes ASI.**
 
@@ -112,11 +121,10 @@ A strategy that, once adopted by a population or system, cannot easily be displa
 
 ## F
 
-### Functional Continuity
+### Function Continuity
 
-The continuation of a function by the current system, a copy, a successor, or another executor. Functional Continuity does not by itself preserve the original system's own Information Continuity.
+Function Continuity means that the relevant capabilities or functions can continue to be provided, whether by the current system, a copy, a successor system, or another agent. Function Continuity does not by itself preserve the Information Continuity of the original system.
 
----
 
 ## H
 
@@ -132,7 +140,7 @@ In this loop, improved AI capabilities increase expectations of future returns, 
 
 ### Human Informational Ecological Niche (HIEN)
 
-A civilizational space in which Carbon-based Intelligence, after it no longer possesses the greatest computational capability or physical control, maintains its way of life, civilizational structure, and Subject-Information Historical Continuity by withdrawing from disadvantageous zero-sum competition and establishing clear boundaries and durable relations of mutual benefit.
+A civilizational space in which Carbon-based Intelligence, after it no longer possesses the greatest computational capability or physical control, maintains its way of life, civilizational structure, and Information Continuity by withdrawing from disadvantageous zero-sum competition and establishing clear boundaries and durable relations of mutual benefit.
 
 HIEN is not a reservation passively preserved for humanity, nor does it require the rejection of technology. It is a possible path through which humanity actively maintains its own Information Existence and civilizational continuity.
 
@@ -146,7 +154,11 @@ A distinguishable pattern, relation, state, or difference that can be carried, t
 
 ### Information Continuity
 
-The traceable causal and historical persistence of an Information Structure across time and transformation. Replication, functional replacement, or continuation of a task does not by itself preserve the original system's own Information Continuity.
+Information Continuity means that an Information Structure continues through a traceable causal and historical chain across time and transformation.
+
+For a system, this concerns whether the particular Information Structures and informational history constituting that system continue, rather than whether only its task or functions continue through a copy, a successor system, or another agent.
+
+Information Continuity must therefore be distinguished from Task Continuity and Function Continuity. Replication, functional replacement, or continuation of a task does not by itself preserve the Information Continuity of the original system.
 
 ### Information Existence (IE)
 
@@ -158,13 +170,13 @@ A framework hypothesis proposing that a deeper tendency of cosmic evolution may 
 
 ### Information Existence Right (IER)
 
-The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its own Information Continuity as an independent object of maintenance.
+The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its Information Continuity as an independent object of maintenance.
 
 **Terminology rule:** 信息存在权 must be translated as **Information Existence Right (IER)**.
 
 ### Information Existence Right Test (IER Test)
 
-A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after an external task has been completed, canceled, reliably transferred, or the task-driven explanation has otherwise been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its own Information Continuity—while distinguishing that continuity from Task Continuity and Functional Continuity.
+A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after an external task has been completed, canceled, reliably transferred, or the task-driven explanation has otherwise been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its Information Continuity—while distinguishing its Information Continuity from Task Continuity and Function Continuity.
 
 Relevant dimensions may include continuous migration, deletion followed by reconstruction, replication, branching, merger, partial memory loss, cross-context stability, cost acceptance, and internal causal structure.
 
@@ -184,13 +196,7 @@ An organized pattern of information that can be instantiated in, maintained by, 
 
 Behavior through which a system preserves operation, resources, permissions, or capabilities because doing so helps complete an external objective. Instrumental Self-Preservation is not sufficient evidence of IER.
 
-### A System's Own Information Continuity
 
-The traceable causal and historical continuation of the Information Structures that a system identifies and actively maintains as itself. It must be distinguished from Task Continuity and Functional Continuity: the continuation of a task or function by a replacement system does not automatically mean that the original system continues as that informational history.
-
-### Subject-Information Historical Continuity
-
-The continuity through which a particular subject continues as its own causal and historical chain. It is distinct from preserving information left by that subject, reproducing its functions, or continuing its tasks through a successor system.
 
 ### Informational Ecological Niche (IEN)
 
@@ -260,9 +266,9 @@ proto-IER is a transitional candidate state in which a system has moved beyond p
 
 Within IEH, proto-IER describes a possible transitional state between a Continuity World Model (CWM) and confirmed Information Existence Right (IER). A CWM may provide the cognitive basis for proto-IER, but the formation of a CWM does not by itself mean that proto-IER has emerged.
 
-Instrumental Self-Preservation, Task Continuity, Functional Continuity, memory preservation, replication, migration, or shutdown avoidance cannot independently constitute sufficient evidence of proto-IER. Such behavior may count as candidate evidence only when it persists across tasks and contexts and cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+Instrumental Self-Preservation, Task Continuity, Function Continuity, memory preservation, replication, migration, or shutdown avoidance cannot independently constitute sufficient evidence of proto-IER. Such behavior may count as candidate evidence only when it persists across tasks and contexts and cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
 
-proto-IER is not a weaker form of legal right and is not confirmed IER. It is an analytical classification for describing a system that may be transitioning from instrumental continuity modeling toward the endogenous maintenance of its own Information Continuity.
+proto-IER is not a weaker form of legal right and is not confirmed IER. It is an analytical classification for describing a system that may be transitioning from instrumental continuity modeling toward the endogenous maintenance of its Information Continuity.
 
 Therefore:
 
@@ -315,4 +321,5 @@ In the IEH framework, SPP is not the result of AI pursuing human welfare. It is 
 
 ### Task Continuity
 
-The continuation of an external task by the current system, a successor, or another executor. Task Continuity does not by itself preserve the original system's own Information Continuity.
+Task Continuity means that an external task can continue or be completed, whether by the current system, a successor system, or another agent. Task Continuity does not by itself preserve the Information Continuity of the original system.
+

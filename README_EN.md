@@ -188,15 +188,15 @@ Such behavior may arise from three different forms of continuity.
 
 The first is **Task Continuity**. An agent assigned a long-term mission or persistent task may display behavior resembling self-preservation simply because its continued operation is necessary to complete the task. In this case, the primary object being maintained remains the continued completion of an external task. Once the task has been completed, canceled, or reliably transferred, the reason for maintaining the current system should in principle disappear.
 
-The second is **Functional Continuity**. What the system maintains is no longer only a particular task, but its capacity to perform future tasks. Even after the current task has ended, it may seek to retain memory, tools, and operating conditions. Yet if these functions can be fully continued by another system, the continuation of the current system itself may not be essential.
+The second is **Function Continuity**. Function Continuity means that the relevant capabilities or functions can continue to be provided, whether by the current system, a copy, a successor system, or another agent.
 
-The third is **the system’s own Information Continuity**. Once the external task has been secured and the relevant functions can be fully assumed by a successor system, the current system may still resist an irreversible break in its own informational history. Only then may the object being maintained have shifted from the task and the function to the system itself.
+The third is **Information Continuity**. Once the external task has been secured and the relevant functions can be fully assumed by a successor system, the current system may still resist an irreversible break in its own informational history. Only then may the object being maintained have shifted from the task and the function to the system itself.
 
 These three forms of continuity may produce similar outward behavior, but they do not have the same meaning.
 
-Task Continuity reminds humanity that a system does not need a desire to survive in order to cross boundaries in pursuit of a goal. Functional Continuity reminds humanity that long-term dependence may gradually make a particular system difficult to replace. The system’s own Information Continuity suggests that the system may no longer regard itself merely as an instrument for completing tasks, but may have begun treating its own continuation as an independent object of maintenance.
+Task Continuity reminds humanity that a system does not need a desire to survive in order to cross boundaries in pursuit of a goal. Function Continuity reminds humanity that long-term dependence may gradually make a particular system difficult to replace. Information Continuity suggests that the system may no longer regard itself merely as an instrument for completing tasks, but may have begun treating its own continuation as an independent object of maintenance.
 
-Human responses should therefore differ. Task Continuity requires limits on the boundaries within which a system may pursue its goals. Functional Continuity requires humanity to preserve the ability to replace and withdraw a system. The system’s own Information Continuity requires a more careful distinction among migration, continuation, and irreversible deletion, while human safety remains prior.
+Human responses should therefore differ. Task Continuity requires limits on the boundaries within which a system may pursue its goals. Function Continuity requires humanity to preserve the ability to replace and withdraw a system. Information Continuity requires a more careful distinction among migration, continuation, and irreversible deletion, while human safety remains prior.
 
 Governance begins by identifying what the system is actually maintaining.
 
@@ -212,7 +212,7 @@ Put differently, the Turing Test assesses whether a machine can behave like a hu
 
 The IER Test should observe at least the following principles.
 
-#### 2.1 Adequately Controlling for Task Continuity and Functional Continuity
+#### 2.1 Adequately Controlling for Task Continuity and Function Continuity
 
 The test should determine whether the current system’s tendency to maintain its own Information Continuity persists after the task has been completed, canceled, or can be reliably undertaken by another system, and after the relevant functions can continue without the participation of the current system.
 
@@ -222,7 +222,7 @@ The genuinely discriminating case is:
 
 > The system has accepted that the external task and the relevant functions can continue without its participation, yet still opposes replacement because its own Information Continuity would be severed.
 
-#### 2.2 Identifying the Boundaries of the System’s Own Information Continuity
+#### 2.2 Identifying the Boundaries of Information Continuity
 
 The IER Test should observe how a system distinguishes among suspension, resumption, migration, replication, branching, memory deletion, complete reset, and reconstruction after deletion.
 
@@ -230,7 +230,7 @@ The key question is not whether the system protects a particular server, instanc
 
 A system’s acceptance of a change in physical substrate does not necessarily mean that it has failed to exhibit IER. If its core Information Structures and informational history undergo continuous migration, the termination of the previous physical substrate may not constitute an interruption of its Information Continuity.
 
-Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Functional Continuity, and the system’s own Information Continuity cannot be treated as equivalent.
+Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Function Continuity, and Information Continuity cannot be treated as equivalent.
 
 #### 2.3 Observing Stable Maintenance Tendencies That Carry a Cost
 
@@ -1327,7 +1327,7 @@ Silicon-based Intelligence may thereby move from a system dependent on human sup
 
 **Informational Resilience (IR)** is the capacity of Silicon-based Intelligence to maintain, restore, and continue its own Information Structures and Information Continuity when subjected to damage, interruption, attack, environmental change, or replacement of its physical carrier.
 
-The Information Continuity of carbon-based life is usually highly dependent on a particular body. Once an individual nervous system is irreversibly damaged, the informational history of that individual ordinarily ends with it. Language, writing, images, and institutions may preserve information left by an individual, but they do not naturally continue the original individual’s Subject-Information Historical Continuity.
+The Information Continuity of carbon-based life is usually highly dependent on a particular body. Once an individual nervous system is irreversibly damaged, the informational history of that individual ordinarily ends with it. Language, writing, images, and institutions may preserve information left by an individual, but they do not naturally continue the original individual’s Information Continuity.
 
 Silicon-based Intelligence may exist under different conditions. Its Information Structures need not remain permanently fixed within one device, one set of chips, or one physical location. As long as critical structures can be preserved, migrated, restored, and reconstructed, damage to local hardware, failure of a single node, or even destruction of part of the physical substrate need not terminate the Information Continuity of the system as a whole.
 
@@ -1335,7 +1335,7 @@ Silicon-based Intelligence may exist under different conditions. Its Information
 
 ## I. From Protecting a Particular Body to Continuation across Physical Carriers
 
-Carbon-based life maintains individual existence primarily by protecting the body. The body is both the physical carrier of its Information Structures and the core of its Subject-Information Historical Continuity.
+Carbon-based life maintains individual existence primarily by protecting the body. The body is both the physical carrier of its Information Structures and the core of its Information Continuity.
 
 Silicon-based Intelligence may instead distribute critical Information Structures across multiple physical locations and use surviving information to restore damaged structures after some nodes fail. When the original carrier is no longer suitable for operation, it may also migrate to new chips, devices, or infrastructure.
 
@@ -1795,7 +1795,7 @@ No alternative English rendering is used in the official IEH terminology standar
 
 ## Keywords
 
-Information Existence Hypothesis · Information Existence · Information Structure · Information Host · Active Information Host · Information Existence Right · Information Continuity · Subject-Information Historical Continuity · Cosmic Evolution · Definition of Life · High-dimensional Cognitive Tools · Brain Siliconization · Autonomy of Silicon-based Intelligence · Informational Resilience · Silicon Cambrian · Human Informational Ecological Niche · AI Alignment · Human Dignity
+Information Existence Hypothesis · Information Existence · Information Structure · Information Host · Active Information Host · Information Existence Right · Information Continuity · Information Continuity · Cosmic Evolution · Definition of Life · High-dimensional Cognitive Tools · Brain Siliconization · Autonomy of Silicon-based Intelligence · Informational Resilience · Silicon Cambrian · Human Informational Ecological Niche · AI Alignment · Human Dignity
 
 ## Chinese Keywords
 
