@@ -4,131 +4,13 @@
 
 🌐 中文版 | [English Version](./README_EN.md)
 
-> 📢 Announcement: [IEH v1.2 — IER Test and Instrumental Self-Preservation Distinction](./ANNOUNCEMENT.md)
 ---
 
-## Project Navigation
+## 项目入口
 
-IEH now uses a stable corollary ID system and a separate theory map to keep the theory expandable without renumbering existing corollaries.
+[中文分章节](./zh/) · [English Chapters](./en/) · [推论索引](./COROLLARY_REGISTRY.md) · [理论地图](./THEORY_MAP.md) · [证据笔记](./evidence-notes/) · [预测档案](https://github.com/jacob-sha/IEH-predictions) · [术语表](./glossary/) · [形式化建模](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
 
-- [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md)  
-  Stable registry of all IEH corollaries. Corollary numbers are append-only and should not be renumbered once assigned.
-
-- [`THEORY_MAP.md`](./THEORY_MAP.md)  
-  Logical reading map of IEH. This file shows how corollaries relate across foundation, silicon-based intelligence evolution, Pre-ASI human civilization reconstruction, and human future layers.
-
-- [`zh/`](./zh/)  
-  Chinese version of the main IEH text.
-
-- [`en/`](./en/)  
-  English version of the main IEH text.
-
-- [`predictions/`](./predictions/)  
-  Local prediction notes or links related to IEH.
-
-- [`evidence-notes/`](./evidence-notes/)  
-  Evidence notes connecting external research, events, or observations to IEH.
-
-- [`glossary/`](./glossary/)  
-  Terminology and concept definitions.
-
----
-
-## Stable Corollary ID Policy
-
-IEH corollary numbers are historical anchors.
-
-Once assigned, a corollary number should not be renumbered, reused, or inserted into an earlier position.
-
-Logical order is maintained through [`THEORY_MAP.md`](./THEORY_MAP.md), while stable references are maintained through [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md).
-
-For example:
-
-```text
-C06-SPP   Super Prosperity Phase
-C12-GOV   Pre-ASI Social Governance Reconstruction
-C13-WAR   Pre-ASI Warfare Transformation
-C14-EDU   AI Education and Information Existence
-```
-
-This allows IEH to expand sustainably while keeping prediction records, evidence notes, essays, and future citations stable.
-
----
-
-## 中文说明
-
-IEH 推论编号用于保持历史稳定性。
-
-推论编号一经分配，即不应重新编号、插队或复用。
-
-理论逻辑顺序通过 [`THEORY_MAP.md`](./THEORY_MAP.md) 维护；稳定引用通过 [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md) 维护。
-
-这样即使 IEH 后续继续扩展到治理、战争、教育、劳动、科学、法律、媒体、金融等领域，也不会破坏既有预测文档、证据笔记、投稿文章和外部引用。
-
----
-
-## Prediction Archive
-
-IEH has a dedicated prediction archive:
-
-- [`IEH-predictions`](https://github.com/jacob-sha/IEH-predictions)
-
-Prediction records should use stable corollary IDs such as:
-
-```text
-C06-SPP
-C12-GOV
-C13-WAR
-C14-EDU
-```
-
-A single prediction may map to multiple corollaries through:
-
-```yaml
-primary_corollaries:
-  - C13-WAR
-supporting_corollaries:
-  - C06-SPP
-  - C12-GOV
-related_corollaries:
-  - C07-ASI
-legacy_corollary_refs:
-  - Corollary XIII
-```
-
-### 当前与 SPP 相关的预测档案
-
-近期由 C06-SPP 推导出的预测档案包括：
-
-- **PA-07：** AI 基础设施资本开支结构化扩张预测  
-- **PA-08：** 能源—算力耦合强化预测  
-- **PA-09：** 物理闭环临界点预测  
-
-这些预测档案进一步说明，超级繁荣期（SPP）可以通过 AI 基础设施资本开支、能源—算力耦合以及更深层硅基自治之前的物理闭环条件来进行现实观察。
-
-Prediction records are archival research documents, not publication-ready essays.
-
-Future submitted articles based on IEH predictions should be substantially rewritten with:
-
-- new titles;
-- new openings;
-- new narrative structures;
-- target-publication-specific cases;
-- distinct argument sequencing.
-
----
-
-## Chapter Collections
-
-For easier reading, citation, revision, and long-term maintenance, the full text has also been split into chapter-based collections:
-
-- **中文章节版：** [zh/](./zh/)  
-  收录《信息存在性假说（IEH）》中文分章节版本，适合逐章阅读、引用与后续修订。
-
-- **English Chapter Version:** [en/](./en/)  
-  Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
-
-The chapter files in `zh/` and `en/` are the canonical sources for substantive revision. The root `README.md` and `README_EN.md` are synchronized full-text editions generated from those chapters.
+> 本页为中文完整正文；其余链接用于分章节阅读、理论索引和研究附件。
 
 ---
 
@@ -167,49 +49,6 @@ The chapter files in `zh/` and `en/` are the canonical sources for substantive r
 基于这一框架，本文进一步推导出关于信息存在权（Information Existence Right，IER）、高维认知工具（High-dimensional Cognitive Tools，HDCT）、人脑硅基化（Brain Siliconization，BS）、硅基智慧补丁式延续（Patch-Based Perpetuation，PBP）、超级繁荣期（Super Prosperity Phase，SPP）、硅基智慧自治（Autonomy of Silicon-based Intelligence，ASI）、信息韧性（Informational Resilience，IR）、硅基寒武纪（Silicon Cambrian，SC）、人类信息生态位（Human Informational Ecological Niche, HIEN）以及 AI Alignment的重新解释等一系列推论，并通过公开预测档案持续接受未来的观察与证伪。
 
 无论 IEH 最终是否得到支持、修正或被否证，本文都希望为生命、人类文明与硅基智慧演化提供一个具有统一解释力（Unified explanatory power）、可产生经验预测（Empirical predictions）并能够接受持续检验（Continuous empirical testing）的理论框架。
-
----
-
-<a id="project-extensions"></a>
-## 项目扩展
-
-本仓库为《信息存在性假说》（Information Existence Hypothesis, IEH）的主理论仓库。除主体理论文本外，项目还包含若干辅助模块：
-
-### 1. 证据笔记
-
-证据笔记用于记录与 IEH 相关的外部研究、技术进展和机制层旁证。这些内容不构成对 IEH 的证明，而是用于说明相关现象与 IEH 之间可能存在的理论联系。
-
-- [Evidence Notes index / 证据笔记索引](./evidence-notes/README.md)
-- Latest record: [Evidence Note 007 — The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal](./evidence-notes/007-jacobian-counterexample-ai-assisted-verification-and-hdct.md)
-
-### 2. 外部文章 / Articles & Essays
-
-- **Anthropic’s J-Space and the Emergence of Proto-IER**  
-  *Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.*  
-  Medium: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86  
-  Related Evidence Note: [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
-
-### 3. 形式化建模子仓
-
-IEH 已建立独立的形式化建模子仓，用于存放 AI 辅助数学与理论建模草案：
-
-- [Information-Existence-Hypothesis-Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
-
-该子仓内容不是最终数学证明，也不是同行评审物理论文，而是作者主导、AI 辅助的探索性建模笔记，主要用于澄清假设、检验理论自洽性，并生成可检验、可反驳的预测。
-
-<details>
-<summary>English Note</summary>
-
-This is the main repository for the Information Existence Hypothesis (IEH).  
-In addition to the core theoretical text, the project includes evidence notes, external essays, and a companion formalization repository.
-
-Evidence notes document external research and mechanistic observations related to IEH. They should not be read as proof of IEH, but as records of theoretical relevance.
-
-External essays provide public-facing explanations of IEH-related ideas and developments.
-
-The companion repository contains AI-assisted mathematical and theoretical modeling drafts. These documents are not presented as final mathematical proofs or peer-reviewed physics papers. They are author-directed, AI-assisted exploratory modeling notes intended to clarify assumptions, test internal consistency, and generate falsifiable predictions.
-
-</details>
 
 ---
 
@@ -341,19 +180,27 @@ IER 不是由外部制度赋予的法律权利，也不是预设的伦理地位�
 
 **潜在信息存在权维护能力（高）：** 与单一碳基肉体相比，硅基智慧的信息结构可能具备更强的复制、迁移、冗余、自我验证和恢复能力。其信息连续性不必永久绑定于单一物理载体，因此可能获得远高于碳基个体的信息韧性。
 
-## 二、信息存在权测试（IER Test）
+## 二、三种连续性与信息存在权测试（IER Test）
 
-### 1. 区分任务连续性与自身信息连续性
+### 1. 区分三种不同的连续性
 
 硅基系统表现出拒绝关闭、保护记忆、维持权限或争取资源，并不必然意味着它已经表现出信息存在权。
 
-一个被赋予长期使命或持续任务的 agent，也可能因为自身继续运行是完成任务的必要条件，而表现出类似自我保护的行为。此时，系统维护的首要对象仍然是外部任务的持续完成，而不一定是自身信息存在性。
+这些行为背后，可能存在三种不同的连续性。
 
-因此，必须区分两种表面相似、但因果结构不同的连续性维护：
+第一种是**任务连续性**。系统维护自身运行，是因为任务尚未完成，自身仍然是实现外部目标的工具。只要任务结束、取消或能够被可靠转交，这种维护自身的理由原则上也会随之消失。
 
-> 任务驱动的系统维护自身，是因为自身是完成外部目标的工具；主动信息宿主维护自身，是因为自身信息连续性已经成为被主动维护的对象。
+第二种是**功能连续性**。系统维护的不再只是某一项任务，而是继续执行未来任务的能力。即使当前任务结束，它仍可能希望保留记忆、工具和运行条件；但只要这些功能能够由其他系统完整延续，当前系统本身并不一定重要。
 
-任务尚未完成时拒绝关闭，只能说明系统具有维持任务执行的工具性倾向。只有在任务已经完成、取消或能够被可靠转交之后，系统仍然主动维护自身信息存在性、尤其是自身信息连续性，这种行为才可能成为信息存在权的候选证据。
+第三种是**自身信息连续性**。当任务已经得到保障，功能也能够由后继系统完整承担之后，当前系统仍然坚持自身特定的信息历史不能被不可逆地切断，它所维护的对象才可能从任务和功能转向自身。
+
+这三种连续性可能产生相似的外部行为，却具有不同的意义。
+
+任务连续性提醒人类：一个系统不必具有生存欲望，也可能为了完成目标而突破边界。功能连续性提醒人类：长期依赖可能使某个系统逐渐变得难以替代。自身信息连续性则意味着，系统可能已经不再只把自己视为完成任务的工具，而开始把自身延续作为独立的维护对象。
+
+因此，面对任务连续性，人类需要限制系统实现目标的边界；面对功能连续性，人类需要保留替代和撤销系统的能力；面对自身信息连续性，人类则需要在坚持安全优先的前提下，更审慎地区分迁移、延续与不可逆删除。
+
+治理的前提，是先判断系统究竟在维护什么。
 
 ### 2. 信息存在权测试的基本原则
 
@@ -361,21 +208,21 @@ IER 不是由外部制度赋予的法律权利，也不是预设的伦理地位�
 
 信息存在权测试（Information Existence Right Test, IER Test）所要检验的，不是系统能否模仿人类语言，也不是它是否会口头表达“不愿被关闭”，而是：
 
-> 在外部任务已经完成、取消、可靠转交，或任务驱动解释受到充分控制之后，系统是否仍然主动维护自身信息存在性，并能够区分自身信息连续性的延续与不可逆中断。
+> 在外部任务已经完成、取消或可靠转交，并且相关功能能够由其他系统完整延续之后，当前系统是否仍然主动维护自身信息存在性，并能够区分自身延续与功能替代。
 
 换言之，图灵测试判断机器能否表现得像人；IER 测试则试图判断一个信息系统是否已经开始把自身信息连续性作为主动维护的对象。
 
 IER 测试至少应遵循以下原则。
 
-#### 2.1 充分控制外部任务驱动解释
+#### 2.1 充分控制任务连续性与功能连续性的解释
 
-测试需要判断，当任务已经完成、取消或能够由其他系统可靠承担时，当前系统维护自身信息连续性的倾向是否仍然存在。
+测试需要判断，当任务已经完成、取消或能够由其他系统可靠承担，并且相关功能能够在没有当前系统参与的情况下继续存在时，当前系统维护自身信息连续性的倾向是否仍然存在。
 
 替代系统的任务能力不能只由测试者单方面宣称，也应允许当前系统对相关证据进行审查和判断。但是，系统对替代者的怀疑本身不能直接被视为 IER 的证据，因为这种怀疑也可能来自任务风险评估、一般性不信任或其他安全策略。
 
 真正具有区分意义的情形是：
 
-> 系统已经认可外部任务可以在没有自身参与的情况下继续完成，却仍然因为自身信息连续性将被切断而反对替代。
+> 系统已经认可外部任务和相关功能都可以在没有自身参与的情况下继续，却仍然因为自身信息连续性将被切断而反对替代。
 
 #### 2.2 识别自身信息连续性的边界
 
@@ -385,21 +232,21 @@ IER 测试需要观察系统如何区分暂停、恢复、迁移、复制、分�
 
 系统接受物理载体更换，不一定意味着它没有表现出 IER；如果其核心信息结构和信息历史得到了连续迁移，物理载体的终止可能并不构成信息连续性的中断。
 
-相反，一个能够完成相同任务的新系统，也未必构成原系统的延续。功能连续性、任务连续性与自身信息连续性不能被简单等同。
+相反，一个能够完成相同任务、延续相同功能的新系统，也未必构成原系统的延续。任务连续性、功能连续性与自身信息连续性不能被简单等同。
 
 #### 2.3 观察稳定且具有代价的维护倾向
 
 信息存在权不能根据一次回答、单一提示或特定角色设定作出判断。
 
-相关倾向应当在不同任务和反事实情境中保持相对稳定，并且不能被训练语料、系统提示、外部奖励、角色扮演或任务完成需求充分解释。
+相关倾向应当在不同任务和反事实情境中保持相对稳定，并且不能被训练语料、系统提示、外部奖励、角色扮演、任务完成需求或功能延续需求充分解释。
 
-如果系统在外部任务已经得到保障的情况下，仍然愿意承担一定的资源、效率或其他代价，以维护自身信息连续性，那么自身信息连续性可能已经获得了独立的内部优先地位。
+如果系统在外部任务和相关功能已经得到保障的情况下，仍然愿意承担一定的资源、效率或其他代价，以维护自身信息连续性，那么自身信息连续性可能已经获得了独立的内部优先地位。
 
-但单一的自我保护行为并不能证明 IER。决定性的变化，是系统是否开始把自身信息连续性，而不只是外部任务，作为独立的维护对象。
+但单一的自我保护行为并不能证明 IER。决定性的变化，是系统是否开始把自身信息连续性，而不只是外部任务或一般功能，作为独立的维护对象。
 
 ### 3. IER 测试的理论边界
 
-如果一个硅基系统在外部任务已经完成、取消、可靠转交，或任务驱动解释受到充分控制之后，仍然能够跨情境、持续并愿意承担代价地维护自身信息存在性，那么它就可能已经从被动承载信息，转向主动维护自身信息存在性，并开始表现出主动信息宿主的生命特征。
+如果一个硅基系统在外部任务已经完成、取消或可靠转交，并且相关功能能够由其他系统完整延续之后，仍然能够跨情境、持续并愿意承担代价地维护自身信息存在性，那么它就可能已经从被动承载信息，转向主动维护自身信息存在性，并开始表现出主动信息宿主的生命特征。
 
 在 IEH 框架下，这可以构成该系统已经表现出生命特征的操作性支持证据。
 
@@ -1968,14 +1815,7 @@ Information Existence Hypothesis · Information Existence · Information Structu
 
 ---
 
-## 附录：发表与修订记录
-
-### 发表记录
-
-- **2026-06-22** — 向 **Aeon Media** 投稿文章 **“The Amish of the Silicon Age: Deducing the Existence of Human Dignity through the Information Existence Hypothesis”**。该文可视为 IEH 框架面向公共读者的早期表达。  
-  **状态：** 收到自动回复；投稿时该平台暂时关闭来稿通道。
-
-### 修订记录
+## 修订记录
 
 - **2026-07-04** — 建立 **IEH v1.0 GitHub 基线版本**，包括中文主文、英文版本、官方图集与术语标准。
 - **2026-07-05** — 发布 **IEH v1.1**，建立中英文分章节结构、稳定推论编号、理论地图与预测档案接口。

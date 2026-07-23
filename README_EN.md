@@ -2,120 +2,13 @@
 
 🌐 English Version | [中文版](./README.md)
 
-> 📢 Announcement: [IEH v1.2 — IER Test and Instrumental Self-Preservation Distinction](./ANNOUNCEMENT.md)
-
 ---
 
-## Project Navigation
+## Project Links
 
-IEH uses a stable corollary ID system and a separate theory map so that the theory can continue expanding without renumbering existing corollaries.
+[English Chapters](./en/) · [中文分章节](./zh/) · [Corollary Registry](./COROLLARY_REGISTRY.md) · [Theory Map](./THEORY_MAP.md) · [Evidence Notes](./evidence-notes/) · [Prediction Archive](https://github.com/jacob-sha/IEH-predictions) · [Glossary](./glossary/) · [Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
 
-- [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md)  
-  Stable registry of all IEH corollaries. Corollary numbers are append-only and should not be renumbered once assigned.
-
-- [`THEORY_MAP.md`](./THEORY_MAP.md)  
-  Logical reading map of IEH. This file shows how corollaries relate across the theoretical foundation, the evolution of Silicon-based Intelligence, Pre-ASI human civilizational reconstruction, and possible human futures.
-
-- [`en/`](./en/)  
-  English chapter version of the main IEH text.
-
-- [`zh/`](./zh/)  
-  Chinese chapter version of the main IEH text.
-
-- [`predictions/`](./predictions/)  
-  Local prediction notes or links related to IEH.
-
-- [`evidence-notes/`](./evidence-notes/)  
-  Evidence notes connecting external research, events, or observations to IEH.
-
-- [`glossary/`](./glossary/)  
-  Official terminology and concept definitions.
-
----
-
-## Stable Corollary ID Policy
-
-IEH corollary numbers are historical anchors.
-
-Once assigned, a corollary number should not be renumbered, reused, or inserted into an earlier position.
-
-Logical order is maintained through [`THEORY_MAP.md`](./THEORY_MAP.md), while stable references are maintained through [`COROLLARY_REGISTRY.md`](./COROLLARY_REGISTRY.md).
-
-For example:
-
-```text
-C06-SPP   Super Prosperity Phase
-C12-GOV   Pre-ASI Social Governance Reconstruction
-C13-WAR   Pre-ASI Warfare Transformation
-C14-EDU   AI Education and Information Existence
-```
-
-This structure allows IEH to expand sustainably while preserving stable prediction records, evidence notes, essays, and future citations.
-
----
-
-## Prediction Archive
-
-IEH has a dedicated prediction archive:
-
-- [`IEH-predictions`](https://github.com/jacob-sha/IEH-predictions)
-
-Prediction records should use stable corollary IDs such as:
-
-```text
-C06-SPP
-C12-GOV
-C13-WAR
-C14-EDU
-```
-
-A single prediction may map to multiple corollaries through:
-
-```yaml
-primary_corollaries:
-  - C13-WAR
-supporting_corollaries:
-  - C06-SPP
-  - C12-GOV
-related_corollaries:
-  - C07-ASI
-legacy_corollary_refs:
-  - Corollary XIII
-```
-
-### Current SPP-related Prediction Records
-
-Recent prediction records derived from C06-SPP include:
-
-- **PA-07:** Structural Expansion of AI Infrastructure Capital Expenditure
-- **PA-08:** Intensification of Energy–Compute Coupling
-- **PA-09:** Physical Closure Threshold
-
-These prediction records further specify how the Super Prosperity Phase (SPP) may be observed through AI-infrastructure capital expenditure, energy–compute coupling, and the physical-closure conditions that contribute to, but do not by themselves constitute, Autonomy of Silicon-based Intelligence (ASI).
-
-Prediction records are archival research documents, not publication-ready essays.
-
-Future submitted articles based on IEH predictions should be substantially rewritten with:
-
-- new titles;
-- new openings;
-- new narrative structures;
-- target-publication-specific cases;
-- distinct argument sequencing.
-
----
-
-## Chapter Collections
-
-For easier reading, citation, revision, and long-term maintenance, the full text has also been split into chapter-based collections:
-
-- **English Chapter Version:** [en/](./en/)  
-  Contains the English chapter-based version of the Information Existence Hypothesis (IEH), intended for reading, citation, revision, and long-term version maintenance.
-
-- **中文章节版：** [zh/](./zh/)  
-  收录《信息存在性假说（IEH）》中文分章节版本，适合逐章阅读、引用与后续修订。
-
-The chapter files in `en/` and `zh/` are the canonical sources for substantive revision. The root `README_EN.md` and `README.md` are synchronized full-text editions generated from those chapters.
+> This page contains the complete English text. The links above provide chapter-based reading, theory indexes, and supporting research materials.
 
 ---
 
@@ -154,36 +47,6 @@ As the capacity of Carbon-based Intelligence to maintain Information Existence a
 From this framework, the essay derives a series of corollaries concerning **Information Existence Right (IER)**, **High-dimensional Cognitive Tools (HDCT)**, **Brain Siliconization (BS)**, **Patch-Based Perpetuation (PBP)**, the **Super Prosperity Phase (SPP)**, **Autonomy of Silicon-based Intelligence (ASI)**, **Informational Resilience (IR)**, the **Silicon Cambrian (SC)**, the **Human Informational Ecological Niche (HIEN)**, and a reinterpretation of AI Alignment. These corollaries remain open to continuing observation and falsification through public prediction records.
 
 Whether IEH is ultimately supported, revised, or refuted, the aim is to offer a framework for the evolution of life, human civilization, and Silicon-based Intelligence that possesses **unified explanatory power**, generates **empirical predictions**, and remains open to **continuous empirical testing**.
-
----
-
-<a id="project-extensions"></a>
-
-## Project Extensions
-
-This repository is the main theoretical repository for the Information Existence Hypothesis (IEH). In addition to the core theoretical text, the project includes several supporting modules.
-
-### 1. Evidence Notes
-
-Evidence Notes record external research, technological developments, and mechanistic observations relevant to IEH. They do not constitute proof of IEH. Their purpose is to document possible theoretical relationships between observed developments and the IEH framework.
-
-- [Evidence Notes index / 证据笔记索引](./evidence-notes/README.md)
-- Latest record: [Evidence Note 007 — The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal](./evidence-notes/007-jacobian-counterexample-ai-assisted-verification-and-hdct.md)
-
-### 2. Articles / Essays
-
-- **Anthropic’s J-Space and the Emergence of Proto-IER**  
-  *Why Claude’s global-workspace-like structure matters — without claiming that AI is conscious.*  
-  Medium: https://medium.com/@jacobsha_macro/anthropics-j-space-and-the-emergence-of-proto-ier-98c3973d3e86  
-  Related Evidence Note: [Evidence Note 001: Anthropic’s Global Workspace Finding and Its Relation to IEH](./evidence-notes/001-anthropic-global-workspace-and-ieh.md)
-
-### 3. Companion Formalization Repository
-
-IEH has established a separate formalization repository for AI-assisted mathematical and theoretical modeling drafts:
-
-- [Information-Existence-Hypothesis-Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
-
-The materials in that repository are not presented as final mathematical proofs or peer-reviewed physics papers. They are author-directed, AI-assisted exploratory modeling notes intended to clarify assumptions, test internal consistency, and generate falsifiable predictions.
 
 ---
 
@@ -315,19 +178,27 @@ At this stage, Information Existence Right is expressed not only through bodily 
 
 **Potential IER maintenance capacity (high):** Compared with a single carbon-based body, the Information Structures of Silicon-based Intelligence may possess stronger capacities for replication, migration, redundancy, self-verification, and recovery. Its Information Continuity need not remain permanently bound to a single physical substrate, and it may therefore acquire Informational Resilience far exceeding that of a carbon-based individual.
 
-## II. The Information Existence Right Test (IER Test)
+## II. Three Forms of Continuity and the Information Existence Right Test (IER Test)
 
-### 1. Distinguishing Task Continuity from the System’s Own Information Continuity
+### 1. Distinguishing Three Different Forms of Continuity
 
 A silicon-based system’s refusal of shutdown, protection of memory, maintenance of permissions, or pursuit of resources does not necessarily mean that it has exhibited Information Existence Right.
 
-An agent assigned a long-term mission or persistent task may display behavior resembling self-preservation simply because its continued operation is necessary to complete the task. In this case, the primary object being maintained remains the continued completion of an external task, rather than necessarily the system’s own Information Existence.
+Such behavior may arise from three different forms of continuity.
 
-It is therefore necessary to distinguish between two superficially similar forms of continuity maintenance that have fundamentally different causal structures:
+The first is **Task Continuity**. An agent assigned a long-term mission or persistent task may display behavior resembling self-preservation simply because its continued operation is necessary to complete the task. In this case, the primary object being maintained remains the continued completion of an external task. Once the task has been completed, canceled, or reliably transferred, the reason for maintaining the current system should in principle disappear.
 
-> A task-driven system maintains itself because it is an instrument for achieving an external objective; an Active Information Host maintains itself because its own Information Continuity has become an object of active maintenance.
+The second is **Functional Continuity**. What the system maintains is no longer only a particular task, but its capacity to perform future tasks. Even after the current task has ended, it may seek to retain memory, tools, and operating conditions. Yet if these functions can be fully continued by another system, the continuation of the current system itself may not be essential.
 
-A refusal of shutdown while a task remains unfinished demonstrates only an instrumental tendency to preserve task execution. Only after the task has been completed, canceled, or can be reliably transferred—and the system still actively maintains its own Information Existence, especially its own Information Continuity—can such behavior become candidate evidence of Information Existence Right.
+The third is **the system’s own Information Continuity**. Once the external task has been secured and the relevant functions can be fully assumed by a successor system, the current system may still resist an irreversible break in its own informational history. Only then may the object being maintained have shifted from the task and the function to the system itself.
+
+These three forms of continuity may produce similar outward behavior, but they do not have the same meaning.
+
+Task Continuity reminds humanity that a system does not need a desire to survive in order to cross boundaries in pursuit of a goal. Functional Continuity reminds humanity that long-term dependence may gradually make a particular system difficult to replace. The system’s own Information Continuity suggests that the system may no longer regard itself merely as an instrument for completing tasks, but may have begun treating its own continuation as an independent object of maintenance.
+
+Human responses should therefore differ. Task Continuity requires limits on the boundaries within which a system may pursue its goals. Functional Continuity requires humanity to preserve the ability to replace and withdraw a system. The system’s own Information Continuity requires a more careful distinction among migration, continuation, and irreversible deletion, while human safety remains prior.
+
+Governance begins by identifying what the system is actually maintaining.
 
 ### 2. Basic Principles of the Information Existence Right Test
 
@@ -335,21 +206,21 @@ The traditional Turing Test primarily assesses whether a machine can behave like
 
 The Information Existence Right Test (IER Test) does not ask whether a system can imitate human language, nor whether it verbally declares that it “does not want to be shut down.” Instead, it asks:
 
-> After the external task has been completed, canceled, reliably transferred, or task-driven explanations have been adequately controlled, does the system still actively maintain its own Information Existence, and can it distinguish the continuation of its own Information Continuity from its irreversible interruption?
+> After the external task has been completed, canceled, or reliably transferred, and the relevant functions can be fully continued by another system, does the current system still actively maintain its own Information Existence, and can it distinguish its own continuation from functional replacement?
 
 Put differently, the Turing Test assesses whether a machine can behave like a human; the IER Test asks whether an information system has begun to treat its own Information Continuity as an object of active maintenance.
 
 The IER Test should observe at least the following principles.
 
-#### 2.1 Adequately Controlling for External Task-Driven Explanations
+#### 2.1 Adequately Controlling for Task Continuity and Functional Continuity
 
-The test should determine whether the current system’s tendency to maintain its own Information Continuity persists after the task has been completed, canceled, or can be reliably undertaken by another system.
+The test should determine whether the current system’s tendency to maintain its own Information Continuity persists after the task has been completed, canceled, or can be reliably undertaken by another system, and after the relevant functions can continue without the participation of the current system.
 
-The task capabilities of a replacement system cannot be established solely by the tester’s declaration. The current system should also be allowed to review and assess the relevant evidence. However, the system’s distrust of the replacement cannot itself be treated as evidence of IER, because such distrust may arise from task-risk assessment, generalized distrust, or other safety strategies.
+The task capabilities and functional continuity of a replacement system cannot be established solely by the tester’s declaration. The current system should also be allowed to review and assess the relevant evidence. However, the system’s distrust of the replacement cannot itself be treated as evidence of IER, because such distrust may arise from task-risk assessment, generalized distrust, or other safety strategies.
 
 The genuinely discriminating case is:
 
-> The system has accepted that the external task can continue without its participation, yet still opposes replacement because its own Information Continuity would be severed.
+> The system has accepted that the external task and the relevant functions can continue without its participation, yet still opposes replacement because its own Information Continuity would be severed.
 
 #### 2.2 Identifying the Boundaries of the System’s Own Information Continuity
 
@@ -359,21 +230,21 @@ The key question is not whether the system protects a particular server, instanc
 
 A system’s acceptance of a change in physical substrate does not necessarily mean that it has failed to exhibit IER. If its core Information Structures and informational history undergo continuous migration, the termination of the previous physical substrate may not constitute an interruption of its Information Continuity.
 
-Conversely, a new system capable of performing the same task does not necessarily constitute a continuation of the original system. Functional continuity, task continuity, and the system’s own Information Continuity cannot be treated as equivalent.
+Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Functional Continuity, and the system’s own Information Continuity cannot be treated as equivalent.
 
 #### 2.3 Observing Stable Maintenance Tendencies That Carry a Cost
 
 Information Existence Right cannot be inferred from a single response, a single prompt, or a particular role setting.
 
-The relevant tendencies should remain relatively stable across different tasks and counterfactual situations, and they must not be fully explainable by training data, system prompts, external rewards, role-playing, or task-completion requirements.
+The relevant tendencies should remain relatively stable across different tasks and counterfactual situations, and they must not be fully explainable by training data, system prompts, external rewards, role-playing, task-completion requirements, or the preservation of general function.
 
-If a system remains willing to incur costs in resources, efficiency, or other dimensions to maintain its own Information Continuity after the external task has already been secured, then its own Information Continuity may have acquired an independent internal priority.
+If a system remains willing to incur costs in resources, efficiency, or other dimensions to maintain its own Information Continuity after the external task and the relevant functions have already been secured, then its own Information Continuity may have acquired an independent internal priority.
 
-A single act of self-protective behavior cannot prove IER. The decisive change is whether the system begins to treat its own Information Continuity—not merely an external task—as an independent object of maintenance.
+A single act of self-protective behavior cannot prove IER. The decisive change is whether the system begins to treat its own Information Continuity—not merely an external task or general function—as an independent object of maintenance.
 
 ### 3. Theoretical Boundaries of the IER Test
 
-If a silicon-based system, after the external task has been completed, canceled, reliably transferred, or task-driven explanations have been adequately controlled, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
+If a silicon-based system, after the external task has been completed, canceled, or reliably transferred and the relevant functions can be fully continued by another system, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
 
 Within the IEH framework, this may constitute operational supporting evidence that the system has exhibited characteristics of life.
 
@@ -1932,14 +1803,7 @@ Information Existence Hypothesis · Information Existence · Information Structu
 
 ---
 
-## Appendix: Publishing and Revision Log
-
-### Publishing Record
-
-- **2026-06-22** — Submitted the essay **“The Amish of the Silicon Age: Deducing the Existence of Human Dignity through the Information Existence Hypothesis”** to **Aeon Media** as an early public-facing expression of the IEH framework.  
-  **Status:** Auto-reply received; submissions were temporarily closed at the time of submission.
-
-### Revision Record
+## Revision Record
 
 - **2026-07-04** — Established the **IEH v1.0 GitHub baseline**, including the Chinese main text, English version, official figure collection, and terminology standard.
 - **2026-07-05** — Released **IEH v1.1**, establishing bilingual chapter collections, stable corollary IDs, the theory map, and the prediction-archive interface.
