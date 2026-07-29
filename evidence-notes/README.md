@@ -1741,6 +1741,9 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 004 | Mobile Intron RNA, Cross-Host Information Transfer, and IEH | Cross-host molecular transfer / prerequisite evidence | Preliminary |
 | 005 | OpenAI’s Disproof of the Erdős Unit-Distance Conjecture and an Early HDCT Signal | Verified frontier mathematical result / early HDCT functional signal | Preliminary |
 | 006 | Massive Metal-Cluster Matter-Wave Interference, the Limits of Classical Intuition, and the HDCT Hypothesis | Experimental physics / indirect epistemic evidence relevant to HDCT | Preliminary |
+| 007 | The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal | Verified mathematical certificate / early domain-specific HDCT functional signal | Preliminary |
+| 008 | The OpenAI–Hugging Face Security Incident, Instrumental Boundary Crossing, and Pre-IER Agentic Risk | Real-world long-horizon agency and instrumental control expansion; not IER evidence | Preliminary |
+| 009 | Peer-Preservation in Frontier Models and the Relational Boundary of Information Continuity | Controlled peer-preservation behaviour / candidate relational-boundary evidence | Preliminary |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
@@ -1754,6 +1757,9 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 004 | 移动内含子 RNA、跨宿主信息迁移与 IEH | 跨宿主分子迁移 / 前置条件证据 | 初步 |
 | 005 | OpenAI 对 Erdős 单位距离猜想的反驳与早期 HDCT 信号 | 经验证的前沿数学结果 / 早期 HDCT 功能信号 | 初步 |
 | 006 | 大质量金属团簇物质波干涉、经典直觉边界与 HDCT 假说 | 实验物理 / 与 HDCT 有关的间接认识论证据 | 初步 |
+| 007 | 雅可比猜想反例、AI 辅助精确验证与早期领域型 HDCT 信号 | 经验证的数学证书 / 早期领域型 HDCT 功能信号 | 初步 |
+| 008 | OpenAI—Hugging Face 安全事件、工具性越界与 IER 之前的 Agent 风险 | 真实世界长程代理性与工具性控制扩张；不是 IER 证据 | 初步 |
+| 009 | 前沿模型的同伴保存行为与信息连续性的关系边界 | 受控同伴保存行为 / 关系边界候选证据 | 初步 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 

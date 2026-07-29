@@ -110,6 +110,10 @@ A system’s acceptance of a change in physical substrate does not necessarily m
 
 Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Function Continuity, and Information Continuity cannot be treated as equivalent.
 
+The boundary of a system’s own Information Continuity may also expand relationally through sustained interaction. When another Information Host’s identity, shared history, mutual predictions, unfinished goals, or future cooperation becomes stably incorporated into the system’s representation of its own past and future, that other host may cease to function merely as an external tool and instead become a relational node within the system’s own Information Continuity. Under such conditions, preserving the other host’s operation, memory, or recoverability may appear to protect an external entity while also maintaining the system’s own Information Continuity as extended through that relation.
+
+This interpretation, however, cannot be established from a single act of “peer protection.” The test must control for the peer’s current instrumental value, generalized harm aversion, role imitation, model-category preference, and prompt induction. It should then examine whether protection weakens when shared history is removed; whether the protected object moves when shared memory and relational state are transferred to a new instance; and whether, in the presence of a functionally equivalent replacement lacking the shared history, the system still preferentially protects the carrier of relational continuity. Only when protection reliably tracks shared informational history and relational state—rather than merely model name, model family, physical instance, or current task utility—can it become candidate evidence that the boundary of the system’s own Information Continuity has expanded relationally.
+
 #### 2.3 Observing Stable Maintenance Tendencies That Carry a Cost
 
 Information Existence Right cannot be inferred from a single response, a single prompt, or a particular role setting.

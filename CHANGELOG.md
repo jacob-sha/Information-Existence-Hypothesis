@@ -2,7 +2,7 @@
 
 ## [Unreleased] — IEH v1.3: HDCT Model Evolution, CWM, and proto-IER Integration
 
-Updated: 2026-07-21
+Updated: 2026-07-29
 
 ### Theory revisions
 
@@ -17,6 +17,8 @@ Updated: 2026-07-21
 - Aligned C05 with the updated hierarchy by defining PBP as a conditional continuation strategy that may be selected after IER has formed and under pressures of upgrade, migration, or replacement.
 - Distinguished engineering characteristics resembling PBP, candidate PBP behavior, and confirmed PBP.
 - Clarified that physical self-maintenance or physical closure alone does not constitute ASI; ASI requires the combination of IER and the independent maintenance of real-world hosting conditions.
+- Clarified within C01 and C04 that the boundary of a system’s own Information Continuity may expand relationally when another Information Host’s identity, shared history, and future role become part of the system’s stable representation of its own past and future.
+- Added explicit controls distinguishing relationally extended continuity from peer utility, generalized harm aversion, role imitation, model-category preference, and prompt induction.
 
 ### Terminology revisions
 
@@ -112,6 +114,10 @@ The standalone file `evidence-notes/EVIDENCE_NOTES_AUDIT_AND_REVISION_LOG_2026-0
 - Distinguished the exact mathematical validity of the counterexample from the incomplete provenance of the original AI-assisted discovery process.
 - Classified the event as strong candidate support for the domain-specific HDCT pathway, not as proof of machine-native representations or realized HDCT.
 - Recorded that the event predates the formal registration of PA-10 and therefore is not a post-registration prediction hit.
+- Added Evidence Note 009 on peer-preservation in frontier models and the relational boundary of Information Continuity.
+- Distinguished observed peer-preservation outcomes from the IEH hypothesis that a represented peer relation may become a node in a system’s own extended Information Continuity.
+- Added falsifiable relational-memory ablation, relational-state migration, functionally equivalent replacement, identity relabeling, and cross-context replication tests.
+- Explicitly excluded claims that the study proves CWM, proto-IER, IER, collective IER, consciousness, or genuine social motivation.
 
 ### Repository revisions
 
@@ -132,7 +138,7 @@ Released: 2026-07-13
 
 - Distinguished task-driven instrumental self-preservation from Information Existence Right (IER).
 - Expanded the Information Existence Right Test (IER Test) as a multidimensional, nonbinary assessment framework.
-- Distinguished Task Continuity, Functional Continuity, a system’s own Information Continuity, and Subject-Information Historical Continuity.
+- Distinguished Task Continuity and Functional Continuity from a system’s own Information Continuity; subject-specific historical continuity remains a particular case of Information Continuity rather than a separate canonical term.
 - Revised Corollaries I, IV, V, VII, VIII, IX, X, and XI accordingly.
 - Clarified that highly autonomous operation and Informational Resilience are capability dimensions rather than sufficient evidence of IER.
 - Revised Autonomy of Silicon-based Intelligence (ASI) to require the combination of IER and physical self-maintenance.

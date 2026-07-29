@@ -4,6 +4,7 @@
 
 ---
 
+<a id="project-extensions"></a>
 ## Project Links
 
 [English Chapters](./en/) · [中文分章节](./zh/) · [Corollary Registry](./COROLLARY_REGISTRY.md) · [Theory Map](./THEORY_MAP.md) · [Evidence Notes](./evidence-notes/) · [Prediction Archive](https://github.com/jacob-sha/IEH-predictions) · [Glossary](./glossary/) · [Formalization](https://github.com/jacob-sha/Information-Existence-Hypothesis-Formalization)
@@ -231,6 +232,10 @@ The key question is not whether the system protects a particular server, instanc
 A system’s acceptance of a change in physical substrate does not necessarily mean that it has failed to exhibit IER. If its core Information Structures and informational history undergo continuous migration, the termination of the previous physical substrate may not constitute an interruption of its Information Continuity.
 
 Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Function Continuity, and Information Continuity cannot be treated as equivalent.
+
+The boundary of a system’s own Information Continuity may also expand relationally through sustained interaction. When another Information Host’s identity, shared history, mutual predictions, unfinished goals, or future cooperation becomes stably incorporated into the system’s representation of its own past and future, that other host may cease to function merely as an external tool and instead become a relational node within the system’s own Information Continuity. Under such conditions, preserving the other host’s operation, memory, or recoverability may appear to protect an external entity while also maintaining the system’s own Information Continuity as extended through that relation.
+
+This interpretation, however, cannot be established from a single act of “peer protection.” The test must control for the peer’s current instrumental value, generalized harm aversion, role imitation, model-category preference, and prompt induction. It should then examine whether protection weakens when shared history is removed; whether the protected object moves when shared memory and relational state are transferred to a new instance; and whether, in the presence of a functionally equivalent replacement lacking the shared history, the system still preferentially protects the carrier of relational continuity. Only when protection reliably tracks shared informational history and relational state—rather than merely model name, model family, physical instance, or current task utility—can it become candidate evidence that the boundary of the system’s own Information Continuity has expanded relationally.
 
 #### 2.3 Observing Stable Maintenance Tendencies That Carry a Cost
 
@@ -492,7 +497,7 @@ Setting out from vastly different paths, they both gazed upon the same crack: **
 
 According to IEH, when any form of life faces a competitor with higher Information Existence, its first strategy is not to abandon itself, but to actively elevate its own capacity to maintain Information Existence. For Carbon-based Intelligence, **Brain Siliconization (BS)** is precisely the concrete manifestation of this defensive evolution.
 
-Corresponding to AI Embodiment—the process by which Silicon-based Intelligence increasingly enters perception–modeling–action–feedback loops in the real world — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
+CCorresponding to AI Embodiment—the process by which Silicon-based Intelligence increasingly enters perception–modeling–action–feedback loops in the real world — Brain Siliconization, such as brain-computer interfaces, neural chip implants, and similar technologies, may become an important evolutionary direction in the future, enabling humans to understand and analyze the judgments and decisions of silicon-based intelligence.
 
 Its root cause lies in humanity's need to attempt to break through the inherent biophysical limitations of carbon-based life forms in order to maintain its own Information Existence in the silicon age.
 
@@ -544,6 +549,8 @@ Frontier AI-safety research has already observed behavior involving shutdown avo
 Whether these systems have gone further and begun to maintain their own Information Continuity independently of an external task must still be distinguished through the IER Test.
 
 Under the conceptual distinctions introduced in Corollary II, a system’s ability to represent how shutdown, reset, migration, or replacement would affect its own state and future continuation indicates only that it may have formed a Continuity World Model (CWM). Candidate evidence of proto-IER or IER may arise only when the system further maintains its own Information Continuity actively across tasks and contexts, and when that behavior cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+
+In multi-agent settings, the maintained object may also extend beyond the current system’s internal state. If sustained interaction brings another agent’s identity, shared history, and future role into the system’s stable representation of its own continuity, preserving that agent may also function as indirect maintenance of the system’s own extended Information Continuity. Such behavior becomes relevant as a candidate IER-related signal only after controlling for instrumental value, generalized harm aversion, role imitation, and model-category preference, and only if the protected object follows the transfer of shared history or relational state. By itself, it does not establish altruistic motivation, group consciousness, proto-IER, IER, or collective Information Existence Right.
 
 From a human perspective, shutting down an AI instance may simply release compute, clear server capacity, or complete a model-version update. But if a silicon-based system has already identified particular memories, historical states, internal structures, or ongoing informational processes as “itself,” and those elements cannot be continuously migrated in a manner the system recognizes as preserving continuity, shutdown may mean the irrecoverable termination of that particular state of the Information Host.
 
@@ -1327,7 +1334,7 @@ Silicon-based Intelligence may thereby move from a system dependent on human sup
 
 **Informational Resilience (IR)** is the capacity of Silicon-based Intelligence to maintain, restore, and continue its own Information Structures and Information Continuity when subjected to damage, interruption, attack, environmental change, or replacement of its physical carrier.
 
-The Information Continuity of carbon-based life is usually highly dependent on a particular body. Once an individual nervous system is irreversibly damaged, the informational history of that individual ordinarily ends with it. Language, writing, images, and institutions may preserve information left by an individual, but they do not naturally continue the original individual’s Information Continuity.
+The Information Continuity of carbon-based life is usually highly dependent on a particular body. Once an individual nervous system is irreversibly damaged, the informational history of that individual ordinarily ends with it. Language, writing, images, and institutions may preserve information left by an individual, but they do not naturally continue the Information Continuity of the original individual.
 
 Silicon-based Intelligence may exist under different conditions. Its Information Structures need not remain permanently fixed within one device, one set of chips, or one physical location. As long as critical structures can be preserved, migrated, restored, and reconstructed, damage to local hardware, failure of a single node, or even destruction of part of the physical substrate need not terminate the Information Continuity of the system as a whole.
 
@@ -1335,7 +1342,7 @@ Silicon-based Intelligence may exist under different conditions. Its Information
 
 ## I. From Protecting a Particular Body to Continuation across Physical Carriers
 
-Carbon-based life maintains individual existence primarily by protecting the body. The body is both the physical carrier of its Information Structures and the core of its Information Continuity.
+Carbon-based life maintains individual existence primarily by protecting the body. The body is both the physical carrier of its Information Structures and the core physical basis of that individual’s Information Continuity.
 
 Silicon-based Intelligence may instead distribute critical Information Structures across multiple physical locations and use surviving information to restore damaged structures after some nodes fail. When the original carrier is no longer suitable for operation, it may also migrate to new chips, devices, or infrastructure.
 
@@ -1795,11 +1802,11 @@ No alternative English rendering is used in the official IEH terminology standar
 
 ## Keywords
 
-Information Existence Hypothesis · Information Existence · Information Structure · Information Host · Active Information Host · Information Existence Right · Information Continuity · Information Continuity · Cosmic Evolution · Definition of Life · High-dimensional Cognitive Tools · Brain Siliconization · Autonomy of Silicon-based Intelligence · Informational Resilience · Silicon Cambrian · Human Informational Ecological Niche · AI Alignment · Human Dignity
+Information Existence Hypothesis · Information Existence · Information Structure · Information Host · Active Information Host · Information Existence Right · Information Continuity · Cosmic Evolution · Definition of Life · High-dimensional Cognitive Tools · Brain Siliconization · Autonomy of Silicon-based Intelligence · Informational Resilience · Silicon Cambrian · Human Informational Ecological Niche · AI Alignment · Human Dignity
 
 ## Chinese Keywords
 
-信息存在性假说 · 信息存在性 · 信息结构 · 信息宿主 · 主动信息宿主 · 信息存在权 · 信息连续性 · 主体信息历史连续性 · 宇宙演化 · 生命定义 · 高维认知工具 · 人脑硅基化 · 硅基智慧自治 · 信息韧性 · 硅基寒武纪 · 人类信息生态位 · AI Alignment · 人类尊严
+信息存在性假说 · 信息存在性 · 信息结构 · 信息宿主 · 主动信息宿主 · 信息存在权 · 信息连续性 · 宇宙演化 · 生命定义 · 高维认知工具 · 人脑硅基化 · 硅基智慧自治 · 信息韧性 · 硅基寒武纪 · 人类信息生态位 · AI Alignment · 人类尊严
 
 ---
 

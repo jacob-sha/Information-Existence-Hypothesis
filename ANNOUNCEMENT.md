@@ -3,9 +3,9 @@
 
 **Released / 发布：2026-07-13**
 
-IEH v1.2 introduces a formal distinction between task-driven Instrumental Self-Preservation and Information Existence Right. It expands the Information Existence Right Test, distinguishes Task Continuity, Functional Continuity, a system’s own Information Continuity, and Subject-Information Historical Continuity, and revises the related silicon-evolution and AI Alignment corollaries. It also defines Autonomy of Silicon-based Intelligence (ASI) as the combination of IER and physical self-maintenance.
+IEH v1.2 introduces a formal distinction between task-driven Instrumental Self-Preservation and Information Existence Right. It expands the Information Existence Right Test, distinguishes Task Continuity and Functional Continuity from a system’s own Information Continuity, and revises the related silicon-evolution and AI Alignment corollaries. It also defines Autonomy of Silicon-based Intelligence (ASI) as the combination of IER and physical self-maintenance.
 
-IEH v1.2 正式区分任务驱动的工具性自我保护与信息存在权，扩展信息存在权测试，区分任务连续性、功能连续性、系统自身信息连续性与主体信息历史连续性，并据此修订相关硅基演化与 AI Alignment 推论。同时，硅基智慧自治（ASI）被明确界定为 IER 与物理自我维持能力的结合。
+IEH v1.2 正式区分任务驱动的工具性自我保护与信息存在权，扩展信息存在权测试，区分任务连续性、功能连续性与系统自身的信息连续性，并据此修订相关硅基演化与 AI Alignment 推论。同时，硅基智慧自治（ASI）被明确界定为 IER 与物理自我维持能力的结合。
 
 Key changes / 主要变化：
 

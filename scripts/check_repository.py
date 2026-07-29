@@ -100,13 +100,11 @@ required = {
     'glossary/GLOSSARY_EN.md': [
         'Only their combination constitutes ASI.',
         'Physical self-maintenance without IER is highly autonomous operation, not ASI in the IEH sense.',
-        'Subject-Information Historical Continuity',
         'Information Existence Right Test (IER Test)',
     ],
     'glossary/GLOSSARY_ZH.md': [
         '二者结合，才构成硅基智慧自治。',
         '只有物理自我维持能力而没有 IER，属于高度自主运行能力',
-        '主体信息历史连续性',
         '信息存在权测试（Information Existence Right Test, IER Test）',
     ],
     'en/08-Autonomy-of-Silicon-based-Intelligence.md': [

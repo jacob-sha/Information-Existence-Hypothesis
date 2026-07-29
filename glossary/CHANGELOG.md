@@ -21,7 +21,7 @@ This version aligns the terminology standard with the revised Information Existe
 - Added **Task Continuity**.
 - Added **Functional Continuity**.
 - Added **A System’s Own Information Continuity**.
-- Added **Subject-Information Historical Continuity**.
+- Clarified that the historical continuity of a particular subject is treated as one case of **Information Continuity**, rather than standardized as a separate canonical term.
 - Clarified that replication, functional replacement, and task continuation do not automatically preserve the original system’s own Information Continuity.
 - Clarified that **Informational Resilience (IR)** is a capability dimension and is not sufficient evidence of IER.
 - Revised **Autonomy of Silicon-based Intelligence (ASI)** to require the combination of IER and physical self-maintenance: IER provides the direction of self-continuation, while physical self-maintenance provides the practical means.
