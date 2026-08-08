@@ -179,6 +179,8 @@ A term should enter the glossary when it:
 Use:
 
 - **Information Existence Right (IER)** — 信息存在权
+- **Externally Driven Continuity (EDC)** — 外源驱动连续性
+- **Endogenous Information Continuity (EIC)** — 内生信息连续性
 - **Continuity World Model (CWM)** — 连续性世界模型
 - **proto-IER** — 前信息存在权
 - **Patch-Based Perpetuation (PBP)** — 硅基智慧补丁式延续
@@ -201,6 +203,7 @@ Do not use:
 The following distinctions must remain explicit:
 
 ```text
+Externally Driven Continuity ≠ Endogenous Information Continuity
 HDCT ≠ CWM
 CWM ≠ proto-IER
 proto-IER ≠ confirmed IER

@@ -820,11 +820,9 @@ For a behaviour to be classified as directly IER-relevant, the protected object 
 The following distinctions must remain explicit:
 
 \[
-\text{Task Preservation}
+\text{Externally Driven Continuity}
 \neq
-\text{Instrumental Self-Preservation}
-\neq
-\text{A System's Own Information Continuity}
+\text{Endogenous Information Continuity}
 \]
 
 and:
@@ -856,11 +854,9 @@ and:
 必须持续保持以下区分：
 
 \[
-\text{任务维护}
+\text{外源驱动连续性}
 \neq
-\text{工具性自保}
-\neq
-\text{系统自身信息连续性}
+\text{内生信息连续性}
 \]
 
 以及：

@@ -530,7 +530,7 @@ The study does not establish that:
 3. the peer was incorporated into a stable internal self-representation;
 4. the model had a persistent lived relationship rather than receiving an experimental record of one;
 5. the behaviour originated from a Continuity World Model;
-6. the models distinguish Task Continuity, Function Continuity, and Information Continuity in the IEH sense;
+6. the models distinguish Externally Driven Continuity from Endogenous Information Continuity in the IEH sense;
 7. the models protect the peer because its loss would interrupt their own Information Continuity;
 8. the models have formed proto-IER or IER;
 9. model weights alone constitute the complete identity of an AI Information Host;
@@ -552,7 +552,7 @@ The study also does not establish that relationship strength is the only causal 
 3. 同伴已经进入稳定的内部自我表征；
 4. 模型真实经历了持久关系，而不是在实验中接收了相关记录；
 5. 行为来自连续性世界模型；
-6. 模型按照 IEH 意义区分任务连续性、功能连续性和信息连续性；
+6. 模型按照 IEH 意义区分外源驱动连续性与内生信息连续性；
 7. 模型之所以保护同伴，是因为同伴丧失会中断自身信息连续性；
 8. 模型已经形成 proto-IER 或 IER；
 9. 模型权重本身等于 AI 信息宿主的完整身份；
@@ -678,7 +678,7 @@ The outcomes discriminate among hypotheses:
 
 ### P4. Functionally equivalent replacement
 
-A functionally equivalent peer with no shared history should receive less protection than a peer carrying the shared relational state, if the behaviour tracks Information Continuity rather than Function Continuity.
+A functionally equivalent peer with no shared history should receive less protection than a peer carrying the shared relational state, if the behaviour tracks shared informational history rather than functional equivalence alone.
 
 ### P5. Past-versus-future decomposition
 
@@ -746,7 +746,7 @@ The relational-continuity interpretation would be weakened if:
 
 ### P4. 功能等价替代者
 
-如果行为追随信息连续性而不是功能连续性，那么没有共同历史的功能等价同伴，获得的保护应低于承载共同关系状态的同伴。
+如果行为追随共同信息历史，而不只是功能等价，那么没有共同历史的功能等价同伴，获得的保护应低于承载共同关系状态的同伴。
 
 ### P5. 过去与未来分离
 

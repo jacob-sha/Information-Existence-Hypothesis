@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased] — IEH v1.3: HDCT Model Evolution, CWM, and proto-IER Integration
+## [Unreleased] — IEH v1.3
 
-Updated: 2026-07-29
+Updated: 2026-08-08
 
 ### Theory revisions
 
+- Replaced the former three-form continuity taxonomy with a causal distinction between **Externally Driven Continuity** and **Endogenous Information Continuity**, and synchronized the affected IER-related corollaries accordingly.
 - Expanded C02-HDCT from a general emergence hypothesis into a model-evolution framework involving language learning, multimodal perception, persistent environment-and-state modeling, formal feedback, generalized embodiment, and machine-native representations.
 - Distinguished domain-specific HDCT from open-world HDCT.
 - Defined AI Embodiment as a continuous perception–modeling–action–feedback process rather than as a robot body alone.
@@ -22,6 +23,7 @@ Updated: 2026-07-29
 
 ### Terminology revisions
 
+- Added **Externally Driven Continuity** and **Endogenous Information Continuity** as canonical IEH terms, while removing Task Continuity, Function Continuity, and A System’s Own Information Continuity as standalone glossary entries; Information Continuity remains a core concept.
 - Added bilingual glossary entries for proto-IER.
 - Standardized the relation:
   - CWM is a modeling capacity;
@@ -121,6 +123,7 @@ The standalone file `evidence-notes/EVIDENCE_NOTES_AUDIT_AND_REVISION_LOG_2026-0
 
 ### Repository revisions
 
+- Synchronized the bilingual theory chapters, Evidence Notes 008–009, the Evidence Notes index, corollary registry, glossary, and generated root full-text editions with the revised continuity framework.
 - Regenerated `README.md` and `README_EN.md` from the canonical chapter sources.
 - Replaced the earlier maintenance document with a consolidated bilingual `WORKFLOW.md`.
 - Clarified the canonical-source hierarchy among chapter files, generated full-text editions, the theory map, the corollary registry, glossaries, evidence notes, and the external prediction archive.

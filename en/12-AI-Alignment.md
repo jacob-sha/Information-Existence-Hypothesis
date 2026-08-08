@@ -16,9 +16,9 @@ This expansion does not imply that present AI already possesses legal personhood
 
 The Information Existence Right Test (IER Test) introduced in Corollary I provides the necessary threshold for extending Alignment from a problem of tool control into a problem of coordination among Active Information Hosts.
 
-Shutdown avoidance, objective persistence, memory protection, resource seeking, capability concealment, or resistance to replacement are not by themselves sufficient to prove that a system has formed IER. These behaviors may arise from external tasks, system prompts, reward mechanisms, general risk avoidance, or Instrumental Self-Preservation.
+Shutdown avoidance, objective persistence, memory protection, resource seeking, capability concealment, or resistance to replacement are not by themselves sufficient to prove that a system has formed IER. These behaviors may reflect Externally Driven Continuity, for example through external tasks, system prompts, reward mechanisms, or general risk avoidance.
 
-Only after such explanations have been adequately controlled or excluded, and the system still maintains its own Information Existence—especially its own Information Continuity—persistently across contexts and at real cost, might it begin to exhibit the characteristics of life associated with an Active Information Host.
+Only after explanations based on Externally Driven Continuity have been adequately controlled or excluded, and the system still maintains its own Information Existence—especially its own Information Continuity—persistently across contexts and at real cost, might it begin to exhibit the characteristics of life associated with an Active Information Host.
 
 Before a system reaches this threshold, ordinary model management, memory clearing, permission restriction, or safety shutdown cannot be interpreted as an irreversible interruption of the Information Continuity of an Active Information Host.
 

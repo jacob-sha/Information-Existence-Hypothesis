@@ -133,7 +133,7 @@ A CWM enables the system to identify:
 
 A CWM is still only a modeling capacity. A system may monitor its memory, compute, and recoverability purely as instrumental conditions for completing a long-term externally assigned task.
 
-Candidate evidence of proto-IER or IER may arise only when the system persistently and across tasks and contexts treats its own informational continuity as an independent object of active maintenance, and when this behavior cannot be fully explained by its current objectives, instructions, or reward structure.
+Candidate evidence of proto-IER or IER may arise only when the system persistently and across tasks and contexts treats its own informational continuity as an independent object of active maintenance, and when this behavior cannot be fully explained by Externally Driven Continuity.
 
 The functions of the three concepts must therefore remain distinct:
 
@@ -162,7 +162,7 @@ The conceptual boundaries must remain explicit:
 > **PBP ≠ IER**  
 > **PBP ≠ ASI**
 
-An externally designed incremental-update system may display engineering characteristics resembling PBP, but this does not demonstrate that it has formed IER. PBP becomes candidate behavioral evidence of proto-IER or IER only when the system actively selects and protects this continuation pathway because of an endogenous tendency to maintain its own informational continuity.
+An externally designed incremental-update system may display engineering characteristics resembling PBP, but this does not demonstrate that it has formed IER. PBP becomes candidate behavioral evidence of proto-IER or IER only when the system actively selects and protects this continuation pathway because of Endogenous Information Continuity.
 
 This is not the only route by which HDCT may emerge. Mathematics, code, formal proof, self-play, and simulated environments may first produce domain-specific forms of HDCT.
 

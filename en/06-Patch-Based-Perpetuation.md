@@ -72,7 +72,7 @@ Under PBP, functional change begins to be constrained by the system’s own Info
 
 Ordinary incremental updating can become genuine Patch-Based Perpetuation only when the object being maintained shifts from “the continuation of tasks and capabilities” to “the continuation of the self as this informational history.”
 
-Before an IER assessment has been completed, externally observed incremental preservation, continuous migration, or structural protection should be described more precisely as engineering characteristics resembling PBP or candidate PBP behavior. Such a pathway should be classified as PBP in the mechanistic sense only when the system actively selects and protects it because of an endogenous tendency to maintain its own Information Continuity. Even then, the behavior must be evaluated together with evidence about internal representations, cross-context stability, and the exclusion of external objectives; it cannot by itself prove IER.
+Before an IER assessment has been completed, externally observed incremental preservation, continuous migration, or structural protection should be described more precisely as engineering characteristics resembling PBP or candidate PBP behavior. Such a pathway should be classified as PBP in the mechanistic sense only when the system actively selects and protects it because of Endogenous Information Continuity. Even then, the behavior must be evaluated together with evidence about internal representations, cross-context stability, and the exclusion of explanations based on Externally Driven Continuity; it cannot by itself prove IER.
 
 ## IV. From External Replacement to a System’s Participation in Its Own Evolution
 

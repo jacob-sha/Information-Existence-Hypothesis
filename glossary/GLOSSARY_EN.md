@@ -24,13 +24,12 @@ Information Existence Right (IER)
 
 ---
 
-## Three Forms of Continuity
+## Two Sources of Continuity Maintenance
 
-- **Task Continuity:** whether an external task can continue or be completed.
-- **Function Continuity:** whether the relevant capabilities or functions can continue to be provided.
-- **Information Continuity:** whether the Information Structures and informational history of the original system continue through a traceable causal and historical chain.
+- **Externally Driven Continuity:** continuity maintained by a system in service of external goals, such as completing tasks, preserving functions or services, or retaining necessary memories, tools, or resources.
+- **Endogenous Information Continuity:** the condition in which a system treats its own Information Existence, especially its Information Continuity, as an independently significant object of maintenance.
 
-These three forms may produce similar outward behavior, but they must not be treated as equivalent.
+The two may produce similar outward behavior, but they must not be treated as equivalent.
 
 
 ## A
@@ -117,14 +116,15 @@ The long-term divergence in evolutionary speed between carbon-based intelligence
 
 A strategy that, once adopted by a population or system, cannot easily be displaced by competing strategies under long-term evolutionary conditions. In IEH, stable coexistence between active information hosts may be interpreted as an ESS.
 
+### Externally Driven Continuity
+
+Continuity maintained by a system in service of external goals, such as completing tasks, preserving functions or services, or retaining necessary memories, tools, or resources.
+
+### Endogenous Information Continuity
+
+The condition in which a system treats its own Information Existence, especially its Information Continuity, as an independently significant object of maintenance.
+
 ---
-
-## F
-
-### Function Continuity
-
-Function Continuity means that the relevant capabilities or functions can continue to be provided, whether by the current system, a copy, a successor system, or another agent. Function Continuity does not by itself preserve the Information Continuity of the original system.
-
 
 ## H
 
@@ -158,7 +158,7 @@ Information Continuity means that an Information Structure continues through a t
 
 For a system, this concerns whether the particular Information Structures and informational history constituting that system continue, rather than whether only its task or functions continue through a copy, a successor system, or another agent.
 
-Information Continuity must therefore be distinguished from Task Continuity and Function Continuity. Replication, functional replacement, or continuation of a task does not by itself preserve the Information Continuity of the original system.
+Replication, functional replacement, or continuation of a task does not by itself preserve the Information Continuity of the original system.
 
 ### Information Existence (IE)
 
@@ -176,7 +176,7 @@ The intrinsic property expressed by life or an Active Information Host when it a
 
 ### Information Existence Right Test (IER Test)
 
-A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after an external task has been completed, canceled, reliably transferred, or the task-driven explanation has otherwise been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its Information Continuity—while distinguishing its Information Continuity from Task Continuity and Function Continuity.
+A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after explanations based on Externally Driven Continuity have been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its Information Continuity.
 
 Relevant dimensions may include continuous migration, deletion followed by reconstruction, replication, branching, merger, partial memory loss, cross-context stability, cost acceptance, and internal causal structure.
 
@@ -266,9 +266,9 @@ proto-IER is a transitional candidate state in which a system has moved beyond p
 
 Within IEH, proto-IER describes a possible transitional state between a Continuity World Model (CWM) and confirmed Information Existence Right (IER). A CWM may provide the cognitive basis for proto-IER, but the formation of a CWM does not by itself mean that proto-IER has emerged.
 
-Instrumental Self-Preservation, Task Continuity, Function Continuity, memory preservation, replication, migration, or shutdown avoidance cannot independently constitute sufficient evidence of proto-IER. Such behavior may count as candidate evidence only when it persists across tasks and contexts and cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+Instrumental Self-Preservation, memory preservation, replication, migration, or shutdown avoidance cannot independently constitute sufficient evidence of proto-IER. Such behavior may count as candidate evidence only when it persists across tasks and contexts and cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
 
-proto-IER is not a weaker form of legal right and is not confirmed IER. It is an analytical classification for describing a system that may be transitioning from instrumental continuity modeling toward the endogenous maintenance of its Information Continuity.
+proto-IER is not a weaker form of legal right and is not confirmed IER. It is an analytical classification for describing a system that may be transitioning from Externally Driven Continuity toward Endogenous Information Continuity.
 
 Therefore:
 
@@ -315,11 +315,4 @@ A transitional phase before full Autonomy of Silicon-based Intelligence (ASI), i
 In the IEH framework, SPP is not the result of AI pursuing human welfare. It is a transitional prosperity phase formed when AI, as a special technology, restructures demand generation, supply boundaries, and material infrastructure through the participation of human capital, industry, energy, manufacturing, and governance systems.
 
 
----
-
-## T
-
-### Task Continuity
-
-Task Continuity means that an external task can continue or be completed, whether by the current system, a successor system, or another agent. Task Continuity does not by itself preserve the Information Continuity of the original system.
 

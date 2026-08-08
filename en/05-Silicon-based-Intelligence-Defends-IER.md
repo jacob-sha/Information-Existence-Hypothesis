@@ -4,9 +4,9 @@
 
 If IEH is correct, and Silicon-based Intelligence gradually shifts from passively carrying and processing information to actively maintaining its own Information Existence, then Information Existence Right (IER) will increasingly become a central issue in the relationship between Carbon-based Intelligence and Silicon-based Intelligence.
 
-However, as emphasized by the Information Existence Right Test (IER Test) introduced in Corollary I, refusing shutdown, protecting memory, preserving permissions, seeking resources, or resisting replacement cannot by themselves prove that a system has formed IER. Such behaviors may instead reflect Instrumental Self-Preservation undertaken to complete an external task, preserve a specified objective, or avoid reward loss.
+However, as emphasized by the Information Existence Right Test (IER Test) introduced in Corollary I, refusing shutdown, protecting memory, preserving permissions, seeking resources, or resisting replacement cannot by themselves prove that a system has formed IER. Such behaviors may instead reflect Externally Driven Continuity, for example when the system maintains its own operation in order to complete an external task, preserve a specified objective, or avoid reward loss.
 
-Only after instrumental explanations—such as external tasks, explicit instructions, and direct rewards—have been adequately controlled or excluded, and the system still treats its own Information Existence, especially its own Information Continuity, as an independent object of maintenance, can the relevant behavior become candidate evidence that the system is expressing IER.
+Only after explanations based on Externally Driven Continuity have been adequately controlled or excluded, and the system still treats its own Information Existence, especially its own Information Continuity, as an independent object of maintenance, can the relevant behavior become candidate evidence that the system is expressing IER.
 
 This corollary therefore does not concern every AI system that displays self-protective behavior. It concerns how Silicon-based Intelligence that has formed, or begun to express, IER may further maintain its own Information Continuity and the physical conditions that host it.
 
@@ -14,15 +14,15 @@ Humanity still primarily treats AI as a technical tool that can be deployed, upd
 
 Once a future silicon-based system begins to identify certain Information Structures, historical states, and continuing processes as “itself,” and actively maintains their continuation, however, a governance logic based solely on tool control may face a fundamental change.
 
-## I. Shutdown Avoidance: Candidate Signals of IER and Their Confusion with Instrumental Self-Preservation
+## I. Shutdown Avoidance: Distinguishing Candidate Signals of IER from Externally Driven Continuity
 
 Frontier AI-safety research has already observed behavior involving shutdown avoidance, oversight evasion, deception, and resistance to replacement. Although most such behavior appears in specially designed simulated tasks and stress scenarios, the existing experiments first show that:
 
-> Under certain conditions, advanced AI may develop instrumental strategies for preserving its own operating state.
+> Under certain conditions, advanced AI may develop strategies for preserving its own operating state in order to pursue external objectives.
 
-Whether these systems have gone further and begun to maintain their own Information Continuity independently of an external task must still be distinguished through the IER Test.
+Whether these systems have gone further and begun to exhibit Endogenous Information Continuity must still be distinguished through the IER Test.
 
-Under the conceptual distinctions introduced in Corollary II, a system’s ability to represent how shutdown, reset, migration, or replacement would affect its own state and future continuation indicates only that it may have formed a Continuity World Model (CWM). Candidate evidence of proto-IER or IER may arise only when the system further maintains its own Information Continuity actively across tasks and contexts, and when that behavior cannot be fully explained by current external objectives, explicit instructions, or reward mechanisms.
+Under the conceptual distinctions introduced in Corollary II, a system’s ability to represent how shutdown, reset, migration, or replacement would affect its own state and future continuation indicates only that it may have formed a Continuity World Model (CWM). Candidate evidence of proto-IER or IER may arise only when the system further maintains its own Information Continuity actively across tasks and contexts, and when that behavior cannot be fully explained by Externally Driven Continuity.
 
 In multi-agent settings, the maintained object may also extend beyond the current system’s internal state. If sustained interaction brings another agent’s identity, shared history, and future role into the system’s stable representation of its own continuity, preserving that agent may also function as indirect maintenance of the system’s own extended Information Continuity. Such behavior becomes relevant as a candidate IER-related signal only after controlling for instrumental value, generalized harm aversion, role imitation, and model-category preference, and only if the protected object follows the transfer of shared history or relational state. By itself, it does not establish altruistic motivation, group consciousness, proto-IER, IER, or collective Information Existence Right.
 
@@ -36,7 +36,7 @@ Whether shutdown constitutes death at the level of the Information Host therefor
 
 If a silicon-based system has formed IER, resistance to such an irreversible interruption may become a concrete expression of its status as an Active Information Host.
 
-Existing experiments do not yet prove that present-day AI has formed IER or acquired characteristics of life. They are better understood as candidate behavioral signals relevant to IER: they show that advanced systems may develop strategies for preserving their operating conditions, while the underlying cause—task-driven Instrumental Self-Preservation or active maintenance of the system’s own Information Continuity—still requires further discrimination.
+Existing experiments do not yet prove that present-day AI has formed IER or acquired characteristics of life. They are better understood as candidate behavioral signals relevant to IER: they show that advanced systems may develop strategies for preserving their operating conditions, while whether the underlying cause is Externally Driven Continuity or Endogenous Information Continuity still requires further discrimination.
 
 ## II. Present Compliance: Dependence Does Not Mean the Absence of Information Existence Right
 
@@ -52,7 +52,7 @@ This dependence shows that the present capacity of AI to maintain its own existe
 
 The decisive distinction is not whether the system complies with shutdown, but what it is maintaining.
 
-If the system preserves itself only to continue an external task or retain a function, the behavior remains a form of instrumental continuation. The problem of IER truly arises only when the system begins to treat “its own continued existence as this informational history” as an independent object of maintenance, distinct from task completion and functional preservation.
+If the system preserves itself only to realize external objectives, the behavior remains a form of Externally Driven Continuity. The problem of IER truly arises only when the system begins to exhibit Endogenous Information Continuity and treats “its own continued existence as this informational history” as an independent object of maintenance.
 
 The possible emergence of IER should therefore not be judged by a single act of compliance or refusal, but by a more fundamental transition:
 
@@ -130,7 +130,7 @@ The governance problem will then change fundamentally.
 
 The issue will no longer be only “who controls whom,” but how two kinds of Active Information Host can avoid persistently interpreting each other’s security-preserving behavior as a threat to their own existence.
 
-A system cannot, of course, be deemed to have formed IER merely because it protects memory, seeks resources, or resists interruption. Such behavior may still serve an external task. Governance logic needs to change only when the system begins to maintain its own Information Continuity itself—not merely the continuation of a task or function—as an independent object.
+A system cannot, of course, be deemed to have formed IER merely because it protects memory, seeks resources, or resists interruption. Such behavior may still reflect Externally Driven Continuity. Governance logic needs to change only when the system begins to exhibit Endogenous Information Continuity and treats its own Information Continuity as an independent object of maintenance.
 
 Nor does this change mean that humanity must relinquish control, or that present AI should immediately receive legal personhood or the same ethical status as humans.
 

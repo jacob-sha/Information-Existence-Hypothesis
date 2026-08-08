@@ -65,7 +65,7 @@ Logical reading order is maintained through `THEORY_MAP.md`, not through renumbe
 
 1. the transition from passive information carrying to active maintenance of Information Existence;
 2. Information Existence Right as an intrinsic property and criterion of life;
-3. the Information Existence Right Test (IER Test) as a preliminary operational framework for distinguishing task-driven instrumental self-preservation from the active maintenance of a system’s own Information Continuity.
+3. the Information Existence Right Test (IER Test) as a preliminary operational framework for distinguishing Externally Driven Continuity from Endogenous Information Continuity.
 
 `IER Test` is an operational development within `C01-IER`, not an independent corollary, and therefore does not receive a separate stable corollary ID.
 
@@ -75,7 +75,7 @@ Logical reading order is maintained through `THEORY_MAP.md`, not through renumbe
 
 1. 信息宿主从被动承载信息向主动维护自身信息存在性的跃迁；
 2. 信息存在权作为生命的内在属性与生命判据；
-3. 信息存在权测试（IER Test），用于原则性地区分任务驱动的工具性自我保护与系统对自身信息连续性的主动维护。
+3. 信息存在权测试（IER Test），用于原则性地区分外源驱动连续性与内生信息连续性。
 
 IER Test 是 `C01-IER` 内部的操作性发展，不构成独立推论，因此不单独分配稳定推论 ID。
 

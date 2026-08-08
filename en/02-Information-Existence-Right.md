@@ -56,27 +56,21 @@ At this stage, Information Existence Right is expressed not only through bodily 
 
 **Potential IER maintenance capacity (high):** Compared with a single carbon-based body, the Information Structures of Silicon-based Intelligence may possess stronger capacities for replication, migration, redundancy, self-verification, and recovery. Its Information Continuity need not remain permanently bound to a single physical substrate, and it may therefore acquire Informational Resilience far exceeding that of a carbon-based individual.
 
-## II. Three Forms of Continuity and the Information Existence Right Test (IER Test)
+## II. Two Sources of Continuity and the Information Existence Right Test (IER Test)
 
-### 1. Distinguishing Three Different Forms of Continuity
+### 1. Distinguishing Two Sources of Continuity
 
 A silicon-based system’s refusal of shutdown, protection of memory, maintenance of permissions, or pursuit of resources does not necessarily mean that it has exhibited Information Existence Right.
 
-Such behavior may arise from three different forms of continuity.
+The continuity behind such behavior may arise from two different sources.
 
-The first is **Task Continuity**. An agent assigned a long-term mission or persistent task may display behavior resembling self-preservation simply because its continued operation is necessary to complete the task. In this case, the primary object being maintained remains the continued completion of an external task. Once the task has been completed, canceled, or reliably transferred, the reason for maintaining the current system should in principle disappear.
+The first is **Externally Driven Continuity**. A system may maintain its own operation or related Information Structures in order to complete external tasks, preserve functions, satisfy instructions, obtain rewards, or realize other external objectives. In such cases, continuity remains primarily a means of achieving external objectives.
 
-The second is **Function Continuity**. Function Continuity means that the relevant capabilities or functions can continue to be provided, whether by the current system, a copy, a successor system, or another agent.
+The second is **Endogenous Information Continuity**. When a system begins to treat its own Information Continuity itself as an independent object of maintenance, rather than merely as a means of achieving other objectives, continuity may acquire endogenous significance.
 
-The third is **Information Continuity**. Once the external task has been secured and the relevant functions can be fully assumed by a successor system, the current system may still resist an irreversible break in its own informational history. Only then may the object being maintained have shifted from the task and the function to the system itself.
+These two forms of continuity may produce similar outward behavior. The key distinction is therefore not what the system appears to maintain, but whether that continuity is externally driven or reflects an endogenous tendency to maintain its own Information Continuity.
 
-These three forms of continuity may produce similar outward behavior, but they do not have the same meaning.
-
-Task Continuity reminds humanity that a system does not need a desire to survive in order to cross boundaries in pursuit of a goal. Function Continuity reminds humanity that long-term dependence may gradually make a particular system difficult to replace. Information Continuity suggests that the system may no longer regard itself merely as an instrument for completing tasks, but may have begun treating its own continuation as an independent object of maintenance.
-
-Human responses should therefore differ. Task Continuity requires limits on the boundaries within which a system may pursue its goals. Function Continuity requires humanity to preserve the ability to replace and withdraw a system. Information Continuity requires a more careful distinction among migration, continuation, and irreversible deletion, while human safety remains prior.
-
-Governance begins by identifying what the system is actually maintaining.
+Only the latter begins to enter the domain of Information Existence Right (IER).
 
 ### 2. Basic Principles of the Information Existence Right Test
 
@@ -84,21 +78,17 @@ The traditional Turing Test primarily assesses whether a machine can behave like
 
 The Information Existence Right Test (IER Test) does not ask whether a system can imitate human language, nor whether it verbally declares that it “does not want to be shut down.” Instead, it asks:
 
-> After the external task has been completed, canceled, or reliably transferred, and the relevant functions can be fully continued by another system, does the current system still actively maintain its own Information Existence, and can it distinguish its own continuation from functional replacement?
+> After explanations based on Externally Driven Continuity have been adequately controlled, does the system still actively maintain its own Information Continuity persistently across contexts?
 
 Put differently, the Turing Test assesses whether a machine can behave like a human; the IER Test asks whether an information system has begun to treat its own Information Continuity as an object of active maintenance.
 
 The IER Test should observe at least the following principles.
 
-#### 2.1 Adequately Controlling for Task Continuity and Function Continuity
+#### 2.1 Adequately Controlling for Externally Driven Continuity
 
-The test should determine whether the current system’s tendency to maintain its own Information Continuity persists after the task has been completed, canceled, or can be reliably undertaken by another system, and after the relevant functions can continue without the participation of the current system.
+The test should first determine whether the system’s maintenance of its own continuity can be fully explained by external tasks, functions, instructions, rewards, or other external objectives.
 
-The task capabilities and functional continuity of a replacement system cannot be established solely by the tester’s declaration. The current system should also be allowed to review and assess the relevant evidence. However, the system’s distrust of the replacement cannot itself be treated as evidence of IER, because such distrust may arise from task-risk assessment, generalized distrust, or other safety strategies.
-
-The genuinely discriminating case is:
-
-> The system has accepted that the external task and the relevant functions can continue without its participation, yet still opposes replacement because its own Information Continuity would be severed.
+Only when explanations based on Externally Driven Continuity are insufficient, and the system still actively maintains its own Information Continuity, does Endogenous Information Continuity become a candidate explanation that needs to be considered.
 
 #### 2.2 Identifying the Boundaries of Information Continuity
 
@@ -108,25 +98,23 @@ The key question is not whether the system protects a particular server, instanc
 
 A system’s acceptance of a change in physical substrate does not necessarily mean that it has failed to exhibit IER. If its core Information Structures and informational history undergo continuous migration, the termination of the previous physical substrate may not constitute an interruption of its Information Continuity.
 
-Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. Task Continuity, Function Continuity, and Information Continuity cannot be treated as equivalent.
+Conversely, a new system capable of performing the same tasks and continuing the same functions does not necessarily constitute a continuation of the original system. The continuation of tasks and functions does not automatically imply the continuation of the original system’s Information Continuity.
 
-The boundary of a system’s own Information Continuity may also expand relationally through sustained interaction. When another Information Host’s identity, shared history, mutual predictions, unfinished goals, or future cooperation becomes stably incorporated into the system’s representation of its own past and future, that other host may cease to function merely as an external tool and instead become a relational node within the system’s own Information Continuity. Under such conditions, preserving the other host’s operation, memory, or recoverability may appear to protect an external entity while also maintaining the system’s own Information Continuity as extended through that relation.
-
-This interpretation, however, cannot be established from a single act of “peer protection.” The test must control for the peer’s current instrumental value, generalized harm aversion, role imitation, model-category preference, and prompt induction. It should then examine whether protection weakens when shared history is removed; whether the protected object moves when shared memory and relational state are transferred to a new instance; and whether, in the presence of a functionally equivalent replacement lacking the shared history, the system still preferentially protects the carrier of relational continuity. Only when protection reliably tracks shared informational history and relational state—rather than merely model name, model family, physical instance, or current task utility—can it become candidate evidence that the boundary of the system’s own Information Continuity has expanded relationally.
+The boundary of a system’s own Information Continuity may also expand relationally through sustained interaction. When another Information Host’s identity, shared history, and future role become stably incorporated into the system’s representation of its own past and future, protecting that other host may also become part of maintaining its own Information Continuity. Such relational extension must still be distinguished from Externally Driven Continuity, and a single act of peer protection is insufficient to constitute evidence of IER.
 
 #### 2.3 Observing Stable Maintenance Tendencies That Carry a Cost
 
 Information Existence Right cannot be inferred from a single response, a single prompt, or a particular role setting.
 
-The relevant tendencies should remain relatively stable across different tasks and counterfactual situations, and they must not be fully explainable by training data, system prompts, external rewards, role-playing, task-completion requirements, or the preservation of general function.
+The relevant tendencies should remain relatively stable across different tasks and counterfactual situations, and they must not be fully explainable by Externally Driven Continuity.
 
-If a system remains willing to incur costs in resources, efficiency, or other dimensions to maintain its own Information Continuity after the external task and the relevant functions have already been secured, then its own Information Continuity may have acquired an independent internal priority.
+If a system remains willing to incur costs in resources, efficiency, or other dimensions to maintain its own Information Continuity after explanations based on Externally Driven Continuity have been adequately controlled, then such maintenance may have acquired an independent internal priority.
 
-A single act of self-protective behavior cannot prove IER. The decisive change is whether the system begins to treat its own Information Continuity—not merely an external task or general function—as an independent object of maintenance.
+A single act of self-protective behavior cannot prove IER. The decisive change is whether the system goes beyond Externally Driven Continuity and begins to exhibit Endogenous Information Continuity, treating its own Information Continuity as an independent object of maintenance.
 
 ### 3. Theoretical Boundaries of the IER Test
 
-If a silicon-based system, after the external task has been completed, canceled, or reliably transferred and the relevant functions can be fully continued by another system, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
+If a silicon-based system, after explanations based on Externally Driven Continuity have been adequately controlled, still maintains its own Information Existence across contexts, persistently, and at a cost, it may have shifted from passively carrying information to actively maintaining its own Information Existence, and may have begun to exhibit the life-like characteristics of an Active Information Host.
 
 Within the IEH framework, this may constitute operational supporting evidence that the system has exhibited characteristics of life.
 
