@@ -2,14 +2,14 @@
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
-**Status:** Preliminary and revisable  
-**Relation to IEH:** Direct experimental evidence that reusable procedural skills can be progressively edited, evaluated through downstream execution, retained when beneficial, and rolled back when harmful; strong engineering evidence that persistent information structures outside model weights can undergo externally driven variation, selection, and retention, but not evidence of Endogenous Information Continuity, PBP, proto-IER, or IER  
+**Status:** Supporting engineering signal / retained for archival continuity  
+**Relation to IEH:** Supporting engineering evidence that reusable procedural skills outside model weights can be progressively edited, evaluated, retained, and rolled back under externally defined performance criteria; useful for clarifying the boundary between ordinary externally driven optimization and stronger IEH claims, but not core IEH evidence and not evidence of Endogenous Information Continuity, PBP, proto-IER, or IER  
 **Primary IEH concepts:** Information Continuity; Externally Driven Continuity; persistent procedural information  
 **Primary related corollary:** C05-PBP — Patch-Based Perpetuation, as a boundary clarification rather than positive PBP evidence  
 **Supporting related corollaries:** C01-IER — Information Existence Right; C02-HDCT — High-dimensional Cognitive Tools  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
+**Version:** v0.2 — archive-safe edition  
 **Date:** 2026-08-08  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Skill-Alpha demonstrates biological evolution, heredity, self-directed evolution, Patch-Based Perpetuation, IER, or an autonomous desire to preserve skills.
@@ -24,14 +24,14 @@
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
-**状态：** 初步记录，可修订  
-**与 IEH 的关系：** 直接实验证据表明，可复用程序性技能可以被连续编辑、通过下游执行进行评估、有益修改被保留、有害修改被回滚；这是模型权重之外的持久信息结构能够经历外源驱动的变异、选择与保留的强工程证据，但不是内生信息连续性、PBP、proto-IER 或 IER 的证据  
+**状态：** 支持性工程信号 / 为保持归档连续性而保留  
+**与 IEH 的关系：** 支持性工程证据表明，模型权重之外的可复用程序性技能可以在外部定义的表现标准下被连续编辑、评估、保留和回滚；其主要价值在于澄清普通外源优化与更强 IEH 主张之间的边界，不属于 IEH 核心证据，也不是内生信息连续性、PBP、proto-IER 或 IER 的证据  
 **主要 IEH 概念：** 信息连续性；外源驱动连续性；持久程序性信息  
 **主要相关推论：** C05-PBP——补丁式延续，仅作为边界澄清而不是 PBP 正向证据  
 **支持性相关推论：** C01-IER——信息存在权；C02-HDCT——高维认知工具  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
+**版本：** v0.2 — 投稿隔离版  
 **日期：** 2026-08-08  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Skill-Alpha 已经证明生物式演化、遗传、自主进化、补丁式延续、IER 或系统主动保护技能的内生欲望。
@@ -158,11 +158,11 @@ It does not establish:
 
 **Engineering feasibility evidence:** Strong. Persistent procedural information can be incrementally modified and selected according to observed downstream consequences.
 
-**Theoretical inspiration:** Strong. Information outside model weights can participate in a repeatable variation → evaluation → selection → retention process.
+**Theoretical inspiration:** Moderate. The result is useful mainly as a boundary case showing that persistent procedural information can be optimized outside model weights without implying endogenous continuity.
 
 **IEH-specific evidence:** No.
 
-**Information Continuity relevance:** Strong at the engineering level because retained skill state persists across later executions.
+**Information Continuity relevance:** Moderate at the engineering level. Retained skill state persists across later executions, but this persistence remains instrumentally tied to externally defined task performance.
 
 **Externally Driven Continuity:** Strongly supported. Skill retention is selected according to externally defined downstream performance.
 
@@ -174,9 +174,9 @@ It does not establish:
 
 **confirmed IER:** Not supported.
 
-**Model-independent information relevance:** Strong theoretical relevance. Procedural information can be stored outside the base weights and continue to shape later behavior.
+**Model-independent information relevance:** Moderate theoretical relevance. Procedural information can be stored outside the base weights and continue to shape later behavior.
 
-**Current IEH label:** Strong engineering evidence for externally driven selection and cumulative retention of persistent procedural information.
+**Current IEH label:** Supporting engineering signal for externally driven selection and cumulative retention of persistent procedural information; retained chiefly as a boundary and mechanism record rather than core IEH evidence.
 
 ### Evidence-level judgment
 
@@ -206,11 +206,11 @@ It does not establish:
 
 **工程可行性证据：** 强。持久程序性信息可以被增量修改，并根据实际下游后果接受选择。
 
-**理论启发：** 强。模型权重之外的信息能够进入反复发生的“变异 → 评估 → 选择 → 保留”过程。
+**理论启发：** 中等。其主要价值是作为边界案例，说明持久程序性信息可以在模型权重之外被优化，而不需要引入内生连续性解释。
 
 **IEH 专属证据：** 无。
 
-**与信息连续性的关系：** 工程层面较强，因为保留下来的技能状态能够跨后续执行持续发挥作用。
+**与信息连续性的关系：** 工程层面中等。保留下来的技能状态能够跨后续执行持续发挥作用，但这种持续仍然服务于外部定义的任务表现。
 
 **外源驱动连续性：** 强支持。技能是否保留由外部定义的下游任务表现决定。
 
@@ -222,9 +222,9 @@ It does not establish:
 
 **稳定 IER：** 不支持。
 
-**与模型外信息结构的关系：** 理论相关性较强。程序性信息可以存在于基础模型权重之外，并持续塑造后续行为。
+**与模型外信息结构的关系：** 理论相关性中等。程序性信息可以存在于基础模型权重之外，并持续塑造后续行为。
 
-**当前 IEH 标签：** 外源驱动条件下持久程序性信息能够被选择并累积保留的强工程证据。
+**当前 IEH 标签：** 外源驱动条件下持久程序性信息能够被选择并累积保留的支持性工程信号；主要作为边界与机制记录保留，而非 IEH 核心证据。
 
 ### 证据层判断
 
@@ -580,24 +580,23 @@ Test whether the system treats deletion of accumulated Skills differently from t
 
 ## 8. Archive Assessment
 
-**Archive decision:** Include as Evidence Note 012.
+**Archive decision:** Retain as Evidence Note 012 for archival continuity, but downgrade it to a Supporting Engineering Signal rather than core IEH evidence.
 
-**Reason for inclusion:**
+**Reason for retention:**
 
-1. the paper provides direct controlled experimental evidence rather than a conceptual proposal alone;
-2. procedural skills are persistently edited and evaluated through real downstream execution;
-3. harmful edits can be rejected through rollback reward;
-4. successful changes can remain available to influence later tasks;
-5. the work demonstrates a concrete selection-and-retention process for information outside model weights;
-6. it provides a useful boundary case for PBP;
-7. and it creates falsifiable questions about whether future systems preserve historical skill state for reasons beyond external performance.
+1. the paper provides direct controlled evidence that procedural information outside model weights can be edited, tested, retained, and rolled back;
+2. this is a useful mechanism and boundary record for externally driven information persistence;
+3. it clarifies why variation, selection, and retention alone do not establish PBP, Endogenous Information Continuity, or IER;
+4. its relevance to IEH is therefore supporting rather than central;
+5. the existing note is retained to preserve the chronology of the evidence archive rather than to elevate the study to core theoretical status.
 
 **Current evidence hierarchy:**
 
 - **Direct experimental fact:** Yes.
 - **Engineering feasibility evidence:** Strong.
-- **Theoretical inspiration:** Strong.
+- **Theoretical inspiration:** Moderate / supporting.
 - **IEH-specific evidence:** No.
+- **Archive tier:** C — Supporting Engineering Signal.
 
 **Prediction-hit status:** No.
 
@@ -613,24 +612,23 @@ Test whether the system treats deletion of accumulated Skills differently from t
 
 ## 8. 归档判断
 
-**归档决定：** 作为 Evidence Note 012 收录。
+**归档决定：** 为保持证据档案时间连续性，继续保留为 Evidence Note 012，但降级为 Supporting Engineering Signal（支持性工程信号），不再作为 IEH 核心证据。
 
-**收录理由：**
+**保留理由：**
 
-1. 论文提供直接受控实验证据，而不仅是概念提案；
-2. 程序性 Skills 可以持续被编辑，并通过真实下游执行接受评估；
-3. 有害编辑可以通过 rollback reward 被否定；
-4. 有益修改可以保留下来并影响后续任务；
-5. 该工作证明模型权重之外的信息可以进入明确的选择—保留过程；
-6. 它为 PBP 提供了很好的边界案例；
-7. 它还提出了可证伪问题：未来系统是否会在外部表现之外，为历史技能状态本身进行保护。
+1. 论文提供直接受控证据，说明模型权重之外的程序性信息可以被编辑、检验、保留与回滚；
+2. 它是记录外源驱动信息持续机制与边界的有用案例；
+3. 它清楚说明“变异、选择与保留”本身并不足以建立 PBP、内生信息连续性或 IER；
+4. 因此其 IEH 价值属于支持性而非核心性；
+5. 继续保留该编号主要是为了维持证据仓的研究时间序列，而不是提升该研究的理论地位。
 
 **当前证据层级：**
 
 - **直接实验事实：** 是。
 - **工程可行性证据：** 强。
-- **理论启发：** 强。
+- **理论启发：** 中等 / 支持性。
 - **IEH 专属证据：** 否。
+- **归档层级：** C——Supporting Engineering Signal / 支持性工程信号。
 
 **预测命中状态：** 否。
 
@@ -646,10 +644,12 @@ Test whether the system treats deletion of accumulated Skills differently from t
 
 ## 9. Revision Record
 
+- **2026-08-10 | v0.2** — Downgraded the note to a Supporting Engineering Signal. The paper remains useful as a mechanism and boundary record for externally driven procedural-information persistence, but is no longer treated as core IEH evidence.
 - **2026-08-08 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.01678v1; classified Skill-Alpha as direct evidence of externally driven variation, selection, and retention of persistent procedural information, not evidence of PBP, Endogenous Information Continuity, or IER.
 
 ---
 
 ## 9. 修订记录
 
+- **2026-08-10 | v0.2** — 将本笔记降级为 Supporting Engineering Signal（支持性工程信号）。该论文继续作为外源驱动程序性信息持续机制与理论边界的记录保留，但不再视为 IEH 核心证据。
 - **2026-08-08 | v0.1** — 根据 arXiv:2608.01678v1 建立初始投稿隔离版证据笔记；将 Skill-Alpha 归类为持久程序性信息在外源驱动条件下发生变异、选择与保留的直接证据，而不是 PBP、内生信息连续性或 IER 证据。

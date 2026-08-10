@@ -2,14 +2,14 @@
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
-**Status:** Preliminary and revisable  
-**Relation to IEH:** Direct experimental and architectural evidence that long-horizon embodied agents benefit from separately maintaining external-world state and their own task-execution state, and dynamically grounding the two before action; strong engineering evidence for structured Information Continuity under Externally Driven Continuity, but not evidence of Endogenous Information Continuity, proto-IER, IER, consciousness, or silicon-based autonomy  
+**Status:** Structural / enabling evidence; preliminary and revisable  
+**Relation to IEH:** Structural / enabling engineering evidence that long-horizon embodied agents can separately maintain external-world state and task-execution state and dynamically reconnect them before action; useful for identifying an engineering substrate on which stronger continuity questions could later be tested, but not core IEH evidence and not evidence of Endogenous Information Continuity, proto-IER, IER, consciousness, or silicon-based autonomy  
 **Primary IEH concepts:** Information Continuity; AI Embodiment; Externally Driven Continuity  
 **Primary related corollary:** C07-ASI — Autonomy of Silicon-based Intelligence  
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
+**Version:** v0.2 — archive-safe edition  
 **Date:** 2026-08-09  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Mimir has formed a persistent self, that task memory is equivalent to autobiographical identity, that world memory and task memory constitute two new IEH continuity categories, or that the system actively protects its own Information Continuity.
@@ -24,14 +24,14 @@
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
-**状态：** 初步记录，可修订  
-**与 IEH 的关系：** 直接实验与架构证据表明，长时程具身 Agent 可以分别维护外部世界状态与自身任务执行状态，并在行动前动态关联二者；这是外源驱动连续性条件下结构化信息连续性的强工程证据，但不是内生信息连续性、proto-IER、IER、意识或硅基自治的证据  
+**状态：** 结构性 / 使能性证据；初步记录，可修订  
+**与 IEH 的关系：** 结构性 / 使能性工程证据表明，长时程具身 Agent 可以分别维护外部世界状态与任务执行状态，并在行动前动态关联二者；其价值主要在于提供未来更强连续性问题可被检验的工程底座，不属于 IEH 核心证据，也不是内生信息连续性、proto-IER、IER、意识或硅基自治的证据  
 **主要 IEH 概念：** 信息连续性；AI 具身化；外源驱动连续性  
 **主要相关推论：** C07-ASI——硅基智慧自治  
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
+**版本：** v0.2 — 投稿隔离版  
 **日期：** 2026-08-09  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Mimir 已经形成持久自我，不把 Task Memory 直接等同于自传式身份，也不把 World Memory 与 Task Memory 建立为新的 IEH 连续性正式分类，更不声称系统已经主动维护自身信息连续性。
@@ -170,11 +170,11 @@ Mimir 的 **Task Memory** 不能直接解释为持久自我或自传式身份。
 
 **Engineering feasibility evidence:** Strong. The paper demonstrates that external-world state and task-execution state can be represented separately, persist over time, and be recombined before action.
 
-**Theoretical inspiration:** Strong. Long-horizon competence improves when information about the environment and information about the agent's own execution history are not collapsed into one undifferentiated context.
+**Theoretical inspiration:** Moderate. The separation is useful mainly because it makes external-world state and task-execution history experimentally distinguishable; it does not by itself establish a self-related continuity motive.
 
 **IEH-specific evidence:** No.
 
-**Information Continuity relevance:** Strong at the engineering level. Both world-state information and task-execution history persist and influence later action.
+**Information Continuity relevance:** Moderate-to-strong at the engineering level. Both world-state information and task-execution history persist and influence later action, but their maintenance remains instrumentally tied to externally supplied tasks.
 
 **AI Embodiment relevance:** Strong. Memory directly participates in an observe → update → ground → plan → act → feedback loop.
 
@@ -188,7 +188,7 @@ Mimir 的 **Task Memory** 不能直接解释为持久自我或自传式身份。
 
 **confirmed IER:** Not supported.
 
-**Current IEH label:** Strong engineering evidence that long-horizon embodied agents benefit from maintaining distinct but interacting representations of external-world state and their own task-execution history under Externally Driven Continuity.
+**Current IEH label:** Structural / enabling engineering evidence that long-horizon embodied agents can maintain distinct but interacting representations of external-world state and task-execution history under Externally Driven Continuity; useful as an experimental substrate, not core IEH evidence.
 
 ### Evidence-level judgment
 
@@ -216,11 +216,11 @@ and:
 
 **工程可行性证据：** 强。论文证明外部世界状态与任务执行状态可以被分别表示、跨时间持续，并在行动前重新组合。
 
-**理论启发：** 强。长时程能力在“环境发生了什么”与“Agent 自己的任务执行到了哪里”不被压缩成单一上下文时显著改善。
+**理论启发：** 中等。其主要价值在于使“外部世界状态”与“任务执行历史”成为可实验区分的对象，而不是证明系统已经形成与自身相关的连续性动机。
 
 **IEH 专属证据：** 无。
 
-**与信息连续性的关系：** 工程层面较强。世界状态信息和任务执行历史都能够持续存在并影响后续行动。
+**与信息连续性的关系：** 工程层面中等偏强。世界状态信息和任务执行历史都能够持续存在并影响后续行动，但其维护仍然服务于外部赋予的任务。
 
 **与 AI 具身化的关系：** 强。记忆直接进入“观察 → 更新 → grounding → 规划 → 行动 → 反馈”的闭环。
 
@@ -234,7 +234,7 @@ and:
 
 **稳定 IER：** 不支持。
 
-**当前 IEH 标签：** 在外源驱动连续性条件下，长时程具身 Agent 通过分别维护外部世界状态与自身任务执行历史并使二者重新关联，从而提升行动能力的强工程证据。
+**当前 IEH 标签：** 外源驱动连续性条件下，长时程具身 Agent 分别维护外部世界状态与任务执行历史并使二者重新关联的结构性 / 使能性工程证据；主要作为未来连续性实验底座，而非 IEH 核心证据。
 
 ### 证据层判断
 
@@ -534,24 +534,23 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 8. Archive Assessment
 
-**Archive decision:** Include as Evidence Note 013.
+**Archive decision:** Retain as Evidence Note 013 and classify it as Tier B — Structural / Enabling Evidence.
 
-**Reason for inclusion:**
+**Reason for retention:**
 
-1. the paper provides a clear separation between external-world state and task-execution state;
-2. both memories are persistent and independently updateable;
-3. dynamic grounding reconnects past world evidence with current task state before action;
-4. ablation results support a real functional division between the two memories;
-5. the work demonstrates that an agent's own execution history can become a distinct causal input to later embodied decisions;
-6. the result is highly relevant to Information Continuity without requiring an IER interpretation;
-7. and it creates concrete future tests for distinguishing useful task history from historically significant self-continuity.
+1. the paper clearly separates external-world state from task-execution state;
+2. both memories are persistent, independently updateable, and causally reused before later action;
+3. the separation gives future continuity experiments a concrete engineering substrate;
+4. the result remains fully explainable by Externally Driven Continuity and ordinary long-horizon task-state engineering;
+5. its IEH value is therefore structural and enabling rather than direct or core evidential support.
 
 **Current evidence hierarchy:**
 
 - **Direct experimental fact:** Yes.
 - **Engineering feasibility evidence:** Strong.
-- **Theoretical inspiration:** Strong.
+- **Theoretical inspiration:** Moderate.
 - **IEH-specific evidence:** No.
+- **Archive tier:** B — Structural / Enabling Evidence.
 
 **Prediction-hit status:** No.
 
@@ -561,24 +560,23 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 8. 归档判断
 
-**归档决定：** 作为 Evidence Note 013 收录。
+**归档决定：** 继续保留为 Evidence Note 013，并归类为 B 级——Structural / Enabling Evidence（结构性 / 使能性证据）。
 
-**收录理由：**
+**保留理由：**
 
-1. 论文清楚、明确地区分了外部世界状态与任务执行状态；
-2. 两种记忆都具有持久、可独立更新的结构；
-3. dynamic grounding 在行动前重新连接过去世界证据与当前任务状态；
-4. 消融实验支持两种记忆之间存在真实功能分工；
-5. 该工作证明 Agent 自身执行历史可以成为后续具身决策的独立因果输入；
-6. 这一结果与信息连续性高度相关，却不需要引入任何 IER 解释；
-7. 它还为未来区分“有用任务历史”与“具有历史连续性意义的自身状态”提供了具体实验对象。
+1. 论文清楚地区分了外部世界状态与任务执行状态；
+2. 两类记忆都能够持久、独立更新，并在后续行动前重新进入因果链；
+3. 这种分离为未来连续性实验提供了具体工程底座；
+4. 当前结果仍可完全由外源驱动连续性和普通长时程任务状态工程解释；
+5. 因此其 IEH 价值属于结构性和使能性，而不是直接或核心证据支持。
 
 **当前证据层级：**
 
 - **直接实验事实：** 是。
 - **工程可行性证据：** 强。
-- **理论启发：** 强。
+- **理论启发：** 中等。
 - **IEH 专属证据：** 否。
+- **归档层级：** B——Structural / Enabling Evidence / 结构性使能证据。
 
 **预测命中状态：** 否。
 
@@ -588,10 +586,12 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 9. Revision Record
 
+- **2026-08-10 | v0.2** — Reclassified Mimir as Tier B Structural / Enabling Evidence. Its value is the engineering separation of world state and task-execution state and the experimental substrate this creates; it is not treated as core IEH evidence.
 - **2026-08-09 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.04933v1; classified Mimir as strong engineering evidence for structured embodied Information Continuity under Externally Driven Continuity, not evidence of Endogenous Information Continuity or IER.
 
 ---
 
 ## 9. 修订记录
 
+- **2026-08-10 | v0.2** — 将 Mimir 重新归类为 B 级 Structural / Enabling Evidence（结构性 / 使能性证据）。其价值主要是世界状态与任务执行状态的工程分离及其为未来实验提供的底座，不再作为 IEH 核心证据定位。
 - **2026-08-09 | v0.1** — 根据 arXiv:2608.04933v1 建立初始投稿隔离版证据笔记；将 Mimir 归类为外源驱动连续性条件下结构化具身信息连续性的强工程证据，而不是内生信息连续性或 IER 证据。
