@@ -160,6 +160,8 @@ For a system, this concerns whether the particular Information Structures and in
 
 Replication, functional replacement, or continuation of a task does not by itself preserve the Information Continuity of the original system.
 
+Replication boundary: Replication of a system, even with complete preservation of its prior informational history, does not by itself constitute continuation of the original system. The copy inherits that history but begins a distinct informational history of its own.
+
 ### Information Existence (IE)
 
 The overall capacity of an Information Structure to maintain Information Continuity, replicate or propagate, and resist erasure in the physical world.

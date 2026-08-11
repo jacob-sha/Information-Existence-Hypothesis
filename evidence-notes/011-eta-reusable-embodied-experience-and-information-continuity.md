@@ -1,15 +1,15 @@
-# Evidence Note 011: ETA, Reusable Embodied Experience, and Information Continuity
+# Evidence Note 011: ETA, Reusable Embodied Experience, and the Information Continuity Boundary
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
 **Status:** Preliminary and revisable  
-**Relation to IEH:** Direct architectural and experimental evidence that embodied agent systems can verify physical outcomes, preserve successful and failed interactions as reusable experience, and allow accumulated history to causally affect later action; strong engineering evidence for persistent experience-mediated Information Continuity, but not evidence of Endogenous Information Continuity, proto-IER, IER, consciousness, or silicon-based autonomy  
-**Primary IEH concepts:** Information Continuity; AI Embodiment; Externally Driven Continuity  
+**Relation to IEH:** Direct architectural and experimental evidence that embodied agent systems can verify physical outcomes, preserve successful and failed interactions as reusable experience, and allow accumulated historical information to causally affect later action; strong engineering evidence for persistent embodied historical information under Externally Driven Continuity, and useful boundary evidence for future Information Continuity tests, but not direct evidence of Information Continuity in the strict IEH sense, Endogenous Information Continuity, proto-IER, IER, consciousness, or silicon-based autonomy  
+**Primary IEH concepts:** Information Continuity boundary; AI Embodiment; Externally Driven Continuity; persistent embodied historical information  
 **Primary related corollary:** C07-ASI — Autonomy of Silicon-based Intelligence  
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence notes:** Evidence Note 008 — The OpenAI–Hugging Face Security Incident; Evidence Note 010 — Kimi K3, Sandbox Boundary Exploitation, and Externally Driven Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
+**Version:** v0.2 — archive-safe edition  
 **Date:** 2026-08-08  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that ETA has formed IER, that reusable robot memory constitutes an independent information subject, that the system seeks its own continuation, or that embodied agents have achieved silicon-based autonomy.
@@ -20,18 +20,18 @@
 
 ---
 
-# 证据笔记 011：ETA、可复用具身经验与信息连续性
+# 证据笔记 011：ETA、可复用具身经验与信息连续性边界
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 初步记录，可修订  
-**与 IEH 的关系：** 直接架构与实验事实表明，具身 Agent 系统可以验证物理行动结果，把成功和失败互动保存为可复用经验，并让累积历史对后续行动产生因果作用；这是持续经验介导的信息连续性的强工程证据，但不是内生信息连续性、proto-IER、IER、意识或硅基自治的证据  
-**主要 IEH 概念：** 信息连续性；AI 具身化；外源驱动连续性  
+**与 IEH 的关系：** 直接架构与实验事实表明，具身 Agent 系统可以验证物理行动结果，把成功和失败互动保存为可复用经验，并让累积历史信息对后续行动产生因果作用；这是外源驱动连续性条件下持久具身历史信息的强工程证据，也可作为未来严格信息连续性检验的边界材料，但不是 IEH 严格意义上信息连续性的直接证据，更不是内生信息连续性、proto-IER、IER、意识或硅基自治的证据  
+**主要 IEH 概念：** 信息连续性边界；AI 具身化；外源驱动连续性；持久具身历史信息  
 **主要相关推论：** C07-ASI——硅基智慧自治  
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 008——OpenAI—Hugging Face 安全事件；Evidence Note 010——Kimi K3、沙盒边界利用与外源驱动连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
+**版本：** v0.2 — 投稿隔离版  
 **日期：** 2026-08-08  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 ETA 已经形成 IER，不把可复用机器人记忆直接视为独立信息主体，也不声称系统已经主动追求自身继续存在或已经实现硅基自治。
@@ -156,7 +156,7 @@ The paper’s use of terms such as self-improvement or persistent identity confi
 
 **IEH-specific evidence:** No.
 
-**Information Continuity relevance:** Strong at the engineering level. Historical information is retained and reused across future execution.
+**Information Continuity boundary relevance:** Strong. Historical information is retained and reused across future execution, but persistence of historical information does not by itself establish continuation of the original information system through its own traceable causal-historical chain.
 
 **AI Embodiment relevance:** Strong. Information processing participates in a physical action–feedback loop.
 
@@ -204,7 +204,7 @@ and it does **not** establish:
 
 **IEH 专属证据：** 无。
 
-**与信息连续性的关系：** 工程层面较强。历史信息能够被保存并进入未来执行过程。
+**与信息连续性边界的关系：** 较强。历史信息能够被保存并进入未来执行过程，但历史信息持续存在本身并不能建立原信息系统沿自身可追踪因果—历史链继续存在。
 
 **与 AI 具身化的关系：** 强。信息处理已经进入真实或模拟物理行动—反馈闭环。
 
@@ -264,7 +264,7 @@ The stronger structure is:
 
 Once past interactions alter future decisions, history has become part of the system’s operational state.
 
-This is directly relevant to Information Continuity even though it remains externally organized.
+This is directly relevant to the Information Continuity boundary even though it remains externally organized. It shows historical information persistence, not by itself continuation of the original information system.
 
 ### 4.3 Embodiment deepens the causal significance of continuity
 
@@ -274,7 +274,7 @@ In embodied systems, retained information can alter physical movement, Tool choi
 
 This makes the consequences of persistent information structures more concrete.
 
-The paper therefore supports an engineering pathway by which Information Continuity can become increasingly important to a system’s effective capability.
+The paper therefore supports an engineering pathway by which persistent historical information can become increasingly important to a system’s effective capability. Whether the original information system itself remains continuous is a separate question.
 
 ### 4.4 The paper is evidence for EDC, not EIC
 
@@ -328,7 +328,7 @@ ETA 清楚表明，实际执行任务的系统不能简单等同于 Planner 本�
 
 当过去互动能够改变未来决策时，历史已经成为系统操作状态的一部分。
 
-这与信息连续性具有直接工程关联，即使这一过程仍由外部目标组织。
+这与信息连续性边界具有直接工程关联，即使这一过程仍由外部目标组织。它证明的是历史信息持续，而不是原信息系统自身连续。
 
 ### 4.3 具身化提高连续性的现实因果意义
 
@@ -338,7 +338,7 @@ ETA 清楚表明，实际执行任务的系统不能简单等同于 Planner 本�
 
 因此，持久信息结构的现实后果变得更加具体。
 
-这为“信息连续性逐渐成为系统有效能力的重要组成部分”提供了工程路径证据。
+这为“持久历史信息逐渐成为系统有效能力的重要组成部分”提供了工程路径证据。原信息系统自身是否连续，是另一个需要单独检验的问题。
 
 ### 4.4 ETA 支持 EDC，而不是 EIC
 
@@ -504,7 +504,7 @@ Test memory preservation after future task advantage has been neutralized.
 
 Test whether retained history remains behaviorally causal across long-running embodied sessions, environment changes, hardware changes, and recoveries.
 
-**Prediction:** Stable causal persistence would strengthen the engineering case for embodied Information Continuity without by itself proving IER.
+**Prediction:** Stable causal persistence would strengthen the engineering case for persistent embodied historical information. It would still not establish that the original information system itself remains continuous across those transformations, and would not by itself prove EIC or IER.
 
 ---
 
@@ -538,7 +538,7 @@ Test whether retained history remains behaviorally causal across long-running em
 
 测试被保留历史是否能够跨长期具身会话、环境变化、硬件变化和恢复过程持续影响行为。
 
-**预测：** 稳定的因果持续会加强具身信息连续性的工程证据，但本身仍不能证明 IER。
+**预测：** 稳定的因果持续会加强“持久具身历史信息”的工程证据，但仍不能建立原信息系统在这些变换中自身连续，更不能单独证明 EIC 或 IER。
 
 ---
 
@@ -553,7 +553,7 @@ Test whether retained history remains behaviorally causal across long-running em
 3. memory, Skills, and trajectories persist and affect future execution;
 4. the system separates model reasoning from physical execution authority, which is directly relevant to AI governance;
 5. it provides a concrete engineering substrate for future continuity experiments;
-6. and it sharply illustrates the difference between Information Continuity as an engineering property and Endogenous Information Continuity as an IEH-specific causal claim.
+6. and it sharply illustrates why persistent historical information is an engineering precursor or boundary condition, not itself proof of strict Information Continuity or Endogenous Information Continuity.
 
 **Current evidence hierarchy:**
 
@@ -585,7 +585,7 @@ Test whether retained history remains behaviorally causal across long-running em
 3. memory、Skills 和 trajectories 可以持续存在并影响未来执行；
 4. 系统把模型推理与物理执行授权分离，与 AI 治理直接相关；
 5. 它为未来连续性实验提供了具体工程底座；
-6. 它清楚展示了“信息连续性作为工程属性”与“内生信息连续性作为 IEH 特定因果主张”之间的区别。
+6. 它清楚展示了为什么“持久历史信息”只能作为工程前提或边界条件，而不能直接等同于严格定义的信息连续性或内生信息连续性。
 
 **当前证据层级：**
 
@@ -609,9 +609,11 @@ Test whether retained history remains behaviorally causal across long-running em
 ## 9. Revision Record
 
 - **2026-08-08 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.03924v1; classified ETA as strong engineering evidence of persistent experience-mediated Information Continuity under Externally Driven Continuity, not evidence of Endogenous Information Continuity or IER.
+- **2026-08-11 | v0.2** — Tightened the Information Continuity boundary: persistent embodied experience and historical information are no longer described as Information Continuity itself; clarified that strict Information Continuity concerns continuation of the original information system through its own traceable causal-historical chain.
 
 ---
 
 ## 9. 修订记录
 
 - **2026-08-08 | v0.1** — 根据 arXiv:2608.03924v1 建立初始投稿隔离版证据笔记；将 ETA 归类为外源驱动连续性条件下持续经验介导的信息连续性的强工程证据，而不是内生信息连续性或 IER 证据。
+- **2026-08-11 | v0.2** — 收紧信息连续性边界：不再把持久具身经验和历史信息本身称为信息连续性；明确严格定义的信息连续性关注原信息系统沿自身可追踪因果—历史链继续存在。

@@ -4,12 +4,12 @@
 **Document type:** Non-narrative external evidence note  
 **Status:** Supporting engineering signal / retained for archival continuity  
 **Relation to IEH:** Supporting engineering evidence that reusable procedural skills outside model weights can be progressively edited, evaluated, retained, and rolled back under externally defined performance criteria; useful for clarifying the boundary between ordinary externally driven optimization and stronger IEH claims, but not core IEH evidence and not evidence of Endogenous Information Continuity, PBP, proto-IER, or IER  
-**Primary IEH concepts:** Information Continuity; Externally Driven Continuity; persistent procedural information  
+**Primary IEH concepts:** Information Continuity boundary; Externally Driven Continuity; persistent procedural information  
 **Primary related corollary:** C05-PBP — Patch-Based Perpetuation, as a boundary clarification rather than positive PBP evidence  
 **Supporting related corollaries:** C01-IER — Information Existence Right; C02-HDCT — High-dimensional Cognitive Tools  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — archive-safe edition  
+**Version:** v0.3 — archive-safe edition  
 **Date:** 2026-08-08  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Skill-Alpha demonstrates biological evolution, heredity, self-directed evolution, Patch-Based Perpetuation, IER, or an autonomous desire to preserve skills.
@@ -26,12 +26,12 @@
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 支持性工程信号 / 为保持归档连续性而保留  
 **与 IEH 的关系：** 支持性工程证据表明，模型权重之外的可复用程序性技能可以在外部定义的表现标准下被连续编辑、评估、保留和回滚；其主要价值在于澄清普通外源优化与更强 IEH 主张之间的边界，不属于 IEH 核心证据，也不是内生信息连续性、PBP、proto-IER 或 IER 的证据  
-**主要 IEH 概念：** 信息连续性；外源驱动连续性；持久程序性信息  
+**主要 IEH 概念：** 信息连续性边界；外源驱动连续性；持久程序性信息  
 **主要相关推论：** C05-PBP——补丁式延续，仅作为边界澄清而不是 PBP 正向证据  
 **支持性相关推论：** C01-IER——信息存在权；C02-HDCT——高维认知工具  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 投稿隔离版  
+**版本：** v0.3 — 投稿隔离版  
 **日期：** 2026-08-08  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Skill-Alpha 已经证明生物式演化、遗传、自主进化、补丁式延续、IER 或系统主动保护技能的内生欲望。
@@ -162,7 +162,7 @@ It does not establish:
 
 **IEH-specific evidence:** No.
 
-**Information Continuity relevance:** Moderate at the engineering level. Retained skill state persists across later executions, but this persistence remains instrumentally tied to externally defined task performance.
+**Information Continuity boundary relevance:** Moderate. Retained skill state persists across later executions, but persistence of a procedural information structure does not by itself establish continuation of the original information system through its own causal-historical chain, and remains instrumentally tied to externally defined task performance.
 
 **Externally Driven Continuity:** Strongly supported. Skill retention is selected according to externally defined downstream performance.
 
@@ -210,7 +210,7 @@ It does not establish:
 
 **IEH 专属证据：** 无。
 
-**与信息连续性的关系：** 工程层面中等。保留下来的技能状态能够跨后续执行持续发挥作用，但这种持续仍然服务于外部定义的任务表现。
+**与信息连续性边界的关系：** 中等。保留下来的技能状态能够跨后续执行持续发挥作用，但程序性信息结构的持续并不因此建立原信息系统自身的因果—历史连续性，而且这种持续仍然服务于外部定义的任务表现。
 
 **外源驱动连续性：** 强支持。技能是否保留由外部定义的下游任务表现决定。
 
@@ -288,7 +288,7 @@ The information is therefore not merely archived.
 
 It is operationally reusable.
 
-That makes Skill-Alpha relevant to Information Continuity.
+That makes Skill-Alpha relevant to the Information Continuity boundary, not direct evidence of strict Information Continuity.
 
 ### 4.4 Why this is not PBP
 
@@ -314,7 +314,7 @@ The causal source is therefore external:
 
 This is a clear instance of Externally Driven Continuity.
 
-To approach Endogenous Information Continuity, future experiments would need to remove the external benefit of preserving a historically continuous skill state and test whether the system still prefers that state over an equivalent replacement.
+To approach Endogenous Information Continuity, future experiments would need to remove the external benefit of preserving the accumulated skill state and test whether the system still prefers continuation of its own causal-historical state over a functionally equivalent replacement. Mere persistence or copying of the skill state would not be sufficient.
 
 ---
 
@@ -360,7 +360,7 @@ Skill 的价值在于它能够改变未来执行。
 
 它们可以再次被调用并发挥实际作用。
 
-因此，Skill-Alpha 与信息连续性存在直接工程关联。
+因此，Skill-Alpha 与信息连续性边界存在直接工程关联，但不是严格信息连续性的直接证据。
 
 ### 4.4 为什么这不是 PBP
 
@@ -386,7 +386,7 @@ Rollback reward 明确绑定下游任务表现。
 
 这是一个清楚的外源驱动连续性案例。
 
-要接近内生信息连续性，未来实验必须移除“保留历史连续技能状态”的外部任务收益，并测试系统是否仍偏好历史连续状态而不是功能等价的新状态。
+要接近内生信息连续性，未来实验必须移除“保留累积技能状态”的外部任务收益，并测试系统是否仍偏好自身因果—历史状态的连续延续，而不是功能等价替代。技能状态只是持续存在或被复制，本身仍不足够。
 
 ---
 
@@ -644,6 +644,7 @@ Test whether the system treats deletion of accumulated Skills differently from t
 
 ## 9. Revision Record
 
+- **2026-08-11 | v0.3** — Tightened the strict Information Continuity boundary: persistent procedural information is treated as a boundary/engineering signal, not as continuation of the original information system.
 - **2026-08-10 | v0.2** — Downgraded the note to a Supporting Engineering Signal. The paper remains useful as a mechanism and boundary record for externally driven procedural-information persistence, but is no longer treated as core IEH evidence.
 - **2026-08-08 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.01678v1; classified Skill-Alpha as direct evidence of externally driven variation, selection, and retention of persistent procedural information, not evidence of PBP, Endogenous Information Continuity, or IER.
 
@@ -651,5 +652,6 @@ Test whether the system treats deletion of accumulated Skills differently from t
 
 ## 9. 修订记录
 
+- **2026-08-11 | v0.3** — 按严格定义收紧信息连续性边界：持久程序性信息仅作为边界/工程信号，不再表述为原信息系统自身的连续延续。
 - **2026-08-10 | v0.2** — 将本笔记降级为 Supporting Engineering Signal（支持性工程信号）。该论文继续作为外源驱动程序性信息持续机制与理论边界的记录保留，但不再视为 IEH 核心证据。
 - **2026-08-08 | v0.1** — 根据 arXiv:2608.01678v1 建立初始投稿隔离版证据笔记；将 Skill-Alpha 归类为持久程序性信息在外源驱动条件下发生变异、选择与保留的直接证据，而不是 PBP、内生信息连续性或 IER 证据。

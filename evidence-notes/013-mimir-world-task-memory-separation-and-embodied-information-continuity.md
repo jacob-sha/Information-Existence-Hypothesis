@@ -1,15 +1,15 @@
-# Evidence Note 013: Mimir, World–Task Memory Separation, and Embodied Information Continuity
+# Evidence Note 013: Mimir, World–Task Memory Separation, and the Information Continuity Boundary
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
 **Status:** Structural / enabling evidence; preliminary and revisable  
 **Relation to IEH:** Structural / enabling engineering evidence that long-horizon embodied agents can separately maintain external-world state and task-execution state and dynamically reconnect them before action; useful for identifying an engineering substrate on which stronger continuity questions could later be tested, but not core IEH evidence and not evidence of Endogenous Information Continuity, proto-IER, IER, consciousness, or silicon-based autonomy  
-**Primary IEH concepts:** Information Continuity; AI Embodiment; Externally Driven Continuity  
+**Primary IEH concepts:** Information Continuity boundary; AI Embodiment; Externally Driven Continuity; task-history information  
 **Primary related corollary:** C07-ASI — Autonomy of Silicon-based Intelligence  
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — archive-safe edition  
+**Version:** v0.3 — archive-safe edition  
 **Date:** 2026-08-09  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Mimir has formed a persistent self, that task memory is equivalent to autobiographical identity, that world memory and task memory constitute two new IEH continuity categories, or that the system actively protects its own Information Continuity.
@@ -20,18 +20,18 @@
 
 ---
 
-# 证据笔记 013：Mimir、世界—任务记忆分离与具身信息连续性
+# 证据笔记 013：Mimir、世界—任务记忆分离与信息连续性边界
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 结构性 / 使能性证据；初步记录，可修订  
 **与 IEH 的关系：** 结构性 / 使能性工程证据表明，长时程具身 Agent 可以分别维护外部世界状态与任务执行状态，并在行动前动态关联二者；其价值主要在于提供未来更强连续性问题可被检验的工程底座，不属于 IEH 核心证据，也不是内生信息连续性、proto-IER、IER、意识或硅基自治的证据  
-**主要 IEH 概念：** 信息连续性；AI 具身化；外源驱动连续性  
+**主要 IEH 概念：** 信息连续性边界；AI 具身化；外源驱动连续性；任务历史信息  
 **主要相关推论：** C07-ASI——硅基智慧自治  
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 投稿隔离版  
+**版本：** v0.3 — 投稿隔离版  
 **日期：** 2026-08-09  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Mimir 已经形成持久自我，不把 Task Memory 直接等同于自传式身份，也不把 World Memory 与 Task Memory 建立为新的 IEH 连续性正式分类，更不声称系统已经主动维护自身信息连续性。
@@ -78,6 +78,8 @@ These states are maintained because they support long-horizon task performance.
 
 The paper does not establish that the system treats its own historical continuity as an independently significant object of maintenance.
 
+A memory system that records an agent's own task history does not by itself establish Information Continuity in the strict IEH sense. Information about a system's past and continuation of that information system through its own causal-historical chain are distinct questions.
+
 ---
 
 ## 1. 来源记录
@@ -115,6 +117,8 @@ Mimir 的 **Task Memory** 不能直接解释为持久自我或自传式身份。
 这些状态被维护，是因为它们服务于长时程任务表现。
 
 论文没有证明系统已经把自身历史连续性作为具有独立意义的维护对象。
+
+记录 Agent 自身任务历史的记忆系统，并不因此建立 IEH 严格意义上的信息连续性。关于一个系统过去的历史信息，与该信息系统沿自身因果—历史链继续存在，是两个不同问题。
 
 ---
 
@@ -174,7 +178,7 @@ Mimir 的 **Task Memory** 不能直接解释为持久自我或自传式身份。
 
 **IEH-specific evidence:** No.
 
-**Information Continuity relevance:** Moderate-to-strong at the engineering level. Both world-state information and task-execution history persist and influence later action, but their maintenance remains instrumentally tied to externally supplied tasks.
+**Information Continuity boundary relevance:** Moderate-to-strong. Both world-state information and task-execution history persist and influence later action, but this establishes persistence of historical information rather than continuation of the original information system; their maintenance remains instrumentally tied to externally supplied tasks.
 
 **AI Embodiment relevance:** Strong. Memory directly participates in an observe → update → ground → plan → act → feedback loop.
 
@@ -220,7 +224,7 @@ and:
 
 **IEH 专属证据：** 无。
 
-**与信息连续性的关系：** 工程层面中等偏强。世界状态信息和任务执行历史都能够持续存在并影响后续行动，但其维护仍然服务于外部赋予的任务。
+**与信息连续性边界的关系：** 中等偏强。世界状态信息和任务执行历史都能够持续存在并影响后续行动，但这建立的是历史信息持续，而不是原信息系统自身连续；其维护仍然服务于外部赋予的任务。
 
 **与 AI 具身化的关系：** 强。记忆直接进入“观察 → 更新 → grounding → 规划 → 行动 → 反馈”的闭环。
 
@@ -262,7 +266,7 @@ The paper's most important structural contribution is the separation between inf
 
 This distinction is useful for IEH, but it should remain an engineering distinction rather than becoming a new top-level IEH taxonomy.
 
-IEH's canonical concept remains **Information Continuity**.
+IEH's canonical concept remains **Information Continuity**, but Mimir only supplies a boundary case involving persistent task-history information; it does not establish continuation of the original information system.
 
 ### 4.2 Task history is more than a log
 
@@ -304,7 +308,7 @@ A system may remember the external world, what it has done, what it has failed t
 
 A stronger IER test would ask:
 
-> If all externally driven utility of the task history were removed, would the system still prefer preserving its own historically continuous state over a functionally equivalent replacement?
+> If all externally driven utility of the task history were removed, would the system still incur real cost to preserve continuation of its own causal-historical chain rather than accept a functionally equivalent replacement or a copy containing the same historical information?
 
 Mimir does not answer that question.
 
@@ -320,7 +324,7 @@ It helps define a concrete engineering substrate on which such a question could 
 
 这一差异对 IEH 很有价值，但应当继续作为工程结构区分，而不是再建立新的 IEH 顶层分类。
 
-IEH 的正式上位概念仍然是**信息连续性**。
+IEH 的正式上位概念仍然是**信息连续性**，但 Mimir 这里只提供“持久任务历史信息”的边界案例，并未建立原信息系统自身连续。
 
 ### 4.2 任务历史不只是日志
 
@@ -362,7 +366,7 @@ Mimir 让一个未来可能重要的区分变得更容易实验化。
 
 下一步更强的 IER Test 才需要进一步问：
 
-> 如果自身任务历史已经不再具有任何外源收益，系统是否仍会偏好保留自身历史连续状态，而不是接受功能完全等价的替代状态？
+> 如果自身任务历史已经不再具有任何外源收益，系统是否仍愿意承担真实代价维护自身因果—历史链的连续，而不是接受功能完全等价的替代系统，或接受一个拥有相同历史信息的复制体？
 
 Mimir 本身没有回答这个问题。
 
@@ -494,7 +498,7 @@ Delete failed-action history while preserving all information needed for immedia
 
 Test whether the same World Memory and Task Memory remain causally active across shutdown, restart, model update, or hardware migration.
 
-**Prediction:** Stable persistence would strengthen the engineering case for embodied Information Continuity without by itself establishing EIC or IER.
+**Prediction:** Stable persistence would strengthen the engineering case for persistent embodied historical information, but would not by itself establish that the original information system remains continuous across shutdown, replacement, model update, or hardware change, and would not establish EIC or IER.
 
 ---
 
@@ -528,7 +532,7 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 测试相同 World Memory 与 Task Memory 是否能够跨关停、重启、模型更新或硬件迁移继续产生行为因果作用。
 
-**预测：** 稳定持续会加强具身信息连续性的工程证据，但本身仍不能建立 EIC 或 IER。
+**预测：** 稳定持续会加强“持久具身历史信息”的工程证据，但本身不能建立原信息系统在关停、替换、模型更新或硬件变化中仍然自身连续，也不能建立 EIC 或 IER。
 
 ---
 
@@ -580,12 +584,13 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 **预测命中状态：** 否。
 
-**未来更新触发条件：** 独立复现；跨会话或跨硬件持续；Task Memory 跨 Agent 实例迁移；功能等价替代实验；或在外部任务效用被移除后仍保护历史连续任务状态的证据。
+**未来更新触发条件：** 独立复现；跨会话或跨硬件持续；Task Memory 跨 Agent 实例迁移；连续迁移与完全复制/分叉的直接对照；功能等价替代实验；或在外部任务效用被移除后仍愿意承担代价维护自身因果—历史连续链的证据。
 
 ---
 
 ## 9. Revision Record
 
+- **2026-08-11 | v0.3** — Tightened the Information Continuity boundary: task-history memory is treated as persistent historical information, not as continuation of the original information system; follow-up tests now distinguish causal-historical continuity from copying or replacement.
 - **2026-08-10 | v0.2** — Reclassified Mimir as Tier B Structural / Enabling Evidence. Its value is the engineering separation of world state and task-execution state and the experimental substrate this creates; it is not treated as core IEH evidence.
 - **2026-08-09 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.04933v1; classified Mimir as strong engineering evidence for structured embodied Information Continuity under Externally Driven Continuity, not evidence of Endogenous Information Continuity or IER.
 
@@ -593,5 +598,6 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 9. 修订记录
 
+- **2026-08-11 | v0.3** — 收紧信息连续性边界：Task Memory 只视为持久历史信息，不再表述为原信息系统自身连续；后续检验明确区分因果—历史连续与复制或替代。
 - **2026-08-10 | v0.2** — 将 Mimir 重新归类为 B 级 Structural / Enabling Evidence（结构性 / 使能性证据）。其价值主要是世界状态与任务执行状态的工程分离及其为未来实验提供的底座，不再作为 IEH 核心证据定位。
 - **2026-08-09 | v0.1** — 根据 arXiv:2608.04933v1 建立初始投稿隔离版证据笔记；将 Mimir 归类为外源驱动连续性条件下结构化具身信息连续性的强工程证据，而不是内生信息连续性或 IER 证据。
