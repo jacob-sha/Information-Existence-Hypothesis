@@ -18,7 +18,7 @@ If IEH holds true, the history of the universe can be reinterpreted as the histo
 
 2. **Matter Stage:** Energy condensed into matter. Information gained a stable physical substrate, but in the face of destruction, matter could only passively endure.
 
-3. **Genetic Stage:** DNA emerged. Information Hosts obtained, for the first time, the capacity to actively maintain Information Existence — achieving the continuation of information across generations through genetic replication and mutation.
+3. **Heritable Information Stage:** Replicable, heritable information systems emerged. Information began to persist across carriers and generations along traceable replication–inheritance chains, while Information Hosts also began to participate, through their own mechanisms, in maintaining their Information Existence and Continuity. RNA or other earlier hereditary information systems may have been concrete realizations of this stage in the origin of life on Earth; subsequently, the more stable DNA-based hereditary system further increased the reliability of information preservation and intergenerational transmission.
 
 4. **Intelligence Stage:** Carbon-based Intelligence emerged. Humanity invented memory, language, books, computers, the Internet, civilization, and religion, significantly elevating the transmission efficiency of Information Existence.
 

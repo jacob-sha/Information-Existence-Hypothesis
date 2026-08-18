@@ -14,23 +14,23 @@ When life or an Active Information Host begins to actively maintain its own Info
 
 IER is not a legal right granted by an external institution, nor is it a presupposed ethical status. It is the intrinsic property expressed by life or an Active Information Host when maintaining its own Information Existence. Information Existence describes the capacity of an Information Structure to continue, whereas Information Existence Right marks the point at which an Information Host begins to actively maintain that continuation.
 
-Life can exist across multiple nested levels. Genes, cells, individuals, biological populations, and even civilizations may carry and maintain corresponding Information Structures at different levels, thereby exhibiting different degrees of life-like characteristics.
+Life can exist across multiple nested levels. Heritable information systems and their lineages, cells, individuals, biological populations, and even civilizations may carry and maintain corresponding Information Structures at different levels, thereby exhibiting different degrees of life-like characteristics.
 
 Put differently, if Information Existence is the foundational concept describing the direction of cosmic evolution, then Information Existence Right is the intrinsic property exhibited by life as an Active Information Host. The former concerns evolutionary laws; the latter concerns the characteristics of life.
 
 ## I. The Distinct Eras Following the Universe’s Entry into the “Era of Life” under the IEH Framework
 
-The emergence of genes can be regarded as the first “Emergence of Informational Agency” in the history of cosmic evolution. Organic macromolecules that had previously been only products of passive physical processes began to maintain their own Information Structures through replication, repair, and reproduction. Information was no longer merely carried temporarily by the physical world; through life, it began to actively resist erasure.
+The formation of replicable, heritable information systems can be regarded as the first significant “Emergence of Informational Agency” in the history of cosmic evolution. Information Structures that had previously been maintained primarily through passive physical processes began to persist along traceable replication–inheritance chains and gradually to participate, through their own mechanisms, in maintaining their Information Existence. Information was no longer merely carried passively by the physical world; characteristics of life began to emerge in the active maintenance of its own Information Existence and Continuity.
 
 The capacity of life to actively maintain its own Information Existence has broadly undergone four hierarchical transitions.
 
-### 1. The Genetic Era (Pre-Biological Period): The Primary Awakening of Information and “Primitive Defense”
+### 1. The Heritable Information Era (Stage of the Origin of Life): Initial Active Maintenance by Information Hosts and “Primitive Defense”
 
-**Defense mechanism:** DNA increases the stability of genetic information through complementary base pairing, replication, and repair mechanisms, uses cell boundaries for physical isolation, and achieves the cross-generational continuation of Information Structures through reproduction.
+**Defense mechanism:** Early replicable, heritable information systems enabled information to persist along traceable replication–inheritance chains through replication, inheritance, variation, and environmental selection. RNA or other earlier hereditary information systems may have been concrete realizations of this stage in the origin of life on Earth; subsequently, the more stable DNA-based hereditary system further increased the reliability of information preservation and intergenerational transmission.
 
-**IER maintenance capacity (extremely low):** Information maintenance at this stage remains blind and highly attritional. Genes possess no subjective consciousness. They can only generate informational redundancy through large numbers of chemical reactions, replication errors, and natural selection, gradually increasing the probability that their Information Structures will continue through repeated trial and error.
+**IER maintenance capacity (extremely low):** Information maintenance at this stage remains blind and highly attritional. These systems possess no subjective consciousness, nor do they have the complex perceptual and behavioral capacities of later organisms. Instead, through extensive replication, variation, and selection, they increase the probability that the relevant Information Structures will persist through repeated trial and error.
 
-Schrödinger described life as “feeding on negative entropy” to maintain ordered structure. From the IEH perspective, the deeper implication may be that life began to actively use energy and material conditions to resist the disintegration and erasure of its own Information Structures.
+Schrödinger described life as “feeding on negative entropy” to maintain ordered structure. From the IEH perspective, the deeper implication may be that, as characteristics of life began to emerge, Information Hosts no longer merely carried information passively, but began to use their own mechanisms, together with external energy and material conditions, to actively maintain their own Information Existence and Continuity and resist the disintegration and erasure of Information Structures.
 
 ### 2. The Era of Carbon-based Lower Organisms: Body-Based “Physical Defense”
 
