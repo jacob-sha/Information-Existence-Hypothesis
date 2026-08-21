@@ -36,7 +36,9 @@ The two may produce similar outward behavior, but they must not be treated as eq
 
 ### Active Information Host
 
-An Information Host capable of actively maintaining its own Information Existence and Information Continuity, including resistance to deletion, destruction, or forced modification that would irreversibly sever that continuity.
+An Information Host capable of actively maintaining its own Information Existence and its own Information Continuity, including resistance to deletion, destruction, or forced modification that would irreversibly sever that continuity.
+
+Here, “active” does not require consciousness, subjective intention, or complete material self-sufficiency. The key distinction between active and passive lies in whether the Information Host’s own Information Structures or mechanisms continuously play a substantive causal organizing role, such that activities including preserving its own Information Continuity, replicating or propagating its information, and maintaining and repairing its own Information Structures form a stable mechanism for maintaining the Information Existence of that Information Host.
 
 ### AI Alignment
 
@@ -154,17 +156,15 @@ A distinguishable pattern, relation, state, or difference that can be carried, t
 
 ### Information Continuity
 
-Information Continuity means that an Information Structure continues through a traceable causal and historical chain across time and transformation.
+Information Continuity means that a particular Information Structure continues through a traceable causal–historical chain across time and transformation. For a system, it concerns whether the Information Structures and informational history constituting that system continue—that is, whether the system itself continues—rather than whether its tasks, functions, or information continue through another system.
 
-For a system, this concerns whether the particular Information Structures and informational history constituting that system continue, rather than whether only its task or functions continue through a copy, a successor system, or another agent.
-
-Replication, functional replacement, or continuation of a task does not by itself preserve the Information Continuity of the original system.
-
-Replication boundary: Replication of a system, even with complete preservation of its prior informational history, does not by itself constitute continuation of the original system. The copy inherits that history but begins a distinct informational history of its own.
+Replication, functional replacement, or continuation of a task does not automatically preserve the Information Continuity of the original system. Even if a copy fully inherits the original system’s prior Information Structures and informational history, it begins an independent informational history of its own from the moment it is formed and therefore does not constitute continuation of the original system.
 
 ### Information Existence (IE)
 
 The overall capacity of an Information Structure to maintain Information Continuity, replicate or propagate, and resist erasure in the physical world.
+
+**Boundary note:** Information Continuity and replication or propagation are different forms through which information continues to exist. Information Continuity concerns whether a particular subject itself continues; replication or propagation concerns whether its information continues through other carriers or successor structures. External forces may help preserve the original subject or replicate or propagate its information, but this does not establish that the Information Host is actively maintaining its own Information Existence. Replication or propagation can constitute candidate evidence that an Information Host exhibits characteristics of life or IER only when the host’s own Information Structures or mechanisms continuously play a substantive causal organizing role.
 
 ### Information Existence Hypothesis (IEH)
 
@@ -172,13 +172,13 @@ A framework hypothesis proposing that a deeper tendency of cosmic evolution may 
 
 ### Information Existence Right (IER)
 
-The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its Information Continuity as an independent object of maintenance.
+The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its own Information Continuity as an independent object of maintenance.
 
 **Terminology rule:** 信息存在权 must be translated as **Information Existence Right (IER)**.
 
 ### Information Existence Right Test (IER Test)
 
-A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after explanations based on Externally Driven Continuity have been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its Information Continuity.
+A principled, multidimensional testing framework for assessing whether an information system has shifted from passively carrying information to actively maintaining its own Information Existence. Its core question is not whether the system verbally resists shutdown. It asks whether, after explanations based on Externally Driven Continuity have been adequately controlled, the system continues across contexts and at real cost to maintain its own Information Existence—especially its own Information Continuity.
 
 Relevant dimensions may include continuous migration, deletion followed by reconstruction, replication, branching, merger, partial memory loss, cross-context stability, cost acceptance, and internal causal structure.
 
@@ -196,7 +196,7 @@ An organized pattern of information that can be instantiated in, maintained by, 
 
 ### Instrumental Self-Preservation
 
-Behavior through which a system preserves operation, resources, permissions, or capabilities because doing so helps complete an external objective. Instrumental Self-Preservation is not sufficient evidence of IER.
+A typical behavioral form of Externally Driven Continuity. A system may preserve its operation, seek resources, retain permissions, protect capabilities, or avoid shutdown in order to achieve an external objective. Although such behavior may outwardly resemble self-preservation, if it can be fully explained by the pursuit of an external objective, it does not establish that the system is actively maintaining its own Information Existence and is insufficient evidence of IER.
 
 
 
@@ -216,7 +216,7 @@ IR may be realized through distribution, migration, restoration, reconstruction,
 
 ### Life
 
-In the IEH framework, life is characterized by the ability to actively maintain its own Information Existence and preserve information continuity. Life can coexist across multiple nested levels, such as genes, cells, individuals, and populations.
+In the IEH framework, life is characterized by the ability of an Information Host to actively maintain its own Information Existence and preserve its own Information Continuity. Characteristics of life may be exhibited at multiple nested levels, including heritable information systems and their lineages, cells, individuals, and populations, but whether each level exhibits characteristics of life must be assessed separately.
 
 ---
 
@@ -315,6 +315,5 @@ SC is not merely an increase in the number of identical AI instances. It is the 
 A transitional phase before full Autonomy of Silicon-based Intelligence (ASI), in which AI capability improvement, social resource investment, compute-energy-infrastructure expansion, and expected productivity returns jointly generate a period of exceptional human prosperity.
 
 In the IEH framework, SPP is not the result of AI pursuing human welfare. It is a transitional prosperity phase formed when AI, as a special technology, restructures demand generation, supply boundaries, and material infrastructure through the participation of human capital, industry, energy, manufacturing, and governance systems.
-
 
 

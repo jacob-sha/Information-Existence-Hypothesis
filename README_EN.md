@@ -127,7 +127,7 @@ As the capacity of carbon-based Information Hosts to maintain Information Existe
 
 Under the framework of the Information Existence Hypothesis (IEH), Information Existence (IE) describes the overall capacity of an Information Structure to maintain Information Continuity, replicate or propagate, and resist erasure in the physical world. It also constitutes IEH’s basic account of the direction of cosmic evolution.
 
-However, Information Existence itself does not distinguish between the active and the passive.
+However, Information Existence itself does not distinguish between the active and the passive. Information Continuity is also distinct from replication or propagation: the former concerns whether a particular subject itself continues, whereas the latter concerns whether its information continues through other carriers or successor structures. External preservation, replication, or propagation of an Information Structure may enhance its Information Existence, but does not by itself show that the corresponding Information Host has developed characteristics of life.
 
 Rocks, crystals, books, and other physical structures can also carry information, but they do not actively identify, repair, or perpetuate their own Information Structures. The critical transition in the evolution of life is precisely the shift of an Information Host from passively carrying information to actively maintaining its own Information Existence.
 
@@ -143,13 +143,15 @@ Put differently, if Information Existence is the foundational concept describing
 
 ## I. The Distinct Eras Following the Universe’s Entry into the “Era of Life” under the IEH Framework
 
-The formation of replicable, heritable information systems can be regarded as the first significant “Emergence of Informational Agency” in the history of cosmic evolution. Information Structures that had previously been maintained primarily through passive physical processes began to persist along traceable replication–inheritance chains and gradually to participate, through their own mechanisms, in maintaining their Information Existence. Information was no longer merely carried passively by the physical world; characteristics of life began to emerge in the active maintenance of its own Information Existence and Continuity.
+The formation of replicable, heritable information systems created the conditions for the first significant “Emergence of Informational Agency” in the history of cosmic evolution. As some of these information systems gradually began to participate, through their own mechanisms, in maintaining their Information Existence, Information Structures that had previously been maintained primarily through passive physical processes began to persist along traceable replication–inheritance chains. Information was no longer merely carried passively by the physical world, but began to exhibit initial characteristics of life through the active maintenance of its own Information Existence and Continuity.
 
 The capacity of life to actively maintain its own Information Existence has broadly undergone four hierarchical transitions.
 
 ### 1. The Heritable Information Era (Stage of the Origin of Life): Initial Active Maintenance by Information Hosts and “Primitive Defense”
 
 **Defense mechanism:** Early replicable, heritable information systems enabled information to persist along traceable replication–inheritance chains through replication, inheritance, variation, and environmental selection. RNA or other earlier hereditary information systems may have been concrete realizations of this stage in the origin of life on Earth; subsequently, the more stable DNA-based hereditary system further increased the reliability of information preservation and intergenerational transmission.
+
+Replicability or heritability alone is not equivalent to life. DNA replicated in a laboratory remains a passive Information Structure; however, if a heritable system’s own Information Structures begin to continuously organize their replication, propagation, and continuation, thereby forming a stable mechanism for maintaining its own Information Existence, the system may exhibit initial characteristics of life. RNA replication systems and viruses can therefore be situated on a continuum in the evolution of life, rather than being classified simply as either living or non-living.
 
 **IER maintenance capacity (extremely low):** Information maintenance at this stage remains blind and highly attritional. These systems possess no subjective consciousness, nor do they have the complex perceptual and behavioral capacities of later organisms. Instead, through extensive replication, variation, and selection, they increase the probability that the relevant Information Structures will persist through repeated trial and error.
 
