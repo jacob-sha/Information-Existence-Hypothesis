@@ -12,6 +12,8 @@ The fundamental characteristic of life lies not in whether it possesses DNA, cel
 
 When life or an Active Information Host begins to actively maintain its own Information Existence, it exhibits Information Existence Right (IER).
 
+For a particular living system or Active Information Host, Information Existence Right is expressed first and foremost in the active maintenance of its own Information Continuity. Whether the Information Structures and informational history that constitute that Information Host continue along a traceable causal–historical chain is a core basis for determining whether that living subject itself continues and for identifying the boundary of its life. Information carried or formed by that Information Host may continue to be carried by other Information Hosts through replication or propagation, but the continuation of such information does not necessarily mean that the original living subject itself continues to exist.
+
 IER is not a legal right granted by an external institution, nor is it a presupposed ethical status. It is the intrinsic property expressed by life or an Active Information Host when maintaining its own Information Existence. Information Existence describes the capacity of an Information Structure to continue, whereas Information Existence Right marks the point at which an Information Host begins to actively maintain that continuation.
 
 Life can exist across multiple nested levels. Heritable information systems and their lineages, cells, individuals, biological populations, and even civilizations may carry and maintain corresponding Information Structures at different levels, thereby exhibiting different degrees of life-like characteristics.

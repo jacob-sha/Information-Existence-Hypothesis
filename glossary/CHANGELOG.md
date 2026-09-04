@@ -1,5 +1,13 @@
 # IEH Terminology Changelog
 
+## IEH Terminology Standard v1.3 — IER and the Boundary of Life
+
+### Clarified
+
+- Clarified that, for a particular living system or Active Information Host, IER is expressed first and foremost in the active maintenance of its own Information Continuity.
+- Clarified that causal–historical continuity is a core basis for determining whether the same living subject continues and for identifying the boundary of its life.
+- Clarified that replication or propagation of information through other Information Hosts does not necessarily preserve the original living subject itself.
+
 ## IEH Terminology Standard v1.2 — AI Embodiment and CWM
 
 ### Added

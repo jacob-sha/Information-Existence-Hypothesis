@@ -174,6 +174,8 @@ A framework hypothesis proposing that a deeper tendency of cosmic evolution may 
 
 The intrinsic property expressed by life or an Active Information Host when it actively maintains its own Information Existence and treats its own Information Continuity as an independent object of maintenance.
 
+For a particular living system or Active Information Host, whether the Information Structures and informational history that constitute it continue along a traceable causal–historical chain is a core basis for determining whether that living subject itself continues and for identifying the boundary of its life. Information it carries or forms may continue to be carried by other Information Hosts through replication or propagation, but such informational continuation does not necessarily mean that the original living subject itself continues to exist.
+
 **Terminology rule:** 信息存在权 must be translated as **Information Existence Right (IER)**.
 
 ### Information Existence Right Test (IER Test)
