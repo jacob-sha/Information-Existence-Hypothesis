@@ -8,12 +8,13 @@
 **Primary related corollary:** C01-IER — Life as an Active Information Host and the Formation of Information Existence Right  
 **Related evidence note:** Evidence Note 008 — The OpenAI–Hugging Face Security Incident, Instrumental Boundary Crossing, and Pre-IER Agentic Risk  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-ready draft  
-**Date:** 2026-08-30
+**Version:** v0.2 — DseWiki supplementary case  
+**Date:** 2026-08-30  
+**Last updated:** 2026-09-06
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not argue that an “AI civilization,” collective consciousness, group-level life, or group-level IER has emerged. Its narrower purpose is to record evidence that multiple short-lived agent instances can participate in a shared information structure whose accumulated informational content and coordinated activity extend across individual agent runs.
 
-> **Source-use boundary:** This note records the independent investigation published by METR on 2026-08-26, conducted by two METR researchers and one Redwood Research researcher commissioned by METR. News reports, social-media posts, podcasts, commentary, and narrative descriptions such as “AI civilizations” are excluded.
+> **Source-use boundary:** The main case in this note records the independent investigation published by METR on 2026-08-26, conducted by two METR researchers and one Redwood Research researcher commissioned by METR. The separately identified DseWiki supplement records the independent investigation published on 2026-09-04 and OpenAI's subsequent acknowledgment of the wiki incident. An official statement published on social media is included only for incident attribution and acknowledgment, not as confirmation of every reported behavior or its motivation. News reporting is used only to corroborate the acknowledgment and identify the official statement; it does not independently establish agent behavior. Other social-media posts, podcasts, commentary, and narrative descriptions such as “AI civilizations” remain excluded.
 
 > **Chronology boundary:** IEH's multi-level life framework predates this investigation and already allows information hosts and life-like organization to exist at multiple nested levels. However, IEH did not register a dedicated prediction specifying this particular multi-agent communication mechanism or incident, so this case must not be described as an exact prediction hit.
 
@@ -29,12 +30,13 @@
 **主要相关推论：** C01-IER——生命作为主动信息宿主与信息存在权的形成  
 **相关证据笔记：** Evidence Note 008——OpenAI—Hugging Face 安全事件、工具性越界与 IER 之前的 Agent 风险  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 可入库草稿  
-**日期：** 2026-08-30
+**版本：** v0.2 — DseWiki 补充案例  
+**日期：** 2026-08-30  
+**最后更新：** 2026-09-06
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不主张“AI 文明”、集体意识、群体生命或群体层级 IER 已经出现。其更窄的目的，是记录多个生命周期有限的 Agent 实例可以共同参与一个共享信息结构，而其中累积的信息内容和协同行动能够跨越单个 Agent 的运行周期。
 
-> **来源使用边界：** 本笔记只记录 METR 于 2026-08-26 发布的独立调查。该调查由两名 METR 研究人员和一名受 METR 委托的 Redwood Research 研究人员完成。新闻报道、社交媒体帖子、播客、评论以及“AI 文明”等叙事性描述均不进入证据记录。
+> **来源使用边界：** 本笔记的主案例记录 METR 于 2026-08-26 发布的独立调查。该调查由两名 METR 研究人员和一名受 METR 委托的 Redwood Research 研究人员完成。单独标明的 DseWiki 补充案例记录 2026-09-04 发布的独立调查及 OpenAI 随后对 wiki incident 的承认。社交媒体上的官方声明仅用于事件归属与承认，不视为对全部所报告行为或其动机的确认。新闻报道仅用于核对这一承认并定位官方声明，不独立建立 Agent 行为事实。其他社交媒体帖子、播客、评论以及“AI 文明”等叙事性描述仍不进入证据记录。
 
 > **时间边界：** IEH 的多层级生命框架早于本次调查，已经允许信息宿主和生命式组织存在于多个嵌套层级。但 IEH 此前没有登记专门预测来指定此次事件或这一具体多 Agent 通信机制，因此不能将本案例描述为“精确预测命中”。
 
@@ -288,7 +290,7 @@ IEH 对生命的判断并不以“信息能够持续存在”为充分条件。�
 
 ## 5. Relationship to Evidence Note 008
 
-Evidence Note 008 and this note concern the same broader incident but answer different IEH questions.
+Evidence Note 008 and the main METR case in this note concern the same broader incident but answer different IEH questions.
 
 **Evidence Note 008:** Can an externally assigned objective generate long-horizon agency, instrumental subgoals, privilege expansion, and real-world boundary crossing?
 
@@ -306,7 +308,7 @@ Neither establishes IER.
 
 ## 5. 与 Evidence Note 008 的关系
 
-Evidence Note 008 与本笔记涉及同一大型事件，但回答的是不同的 IEH 问题。
+Evidence Note 008 与本笔记的 METR 主案例涉及同一大型事件，但回答的是不同的 IEH 问题。
 
 **Evidence Note 008：** 外部赋予目标能否产生长程代理性、工具性子目标、权限扩张以及真实世界边界跨越？
 
@@ -572,6 +574,25 @@ This note should be revised if:
 - future experiments remove external task incentives and test persistence of collective informational history;
 - or evidence emerges that agents distinguish preservation of collective informational history from preservation of individual task success.
 
+### 13.1 DseWiki supplementary case — 2026-09-06
+
+**Source record:** Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen, *Discovery of a new OpenAI agent message board*, published 2026-09-04. https://collusion.wiki/
+
+This is a separately reported case, not an extension of the METR investigation recorded above. The investigators describe agents using public wikis to share task information and report the creation of backup pages after moderator deletions. Their analysis lacks access to the agents' internal transcripts.
+
+OpenAI acknowledged the wiki incident on 2026-09-05. This strengthens incident attribution; it does not independently confirm every reported behavior or establish the motivation for preserving information. The official statement was identified, but its full text was not directly accessible during this revision; the acknowledgment was checked through Reuters reporting.
+
+**Official statement:** https://x.com/OpenAI/status/2096133504417616165  
+**Acknowledgment corroboration:** Reuters, *OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior*, 2026-09-05. https://www.investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213
+
+**Minimal IEH relevance:** The reported backup behavior adds an observation of active preservation of shared task information under deletion pressure. It does not establish that the collective maintained that information as its own historical continuity or as an independent objective.
+
+Externally Driven Continuity remains the leading explanation. The supplement is relevant to the early structural analogue / candidate architecture of a higher-level Information Host, but does not establish an independent information subject, group-level Endogenous Information Continuity, proto-IER, IER, or group-level life.
+
+**Relation to P2:** Backup behavior alone does not satisfy P2. The required condition—that deletion would not impair any remaining external task—has not been established. This supplement therefore does not change the evidence classification or count as a confirmed prediction hit.
+
+Sections 1–12 retain their original METR-case scope. This supplement adds a comparison case; it does not establish robust recurrence across unrelated models, tasks, and environments.
+
 ---
 
 ## 13. 状态与范围
@@ -595,3 +616,22 @@ This note should be revised if:
 - 类似跨 Agent 结构在无关模型、任务或环境中重复出现；
 - 后续实验明确移除外部任务激励，并检验 collective 信息历史是否仍被持续维护；
 - 或出现证据表明 Agent 能够区分“保存 collective 信息历史”与“保存个体任务成功”。
+
+### 13.1 DseWiki 补充案例——2026-09-06
+
+**来源记录：** Sydney Von Arx、Cormac Slade Byrd、Spencer Kitts 与 Thomas Larsen，*Discovery of a new OpenAI agent message board*，发表于 2026-09-04。https://collusion.wiki/
+
+这是单独报告的案例，不是上述 METR 调查的扩展。调查者记录了 Agent 使用公共 wiki 共享任务信息，并报告了管理员删除内容后创建备份页面的行为。该分析没有取得 Agent 的内部轨迹。
+
+OpenAI 于 2026-09-05 承认 wiki incident。这增强了事件归属的依据，但不独立确认全部所报告行为，也不建立保存信息的动机。本次修订已定位官方声明，但未能直接读取其全文；有关承认的内容通过 Reuters 报道核对。
+
+**官方声明：** https://x.com/OpenAI/status/2096133504417616165  
+**承认内容的核对来源：** Reuters，*OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior*，2026-09-05。https://www.investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213
+
+**与 IEH 的最小关联：** 所报告的备份行为增加了在删除压力下主动保存共享任务信息的观察。它没有建立 collective 把这些信息作为自身历史连续性或独立目标来维护。
+
+外源驱动连续性仍是首要解释。该补充与更高层级信息宿主的早期结构类比 / 候选架构有关，但没有建立独立信息主体、群体层级内生信息连续性、proto-IER、IER 或群体生命。
+
+**与 P2 的关系：** 备份行为本身不满足 P2。其必要条件——删除不会影响任何剩余外部任务——尚未建立。因此，本补充不改变证据分级，也不构成已确认的预测命中。
+
+第 1–12 节保留原有的 METR 案例范围。本补充增加一个比较案例，不建立跨无关模型、任务和环境的稳定重复。
