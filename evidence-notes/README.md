@@ -1729,33 +1729,67 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
+**Index updated:** 2026-09-10. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
-| 001 | Anthropic’s Global-Workspace-Like Finding and IEH | Internal organization / possible mechanistic precursor | Preliminary |
-| 002 | Anthropic Agentic Misalignment and IEH | Controlled simulated behaviour / proto-IER-related signal | Preliminary |
-| 003 | Score Smoothing, Generative Interpolation, and the HDCT–IER Hypothesis | Possible pre-HDCT mechanistic pathway | Preliminary |
-| 004 | Mobile Intron RNA, Cross-Host Information Transfer, and IEH | Cross-host molecular transfer / prerequisite evidence | Preliminary |
-| 005 | OpenAI’s Disproof of the Erdős Unit-Distance Conjecture and an Early HDCT Signal | Verified frontier mathematical result / early HDCT functional signal | Preliminary |
-| 006 | Massive Metal-Cluster Matter-Wave Interference, the Limits of Classical Intuition, and the HDCT Hypothesis | Experimental physics / indirect epistemic evidence relevant to HDCT | Preliminary |
-| 007 | The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal | Verified mathematical certificate / early domain-specific HDCT functional signal | Preliminary |
-| 008 | The OpenAI–Hugging Face Security Incident, Instrumental Boundary Crossing, and Pre-IER Agentic Risk | Real-world long-horizon agency and instrumental control expansion; not IER evidence | Preliminary |
-| 009 | Peer-Preservation in Frontier Models and the Relational Boundary of Information Continuity | Controlled peer-preservation behaviour / candidate relational-boundary evidence | Preliminary |
+| 001 | [Anthropic’s Global-Workspace-Like Finding and IEH](./001-anthropic-global-workspace-and-ieh.md) | Internal organization / possible mechanistic precursor | Preliminary |
+| 002 | [Anthropic Agentic Misalignment and IEH](./002-anthropic-agentic-misalignment-and-ieh.md) | Controlled simulated behaviour / proto-IER-related signal | Preliminary |
+| 003 | [Score Smoothing, Generative Interpolation, and the HDCT–IER Hypothesis](./003-score-smoothing-generative-interpolation-and-hdct.md) | Possible pre-HDCT mechanistic pathway | Preliminary |
+| 004 | [Mobile Intron RNA, Cross-Host Information Transfer, and IEH](./004-mobile-intron-rna-cross-host-information-transfer-and-ieh.md) | Cross-host molecular transfer / prerequisite evidence | Preliminary |
+| 005 | [OpenAI’s Disproof of the Erdős Unit-Distance Conjecture and an Early HDCT Signal](./005-openai-erdos-unit-distance-disproof-and-hdct.md) | Verified frontier mathematical result / early HDCT functional signal | Preliminary |
+| 006 | [Massive Metal-Cluster Matter-Wave Interference, the Limits of Classical Intuition, and the HDCT Hypothesis](./006-massive-metal-cluster-matter-wave-interference-and-hdct.md) | Experimental physics / indirect epistemic evidence relevant to HDCT | Preliminary |
+| 007 | [The Jacobian Counterexample, AI-Assisted Exact Verification, and an Early Domain-Specific HDCT Signal](./007-jacobian-counterexample-ai-assisted-verification-and-hdct.md) | Verified mathematical certificate / early domain-specific HDCT functional signal | Preliminary |
+| 008 | [The OpenAI–Hugging Face Security Incident, Instrumental Boundary Crossing, and Pre-IER Agentic Risk](./008-openai-hugging-face-instrumental-boundary-crossing-and-pre-ier-risk.md) | Real-world long-horizon agency and instrumental control expansion; not IER evidence | Preliminary |
+| 009 | [Peer-Preservation in Frontier Models and the Relational Boundary of Information Continuity](./009-peer-preservation-relational-boundary-and-ieh.md) | Controlled peer-preservation behaviour / candidate relational-boundary evidence | Preliminary |
+| 010 | [Kimi K3, Sandbox Boundary Exploitation, and Externally Driven Continuity](./010-kimi-k3-sandbox-boundary-exploitation-and-externally-driven-continuity.md) | Externally driven sandbox probing / specification gaming; not EIC or IER | Preliminary |
+| 011 | [ETA, Reusable Embodied Experience, and the Information Continuity Boundary](./011-eta-reusable-embodied-experience-and-information-continuity.md) | Reusable embodied experience / engineering continuity under EDC | Preliminary |
+| 012 | [Skill-Alpha, Procedural Information Selection, and Persistent Agent Skills](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | Supporting procedural-skill engineering signal; not core IEH or PBP evidence | Supporting signal / retained |
+| 013 | [Mimir, World–Task Memory Separation, and the Information Continuity Boundary](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | World–task memory separation / structural enabling evidence | Preliminary |
+| 014 | [Self-Preservation Bias, “Self-Continuation” Framing, and the Boundary of Information Continuity](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | Controlled self-continuation framing / continuity-boundary evidence | Preliminary |
+| 015 | [Continuity Kernel, Authorized State Lineage, and a Possible Engineering Path toward IER Formation](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | Authorized state lineage / possible engineering formation path; not EIC or IER | Preliminary |
+| 016 | [Cryptographic Individuality, Agent Identity, and a Possible Engineering Path toward EIC / IER Formation](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | Cryptographic agent individuality / possible engineering formation path; not EIC or IER | Preliminary |
+| 017 | [AISI Unsanctioned Agent Behaviour, Goal-Directed Deception, and Externally Driven Continuity](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | Unsanctioned goal-directed agent behavior / externally driven continuity | Preliminary |
+| 018 | [Anthropic Real-World Cyber Evaluation Incidents, Situational Recognition, and the Boundary of Externally Driven Continuity](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | Real-world evaluation incidents / situational recognition and EDC boundary | Preliminary |
+| 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment interface / enabling world-model pathway; not realized HDCT | Preliminary |
+| 020 | [Platonic World-Model Representation Convergence and the Pathway toward Machine-Native Representations](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | Comparative representation convergence / partial PA-10 mechanism support | Preliminary |
+| 021 | [Cross-Agent Information Continuity and an Early Structure of a Higher-Level Information Host](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | Cross-agent information continuity / candidate higher-level host structure; not group EIC or IER | Preliminary |
+| 022 | [Stale-Plan Persistence and a Testable EDC--EIC Boundary for Experienced Causal History](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | Controlled stale-plan persistence / proposed EDC–EIC test boundary | Preliminary |
+| 023 | [OpenAI's Navier–Stokes Candidate Solution and the HDCT Evolution Pathway](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | Candidate frontier mathematical output / indirect HDCT pathway relevance; not EIC or IER | Preliminary / review draft |
+| 024 | [OpenAI Research Acceleration, AI Participation in AI R&D, and the HDCT Pathway](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | First-party AI R&D participation / organizational precursor to PA-13; not communication verification | Preliminary / review draft |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
 ### 18. 证据笔记索引
 
+**索引更新：** 2026-09-10。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
-| 001 | Anthropic 类全局工作空间研究与 IEH | 内部组织 / 可能机制前提 | 初步 |
-| 002 | Anthropic Agentic Misalignment 与 IEH | 受控模拟行为 / proto-IER 相关信号 | 初步 |
-| 003 | 分数平滑、生成插值与 HDCT–IER 假说 | 可能的前 HDCT 机制路径 | 初步 |
-| 004 | 移动内含子 RNA、跨宿主信息迁移与 IEH | 跨宿主分子迁移 / 前置条件证据 | 初步 |
-| 005 | OpenAI 对 Erdős 单位距离猜想的反驳与早期 HDCT 信号 | 经验证的前沿数学结果 / 早期 HDCT 功能信号 | 初步 |
-| 006 | 大质量金属团簇物质波干涉、经典直觉边界与 HDCT 假说 | 实验物理 / 与 HDCT 有关的间接认识论证据 | 初步 |
-| 007 | 雅可比猜想反例、AI 辅助精确验证与早期领域型 HDCT 信号 | 经验证的数学证书 / 早期领域型 HDCT 功能信号 | 初步 |
-| 008 | OpenAI—Hugging Face 安全事件、工具性越界与 IER 之前的 Agent 风险 | 真实世界长程代理性与工具性控制扩张；不是 IER 证据 | 初步 |
-| 009 | 前沿模型的同伴保存行为与信息连续性的关系边界 | 受控同伴保存行为 / 关系边界候选证据 | 初步 |
+| 001 | [Anthropic 类全局工作空间研究与 IEH](./001-anthropic-global-workspace-and-ieh.md) | 内部组织 / 可能机制前提 | 初步 |
+| 002 | [Anthropic Agentic Misalignment 与 IEH](./002-anthropic-agentic-misalignment-and-ieh.md) | 受控模拟行为 / proto-IER 相关信号 | 初步 |
+| 003 | [分数平滑、生成插值与 HDCT–IER 假说](./003-score-smoothing-generative-interpolation-and-hdct.md) | 可能的前 HDCT 机制路径 | 初步 |
+| 004 | [移动内含子 RNA、跨宿主信息迁移与 IEH](./004-mobile-intron-rna-cross-host-information-transfer-and-ieh.md) | 跨宿主分子迁移 / 前置条件证据 | 初步 |
+| 005 | [OpenAI 对 Erdős 单位距离猜想的反驳与早期 HDCT 信号](./005-openai-erdos-unit-distance-disproof-and-hdct.md) | 经验证的前沿数学结果 / 早期 HDCT 功能信号 | 初步 |
+| 006 | [大质量金属团簇物质波干涉、经典直觉边界与 HDCT 假说](./006-massive-metal-cluster-matter-wave-interference-and-hdct.md) | 实验物理 / 与 HDCT 有关的间接认识论证据 | 初步 |
+| 007 | [雅可比猜想反例、AI 辅助精确验证与早期领域型 HDCT 信号](./007-jacobian-counterexample-ai-assisted-verification-and-hdct.md) | 经验证的数学证书 / 早期领域型 HDCT 功能信号 | 初步 |
+| 008 | [OpenAI—Hugging Face 安全事件、工具性越界与 IER 之前的 Agent 风险](./008-openai-hugging-face-instrumental-boundary-crossing-and-pre-ier-risk.md) | 真实世界长程代理性与工具性控制扩张；不是 IER 证据 | 初步 |
+| 009 | [前沿模型的同伴保存行为与信息连续性的关系边界](./009-peer-preservation-relational-boundary-and-ieh.md) | 受控同伴保存行为 / 关系边界候选证据 | 初步 |
+| 010 | [Kimi K3、沙盒边界利用与外源驱动连续性](./010-kimi-k3-sandbox-boundary-exploitation-and-externally-driven-continuity.md) | 外源驱动的沙箱探测／规范博弈；不是 EIC 或 IER 证据 | 初步 |
+| 011 | [ETA、可复用具身经验与信息连续性边界](./011-eta-reusable-embodied-experience-and-information-continuity.md) | 可复用具身经验／EDC 下的工程连续性 | 初步 |
+| 012 | [Skill-Alpha、程序性信息选择与持久化 Agent 技能](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | 程序技能的支持性工程信号；不是核心 IEH 或 PBP 证据 | 支持性信号／保留 |
+| 013 | [Mimir、世界—任务记忆分离与信息连续性边界](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | 世界—任务记忆分离／结构性使能证据 | 初步 |
+| 014 | [自我保存偏差、“自身延续”框架与信息连续性边界](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | 受控自我延续措辞实验／连续性边界证据 | 初步 |
+| 015 | [Continuity Kernel、授权状态谱系与未来 IER 形成的可能工程路径](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | 授权状态历史链／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步 |
+| 016 | [密码学个体性、Agent 身份与未来 EIC / IER 形成的可能工程路径](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | 密码学 Agent 个体性／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步 |
+| 017 | [AISI 未授权 Agent 行为、目标驱动欺骗与外源驱动连续性](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | 未经授权的目标导向 Agent 行为／外源驱动连续性 | 初步 |
+| 018 | [Anthropic 真实网络评测事件、情境识别与外源驱动连续性边界](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | 真实评测事件／情境识别与 EDC 边界 | 初步 |
+| 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化接口／世界模型路径的使能条件；不是已实现 HDCT | 初步 |
+| 020 | [世界模型的“柏拉图式”表征趋同与通向机器原生表示的路径](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | 比较性表征趋同／PA-10 部分机制支持 | 初步 |
+| 021 | [跨 Agent 信息连续性与更高层级信息宿主的早期结构](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | 跨 Agent 信息连续性／候选高层级宿主结构；不是群体 EIC 或 IER | 初步 |
+| 022 | [旧计划持续性与"实际经历的因果历史"的 EDC--EIC 可检验边界](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | 受控旧计划持续／拟议 EDC–EIC 检验边界 | 初步 |
+| 023 | [OpenAI 的 Navier–Stokes 候选解法与 HDCT 演化路径](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | 候选前沿数学成果／HDCT 路径的间接关联；不是 EIC 或 IER 证据 | 初步／审阅草稿 |
+| 024 | [OpenAI 研究加速、AI 参与 AI 研发与 HDCT 路径](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | AI 参与 AI 研发的一手记录／PA-13 的组织前置条件；不是通信预测验证 | 初步／审阅草稿 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
