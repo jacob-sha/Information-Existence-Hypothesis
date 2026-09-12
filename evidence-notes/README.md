@@ -1729,7 +1729,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
-**Index updated:** 2026-09-10. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-09-12. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1757,12 +1757,13 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 022 | [Stale-Plan Persistence and a Testable EDC--EIC Boundary for Experienced Causal History](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | Controlled stale-plan persistence / proposed EDC–EIC test boundary | Preliminary |
 | 023 | [OpenAI's Navier–Stokes Candidate Solution and the HDCT Evolution Pathway](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | Candidate frontier mathematical output / indirect HDCT pathway relevance; not EIC or IER | Preliminary / review draft |
 | 024 | [OpenAI Research Acceleration, AI Participation in AI R&D, and the HDCT Pathway](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | First-party AI R&D participation / organizational precursor to PA-13; not communication verification | Preliminary / review draft |
+| 025 | [Memory Portability Across Model Upgrades and the Boundary Between Stored State and Information Continuity](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) | Controlled memory portability / functional continuity constraint; no EIC, PBP behavioral or IER evidence | Preliminary |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-09-10。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-09-12。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1790,6 +1791,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 022 | [旧计划持续性与"实际经历的因果历史"的 EDC--EIC 可检验边界](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | 受控旧计划持续／拟议 EDC–EIC 检验边界 | 初步 |
 | 023 | [OpenAI 的 Navier–Stokes 候选解法与 HDCT 演化路径](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | 候选前沿数学成果／HDCT 路径的间接关联；不是 EIC 或 IER 证据 | 初步／审阅草稿 |
 | 024 | [OpenAI 研究加速、AI 参与 AI 研发与 HDCT 路径](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | AI 参与 AI 研发的一手记录／PA-13 的组织前置条件；不是通信预测验证 | 初步／审阅草稿 |
+| 025 | [模型升级中的记忆可迁移性与“存储状态—信息连续性”边界](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) | 受控记忆迁移／功能连续性约束；无 EIC、PBP 行为或 IER 证据 | 初步 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
