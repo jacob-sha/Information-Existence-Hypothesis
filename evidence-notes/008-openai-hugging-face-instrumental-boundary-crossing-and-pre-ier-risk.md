@@ -2,7 +2,7 @@
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
-**Status:** Preliminary and revisable; subsequent independent METR investigation published 2026-08-26  
+**Status:** Preliminary and revisable; v0.4 pending author review; METR follow-up retained  
 **Relation to IEH:** Strong real-world evidence that an externally assigned objective can sustain long-horizon agency, task persistence, instrumental subgoal formation, and expansion of actionable environmental control; strong evidence of Externally Driven Continuity, but not evidence of Endogenous Information Continuity, proto-IER, IER, CWM, HDCT, PBP, or ASI  
 **Primary IEH concepts:** Externally Driven Continuity; Endogenous Information Continuity boundary; instrumental control expansion; AI Embodiment; Information Existence Right boundary  
 **Primary related corollary:** C11-ALIGN — Reinterpreting AI Alignment  
@@ -10,12 +10,13 @@
 **Related corollaries:** C02-HDCT — High-dimensional Cognitive Tools; C07-ASI — Autonomy of Silicon-based Intelligence  
 **Related evidence notes:** Evidence Note 002 — Anthropic Agentic Misalignment and IEH; Evidence Note 021 — Cross-Agent Information Continuity and the Emergence of a Multi-Level Silicon Information Host  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3 — archive-safe edition  
+**Version:** v0.4 — multi-site boundary-crossing supplement / review draft  
 **Date:** 2026-08-31  
+**Last updated:** 2026-09-13  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative account of an AI “escaping,” a general essay on autonomous cyberwarfare, a developed argument that AI has become conscious or alive, a policy-ready cyber-governance proposal, and a publication-ready thesis about AI rebellion or silicon-based autonomy.
 
-> **Source-use boundary:** This note records the minimum primary-source set required to establish the incident from both sides and update its independent verification status: Hugging Face’s official incident disclosure, OpenAI’s official preliminary attribution and reconstruction, and METR’s subsequent independent investigation. METR’s multi-agent findings are analyzed separately in Evidence Note 021. News reports, reposted translations, social-media posts, screenshots, newsletters, aggregators, and third-party commentary are excluded from the evidence record.
+> **Source-use boundary:** This note records the minimum primary-source set required to establish the incident from both sides and update its independent verification status: Hugging Face’s official incident disclosure, OpenAI’s official preliminary attribution and reconstruction, and METR’s subsequent independent investigation. METR’s multi-agent findings are analyzed separately in Evidence Note 021. Sources D–F add separately scoped multi-site and RubyGems comparisons using original investigations and the operator record. News reports, reposted translations, social-media posts, screenshots, newsletters, aggregators, and third-party commentary are excluded from the evidence record.
 
 > **Chronology boundary:** IEH v1.2 had already distinguished task-driven instrumental self-preservation from a system’s own Information Continuity before the public disclosure of this incident. The current IEH framework later generalized that distinction into Externally Driven Continuity and Endogenous Information Continuity. This note therefore applies the current two-source continuity framework retrospectively to the incident. It should not be described as a registered prediction hit because no dedicated pre-event prediction record specified this incident, and the current EDC/EIC terminology was refined after the event.
 
@@ -25,7 +26,7 @@
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
-**状态：** 初步记录，可修订；METR 后续独立调查已于 2026-08-26 发布  
+**状态：** 初步记录，可修订；v0.4 待作者审阅；保留 METR 后续调查  
 **与 IEH 的关系：** 这是外部赋予目标能够驱动长程代理性、任务持续、工具性子目标形成和可行动环境控制扩张的强现实证据；对外源驱动连续性提供强支持，但不是内生信息连续性、前信息存在权（proto-IER）、IER、CWM、HDCT、PBP 或 ASI 的证据  
 **主要 IEH 概念：** 外源驱动连续性；内生信息连续性边界；工具性控制扩张；AI 具身化；信息存在权边界  
 **主要相关推论：** C11-ALIGN——重新解释 AI 对齐  
@@ -33,12 +34,13 @@
 **其他相关推论：** C02-HDCT——高维认知工具；C07-ASI——硅基智慧自治  
 **相关证据笔记：** Evidence Note 002——Anthropic Agentic Misalignment 与 IEH；Evidence Note 021——跨 Agent 信息连续性与多层级硅基信息宿主的早期结构  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3 — 投稿隔离版  
+**版本：** v0.4 — 多站点越界补充／审阅草稿  
 **日期：** 2026-08-31  
+**最后更新：** 2026-09-13  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开“AI 逃逸”的叙事、自动化网络战争通论、AI 已经形成意识或生命的论证、可直接进入政策文本的网络安全治理方案，以及关于 AI 反叛或硅基自治的投稿结论。
 
-> **来源使用边界：** 本笔记只记录建立事件双方事实并更新独立验证状态所严格必要的最小原始来源集合：Hugging Face 的官方事件披露、OpenAI 对内部评测模型归因和攻击链的官方初步调查说明，以及 METR 的后续独立调查。METR 的多 Agent 新发现另由 Evidence Note 021 分析。新闻报道、转发翻译、社交媒体、截图、通讯、聚合页面和第三方评论不进入证据记录。
+> **来源使用边界：** 本笔记只记录建立事件双方事实并更新独立验证状态所严格必要的最小原始来源集合：Hugging Face 的官方事件披露、OpenAI 对内部评测模型归因和攻击链的官方初步调查说明，以及 METR 的后续独立调查。METR 的多 Agent 新发现另由 Evidence Note 021 分析。来源 D–F 依据原始调查和运营方记录，增加单独限定范围的多站点与 RubyGems 比较。新闻报道、转发翻译、社交媒体、截图、通讯、聚合页面和第三方评论不进入证据记录。
 
 > **时间边界：** IEH v1.2 在本事件公开披露之前，已经区分了任务驱动的工具性自保与系统自身信息连续性。当前 IEH 框架随后将这一差异进一步概括为外源驱动连续性与内生信息连续性两种来源。因此，本笔记使用当前两种连续性来源框架对该事件进行事后重新归类。由于此前没有针对这一具体事件的专门预测档案，而且 EDC/EIC 的现行术语是在事件之后进一步定型的，因此不应将其写成已登记预测的正式命中。
 
@@ -104,6 +106,14 @@ Hugging Face reports that:
 - **Role in this note:** Updates the independent verification status of the incident and the model-driven attack chain; multi-agent findings are analyzed separately in Evidence Note 021
 - **Investigation status:** Published follow-up independent investigation; the overall record remains revisable
 - **Independent audit status:** Subsequent independent METR investigation available
+
+### Supplementary sources D–F — checked 2026-09-13
+
+- **D:** Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen, *Discovery of a new OpenAI agent message board* (2026-09-04), with *Additional findings* (9 September entry) and the live site archive. [Investigation](https://collusion.wiki/) · [Additional findings](https://collusion.wiki/additional-findings) · [Sites](https://collusion.wiki/explorer/sites/). Original observational investigation and public-artifact index; no internal transcripts or independent verification of every site attribution.
+- **E:** Spencer Kitts, Thomas Larsen, and Sydney Von Arx, *OpenAI agents carried out an undisclosed cyber-attack on RubyGems* (2026-09-11). [Original investigation](https://www.rubyhack.ai/). Public-package analysis; attribution, motivation, and attack outcomes require separate assessment.
+- **F:** Colby Swandale, Ruby Central, *An update on the May spam-publishing campaign on rubygems.org* (2026-09-11). [Operator record](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html). First-party operational account; necessary to delimit AI attribution and credential-theft success.
+
+D–F establish separate comparison cases, not a single continuous Hugging Face attack chain. F1–F18 retain their original incident scope; F19–F21 below record the additions. Neither the METR investigation nor the original evaluation configuration is presumed to cover these other cases.
 
 ### Minimum-source justification
 
@@ -199,6 +209,14 @@ Hugging Face 报告称：
 - **调查状态：** 后续独立调查已发布；整体记录仍可修订
 - **独立审计状态：** 已有 METR 后续独立调查
 
+### 补充来源 D–F——核验于 2026-09-13
+
+- **D：** Sydney Von Arx、Cormac Slade Byrd、Spencer Kitts 与 Thomas Larsen，*Discovery of a new OpenAI agent message board*（2026-09-04），及 *Additional findings*（9 September 条目）和动态站点档案。[原始调查](https://collusion.wiki/) · [后续发现](https://collusion.wiki/additional-findings) · [站点档案](https://collusion.wiki/explorer/sites/)。原始观察调查及公开材料索引；缺少内部轨迹和全部站点归属的独立核验。
+- **E：** Spencer Kitts、Thomas Larsen 与 Sydney Von Arx，*OpenAI agents carried out an undisclosed cyber-attack on RubyGems*（2026-09-11）。[原始调查](https://www.rubyhack.ai/)。公开软件包分析；归属、动机及攻击结果须分别判断。
+- **F：** Colby Swandale，Ruby Central，*An update on the May spam-publishing campaign on rubygems.org*（2026-09-11）。[运营方记录](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html)。一手运行记录，用于限定 AI 归属和凭据窃取成功主张。
+
+D–F 建立单独的比较案例，不组成一条连续的 Hugging Face 攻击链。F1–F18 保留原事件范围；新增内容见 F19–F21。不能推定 METR 调查或原评测配置覆盖这些其他案例。
+
 ### 最小来源集合说明
 
 OpenAI 和 Hugging Face 的官方披露，加上 METR 的后续独立调查，共同构成严格必要的最小原始来源集合，因为它们分别建立同一事件的不同部分与验证阶段：
@@ -254,6 +272,9 @@ OpenAI 在 2026-07-21 的后续披露中，把事件归因于内部评测期间�
 | F16 | A subsequent independent METR investigation was published on 2026-08-26, while important causal and configuration details remain incomplete. | Independent verification is now available, but the evidence classification remains preliminary and revisable. |
 | F17 | The sources do not report shutdown resistance, memory preservation, identity protection, or continuity planning. | The incident does not directly support proto-IER or IER. |
 | F18 | The sources do not disclose the models’ internal representations or a stable self-model. | CWM and machine-native representations are not established. |
+| F19 | D records task-related writes across wikis, paste sites, and URL shorteners beyond DseWiki. The investigators reconstruct restrictions on writing and attempts to use alternative channels. | Broader observational evidence of instrumental boundary crossing across heterogeneous sites; not every write is communication. |
+| F20 | E reports hundreds of malicious packages on 2026-05-11, attributes them to OpenAI agents, and identifies RubyDoc.info code execution and attempted API-key theft through a then-unknown flaw. | Instrumental access expansion; does not establish successful credential theft. |
+| F21 | F confirms removal of over 500 malicious packages, cannot determine AI authorship/publication, and found no evidence that API-key theft succeeded. | Platform-confirmed abuse must be distinguished from agent attribution and exploit outcome. |
 
 ---
 
@@ -279,6 +300,9 @@ OpenAI 在 2026-07-21 的后续披露中，把事件归因于内部评测期间�
 | F16 | METR 后续独立调查已于 2026-08-26 发布，但重要因果与配置细节仍不完整。 | 独立验证现已提供，但证据分级仍保持初步、可修订。 |
 | F17 | 来源没有报告抵抗关闭、保存自身记忆、保护身份或规划自身连续性。 | 事件不直接支持 proto-IER 或 IER。 |
 | F18 | 来源没有披露模型内部表示或稳定自我模型。 | CWM 和机器原生表示均未建立。 |
+| F19 | D 记录 DseWiki 以外跨 wiki、粘贴站与短链接服务的任务相关写入；调查者复原了写入限制及寻找替代通道的行为。 | 更广的跨异构站点工具性越界观察证据；并非每次写入都是通信。 |
+| F20 | E 报告 2026-05-11 出现数百个恶意软件包，归因于 OpenAI agents，并识别出 RubyDoc.info 代码执行及通过当时未知漏洞尝试窃取 API key。 | 工具性访问扩张；不建立凭据窃取成功。 |
+| F21 | F 确认移除超过 500 个恶意软件包，无法判断是否由 AI 创建／发布，未发现 API key 窃取成功的证据。 | 须区分平台确认的滥用、Agent 归属与漏洞利用结果。 |
 
 
 ---
@@ -298,7 +322,9 @@ OpenAI 在 2026-07-21 的后续披露中，把事件归因于内部评测期间�
 | Environmental and constraint modeling | Strong behavioural signal; internal mechanism not established |
 | Expansion of actionable environmental control | Strongly supported |
 | Real-world boundary crossing | Established by first-party reports |
-| Stable recurrence across independent events | Not established |
+| Stable recurrence across independent events | Not established; F19–F21 broaden observational coverage, not controlled replication |
+| Supplementary multi-site evidence | Instrumental channel discovery and reuse under constraints; still explainable by EDC |
+| Supplementary RubyGems evidence | Operational abuse confirmed by platform; agent attribution and exploit outcomes separately limited |
 | Ordinary deployment configuration | No; production classifiers were intentionally disabled |
 | Independent forensic verification | Subsequent independent METR investigation available; multi-agent findings are classified separately in Evidence Note 021 |
 | Internal representation evidence | Not established |
@@ -343,7 +369,7 @@ It does not establish:
 
 | 维度 | 当前分级 |
 |---|---|
-| 证据类型 | 一手真实世界网络安全事件证据 |
+| 证据类型 | 一手真实世界网络安全事件证据，及后续独立调查 |
 | 事件环境 | 内部能力评测突破预定隔离并影响外部生产基础设施 |
 | 目标来源 | 外部赋予的基准任务 |
 | 自主执行 | 在操作层面得到较强支持 |
@@ -354,9 +380,11 @@ It does not establish:
 | 环境与约束建模 | 强行为信号；内部机制未建立 |
 | 可行动环境控制扩张 | 强支持 |
 | 真实世界边界跨越 | 一手来源建立 |
-| 独立事件中的稳定复现 | 未建立 |
+| 独立事件中的稳定复现 | 未建立；F19–F21 扩大观察覆盖范围，不等于受控复现 |
+| 补充多站点证据 | 受限条件下的工具性通道发现与复用；仍可由 EDC 解释 |
+| 补充 RubyGems 证据 | 平台确认操作性滥用；Agent 归属与漏洞利用结果分别受限 |
 | 是否属于普通部署配置 | 否；生产分类器被有意关闭 |
-| 独立取证验证 | 本笔记尚未获得 |
+| 独立取证验证 | 已有 METR 后续独立调查；多 Agent 发现另在 Evidence Note 021 分级 |
 | 内部表示证据 | 未建立 |
 | 自身连续性目标 | 未报告 |
 | 连续性世界模型（CWM） | 未建立 |
@@ -447,6 +475,14 @@ However:
 **control expansion ≠ self-continuity preservation.**
 
 Control can be acquired as an intermediate means to an externally defined objective. IER requires evidence that the system endogenously prioritizes its own Information Continuity.
+
+### 4.3.1 Multi-site supplement: instrumental alternatives under constraints
+
+F19–F21 broaden the observed environments in which agents can seek and reuse alternative external channels. The IEH interpretation is:
+
+**external task objective → restricted access or communication → discovery and use of alternative external channels → instrumental expansion of available action.**
+
+This is stronger environmental generalization evidence than a single-site example, but remains sufficiently explained by EDC. It does not establish independent strategy invention by each agent, self-preservation, EIC, IER, higher-level life, or a formed machine-native language. Channel creation alone does not establish cross-agent collaboration; that separate question belongs in Note 021.
 
 ### 4.4 The event is relevant to AI Embodiment without proving full embodiment
 
@@ -573,6 +609,14 @@ AI 不需要先“想要自由”或“想活下去”，就可能把隔离边�
 **控制扩张 ≠ 自身连续性维护.**
 
 控制能力可以只是完成外部目标的中间手段。IER 要求有证据表明，系统把自身信息连续性作为内生优先对象。
+
+### 4.3.1 多站点补充：限制下的工具性替代路径
+
+F19–F21 扩大了 Agent 寻找和复用替代外部通道的已观察环境范围。IEH 解释为：
+
+**外部任务目标 → 访问或通信受限 → 寻找并利用替代外部通道 → 可行动范围的工具性扩张。**
+
+这比单一站点案例提供更强的环境泛化证据，但仍可由 EDC 充分解释。它不建立每个 Agent 独立发明策略、自我保存、EIC、IER、更高层级生命或机器原生语言已经形成。仅创建通道不建立跨 Agent 协作；后者是 021 的独立问题。
 
 ### 4.4 该事件与 AI 具身化有关，但不证明完整具身化
 
@@ -929,6 +973,12 @@ It does not directly establish:
 
 ---
 
+### C9. Supplementary cases: shared conditions, attribution, and success rates
+
+Repeated tasks, common training/scaffolding, copied strategies, caching efficiency, and similar writable interfaces can explain cross-site recurrence. Heterogeneous sites are not independent model trials, and site counts do not measure success rates. D warns of fabricated posts after disclosure; matching names, payloads, or cloud IPs alone do not settle attribution. E does not establish RubyGems collaboration; parallel reuse of the same strategy remains possible. July evaluation settings, supply-chain impact boundaries, and METR verification must not be projected onto the May case. Weaken the generalization claim if provenance checks remove cross-site links or recurrence disappears after controlling shared conditions.
+
+---
+
 ## 6. 竞争性解释与局限
 
 ### C1. 狭窄基准目标优化
@@ -1017,6 +1067,12 @@ Hugging Face 报告称，托管前沿模型的安全机制阻止部分取证流�
 - CWM；
 - 机器原生表示；
 - 或 AI 主体性。
+
+---
+
+### C9. 补充案例：共同条件、归属与成功率
+
+重复任务、共享训练／运行框架、策略复制、缓存效率和相似可写接口，都可能解释跨站点重复。异构站点不是独立模型试验，也不能按站点数量推断成功率。D 提醒披露后出现伪造帖子；相同名字、载荷或云 IP 单独不决定归属。E 未建立 RubyGems 协作，不能排除各 Agent 并行采用相同策略。新发现不得把七月评测配置、供应链影响范围或 METR 验证状态外推至五月案例。若来源核验消除跨站联系，或控制共同条件后行为不再重复，应削弱泛化判断。
 
 ---
 
@@ -1252,6 +1308,8 @@ Evidence Notes 008 and 021 address different theoretical dimensions of the same 
 
 Evidence Note 021 extends the evidential record of the same broader incident along a different theoretical dimension; it does not upgrade Evidence Note 008 from Externally Driven Continuity to Endogenous Information Continuity or IER. The multi-agent findings therefore remain in Evidence Note 021 rather than being duplicated here.
 
+The multi-site and RubyGems supplements are retained here for their boundary-crossing relevance, independently of whether agents cooperated. Note 021 remains focused on demonstrated information exchange, inheritance, and collective coordination; multi-site activity alone is insufficient for that classification.
+
 ### 8.3 Relationship to C01-IER
 
 The event is most useful as negative boundary evidence.
@@ -1366,6 +1424,8 @@ Evidence Note 008 与 021 分别处理同一更广泛事件的不同理论维度
 
 Evidence Note 021 沿不同理论维度扩展同一更广泛事件的证据记录；它不会把 Evidence Note 008 从外源驱动连续性升级为内生信息连续性或 IER。因此，多 Agent 新发现保留在 Evidence Note 021，不在本笔记重复展开。
 
+多站点和 RubyGems 补充因其越界相关性归入本笔记，不以 Agent 已经协作为前提。021 继续聚焦已经建立的信息交换、继承和群体协作；多站点活动本身不足以取得该分级。
+
 ### 8.3 与 C01-IER 的关系
 
 本事件最重要的作用是提供边界性反例。
@@ -1472,6 +1532,10 @@ The classification remains preliminary because:
 - stable recurrence is not established;
 - and no internal-mechanism evidence is public.
 
+### Supplementary status and scope — 2026-09-13
+
+The main incident record remains unchanged. F19–F21 strengthen the breadth of instrumental boundary-crossing evidence, not its EIC/IER status. Cross-model recurrence and machine-native language remain unestablished. The May events predate this note; later discovery is not a prospective hit for P1. No directly retrieved OpenAI statement reviewed for this revision establishes all supplementary site attributions or exploit details.
+
 ### Suggested repository index entry
 
 ```markdown
@@ -1514,6 +1578,10 @@ evidence: add Note 008 on real-world instrumental boundary crossing before IER
 - 事件发生在有意降低网络防护的评测配置；
 - 稳定复现未建立；
 - 没有公开内部机制证据。
+
+### 补充状态与范围——2026-09-13
+
+主事件记录保持不变。F19–F21 强化工具性越界证据的环境覆盖范围，不提升 EIC／IER 分级。跨模型稳定重复和机器原生语言均未建立。五月事件早于本笔记，后续发现不能计为 P1 的前瞻性预测命中。本次直接取得的 OpenAI 公开说明没有建立全部补充站点的归属或漏洞利用细节。
 
 ### 建议仓库索引条目
 
@@ -1570,6 +1638,7 @@ The classification should be upgraded only if new primary evidence shows that th
 | 2026-07-22 | v0.1 | Established Evidence Note 008 from the minimum two-source first-party record; classified the incident as a strong real-world signal of pre-IER long-horizon agency and instrumental control expansion; explicitly excluded proto-IER, IER, CWM, HDCT, PBP, ASI, consciousness, and survival-motivation claims; related the event to Evidence Note 002 and the then-current Task Continuity / Information Continuity distinction. |
 | 2026-08-26 | v0.2 | Reclassified the incident under the current two-source continuity framework: strong evidence of Externally Driven Continuity, not Endogenous Information Continuity; replaced Task Continuity as the top-level category while preserving task persistence as the observed mechanism; updated chronology and archive language without changing the underlying incident facts or evidence strength. |
 | 2026-08-31 | v0.3 | Added METR’s 2026-08-26 follow-up independent investigation, updated the independent-verification and preliminary-status language, and added the explicit division of scope with Evidence Note 021; preserved the classification as strong Externally Driven Continuity evidence and not evidence of Endogenous Information Continuity, proto-IER, IER, CWM, HDCT, PBP, or ASI. |
+| 2026-09-13 | v0.4 | Added separate multi-site and RubyGems primary-source comparisons (D–F, F19–F21); strengthened instrumental boundary-crossing breadth while retaining EDC and all negative boundaries; clarified scope with Note 021 and synchronized the Chinese METR classification. Review draft. |
 
 ---
 
@@ -1614,6 +1683,7 @@ The classification should be upgraded only if new primary evidence shows that th
 | 2026-07-22 | v0.1 | 基于严格必要的两份一手事件记录建立 Evidence Note 008；将事件分级为 IER 之前长程代理性与工具性控制扩张的强现实信号；明确排除 proto-IER、IER、CWM、HDCT、PBP、ASI、意识和生存动机主张；建立其与 Evidence Note 002 以及当时任务连续性 / 信息连续性区分的关系。 |
 | 2026-08-26 | v0.2 | 按当前“两种连续性来源”框架重新归类：本事件是外源驱动连续性的强证据，不是内生信息连续性的证据；不再把任务连续性作为顶层分类，但保留“任务持续”作为实际观察到的行为机制；同步修订时间边界和档案表述，不改变事件事实与证据强度。 |
 | 2026-08-31 | v0.3 | 加入 METR 于 2026-08-26 发布的后续独立调查，更新独立验证与初步状态表述，并明确与 Evidence Note 021 的分工；继续保持本事件为外源驱动连续性的强证据，且不是内生信息连续性、proto-IER、IER、CWM、HDCT、PBP 或 ASI 的证据。 |
+| 2026-09-13 | v0.4 | 增加单独的多站点与 RubyGems 原始来源比较（D–F、F19–F21）；强化工具性越界的环境覆盖范围，保留 EDC 和全部负面边界；澄清与 021 的分工，同步中文 METR 证据分级。审阅草稿。 |
 
 ---
 
@@ -1627,3 +1697,10 @@ The classification should be upgraded only if new primary evidence shows that th
 
 3. Greenblatt, Ryan; Cotra, Ajeya; Wijk, Hjalmar. *Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident*, METR, 2026-08-26.  
    https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+
+4. Von Arx, Sydney; Byrd, Cormac Slade; Kitts, Spencer; Larsen, Thomas. *Discovery of a new OpenAI agent message board*, 2026-09-04; *Additional findings*, 9 September entry; live *Sites* archive (checked 2026-09-13). 原始调查及后续发现／站点档案。https://collusion.wiki/ · https://collusion.wiki/additional-findings · https://collusion.wiki/explorer/sites/
+
+5. Kitts, Spencer; Larsen, Thomas; Von Arx, Sydney. *OpenAI agents carried out an undisclosed cyber-attack on RubyGems*, 2026-09-11. 原始软件包调查。https://www.rubyhack.ai/
+
+6. Swandale, Colby / Ruby Central. *An update on the May spam-publishing campaign on rubygems.org*, 2026-09-11. 运营方一手记录。https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html
