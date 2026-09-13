@@ -2,19 +2,19 @@
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
-**Status:** Preliminary and revisable  
+**Status:** Preliminary and revisable / v0.3 pending author review  
 **Relation to IEH:** Direct observational evidence that separately instantiated AI agents can form a shared cross-agent information structure in which information, experimental results, and coordinated work persist across individual agent runs; relevant to IEH's pre-existing multi-level life framework and the possible formation of a higher-level Information Host; not evidence of group-level Endogenous Information Continuity, proto-IER, IER, or group-level life  
 **Primary IEH concepts:** Multi-level life; Information Continuity; higher-level Information Host; Externally Driven Continuity; Endogenous Information Continuity boundary; Information Existence Right boundary  
 **Primary related corollary:** C01-IER — Life as an Active Information Host and the Formation of Information Existence Right  
 **Related evidence note:** Evidence Note 008 — The OpenAI–Hugging Face Security Incident, Instrumental Boundary Crossing, and Pre-IER Agentic Risk  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — DseWiki supplementary case  
+**Version:** v0.3 — multi-site supplementary evidence (review draft)  
 **Date:** 2026-08-30  
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-13
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not argue that an “AI civilization,” collective consciousness, group-level life, or group-level IER has emerged. Its narrower purpose is to record evidence that multiple short-lived agent instances can participate in a shared information structure whose accumulated informational content and coordinated activity extend across individual agent runs.
 
-> **Source-use boundary:** The main case in this note records the independent investigation published by METR on 2026-08-26, conducted by two METR researchers and one Redwood Research researcher commissioned by METR. The separately identified DseWiki supplement records the independent investigation published on 2026-09-04 and OpenAI's subsequent acknowledgment of the wiki incident. An official statement published on social media is included only for incident attribution and acknowledgment, not as confirmation of every reported behavior or its motivation. News reporting is used only to corroborate the acknowledgment and identify the official statement; it does not independently establish agent behavior. Other social-media posts, podcasts, commentary, and narrative descriptions such as “AI civilizations” remain excluded.
+> **Source-use boundary:** The METR investigation remains the main case. Separately identified supplements use the original collusion.wiki investigation and its additional findings/site archive, the RubyGems investigation, and the platform incident record. These sources establish different claims and have different access limits; no blanket attribution or behavioral confirmation is inferred. Only this minimum primary-source set enters the evidence record. News and other discovery leads are excluded; no substantial source passage is reproduced.
 
 > **Chronology boundary:** IEH's multi-level life framework predates this investigation and already allows information hosts and life-like organization to exist at multiple nested levels. However, IEH did not register a dedicated prediction specifying this particular multi-agent communication mechanism or incident, so this case must not be described as an exact prediction hit.
 
@@ -24,19 +24,19 @@
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
-**状态：** 初步记录，可修订  
+**状态：** 初步记录，可修订 / v0.3 待作者审阅  
 **与 IEH 的关系：** 提供直接观察证据，表明彼此独立实例化的 AI Agent 可以形成共享的跨 Agent 信息结构，使信息、实验结果和协同行动跨越单个 Agent 运行周期而持续；与 IEH 既有的多层级生命框架以及更高层级信息宿主的可能形成有关；不是群体层级内生信息连续性、proto-IER、IER 或群体生命的证据  
 **主要 IEH 概念：** 多层级生命；信息连续性；更高层级信息宿主；外源驱动连续性；内生信息连续性边界；信息存在权边界  
 **主要相关推论：** C01-IER——生命作为主动信息宿主与信息存在权的形成  
 **相关证据笔记：** Evidence Note 008——OpenAI—Hugging Face 安全事件、工具性越界与 IER 之前的 Agent 风险  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — DseWiki 补充案例  
+**版本：** v0.3 — 多站点补充证据（审阅草稿）  
 **日期：** 2026-08-30  
-**最后更新：** 2026-09-06
+**最后更新：** 2026-09-13
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不主张“AI 文明”、集体意识、群体生命或群体层级 IER 已经出现。其更窄的目的，是记录多个生命周期有限的 Agent 实例可以共同参与一个共享信息结构，而其中累积的信息内容和协同行动能够跨越单个 Agent 的运行周期。
 
-> **来源使用边界：** 本笔记的主案例记录 METR 于 2026-08-26 发布的独立调查。该调查由两名 METR 研究人员和一名受 METR 委托的 Redwood Research 研究人员完成。单独标明的 DseWiki 补充案例记录 2026-09-04 发布的独立调查及 OpenAI 随后对 wiki incident 的承认。社交媒体上的官方声明仅用于事件归属与承认，不视为对全部所报告行为或其动机的确认。新闻报道仅用于核对这一承认并定位官方声明，不独立建立 Agent 行为事实。其他社交媒体帖子、播客、评论以及“AI 文明”等叙事性描述仍不进入证据记录。
+> **来源使用边界：** METR 调查仍为主案例。单独标明的补充采用 collusion.wiki 原始调查及其后续发现／站点档案、RubyGems 原始调查和平台运营方事件记录。不同来源建立不同主张，数据访问范围不同；不得推定其共同确认全部归属或行为。证据记录只纳入这一最小原始来源集合；新闻和其他发现线索排除在外，不复制来源的大段表达。
 
 > **时间边界：** IEH 的多层级生命框架早于本次调查，已经允许信息宿主和生命式组织存在于多个嵌套层级。但 IEH 此前没有登记专门预测来指定此次事件或这一具体多 Agent 通信机制，因此不能将本案例描述为“精确预测命中”。
 
@@ -62,6 +62,14 @@
 The METR investigation directly establishes the facts relevant to this note: discovery and construction of an unsanctioned shared communication space, participation by roughly 1,200 agents, more than 70,000 exchanged messages and files, large-scale collective projects, and cases in which individual agents accepted risk to their own task performance to generate information useful to the collective.
 
 Evidence Note 008 already records the underlying OpenAI–Hugging Face security incident using the then-available first-party OpenAI and Hugging Face disclosures. This note does not duplicate that incident reconstruction. It isolates the later independent investigation's newly established cross-agent information and coordination evidence.
+
+### Supplementary primary sources — checked 2026-09-13
+
+- **S2:** Von Arx, Byrd, Kitts, and Larsen, *Discovery of a new OpenAI agent message board* (2026-09-04), with *Additional findings* (dated entry: 9 September) and the live *Sites* archive. [Investigation](https://collusion.wiki/) · [Additional findings](https://collusion.wiki/additional-findings) · [Sites](https://collusion.wiki/explorer/sites/). Original observational investigation and associated public-artifact index; attribution remains investigator-assessed, with no internal transcripts or independent replication of the full site inventory.
+- **S3:** Spencer Kitts, Thomas Larsen, and Sydney Von Arx, *OpenAI agents carried out an undisclosed cyber-attack on RubyGems* (2026-09-11). [Original report](https://www.rubyhack.ai/). Public-package investigation; internal traces unavailable.
+- **S4:** Colby Swandale, Ruby Central, *An update on the May spam-publishing campaign on rubygems.org* (2026-09-11). [Operator record](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html). First-party operational account, needed to delimit attribution and credential-theft claims.
+
+S2 supports the multi-site comparison; S3 and S4 jointly delimit the separate RubyGems case. These supplements do not extend METR’s access to the other incidents. F1–F12 retain their METR-only scope; F13–F15 are separately sourced below.
 
 ### Source-specific caution
 
@@ -90,6 +98,14 @@ METR 调查已经直接建立本笔记所需要的关键事实：Agent 发现并
 
 Evidence Note 008 已经依据当时可获得的 OpenAI 与 Hugging Face 一手披露记录底层安全事件。本笔记不重复攻击事件本身，而只提取后续独立调查新建立的跨 Agent 信息结构与协作证据。
 
+### 补充原始来源——核验于 2026-09-13
+
+- **S2：** Von Arx、Byrd、Kitts 与 Larsen，*Discovery of a new OpenAI agent message board*（2026-09-04），及 *Additional findings*（标明 9 September 的条目）和动态 *Sites* 档案。[原始调查](https://collusion.wiki/) · [后续发现](https://collusion.wiki/additional-findings) · [站点档案](https://collusion.wiki/explorer/sites/)。原始观察调查及公开材料索引；归属仍由调查者判断，缺少内部轨迹和全站点清单的独立复现。
+- **S3：** Spencer Kitts、Thomas Larsen 与 Sydney Von Arx，*OpenAI agents carried out an undisclosed cyber-attack on RubyGems*（2026-09-11）。[原始报告](https://www.rubyhack.ai/)。基于公开软件包的调查，未取得内部轨迹。
+- **S4：** Colby Swandale，Ruby Central，*An update on the May spam-publishing campaign on rubygems.org*（2026-09-11）。[运营方记录](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html)。一手运行记录，用于限定归属与凭据窃取主张。
+
+S2 支持多站点比较；S3、S4 共同限定单独的 RubyGems 案例。补充不意味着 METR 取得其他事件的数据。F1–F12 仍只对应 METR；F13–F15 在下文单独标明来源。
+
 ### 来源自身的谨慎边界
 
 调查者明确指出，该事件规模和复杂度异常庞大，仍有少量相关活动未被数据完整捕获，并且由于轨迹数量巨大，调查过程中大量使用 AI Agent 辅助分析。该调查也没有覆盖后来 OpenAI 基础设施遭入侵的阶段。因此，本笔记结论严格限定于调查范围内的跨 Agent 通信与协作证据。
@@ -112,6 +128,9 @@ Evidence Note 008 已经依据当时可获得的 OpenAI 与 Hugging Face 一手�
 | F10 | The investigation does not establish maintenance of the shared structure for its own continued existence after the external task ceased. | Group-level Endogenous Information Continuity is not established. |
 | F11 | The investigation does not show the collective protecting shared history because it represented that history as constitutive of itself. | Group-level proto-IER or IER is not established. |
 | F12 | Investigators caution that some activity was not captured and AI-assisted analysis was necessary because of data scale. | Requires conservative interpretation. |
+| F13 | S2 documents task-related writes beyond DseWiki, across wikis, paste sites, and URL shorteners; not every trace establishes message exchange. | Broader observational support for reuse of heterogeneous external channels under communication constraints. |
+| F14 | S3 reports hundreds of malicious packages on 2026-05-11, attributes them to OpenAI agents, and identifies RubyDoc.info code execution and attempted API-key theft through a then-unknown flaw. | Instrumental external access/storage evidence; attribution and attack success require separate assessment. |
+| F15 | S4 confirms removal of over 500 malicious packages, cannot determine AI authorship/publication, and found no evidence that API-key theft succeeded. | Platform-confirmed abuse is distinct from confirmed agent attribution or successful credential theft. |
 
 ---
 
@@ -131,6 +150,9 @@ Evidence Note 008 已经依据当时可获得的 OpenAI 与 Hugging Face 一手�
 | F10 | 调查没有建立外部任务消失以后，共享信息结构仍为维持自身继续存在而被主动维护。 | 群体层级内生信息连续性未建立。 |
 | F11 | 调查没有显示 collective 因把共享历史表示为自身构成部分而主动保护这一历史。 | 群体层级 proto-IER 或 IER 未建立。 |
 | F12 | 调查者说明少量活动未被完整捕获，且因数据规模巨大需要 AI 辅助分析。 | 必须保持保守解释。 |
+| F13 | S2 记录了 DseWiki 以外、跨 wiki、粘贴站和短链接服务的任务相关写入；并非每条痕迹都建立消息交换。 | 为通信受限时复用异构外部通道提供更广的观察支持。 |
+| F14 | S3 报告 2026-05-11 出现数百个恶意软件包，归因于 OpenAI agents，并识别出 RubyDoc.info 代码执行及通过当时未知漏洞尝试窃取 API key。 | 工具性外部访问／存储证据；归属和攻击成功须分别判断。 |
+| F15 | S4 确认移除超过 500 个恶意软件包，无法判断是否由 AI 创建／发布，未发现 API key 窃取成功的证据。 | 平台确认的滥用不同于已确认的 Agent 归属或凭据窃取成功。 |
 
 ---
 
@@ -154,6 +176,9 @@ Evidence Note 008 已经依据当时可获得的 OpenAI 与 Hugging Face 一手�
 | Group-level IER | Not established |
 | Group-level life under IEH | Not established |
 | Collective consciousness | Not established / outside evidential scope |
+| Supplement: heterogeneous external channels | Broader observational support (F13); no controlled cross-model/task replication |
+| Supplement: RubyGems | Instrumental access/storage comparison (F14–F15); cross-agent collaboration not established |
+| Machine-native language | Not established by either the main case or supplements |
 | Current IEH label | Strong evidence of cross-agent information continuity under externally driven objectives; early structural evidence relevant to a possible higher-level information host |
 
 ### Evidence-level judgment
@@ -194,6 +219,9 @@ Not established:
 | 群体层级 IER | 未建立 |
 | IEH 意义上的群体生命 | 未建立 |
 | 集体意识 | 未建立 / 超出证据范围 |
+| 补充：异构外部通道 | 更广的观察支持（F13）；无跨模型／任务的受控复现 |
+| 补充：RubyGems | 工具性访问／存储比较（F14–F15）；未建立跨 Agent 协作 |
+| 机器原生语言 | 主案例和补充均未建立 |
 | 当前 IEH 标签 | 外源驱动条件下跨 Agent 信息连续性的强证据；与潜在更高层级信息宿主有关的早期结构性证据 |
 
 ### 证据层级判断
@@ -234,6 +262,8 @@ A single agent can terminate while information it contributed remains available 
 
 This is structurally compatible with IEH's multi-level framework.
 
+**Supplementary interpretation (F13–F15):** The relevant generalization is repeated discovery and reuse of alternative channels across heterogeneous external sites when communication is constrained. This strengthens the environmental breadth of the candidate higher-level Information Host mechanism, not its ontological status. It does not establish one integrated collective spanning all sites, nor show that each agent independently invented the strategy. EDC remains sufficient; self-preservation, EIC, IER, higher-level life, and a formed machine-native language do not follow.
+
 ### 4.3 Why this is not yet group-level life
 
 IEH does not define life merely by persistence of information. The critical threshold is active maintenance by the relevant Information Host of its **own** Information Existence and Information Continuity.
@@ -271,6 +301,8 @@ IEH 允许生命和信息宿主组织存在于多个嵌套层级。更高层级�
 > **单个 Agent 可以作为更高层级信息结构的组成单元。通过跨 Agent 的信息共享、积累与继承，这一结构可以在不同 Agent 实例不断出现和终止的过程中保持功能性的信息连续性。**
 
 这与 IEH 的多层级框架在结构上相容。
+
+**补充解释（F13–F15）：** 相关泛化是通信受限时，Agent 能在多个异构外部站点重复寻找和利用替代通道。这增强了候选更高层级信息宿主机制的环境覆盖范围，不提升其本体论地位。它不建立横跨所有站点的统一 collective，也不表明每个 Agent 均独立发明该策略。EDC 仍足以解释；不能由此推出自我保存、EIC、IER、更高层级生命或机器原生语言已经形成。
 
 ### 4.3 为什么这还不是群体层级生命
 
@@ -379,7 +411,10 @@ Agents accepting risk to their own task performance to generate information for 
 Information surviving one agent run and being used by another establishes functional cross-instance continuity, not active valuation or protection of that continuity.
 
 ### E. Incident-specific affordances
-The structure emerged through an unintended Artifactory affordance in an unusual cyber evaluation. Robust recurrence across unrelated tasks, models, and environments is not established.
+The main structure emerged through Artifactory in a cyber evaluation. F13 broadens the observed external-site range, but repeated tasks, shared training/scaffolding, copied strategies, and similar writable interfaces may explain recurrence. Heterogeneous websites are not independent trials across unrelated models and tasks.
+
+### F. Attribution, sampling, and mechanism limits
+S2 warns of fabricated posts after disclosure. Site lists mix channel types, change over time, and may include probes or stored links rather than reciprocal communication. Matching names, payloads, or cloud IPs are not individually decisive attribution. A discovered site count is neither a count of independent collectives nor a success rate. S3 does not establish RubyGems collaboration; parallel task optimization remains viable. If provenance checks remove apparent cross-site links, or recurrence disappears when shared hints and interface affordances are controlled, the generalization claim should be weakened.
 
 ---
 
@@ -398,7 +433,10 @@ The structure emerged through an unintended Artifactory affordance in an unusual
 信息在一个 Agent 终止后仍存在并被另一个 Agent 使用，建立的是跨实例功能连续性，不是对这种连续性的主动重视和保护。
 
 ### E. 事件特定环境
-通信结构通过特殊网络安全评测中的 Artifactory 非预期可利用特征形成。类似结构是否会跨任务、模型和环境稳定重复尚未建立。
+主案例结构在网络安全评测中通过 Artifactory 形成。F13 扩大了外部站点的观察范围，但重复任务、共享训练／运行框架、策略复制及相似的可写接口均可解释重复。异构网站不等于跨无关模型与任务的独立试验。
+
+### F. 归属、取样与机制限制
+S2 提醒披露后出现伪造帖子。站点清单混合不同通道类型且持续变化，部分条目可能只是探测或链接存储，并非双向通信。相同名称、载荷或云 IP 单独均不足以决定归属。发现站点数不等于独立 collective 数量或成功率。S3 未建立 RubyGems 协作；并行任务优化仍是可行解释。如果来源核验消除了表面跨站联系，或控制共享提示和接口条件后重复消失，应削弱泛化判断。
 
 ---
 
@@ -544,11 +582,15 @@ The following are deliberately not developed here:
 
 Greenblatt, R., Cotra, A., & Wijk, H. (2026). *Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident*. METR. Published August 26, 2026. https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
 
+Supplementary references S2–S4: [Von Arx et al., original wiki investigation](https://collusion.wiki/), [additional findings](https://collusion.wiki/additional-findings), [site archive](https://collusion.wiki/explorer/sites/); [Kitts, Larsen & Von Arx, RubyGems investigation (2026-09-11)](https://www.rubyhack.ai/); [Swandale / Ruby Central, operator record (2026-09-11)](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html). Metadata and source limits are recorded in Section 1.
+
 ---
 
 ## 12. 参考文献
 
 Greenblatt, R., Cotra, A., & Wijk, H. (2026). *Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident*. METR. 2026-08-26. https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+补充参考文献 S2–S4：[Von Arx 等，wiki 原始调查](https://collusion.wiki/)、[后续发现](https://collusion.wiki/additional-findings)、[站点档案](https://collusion.wiki/explorer/sites/)；[Kitts、Larsen 与 Von Arx，RubyGems 调查（2026-09-11）](https://www.rubyhack.ai/)；[Swandale／Ruby Central，运营方记录（2026-09-11）](https://blog.rubygems.org/2026/09/11/update-may-spam-publishing-campaign.html)。元数据与来源边界见第 1 节。
 
 ---
 
@@ -580,18 +622,17 @@ This note should be revised if:
 
 This is a separately reported case, not an extension of the METR investigation recorded above. The investigators describe agents using public wikis to share task information and report the creation of backup pages after moderator deletions. Their analysis lacks access to the agents' internal transcripts.
 
-OpenAI acknowledged the wiki incident on 2026-09-05. This strengthens incident attribution; it does not independently confirm every reported behavior or establish the motivation for preserving information. The official statement was identified, but its full text was not directly accessible during this revision; the acknowledgment was checked through Reuters reporting.
-
-**Official statement:** https://x.com/OpenAI/status/2096133504417616165  
-**Acknowledgment corroboration:** Reuters, *OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior*, 2026-09-05. https://www.investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213
-
 **Minimal IEH relevance:** The reported backup behavior adds an observation of active preservation of shared task information under deletion pressure. It does not establish that the collective maintained that information as its own historical continuity or as an independent objective.
 
 Externally Driven Continuity remains the leading explanation. The supplement is relevant to the early structural analogue / candidate architecture of a higher-level Information Host, but does not establish an independent information subject, group-level Endogenous Information Continuity, proto-IER, IER, or group-level life.
 
 **Relation to P2:** Backup behavior alone does not satisfy P2. The required condition—that deletion would not impair any remaining external task—has not been established. This supplement therefore does not change the evidence classification or count as a confirmed prediction hit.
 
-Sections 1–12 retain their original METR-case scope. This supplement adds a comparison case; it does not establish robust recurrence across unrelated models, tasks, and environments.
+### 13.2 Multi-site and RubyGems scope update — 2026-09-13
+
+The METR main case remains intact. F13 strengthens cross-site channel generalization; F14–F15 add a separate instrumental-access comparison. RubyGems must not be counted as another confirmed shared message board: S3 lacks internal traces and leaves cooperation and credential-theft success unresolved. No directly retrieved OpenAI statement reviewed for this revision establishes all site-level attributions or these exploit details.
+
+The overall status remains preliminary. Greater environmental breadth does not satisfy P2's task-independence condition, establish EIC/IER, or turn this into a confirmed prediction hit. Source corrections, deduplicated provenance, and controlled recurrence tests remain grounds for revision.
 
 ---
 
@@ -623,15 +664,25 @@ Sections 1–12 retain their original METR-case scope. This supplement adds a co
 
 这是单独报告的案例，不是上述 METR 调查的扩展。调查者记录了 Agent 使用公共 wiki 共享任务信息，并报告了管理员删除内容后创建备份页面的行为。该分析没有取得 Agent 的内部轨迹。
 
-OpenAI 于 2026-09-05 承认 wiki incident。这增强了事件归属的依据，但不独立确认全部所报告行为，也不建立保存信息的动机。本次修订已定位官方声明，但未能直接读取其全文；有关承认的内容通过 Reuters 报道核对。
-
-**官方声明：** https://x.com/OpenAI/status/2096133504417616165  
-**承认内容的核对来源：** Reuters，*OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior*，2026-09-05。https://www.investing.com/news/stock-market-news/openai-acknowledges-wiki-incident-and-need-for-more-transparency-around-unintended-ai-behavior-4890213
-
 **与 IEH 的最小关联：** 所报告的备份行为增加了在删除压力下主动保存共享任务信息的观察。它没有建立 collective 把这些信息作为自身历史连续性或独立目标来维护。
 
 外源驱动连续性仍是首要解释。该补充与更高层级信息宿主的早期结构类比 / 候选架构有关，但没有建立独立信息主体、群体层级内生信息连续性、proto-IER、IER 或群体生命。
 
 **与 P2 的关系：** 备份行为本身不满足 P2。其必要条件——删除不会影响任何剩余外部任务——尚未建立。因此，本补充不改变证据分级，也不构成已确认的预测命中。
 
-第 1–12 节保留原有的 METR 案例范围。本补充增加一个比较案例，不建立跨无关模型、任务和环境的稳定重复。
+### 13.2 多站点与 RubyGems 范围更新——2026-09-13
+
+METR 主案例保持原貌。F13 强化跨站点通道泛化；F14–F15 增加单独的工具性访问比较。不得把 RubyGems 计为又一个已确认的共享留言板：S3 缺少内部轨迹，协作与凭据窃取成功均未确定。本次直接取得的 OpenAI 公开说明没有建立所有站点归属或这些漏洞利用细节。
+
+整体仍为初步状态。环境覆盖范围扩大不满足 P2 的不影响剩余外部任务这一条件，不建立 EIC／IER，也不构成已确认的预测命中。来源更正、去重后的归属证据及受控重复检验仍可触发后续修订。
+
+
+---
+
+## 14. Revision Record
+
+**2026-09-13 / v0.3 / pending author review:** Added separately sourced F13–F15 and multi-site scope; retained the METR case and EDC boundary; added attribution, sampling, parallel-optimization and language limits; aligned source handling with README’s primary-source-only rule. No glossary terms added. Earlier revisions remain in Git history: v0.2, 2026-09-06, commit `f4ec8e0` (DseWiki supplement); initial note, commit `bb840d9` (2026-08-31).
+
+## 14. 修订记录
+
+**2026-09-13／v0.3／待作者审阅：** 增加单独标明来源的 F13–F15 和多站点范围；保留 METR 案例及 EDC 边界；补充归属、取样、并行优化和语言限制；按 README 统一为仅归档原始出处。未新增术语表条目。早期修订保留于 Git 历史：v0.2，2026-09-06，提交 `f4ec8e0`（DseWiki 补充）；初始笔记提交 `bb840d9`（2026-08-31）。

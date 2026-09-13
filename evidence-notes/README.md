@@ -1729,7 +1729,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
-**Index updated:** 2026-09-12. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-09-13. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1753,7 +1753,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 018 | [Anthropic Real-World Cyber Evaluation Incidents, Situational Recognition, and the Boundary of Externally Driven Continuity](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | Real-world evaluation incidents / situational recognition and EDC boundary | Preliminary |
 | 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment interface / enabling world-model pathway; not realized HDCT | Preliminary |
 | 020 | [Platonic World-Model Representation Convergence and the Pathway toward Machine-Native Representations](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | Comparative representation convergence / partial PA-10 mechanism support | Preliminary |
-| 021 | [Cross-Agent Information Continuity and an Early Structure of a Higher-Level Information Host](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | Cross-agent information continuity / candidate higher-level host structure; not group EIC or IER | Preliminary |
+| 021 | [Cross-Agent Information Continuity and an Early Structure of a Higher-Level Information Host](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | Cross-agent information continuity / broader multi-site channel evidence; candidate higher-level host structure, not EIC or IER | Preliminary / v0.3 review draft |
 | 022 | [Stale-Plan Persistence and a Testable EDC--EIC Boundary for Experienced Causal History](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | Controlled stale-plan persistence / proposed EDC–EIC test boundary | Preliminary |
 | 023 | [OpenAI's Navier–Stokes Candidate Solution and the HDCT Evolution Pathway](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | Candidate frontier mathematical output / indirect HDCT pathway relevance; not EIC or IER | Preliminary / review draft |
 | 024 | [OpenAI Research Acceleration, AI Participation in AI R&D, and the HDCT Pathway](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | First-party AI R&D participation / organizational precursor to PA-13; not communication verification | Preliminary / review draft |
@@ -1763,7 +1763,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-09-12。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-09-13。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1787,7 +1787,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 018 | [Anthropic 真实网络评测事件、情境识别与外源驱动连续性边界](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | 真实评测事件／情境识别与 EDC 边界 | 初步 |
 | 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化接口／世界模型路径的使能条件；不是已实现 HDCT | 初步 |
 | 020 | [世界模型的“柏拉图式”表征趋同与通向机器原生表示的路径](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | 比较性表征趋同／PA-10 部分机制支持 | 初步 |
-| 021 | [跨 Agent 信息连续性与更高层级信息宿主的早期结构](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | 跨 Agent 信息连续性／候选高层级宿主结构；不是群体 EIC 或 IER | 初步 |
+| 021 | [跨 Agent 信息连续性与更高层级信息宿主的早期结构](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | 跨 Agent 信息连续性／更广的多站点通道证据；候选高层级宿主结构，非 EIC 或 IER | 初步／v0.3 审阅草稿 |
 | 022 | [旧计划持续性与"实际经历的因果历史"的 EDC--EIC 可检验边界](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | 受控旧计划持续／拟议 EDC–EIC 检验边界 | 初步 |
 | 023 | [OpenAI 的 Navier–Stokes 候选解法与 HDCT 演化路径](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | 候选前沿数学成果／HDCT 路径的间接关联；不是 EIC 或 IER 证据 | 初步／审阅草稿 |
 | 024 | [OpenAI 研究加速、AI 参与 AI 研发与 HDCT 路径](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | AI 参与 AI 研发的一手记录／PA-13 的组织前置条件；不是通信预测验证 | 初步／审阅草稿 |
