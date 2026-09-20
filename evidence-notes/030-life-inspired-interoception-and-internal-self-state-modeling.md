@@ -250,11 +250,11 @@ A full account of embodiment and informational self-models; a validated continui
 
 Retained as a preliminary theoretical and engineering-pathway record. Recheck the final publication body when available; revise if it changes any mechanism attribution. Upgrade only after relevant primary experiments and replication; downgrade if controlled tests eliminate the proposed benefit or continuity-specific interpretation.
 
-**Revision history:** 2026-09-20 — v0.1 created after duplicate checks against title, DOI, arXiv identifier and interoception terms; latest existing note was 029. No prior note covering this study was found. The directory index remains unchanged under the task's explicit single-note scope; the repository's usual index-update step is therefore outstanding. No commit or push is included.
+**Revision history:** 2026-09-20 — v0.1 created after duplicate checks against title, DOI, arXiv identifier and interoception terms; latest existing note was 029. No prior note covering this study was found. The note was committed locally; the bilingual directory index was subsequently updated on 2026-09-20. No remote push was performed.
 
 ## 13. 状态与范围
 
 保存为初步理论与工程路径记录。获得正式版正文后应重新核对，若机制归属变化则修订；只有相关原始实验与复现才能支持升级；若受控检验消除拟议收益或连续性特异解释，应降级。
 
-**修订记录：** 2026-09-20——建立 v0.1；已按标题、DOI、arXiv 编号和内感受关键词查重，原有最新编号为 029，未发现已覆盖本研究的笔记。依据本次明确的单篇文件范围，未修改目录索引，因此仓库通常要求的索引更新步骤尚未执行。本次不含提交或推送。
+**修订记录：** 2026-09-20——建立 v0.1；已按标题、DOI、arXiv 编号和内感受关键词查重，原有最新编号为 029，未发现已覆盖本研究的笔记。笔记已在本地提交，中英文目录索引随后于 2026-09-20 更新。未推送远端。
 

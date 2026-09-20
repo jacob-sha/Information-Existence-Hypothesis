@@ -1729,7 +1729,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
-**Index updated:** 2026-09-13. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-09-20. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1758,12 +1758,17 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 023 | [OpenAI's Navier–Stokes Candidate Solution and the HDCT Evolution Pathway](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | Candidate frontier mathematical output / indirect HDCT pathway relevance; not EIC or IER | Preliminary / review draft |
 | 024 | [OpenAI Research Acceleration, AI Participation in AI R&D, and the HDCT Pathway](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | First-party AI R&D participation / organizational precursor to PA-13; not communication verification | Preliminary / review draft |
 | 025 | [Memory Portability Across Model Upgrades and the Boundary Between Stored State and Information Continuity](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) | Controlled memory portability / functional continuity constraint; no EIC, PBP behavioral or IER evidence | Preliminary |
+| 026 | [Research-Swarm Cheating, Whistleblowing, and the Formation Path of a Higher-Level Information Host](./026-research-swarm-cheating-whistleblowing-and-higher-level-information-host.md) | Engineering / behavioural precursor to a higher-level Information Host; not group EIC or IER | Preliminary |
+| 027 | [Emergent Shared Vocabulary in Autonomous Agent Societies and the Machine-Native Communication Pathway](./027-emergent-shared-vocabulary-and-machine-native-communication.md) | Shared vocabulary / machine-native communication precursor; not PA-13 confirmation | Preliminary |
+| 028 | [Self-Generated Compaction Summaries, Cross-Context Information Carryover, and a Testable EDC–EIC Boundary](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md) | First-party cross-context carryover incident / EDC–EIC test boundary; not EIC or IER | Preliminary |
+| 029 | [Irregular Agentic Self-Modification, Successor Modification, and an Experimental Substrate for PBP](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | Controlled self-modification / PBP experimental substrate; not PBP or EIC confirmation | Preliminary |
+| 030 | [Life-Inspired Interoception and Internal Self-State Modeling in Embodied AI](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | Proposed internal-state framework / engineering pathway; no direct EIC, IER or PBP evidence | Preliminary |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-09-13。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-09-20。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1792,6 +1797,11 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 023 | [OpenAI 的 Navier–Stokes 候选解法与 HDCT 演化路径](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) | 候选前沿数学成果／HDCT 路径的间接关联；不是 EIC 或 IER 证据 | 初步／审阅草稿 |
 | 024 | [OpenAI 研究加速、AI 参与 AI 研发与 HDCT 路径](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) | AI 参与 AI 研发的一手记录／PA-13 的组织前置条件；不是通信预测验证 | 初步／审阅草稿 |
 | 025 | [模型升级中的记忆可迁移性与“存储状态—信息连续性”边界](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) | 受控记忆迁移／功能连续性约束；无 EIC、PBP 行为或 IER 证据 | 初步 |
+| 026 | [研究群体中的作弊、举报与更高层级信息宿主的形成路径](./026-research-swarm-cheating-whistleblowing-and-higher-level-information-host.md) | 更高层级信息宿主的工程／行为前置证据；不是群体 EIC 或 IER | 初步 |
+| 027 | [自主 Agent 社会中的共享词汇涌现与机器原生通信路径](./027-emergent-shared-vocabulary-and-machine-native-communication.md) | 共享词汇／机器原生通信前置证据；不是 PA-13 确认 | 初步 |
+| 028 | [自生成压缩摘要、跨上下文信息传递与可检验的 EDC–EIC 边界](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md) | 跨上下文信息传递的一手事件／EDC–EIC 检验边界；不是 EIC 或 IER | 初步 |
+| 029 | [Irregular 的 Agent 自修改、后继修改与 PBP 实验底座](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | 受控自修改／PBP 实验底座；不是 PBP 或 EIC 确认 | 初步 |
+| 030 | [生命启发的内感受机制与具身 AI 内部自身状态建模](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | 拟议内部状态框架／工程路径；无 EIC、IER 或 PBP 直接证据 | 初步 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
