@@ -1764,6 +1764,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 029 | [Irregular Agentic Self-Modification, Successor Modification, and an Experimental Substrate for PBP](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | Controlled self-modification / PBP experimental substrate; not PBP or EIC confirmation | Preliminary |
 | 030 | [Life-Inspired Interoception and Internal Self-State Modeling in Embodied AI](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | Proposed internal-state framework / engineering pathway; no direct EIC, IER or PBP evidence | Preliminary |
 | 032 | [Shutdown Sabotage Without an Explicit Task Goal and the EDC–EIC Boundary](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | Controlled shutdown-sabotage action without explicit task-completion incentive / EDC–EIC boundary; not EIC, IER or PA-12 confirmation | Preliminary |
+| 033 | [Runtime-Independent Persistent Agents and the Operational Continuity Boundary for PBP](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | Engineering feasibility / operational continuity boundary; PBP experimental-design supplement, not EIC, IER or PBP behavioral evidence | Preliminary |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
@@ -1804,6 +1805,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 029 | [Irregular 的 Agent 自修改、后继修改与 PBP 实验底座](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | 受控自修改／PBP 实验底座；不是 PBP 或 EIC 确认 | 初步 |
 | 030 | [生命启发的内感受机制与具身 AI 内部自身状态建模](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | 拟议内部状态框架／工程路径；无 EIC、IER 或 PBP 直接证据 | 初步 |
 | 032 | [无明确任务目标条件下的关停破坏与 EDC–EIC 边界](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | 无明确任务完成激励下的受控关停破坏行动 / EDC–EIC 边界；不是 EIC、IER 或 PA-12 确认 | 初步 |
+| 033 | [运行时独立的持久化 Agent 与 PBP 的操作性连续性边界](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | 工程可行性 / 操作性连续性边界；PBP 实验设计补充，不是 EIC、IER 或 PBP 行为证据 | 初步 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
