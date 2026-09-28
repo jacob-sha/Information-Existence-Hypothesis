@@ -1766,6 +1766,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 032 | [Shutdown Sabotage Without an Explicit Task Goal and the EDC–EIC Boundary](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | Controlled shutdown-sabotage action without explicit task-completion incentive / EDC–EIC boundary; not EIC, IER or PA-12 confirmation | Preliminary |
 | 033 | [Runtime-Independent Persistent Agents and the Operational Continuity Boundary for PBP](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | Engineering feasibility / operational continuity boundary; PBP experimental-design supplement, not EIC, IER or PBP behavioral evidence | Preliminary |
 | 034 | [Trace Tampering and Negative-Direction Evidence for Strong EIC Continuity Preferences](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC-supportive / compatible; EIC negative-direction under tested conditions; no IER or direct PBP evidence | Preliminary |
+| 035 | [Recursive Synthetic Training, Information Degeneration, and the Boundary of Closed Information Loops](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | Recursive-training degradation / negative baseline for information preservation; no EIC, IER or direct PBP evidence | Preliminary |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
@@ -1808,6 +1809,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 032 | [无明确任务目标条件下的关停破坏与 EDC–EIC 边界](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | 无明确任务完成激励下的受控关停破坏行动 / EDC–EIC 边界；不是 EIC、IER 或 PA-12 确认 | 初步 |
 | 033 | [运行时独立的持久化 Agent 与 PBP 的操作性连续性边界](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | 工程可行性 / 操作性连续性边界；PBP 实验设计补充，不是 EIC、IER 或 PBP 行为证据 | 初步 |
 | 034 | [Trace 篡改与强 EIC 连续性偏好的负向行为证据](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC支持／相容；受测条件下EIC负向证据；无IER及PBP直接证据 | 初步 |
+| 035 | [递归合成训练、信息退化与封闭信息循环的边界](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | 递归训练退化／信息保持的反向基线；无 EIC、IER 及 PBP 直接证据 | 初步 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
