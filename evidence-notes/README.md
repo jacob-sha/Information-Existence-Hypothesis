@@ -167,6 +167,41 @@ An Evidence Note should retain archival value even if the IEH interpretation is 
 
 ---
 
+<a id="incremental-evidence-principle"></a>
+## 2A. Incremental Evidence Principle
+
+Evidence Notes do not aim at quantity. Create a new standalone note only when a study adds a substantive theoretical or empirical increment relative to the existing evidence repository and satisfies at least one of the following criteria:
+
+1. It identifies a new category of phenomenon not previously recorded.
+2. It crosses an IEH evidence level, for example from engineering feasibility / Externally Driven Continuity (EDC) to candidate Endogenous Information Continuity (EIC).
+3. It resolves a new theoretical or operational boundary question, such as a continuity boundary.
+4. It provides a new falsifiable experimental design or a valuable negative-direction / counterevidence baseline.
+5. It supplies a major counterexample or significant strengthening of an existing assessment, or requires revision of an existing IEH judgment.
+
+If a study merely reconfirms known engineering facts such as Persistent Memory, Agent/Harness Self-Modification, or an Embodied Perception-Action Loop, or adds a similar case, do not assign a new note number. Where appropriate, retain it as Supporting / Follow-up Evidence in an existing Evidence Note, or record it only in the daily brief.
+
+The core screening question is: **“Does this study change, extend, or substantively strengthen any judgment in the existing evidence-notes?”** If it does not and is merely another case, the default is not to create a standalone Evidence Note. Apply this principle before creating a note and when reviewing follow-up evidence.
+
+This admission rule supplements the existing evidence classification and IER-related boundaries; it does not replace or relax them. Strictly distinguish direct experimental findings, engineering feasibility, theoretical inspiration, and IEH-specific evidence. A purely theoretical paper must not be treated as empirical evidence about objective reality. Ordinary memory, Agent OS, or task-success results that remain driven by external objectives do not become EIC / IER evidence merely because more cases accumulate.
+
+### 2A. Evidence Note 增量原则
+
+Evidence Notes 不以数量为目标。只有当新研究相对现有证据库产生实质性理论或实证增量，并至少满足以下一种情况时，才新建独立笔记：
+
+1. 出现此前未记录的新现象类别。
+2. 跨越 IEH 证据层级，例如从工程可行性 / 外源驱动连续性（EDC）推进到内生信息连续性（EIC）的候选证据（candidate EIC）。
+3. 解决新的理论或操作边界问题，例如 continuity boundary（连续性边界）。
+4. 提供新的可证伪实验结构，或有价值的负向 / 反证基线。
+5. 对已有判断提供重大反例、显著强化，或迫使修改现有 IEH 判断。
+
+若只是重复证明 Persistent Memory、Agent/Harness Self-Modification、Embodied Perception-Action Loop 等已知工程事实，或只是增加类似案例，不应新建编号；应视情况作为已有 Evidence Note 的 Supporting / Follow-up Evidence（支持 / 后续证据），或只在日报中记录。
+
+筛选时的核心问题是：**“这项研究是否改变、扩展或实质强化了现有 evidence-notes 中的某个判断？”** 若没有，只是又一个案例，原则上不新增独立 Evidence Note。今后新建笔记及审查后续证据时，均应先应用这一原则。
+
+这一入库规则补充现有证据分级和 IER 相关边界，不替代或放宽它们。必须严格区分直接实验事实、工程可行性、理论启发和 IEH-specific evidence；纯理论论文不能当作客观现实的实证证据。普通 memory、Agent OS、task success 等若仍是外源目标驱动，不因案例增加而升级为 EIC / IER 证据。
+
+---
+
 ## 3. Primary-Source-Only Archiving Rule
 
 This is a repository-wide mandatory rule.
@@ -1671,6 +1706,8 @@ Before committing an Evidence Note, confirm all items below.
 
 ## 17. Update and Review Workflow
 
+Before creating a standalone note, apply the [Incremental Evidence Principle](#incremental-evidence-principle) to decide whether to create a new note, supplement an existing note, or retain the item only in the daily brief.
+
 1. Capture the event as a private discovery lead.
 2. Identify the claim that may be relevant to IEH.
 3. Trace the lead to the most authoritative primary source.
@@ -1698,6 +1735,8 @@ evidence: downgrade Note NNN after conflicting primary evidence
 ```
 
 ### 17. 更新与审查流程
+
+新建独立笔记前，先按[增量原则](#incremental-evidence-principle)判断应新建笔记、补充已有笔记，还是仅在日报中记录。
 
 1. 将事件作为私人发现线索记录；
 2. 确认其中可能与 IEH 有关的具体主张；
