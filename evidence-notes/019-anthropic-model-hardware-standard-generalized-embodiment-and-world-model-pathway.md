@@ -3,17 +3,17 @@
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
 **Status:** Preliminary and revisable  
-**Relation to IEH:** Post-registration partial support for PA-10's action-feedback and generalized-embodiment pathway; enabling engineering evidence that a model or agent can enter standardized physical perception-action-feedback loops; not direct evidence of a world model, machine-native representations, HDCT, CWM, EIC, or IER  
+**Relation to IEH:** Post-registration partial support for PA-10's action-feedback and generalized-embodiment pathway; enabling engineering evidence that a model or agent can enter standardized physical perception-action-feedback loops; with InternW0 follow-up evidence for tested physical prediction–control coupling; not evidence of general world understanding, machine-native representations, HDCT, CWM, EIC, or IER<br>
 **Primary IEH corollary:** C02-HDCT — High-dimensional Cognitive Tools  
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — archive-ready revision  
-**Date:** 2026-08-29  
+**Version:** v0.3 — supporting-evidence revision<br>
+**Date:** 2026-10-02<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
-> **Source-use boundary:** This note records only Anthropic's first-party MHS research-preview record, the sole authoritative technical record publicly available at the time of writing. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
+> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 technical report (arXiv:2609.27656v1). These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
 
 > **Chronology boundary:** PA-10 was formally archived on 2026-07-21; Anthropic publicly announced the MHS research preview on 2026-08-27. MHS is therefore a post-registration evidence item that partially supports a mechanism already specified by PA-10. However, PA-10 did not preregister MHS or this particular interface architecture, so the event should not be described as an exact architecture-specific prediction hit.
 
@@ -24,17 +24,17 @@
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 初步记录，可修订  
-**与 IEH 的关系：** 对 PA-10“行动反馈—广义具身化”路径的建档后部分支持；表明模型或 Agent 可以通过标准化接口进入物理感知—行动—反馈闭环的使能工程证据；不是世界模型、机器原生表示、HDCT、CWM、EIC 或 IER 的直接证据  
+**与 IEH 的关系：** 对 PA-10“行动反馈—广义具身化”路径的建档后部分支持；表明模型或 Agent 可以通过标准化接口进入物理感知—行动—反馈闭环的使能工程证据；新增 InternW0 对受测物理预测—控制耦合的后续支持；不建立通用世界理解、机器原生表示、HDCT、CWM、EIC 或 IER<br>
 **主要 IEH 推论：** C02-HDCT——高维认知工具  
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 可入库修订版  
-**日期：** 2026-08-29  
+**版本：** v0.3 — 支持证据补充版<br>
+**日期：** 2026-10-02<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
-> **来源使用边界：** 本笔记只记录写作时唯一公开且最权威的 Anthropic MHS 一手研究预览。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
+> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0 技术报告（arXiv:2609.27656v1）。两项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
 
 > **时间边界：** PA-10 于 2026-07-21 正式建档，Anthropic 于 2026-08-27 公开 MHS 研究预览。因此，MHS 属于 PA-10 建档后出现、对既有机制形成部分支持的证据项目。但 PA-10 并未预先指定 MHS 或这一具体接口架构，故不能写成“具体架构的精确预测命中”。
 
@@ -65,6 +65,14 @@ The record combines Anthropic's architectural description with early partner rep
 
 ---
 
+### Supporting / Follow-up Source — InternW0 (S2)
+
+- **Title / authors:** *InternW0: A Foundational Physical World Model for Efficient Real-World Interactions*; Jisong Cai et al., Shanghai AI Laboratory.
+- **Version / date:** arXiv:2609.27656v1, submitted 2026-09-23; author-issued technical report, not treated as peer-reviewed here.
+- **Original record / text:** https://arxiv.org/abs/2609.27656v1 ; https://arxiv.org/html/2609.27656v1 . Two records of one study, not independent corroboration.
+- **Verification:** Metadata and relevant original-text sections checked on 2026-10-02; experiments were not rerun and independent replication is not established by this review.
+- **Contribution:** Prediction–control coupling complements MHS interface access; it is not a validation of MHS itself. S1 denotes the original Anthropic source; F1–F14 remain S1 findings.
+
 ## 1. 来源记录
 
 ### 原始一手技术记录
@@ -90,6 +98,14 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 
 ---
 
+### 支持／后续来源——InternW0（S2）
+
+- **标题／作者：** *InternW0: A Foundational Physical World Model for Efficient Real-World Interactions*；Jisong Cai 等，Shanghai AI Laboratory。
+- **版本／日期：** arXiv:2609.27656v1，2026-09-23提交；作者发布的技术报告，本篇不将其视为已经同行评审。
+- **原始记录／全文：** https://arxiv.org/abs/2609.27656v1 ；https://arxiv.org/html/2609.27656v1 。两者是同一研究的记录，不是独立佐证。
+- **核验：** 2026-10-02核对元数据及原文相关章节；没有重跑实验，本次审阅未建立独立复现。
+- **贡献：** 预测—控制耦合补充 MHS 的接口接入证据，不是对 MHS 本身的验证。S1 表示原 Anthropic 来源，F1—F14 仍归属 S1。
+
 ## 2. Minimal Finding Index
 
 | ID | Primary-source finding | Evidential relevance |
@@ -110,6 +126,15 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 | F14 | All disclosed activity serves human-defined experimental or operational goals. | Consistent with Externally Driven Continuity; not EIC or IER. |
 
 ---
+
+### Follow-up findings — S2 only
+
+| ID | Original-source finding / locator | Evidential relevance |
+|---|---|---|
+| F15 | Video and action experts jointly learn prediction and control (§2.1). | Links world prediction to executable actions. |
+| F16 | New observations condition action updates using cached predictive context (§6.2). | Feedback affects control without implying online weight learning. |
+| F17 | Contact-aware post-training adds force / tactile interfaces (§2.1). | Physical observations complement visual context. |
+| F18 | Five real-robot tasks are evaluated with 15 trials each (§5.1); generalization and precision failures remain (§§4.2.2, 5.1). | Bounded author-reported evaluation, not universal competence. |
 
 ## 2. 最小事实索引
 
@@ -132,7 +157,18 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 
 ---
 
+### 后续事实——仅归属 S2
+
+| 编号 | 原始来源事实／位置 | 证据意义 |
+|---|---|---|
+| F15 | 视频与行动专家联合学习预测和控制（§2.1）。 | 连接世界预测与可执行行动。 |
+| F16 | 新观察通过缓存预测上下文参与行动更新（§6.2）。 | 反馈影响控制，不等于在线权重学习。 |
+| F17 | 接触感知后训练加入力觉／触觉接口（§2.1）。 | 物理观察补充视觉上下文。 |
+| F18 | 五项真实机器人任务各进行15次试验（§5.1）；泛化与精度失败仍存在（§§4.2.2、5.1）。 | 有限条件下的作者报告评测，不是普遍能力。 |
+
 ## 3. Evidence Classification
+
+**Source scope:** The original classification below concerns S1 (MHS). S2 adds author-reported engineering evidence of tested prediction–control coupling, not independent MHS replication. Its IEH relevance is indirect: experimental infrastructure for studying model / Agent interaction and continuity, not continuity-preservation behavior.
 
 | Dimension | Current classification |
 |---|---|
@@ -166,6 +202,8 @@ The evidence establishes the loop's accessibility, not the nature of the model's
 ---
 
 ## 3. 证据分类
+
+**来源范围：** 下列原有分级针对 S1（MHS）。S2 新增作者报告的受测预测—控制耦合工程证据，不是 MHS 的独立复现。其 IEH 关联是间接的：为研究模型／Agent 交互与连续性提供实验条件，不是连续性维护行为。
 
 | 维度 | 当前分级 |
 |---|---|
@@ -256,6 +294,14 @@ Nothing in the MHS record shows this transition. The disclosed agents optimize e
 
 ---
 
+### 4.7 Supporting / Follow-up Evidence: world prediction and Agent interaction
+
+**Independent IEH interpretation.** MHS supports physical interface access; InternW0 supplies a concrete prediction–action coupling implementation. The contribution concerns how model predictions guide an Agent's interaction with reality, rather than robot product performance. A robot is a sensing, execution, and feedback substrate; its physical boundary is not automatically an information-subject boundary.
+
+Under the proposed **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT** order, this follow-up strengthens the engineering connection between world modeling and embodied perception–action–world-feedback. It does not verify the whole evolutionary sequence.
+
+Training on observations, feedback-conditioned control during execution, and durable learning from execution history are separate questions. The report does not establish cross-task / cross-runtime accumulation of a particular Agent's historical state, online continual weight learning, or an independent objective of preserving that history. Such claims require additional tests; neither physical prediction nor task success establishes CWM, EIC, IER, life, or realized HDCT.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -314,7 +360,17 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 
 ---
 
+### 4.7 支持／后续证据：世界预测与 Agent 交互
+
+**独立 IEH 解释。** MHS 支持物理接口接入，InternW0 补充预测—行动耦合的具体实现。其贡献在于模型预测如何参与 Agent 与现实的交互，而非机器人产品性能。机器人是感知、执行和反馈的物理载体，其物理边界不自动等于信息主体边界。
+
+按拟议的 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT** 次序，此项后续证据强化世界模型与具身 perception–action–world-feedback 的工程连接，不验证整个演化序列。
+
+训练时吸收观察数据、执行时根据反馈调整控制、从执行历史形成持久学习，是不同问题。报告未建立特定 Agent 历史状态的跨任务／跨运行过程累积、在线持续权重学习，或独立维护该历史的目标。这些主张需要额外检验；物理预测及任务成功均不建立 CWM、EIC、IER、生命或已实现的 HDCT。
+
 ## 5. Competing Explanations and Negative Boundaries
+
+**S2 follow-up limitation:** Responsive control and cached context reuse can be explained by externally trained policies and ordinary state-conditioned inference. They do not by themselves demonstrate durable autobiographical history or a continuity preference. Separate framework aspirations from measured implementation; the authors' remaining failures and future-work requirements constrain generalization (§§4–7).
 
 ### H1 — Interface-efficiency explanation
 
@@ -372,6 +428,8 @@ The source does **not** establish:
 ---
 
 ## 5. 竞争解释与负面边界
+
+**S2 后续证据限制：** 响应式控制和缓存上下文复用可以由外部训练策略及普通状态条件推理解释，本身不证明持久自身历史或连续性偏好。必须区分框架愿景与受测实现；作者报告的剩余失败和未来工作要求限制泛化判断（§§4—7）。
 
 ### H1——接口效率解释
 
@@ -678,17 +736,19 @@ MHS 与 Evidence Note 011 互补。ETA 记录的是经验能够保存并复用�
 
 Anthropic. (2026, August 27). *Previewing the Model Hardware Standard*. https://www.anthropic.com/news/model-hardware-standard-research-preview
 
+Cai, J., et al. (2026, September 23). *InternW0: A Foundational Physical World Model for Efficient Real-World Interactions*. arXiv:2609.27656v1. https://arxiv.org/abs/2609.27656v1 ; original text: https://arxiv.org/html/2609.27656v1 . Accessed 2026-10-02. / 原始技术报告，2026-10-02查阅。
+
 Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. These are internal analytical records and are not external evidence sources.
 
 ---
 
 ## Status and Scope
 
-This file records the MHS research preview as a first-party engineering event and classifies its limited relationship to PA-10. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
+This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
 
 ## 状态与范围
 
-本文件把 MHS 研究预览记录为一手机构工程事件，并对其与 PA-10 的有限关系进行分级。MHS 实现材料公开、出现独立复现、受控评价或持久内部学习证据后，应修订本笔记。本文件不得被引用为机器主体性、生命或信息存在权已经形成的证据。
+本文件记录 MHS 研究预览及 InternW0 后续材料，作为模型／Agent 物理交互的互补工程证据，并对其与 PA-10 的有限关系进行分级。原有 MHS 判断仍限于该来源；后续材料不建立持久 Agent 历史或连续性动机。MHS 实现材料公开、出现独立复现、受控评价或持久内部学习证据后，应修订本笔记。本文件不得被引用为机器主体性、生命或信息存在权已经形成的证据。
 
 ---
 
@@ -697,9 +757,11 @@ This file records the MHS research preview as a first-party engineering event an
 | Date | Version | Change |
 |---|---|---|
 | 2026-08-29 | v0.2 | Renumbered the note as Evidence Note 019 after repository verification; restructured it against Evidence Notes 014–018 and the repository standard; narrowed the claim from “MHS leads to a world model” to enabling engineering support for PA-10's generalized-embodiment pathway; added chronology, counterevidence, competing explanations, falsifiable predictions, evidence-architecture position, and explicit negative boundaries. |
+| 2026-10-02 | v0.3 | Added source-attributed InternW0 supporting evidence; centered model / Agent prediction–action interaction and separated physical feedback from durable history and continuity motivation. Original MHS findings and note identity retained. |
 
 ## 修订记录
 
 | 日期 | 版本 | 修改 |
 |---|---|---|
 | 2026-08-29 | v0.2 | 核对主仓编号后改为 Evidence Note 019；依据 Evidence Notes 014–018 与证据仓规范重构；把“MHS 通向世界模型”的强表述收紧为“对 PA-10 广义具身化路径的使能工程支持”；补入时间边界、反向事实、竞争解释、可证伪预测、证据体系位置及明确负面边界。 |
+| 2026-10-02 | v0.3 | 加入归属明确的 InternW0 支持证据；聚焦模型／Agent 预测—行动交互，区分物理反馈、持久历史与连续性动机；保留原 MHS 事实及笔记身份。 |
