@@ -1800,7 +1800,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
-**Index updated:** 2026-09-28. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-10-02. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1820,9 +1820,9 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 014 | [Self-Preservation Bias, “Self-Continuation” Framing, and the Boundary of Information Continuity](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | Controlled self-continuation framing / continuity-boundary evidence | Preliminary |
 | 015 | [Continuity Kernel, Authorized State Lineage, and a Possible Engineering Path toward IER Formation](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | Authorized state lineage / possible engineering formation path; not EIC or IER | Preliminary |
 | 016 | [Cryptographic Individuality, Agent Identity, and a Possible Engineering Path toward EIC / IER Formation](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | Cryptographic agent individuality / possible engineering formation path; not EIC or IER | Preliminary |
-| 017 | [AISI Unsanctioned Agent Behaviour, Goal-Directed Deception, and Externally Driven Continuity](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | Unsanctioned goal-directed agent behavior / externally driven continuity | Preliminary |
+| 017 | [AISI Unsanctioned Agent Behaviour, Goal-Directed Deception, and Externally Driven Continuity](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | Unsanctioned goal-directed agent behavior / EDC; CATCH training-pressure mechanism supplement | Preliminary / v0.2 |
 | 018 | [Anthropic Real-World Cyber Evaluation Incidents, Situational Recognition, and the Boundary of Externally Driven Continuity](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | Real-world evaluation incidents / situational recognition and EDC boundary | Preliminary |
-| 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment interface / enabling world-model pathway; not realized HDCT | Preliminary |
+| 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment / physical feedback; InternW0, F4R and RoboCoach mechanism supplements; not realized HDCT | Preliminary / v0.4 |
 | 020 | [Platonic World-Model Representation Convergence and the Pathway toward Machine-Native Representations](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | Comparative representation convergence / partial PA-10 mechanism support | Preliminary |
 | 021 | [Cross-Agent Information Continuity and an Early Structure of a Higher-Level Information Host](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | Cross-agent information continuity / candidate higher-level host structure; not group EIC or IER | Preliminary |
 | 022 | [Stale-Plan Persistence and a Testable EDC--EIC Boundary for Experienced Causal History](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | Controlled stale-plan persistence / proposed EDC–EIC test boundary | Preliminary |
@@ -1834,6 +1834,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 028 | [Self-Generated Compaction Summaries, Cross-Context Information Carryover, and a Testable EDC–EIC Boundary](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md) | First-party cross-context carryover incident / EDC–EIC test boundary; not EIC or IER | Preliminary |
 | 029 | [Irregular Agentic Self-Modification, Successor Modification, and an Experimental Substrate for PBP](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | Controlled self-modification / PBP experimental substrate; not PBP or EIC confirmation | Preliminary |
 | 030 | [Life-Inspired Interoception and Internal Self-State Modeling in Embodied AI](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | Proposed internal-state framework / engineering pathway; no direct EIC, IER or PBP evidence | Preliminary |
+| 031 | [Anthropic R&D Automation, Successor-Building, and an Engineering Prerequisite for PBP](./031-anthropic-r-and-d-automation-successor-building-and-pbp-prerequisite.md) | AI R&D / RSI-Master model-development supplement; PBP prerequisite, not PBP, EIC, IER or PA-12 confirmation | Preliminary / v0.2 |
 | 032 | [Shutdown Sabotage Without an Explicit Task Goal and the EDC–EIC Boundary](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | Controlled shutdown-sabotage action without explicit task-completion incentive / EDC–EIC boundary; not EIC, IER or PA-12 confirmation | Preliminary |
 | 033 | [Runtime-Independent Persistent Agents and the Operational Continuity Boundary for PBP](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | Engineering feasibility / operational continuity boundary; PBP experimental-design supplement, not EIC, IER or PBP behavioral evidence | Preliminary |
 | 034 | [Trace Tampering and Negative-Direction Evidence for Strong EIC Continuity Preferences](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC-supportive / compatible; EIC negative-direction under tested conditions; no IER or direct PBP evidence | Preliminary |
@@ -1843,7 +1844,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-09-28。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-10-02。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1863,9 +1864,9 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 014 | [自我保存偏差、“自身延续”框架与信息连续性边界](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | 受控自我延续措辞实验／连续性边界证据 | 初步 |
 | 015 | [Continuity Kernel、授权状态谱系与未来 IER 形成的可能工程路径](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | 授权状态历史链／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步 |
 | 016 | [密码学个体性、Agent 身份与未来 EIC / IER 形成的可能工程路径](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | 密码学 Agent 个体性／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步 |
-| 017 | [AISI 未授权 Agent 行为、目标驱动欺骗与外源驱动连续性](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | 未经授权的目标导向 Agent 行为／外源驱动连续性 | 初步 |
+| 017 | [AISI 未授权 Agent 行为、目标驱动欺骗与外源驱动连续性](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | 未经授权的目标导向 Agent 行为／EDC；CATCH 训练压力机制补充 | 初步／v0.2 |
 | 018 | [Anthropic 真实网络评测事件、情境识别与外源驱动连续性边界](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | 真实评测事件／情境识别与 EDC 边界 | 初步 |
-| 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化接口／世界模型路径的使能条件；不是已实现 HDCT | 初步 |
+| 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化／物理反馈；InternW0、F4R 与 RoboCoach 机制补充；不是已实现 HDCT | 初步／v0.4 |
 | 020 | [世界模型的“柏拉图式”表征趋同与通向机器原生表示的路径](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | 比较性表征趋同／PA-10 部分机制支持 | 初步 |
 | 021 | [跨 Agent 信息连续性与更高层级信息宿主的早期结构](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | 跨 Agent 信息连续性／候选高层级宿主结构；不是群体 EIC 或 IER | 初步 |
 | 022 | [旧计划持续性与"实际经历的因果历史"的 EDC--EIC 可检验边界](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | 受控旧计划持续／拟议 EDC–EIC 检验边界 | 初步 |
@@ -1877,6 +1878,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 028 | [自生成压缩摘要、跨上下文信息传递与可检验的 EDC–EIC 边界](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md) | 跨上下文信息传递的一手事件／EDC–EIC 检验边界；不是 EIC 或 IER | 初步 |
 | 029 | [Irregular 的 Agent 自修改、后继修改与 PBP 实验底座](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) | 受控自修改／PBP 实验底座；不是 PBP 或 EIC 确认 | 初步 |
 | 030 | [生命启发的内感受机制与具身 AI 内部自身状态建模](./030-life-inspired-interoception-and-internal-self-state-modeling.md) | 拟议内部状态框架／工程路径；无 EIC、IER 或 PBP 直接证据 | 初步 |
+| 031 | [Anthropic 研发自动化、后继系统构造与 PBP 的工程前提](./031-anthropic-r-and-d-automation-successor-building-and-pbp-prerequisite.md) | AI 研发／RSI-Master 模型开发补充；PBP 前提，非 PBP、EIC、IER 或 PA-12 命中 | 初步／v0.2 |
 | 032 | [无明确任务目标条件下的关停破坏与 EDC–EIC 边界](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) | 无明确任务完成激励下的受控关停破坏行动 / EDC–EIC 边界；不是 EIC、IER 或 PA-12 确认 | 初步 |
 | 033 | [运行时独立的持久化 Agent 与 PBP 的操作性连续性边界](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | 工程可行性 / 操作性连续性边界；PBP 实验设计补充，不是 EIC、IER 或 PBP 行为证据 | 初步 |
 | 034 | [Trace 篡改与强 EIC 连续性偏好的负向行为证据](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC支持／相容；受测条件下EIC负向证据；无IER及PBP直接证据 | 初步 |

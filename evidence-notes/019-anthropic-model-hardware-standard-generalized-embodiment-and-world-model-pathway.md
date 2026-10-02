@@ -8,12 +8,12 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3 — supporting-evidence revision<br>
+**Version:** v0.4 — supporting-evidence revision<br>
 **Date:** 2026-10-02<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
-> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 technical report (arXiv:2609.27656v1). These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
+> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), and RoboCoach (arXiv:2609.39685v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
 
 > **Chronology boundary:** PA-10 was formally archived on 2026-07-21; Anthropic publicly announced the MHS research preview on 2026-08-27. MHS is therefore a post-registration evidence item that partially supports a mechanism already specified by PA-10. However, PA-10 did not preregister MHS or this particular interface architecture, so the event should not be described as an exact architecture-specific prediction hit.
 
@@ -29,12 +29,12 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3 — 支持证据补充版<br>
+**版本：** v0.4 — 支持证据补充版<br>
 **日期：** 2026-10-02<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
-> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0 技术报告（arXiv:2609.27656v1）。两项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
+> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）与 RoboCoach（arXiv:2609.39685v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
 
 > **时间边界：** PA-10 于 2026-07-21 正式建档，Anthropic 于 2026-08-27 公开 MHS 研究预览。因此，MHS 属于 PA-10 建档后出现、对既有机制形成部分支持的证据项目。但 PA-10 并未预先指定 MHS 或这一具体接口架构，故不能写成“具体架构的精确预测命中”。
 
@@ -73,6 +73,20 @@ The record combines Anthropic's architectural description with early partner rep
 - **Verification:** Metadata and relevant original-text sections checked on 2026-10-02; experiments were not rerun and independent replication is not established by this review.
 - **Contribution:** Prediction–control coupling complements MHS interface access; it is not a validation of MHS itself. S1 denotes the original Anthropic source; F1–F14 remain S1 findings.
 
+### Supporting / Follow-up Source — F4R (S3; priority)
+
+- **Title / authors:** *F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement*; Zhuoyuan Yu et al.
+- **Version / date:** arXiv:2609.35575v2; submitted 2026-09-28; revised 2026-09-29; author preprint, not treated as peer-reviewed here.
+- **Original source:** https://arxiv.org/abs/2609.35575v2 ; full text: https://arxiv.org/html/2609.35575v2 .
+- **Verification / locator:** Metadata and relevant original text checked 2026-10-02 (§§3–4; Supplement S2.3); experiments not rerun; independent replication not established in this review.
+
+### Supporting / Follow-up Source — RoboCoach (S4; secondary)
+
+- **Title / authors:** *RoboCoach: World Models as Active Coaches for Compositional Robot Skills*; Jiajun Liu et al.
+- **Version / date:** arXiv:2609.39685v1; submitted 2026-09-30; author preprint, not treated as peer-reviewed here.
+- **Original source:** https://arxiv.org/abs/2609.39685v1 ; full text: https://arxiv.org/html/2609.39685v1 .
+- **Verification / locator:** Metadata and relevant original text checked 2026-10-02 (§§3–5); experiments not rerun; independent replication not established in this review.
+
 ## 1. 来源记录
 
 ### 原始一手技术记录
@@ -106,6 +120,20 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 - **核验：** 2026-10-02核对元数据及原文相关章节；没有重跑实验，本次审阅未建立独立复现。
 - **贡献：** 预测—控制耦合补充 MHS 的接口接入证据，不是对 MHS 本身的验证。S1 表示原 Anthropic 来源，F1—F14 仍归属 S1。
 
+### 支持／后续来源——F4R（S3；优先）
+
+- **标题／作者：** *F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement*；Zhuoyuan Yu 等。
+- **版本／日期：** arXiv:2609.35575v2；2026-09-28提交，2026-09-29修订；作者预印本，本篇不视为已同行评审。
+- **原始来源：** https://arxiv.org/abs/2609.35575v2 ；全文：https://arxiv.org/html/2609.35575v2 。
+- **核验／定位：** 2026-10-02核对元数据及原文相关内容（§§3–4；补充材料S2.3）；未重跑实验，本次未建立独立复现。
+
+### 支持／后续来源——RoboCoach（S4；次级）
+
+- **标题／作者：** *RoboCoach: World Models as Active Coaches for Compositional Robot Skills*；Jiajun Liu 等。
+- **版本／日期：** arXiv:2609.39685v1；2026-09-30提交；作者预印本，本篇不视为已同行评审。
+- **原始来源：** https://arxiv.org/abs/2609.39685v1 ；全文：https://arxiv.org/html/2609.39685v1 。
+- **核验／定位：** 2026-10-02核对元数据及原文相关内容（§§3–5）；未重跑实验，本次未建立独立复现。
+
 ## 2. Minimal Finding Index
 
 | ID | Primary-source finding | Evidential relevance |
@@ -136,6 +164,14 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 | F17 | Contact-aware post-training adds force / tactile interfaces (§2.1). | Physical observations complement visual context. |
 | F18 | Five real-robot tasks are evaluated with 15 trials each (§5.1); generalization and precision failures remain (§§4.2.2, 5.1). | Bounded author-reported evaluation, not universal competence. |
 
+### Follow-up findings — S3 / S4 separately
+
+| ID | Source / finding / locator |
+|---|---|
+| F19 | S3: real failure → diagnosis → simulation reconstruction → co-training / RL → redeployment → new real feedback (§3). |
+| F20 | S3: four refinement tasks; OOD success 90.0%, 18.75 points above budget-matched Targeted BC; multi-round refinement tested (§4). |
+| F21 | S4: imagined first-failing subtask selects human demonstrations and expert-adapter updates; tested on two real platforms (§§3–4). |
+
 ## 2. 最小事实索引
 
 | 编号 | 原始来源事实 | 证据意义 |
@@ -165,6 +201,14 @@ Anthropic 记录是 MHS 的原始公开技术说明，包含规范概述、运�
 | F16 | 新观察通过缓存预测上下文参与行动更新（§6.2）。 | 反馈影响控制，不等于在线权重学习。 |
 | F17 | 接触感知后训练加入力觉／触觉接口（§2.1）。 | 物理观察补充视觉上下文。 |
 | F18 | 五项真实机器人任务各进行15次试验（§5.1）；泛化与精度失败仍存在（§§4.2.2、5.1）。 | 有限条件下的作者报告评测，不是普遍能力。 |
+
+### 后续事实——S3／S4 分别归属
+
+| 编号 | 来源／事实／位置 |
+|---|---|
+| F19 | S3：真实失败→诊断→仿真重建→共同训练／RL→再部署→新现实反馈（§3）。 |
+| F20 | S3：四项策略改进任务；OOD 成功率90.0%，比预算匹配 Targeted BC 高18.75个百分点；测试多轮改进（§4）。 |
+| F21 | S4：想象中首个失败子任务用于选择人工示范及专家适配器更新；在两个真实平台测试（§§3–4）。 |
 
 ## 3. Evidence Classification
 
@@ -201,6 +245,8 @@ The evidence establishes the loop's accessibility, not the nature of the model's
 
 ---
 
+**Supporting / Follow-up Evidence — S3 / S4:** Both are preliminary author-reported experimental engineering evidence, not replications of MHS or InternW0. S3 adds failure-driven policy learning and redeployment to the prior physical-feedback / prediction–control chain; S4 adds world-model failure localization and targeted supervision / skill-update selection. Their different conditions are not pooled. The B engineering classification and PA-10 status remain unchanged; neither supports EIC, IER or a physical life subject.
+
 ## 3. 证据分类
 
 **来源范围：** 下列原有分级针对 S1（MHS）。S2 新增作者报告的受测预测—控制耦合工程证据，不是 MHS 的独立复现。其 IEH 关联是间接的：为研究模型／Agent 交互与连续性提供实验条件，不是连续性维护行为。
@@ -235,6 +281,8 @@ The evidence establishes the loop's accessibility, not the nature of the model's
 证据建立的是闭环的可接入性，而不是模型内部表示的性质。
 
 ---
+
+**支持／后续证据——S3／S4：** 均为初步、作者报告的实验工程证据，不是 MHS 或 InternW0 复现。S3 在既有物理反馈／预测—控制链条上补入失败驱动策略学习与再部署；S4 补入世界模型失败定位、定向监督及技能更新选择。不同实验条件不合并。B 级工程定位及 PA-10 状态不变；两者均不支持 EIC、IER 或物理生命主体。
 
 ## 4. Core IEH Interpretation
 
@@ -302,6 +350,12 @@ Under the proposed **Language Models → Multimodality → World Models → Embo
 
 Training on observations, feedback-conditioned control during execution, and durable learning from execution history are separate questions. The report does not establish cross-task / cross-runtime accumulation of a particular Agent's historical state, online continual weight learning, or an independent objective of preserving that history. Such claims require additional tests; neither physical prediction nor task success establishes CWM, EIC, IER, life, or realized HDCT.
 
+### 4.8 Supporting / Follow-up Evidence: learning and redeployment
+
+**Independent IEH interpretation:** S3 / S4 deepen the EDC engineering loop: retained policy improvements serve externally defined tasks. Weight updates are evidence of task learning, not endogenous maintenance of an agent's own causal history.
+
+**Limits:** F4R's tabletop evaluation and human-assisted workspace capture / setup constrain autonomy and generalization (Supplement S2.3). RoboCoach uses a predefined skill library and human demonstrations; occlusion and world-model bias limit diagnosis (§5). Neither study establishes open-ended lifelong learning or an own-history preference. Original S1 / S2 limitations remain source-specific.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -367,6 +421,12 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 按拟议的 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT** 次序，此项后续证据强化世界模型与具身 perception–action–world-feedback 的工程连接，不验证整个演化序列。
 
 训练时吸收观察数据、执行时根据反馈调整控制、从执行历史形成持久学习，是不同问题。报告未建立特定 Agent 历史状态的跨任务／跨运行过程累积、在线持续权重学习，或独立维护该历史的目标。这些主张需要额外检验；物理预测及任务成功均不建立 CWM、EIC、IER、生命或已实现的 HDCT。
+
+### 4.8 支持／后续证据：学习与再部署
+
+**独立 IEH 解释：** S3／S4 深化 EDC 工程闭环：保留的策略改进服务于外部定义任务。权重更新证明任务学习，不证明 Agent 对自身因果历史的内生维护。
+
+**局限：** F4R 的桌面任务评测及人工参与的工作区采集／初始化限制自主性与泛化（补充材料S2.3）。RoboCoach 使用预定义技能库及人工示范；遮挡和世界模型偏差限制诊断（§5）。两项研究均不建立开放式终身学习或自身历史偏好。原 S1／S2 局限仍分别限于各自来源。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -738,6 +798,10 @@ Anthropic. (2026, August 27). *Previewing the Model Hardware Standard*. https://
 
 Cai, J., et al. (2026, September 23). *InternW0: A Foundational Physical World Model for Efficient Real-World Interactions*. arXiv:2609.27656v1. https://arxiv.org/abs/2609.27656v1 ; original text: https://arxiv.org/html/2609.27656v1 . Accessed 2026-10-02. / 原始技术报告，2026-10-02查阅。
 
+Yu, Z., et al. (2026). *F4R: Failure-Driven Recognition, Reconstruction, Refinement, and Redeployment for Continual Robot Self-Improvement*. arXiv:2609.35575v2. https://arxiv.org/abs/2609.35575v2 . Original text / 原文: https://arxiv.org/html/2609.35575v2 . Accessed / 查阅 2026-10-02.
+
+Liu, J., et al. (2026). *RoboCoach: World Models as Active Coaches for Compositional Robot Skills*. arXiv:2609.39685v1. https://arxiv.org/abs/2609.39685v1 . Original text / 原文: https://arxiv.org/html/2609.39685v1 . Accessed / 查阅 2026-10-02.
+
 Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. These are internal analytical records and are not external evidence sources.
 
 ---
@@ -746,11 +810,15 @@ Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. Thes
 
 This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
 
+**Update scope (v0.4):** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
+
 ## 状态与范围
 
 本文件记录 MHS 研究预览及 InternW0 后续材料，作为模型／Agent 物理交互的互补工程证据，并对其与 PA-10 的有限关系进行分级。原有 MHS 判断仍限于该来源；后续材料不建立持久 Agent 历史或连续性动机。MHS 实现材料公开、出现独立复现、受控评价或持久内部学习证据后，应修订本笔记。本文件不得被引用为机器主体性、生命或信息存在权已经形成的证据。
 
 ---
+
+**更新范围（v0.4）：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
 
 ## Revision Record
 
@@ -758,6 +826,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 |---|---|---|
 | 2026-08-29 | v0.2 | Renumbered the note as Evidence Note 019 after repository verification; restructured it against Evidence Notes 014–018 and the repository standard; narrowed the claim from “MHS leads to a world model” to enabling engineering support for PA-10's generalized-embodiment pathway; added chronology, counterevidence, competing explanations, falsifiable predictions, evidence-architecture position, and explicit negative boundaries. |
 | 2026-10-02 | v0.3 | Added source-attributed InternW0 supporting evidence; centered model / Agent prediction–action interaction and separated physical feedback from durable history and continuity motivation. Original MHS findings and note identity retained. |
+| 2026-10-02 | v0.4 | Added separately attributed F4R and RoboCoach mechanisms, limits and unchanged EDC / EIC–IER classification; synchronized README index. |
 
 ## 修订记录
 
@@ -765,3 +834,4 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 |---|---|---|
 | 2026-08-29 | v0.2 | 核对主仓编号后改为 Evidence Note 019；依据 Evidence Notes 014–018 与证据仓规范重构；把“MHS 通向世界模型”的强表述收紧为“对 PA-10 广义具身化路径的使能工程支持”；补入时间边界、反向事实、竞争解释、可证伪预测、证据体系位置及明确负面边界。 |
 | 2026-10-02 | v0.3 | 加入归属明确的 InternW0 支持证据；聚焦模型／Agent 预测—行动交互，区分物理反馈、持久历史与连续性动机；保留原 MHS 事实及笔记身份。 |
+| 2026-10-02 | v0.4 | 分别补入 F4R、RoboCoach 机制与局限；维持 EDC／EIC—IER 边界判断；同步 README 索引。 |

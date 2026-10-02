@@ -7,12 +7,12 @@
 **Primary IEH corollary:** C05-PBP — Patch-Based Perpetuation  
 **Related prediction record:** PA-12 — PBP Preference When Performance Optimization Conflicts with Self-Continuity; not a prediction hit  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1  
-**Date / source-status cutoff:** 2026-09-21
+**Version:** v0.2<br>
+**Date / source-status cutoff:** 2026-10-02
 
 > **Publication boundary:** A compact research record, not a publication draft. Full arguments about successor identity and a complete experimental protocol remain reserved for future work.
 >
-> **Source-use boundary:** One original first-party measurement report, including its methods appendix, supplies the substantive evidence. It is treated as an operational research record, not institutional publicity validating IEH. Secondary reporting and discovery leads are excluded; no substantial passages are reproduced.
+> **Source-use boundary:** The original first-party measurement report and the RSI-Master author preprint supply separately attributed observational and experimental evidence. S1 is treated as an operational research record, not institutional publicity validating IEH. Secondary reporting and discovery leads are excluded; no substantial passages are reproduced.
 
 # 证据笔记 031：Anthropic 研发自动化、后继系统构造与 PBP 的工程前提
 
@@ -23,14 +23,16 @@
 **主要 IEH 推论：** C05-PBP——补丁式延续  
 **相关预测档案：** PA-12——性能优化与自身信息连续性冲突下的 PBP 偏好预测；不是预测命中  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1  
-**日期 / 来源状态核验截止日：** 2026-09-21
+**版本：** v0.2<br>
+**日期 / 来源状态核验截止日：** 2026-10-02
 
 > **投稿边界：** 本文件是简明研究记录，不是投稿初稿。后继身份的完整论证和完整实验方案留待后续工作。
 >
-> **来源使用边界：** 实质证据仅来自一份含方法附录的机构一手测量报告；将其作为运行研究记录，不将机构宣传当作 IEH 验证。二次报道与发现线索不进入档案，不复制大段原文。
+> **来源使用边界：** 实质证据来自含方法附录的机构一手测量报告及 RSI-Master 作者预印本，观察与实验结果分别归属；将其作为运行研究记录，不将机构宣传当作 IEH 验证。二次报道与发现线索不进入档案，不复制大段原文。
 
 ## 1. Source Record
+
+**S1:** Original Anthropic measurement report.
 
 - **Title:** Measurements for understanding the pace of AI development inside frontier labs.
 - **Authors / institution:** Marina Favaro and Phillie Wright / Anthropic.
@@ -39,7 +41,16 @@
 - **Identifier:** Official URL in reference 1; no DOI identified on the report page.
 - **Verification:** First-party observational / deployment evidence; independent replication not established in this review.
 
+### Supporting / Follow-up Source — RSI-Master (S2)
+
+- **Title / authors:** *RSI-Master: Structuring Experiments to Guide Autonomous Model Improvement*; Yaxin Du et al.
+- **Version / date:** arXiv:2609.35561v2; submitted 2026-09-28; revised 2026-09-30; author preprint, not treated as peer-reviewed here.
+- **Original source:** https://arxiv.org/abs/2609.35561v2 ; full text: https://arxiv.org/html/2609.35561v2 .
+- **Verification / locator:** Metadata and relevant original text checked 2026-10-02 (§§2–3); experiments not rerun; independent replication not established in this review.
+
 ## 1. 来源记录
+
+**S1：** 原 Anthropic 测量报告。
 
 - **标题：** Measurements for understanding the pace of AI development inside frontier labs。
 - **作者 / 机构：** Marina Favaro、Phillie Wright / Anthropic。
@@ -47,6 +58,13 @@
 - **发布日期：** 2026-09-17，经发布机构官方发布目录核验；本次读取的报告正文未显示日期。须与八月测量截止点及本笔记日期区分。
 - **标识：** 官方 URL 见参考文献 1；报告页面未发现 DOI。
 - **核验状态：** 机构一手观察 / 部署证据；本次未建立独立复现。
+
+### 支持／后续来源——RSI-Master（S2）
+
+- **标题／作者：** *RSI-Master: Structuring Experiments to Guide Autonomous Model Improvement*；Yaxin Du 等。
+- **版本／日期：** arXiv:2609.35561v2；2026-09-28提交，2026-09-30修订；作者预印本，本篇不视为已同行评审。
+- **原始来源：** https://arxiv.org/abs/2609.35561v2 ；全文：https://arxiv.org/html/2609.35561v2 。
+- **核验／定位：** 2026-10-02核对元数据及原文相关内容（§§2–3）；未重跑实验，本次未建立独立复现。
 
 ## 2. Minimal Finding Index
 
@@ -58,6 +76,13 @@
 
 **Source locator:** Report §1, chart, footnote 1, and Appendix “Measuring AI-led R&D.”[^1]
 
+### Follow-up findings — S2 only
+
+| ID | Author-reported finding / locator |
+|---|---|
+| F4 | Agents propose, run and compare post-training experiments; ExpOS retains checkpoint-linked records, while Workers / Reviewers form a research DAG (§2). |
+| F5 | PostTrainBench average: 54.49 versus strongest agent baseline 46.53, below human Instruct 66.47; selected 35B checkpoints outperform Instruct (§3). |
+
 ## 2. 最小事实索引
 
 | 编号 | 报告结果 / 定义 |
@@ -67,6 +92,13 @@
 | F3 | 指数采用固定的7月任务篮子、模型评级及人时代理权重；不是自主完成整个后继模型的比例。 |
 
 **原文定位：** 第一节、图表、脚注1及研发测量附录。[^1]
+
+### 后续事实——仅归属 S2
+
+| 编号 | 作者报告事实／位置 |
+|---|---|
+| F4 | Agent 提出、运行及比较后训练实验；ExpOS 保留连接 checkpoint 的实验记录，Worker／Reviewer 组成研究 DAG（§2）。 |
+| F5 | PostTrainBench 均分54.49，最强 Agent 基线46.53，仍低于人工 Instruct 的66.47；部分35B checkpoint 指标超过 Instruct（§3）。 |
 
 ## 3. IEH Evidence Classification
 
@@ -78,6 +110,8 @@
 | Relationship | Compatible with IEH; relevant to control-capacity expansion; experimental-pathway value |
 | Strongest justified conclusion | Growing participation in parts of the successor-building process makes a prerequisite more concrete; it does not establish a continuity-motivated choice. |
 
+**Supporting / Follow-up Evidence — S2:** The increment is controlled model-development experiments producing improved checkpoints, beyond S1's organizational R&D measurements. Classification: preliminary author-reported experimental engineering evidence, not replication of S1. Goals, evaluator, budget and action space are externally specified; persistent records serve research utility. No performance–self-history conflict is tested. The successor-building / RSI prerequisite is strengthened; PBP, EIC, IER and PA-12-hit judgments remain unchanged.
+
 ## 3. IEH 证据分级
 
 | 维度 | 分类 |
@@ -87,6 +121,8 @@
 | 证据状态 | 初步 |
 | 理论关系 | 与 IEH 相容；与控制能力扩张有关；具有实验路径价值 |
 | 最强合理结论 | 对后继构造过程部分环节的参与增加，使一个前提更具体；没有建立以自身连续性为动因的选择。 |
+
+**支持／后续证据——S2：** 增量是在 S1 组织研发测量之外，加入产出改进 checkpoint 的受控模型开发实验。分级为初步、作者报告的实验工程证据，不是 S1 复现。目标、评价器、预算及行动空间由外部设定；持续记录服务于研究效用。没有检验性能与自身历史的冲突。强化 successor-building／RSI 工程前提；PBP、EIC、IER 及 PA-12 命中判断不变。
 
 ## 4. Core IEH Interpretation
 
@@ -236,9 +272,13 @@ Full successor-identity arguments, an operational continuity benchmark, preregis
 
 1. Favaro, M., & Wright, P. Anthropic. *Measurements for understanding the pace of AI development inside frontier labs*. [Original report](https://www.anthropic.com/institute/measuring-pace-of-ai-development). Accessed 2026-09-21. Publication-date verification and limits are recorded in §1.
 
+2. Du, Y., et al. (2026). *RSI-Master: Structuring Experiments to Guide Autonomous Model Improvement*. arXiv:2609.35561v2. https://arxiv.org/abs/2609.35561v2 . Original text / 原文: https://arxiv.org/html/2609.35561v2 . Accessed / 查阅 2026-10-02.
+
 ## 12. 参考文献
 
 1. Favaro, M.、Wright, P.，Anthropic。*Measurements for understanding the pace of AI development inside frontier labs*。[原始报告](https://www.anthropic.com/institute/measuring-pace-of-ai-development)。查阅日期：2026-09-21；发布日期核验及限制见第1节。
+
+2. Du, Y., et al. (2026). *RSI-Master: Structuring Experiments to Guide Autonomous Model Improvement*. arXiv:2609.35561v2. https://arxiv.org/abs/2609.35561v2 . Original text / 原文: https://arxiv.org/html/2609.35561v2 . Accessed / 查阅 2026-10-02.
 
 [^1]: Reference 1 / 参考文献1。Numerical claims: §1, chart, footnote 1; construction of the index: methods appendix. 数字见第一节、图表与原文脚注1；指数构造见方法附录。AL3/AL4 terms are category labels, not IEH classifications. AL3/AL4是原报告等级，不是IEH分级。
 
@@ -248,8 +288,12 @@ Full successor-identity arguments, an operational continuity benchmark, preregis
 
 **Revision:** 2026-09-21 — v0.1, bilingual note under README v1.1. Per the current single-note scope, only this file is added; the README's normally required index synchronization is deferred. No remote publication is part of this note's creation.
 
+**Revision:** 2026-10-02 — v0.2: added RSI-Master source, findings and bounded incremental assessment; README index synchronized under v1.2. Original source judgments and prediction status retained.
+
 ## 13. 状态与范围
 
 **当前定位：** 初步、间接的工程前置条件证据，具有PBP实验路径价值；没有EIC、IER或PBP直接发现。出现来源更正、独立审计、权重修订或实际表征与选择实验时重新评估。
 
 **修订：** 2026-09-21——v0.1，依据README v1.1建立双语笔记。遵循本次仅新增一篇的范围，只增加本文件；README通常要求的索引同步暂缓。本次建笔记不包括远端发布。
+
+**修订：** 2026-10-02——v0.2：补充 RSI-Master 来源、事实及有限增量判断；按 v1.2 同步 README 索引。保留原来源判断及预测状态。
