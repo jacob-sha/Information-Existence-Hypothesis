@@ -7,17 +7,17 @@
 **Document function:** Research record and evidence index  
 **Language:** English–Chinese bilingual  
 **Status:** Repository-wide mandatory standard  
-**Version:** v1.1  
-**Effective date:** 2026-07-19  
+**Version:** v1.2<br>
+**Effective date:** 2026-10-02<br>
 **Maintainer:** Jacob Sha  
 
 > **Core rule:** An Evidence Note records what the most authoritative primary source establishes, how that result may relate to IEH, what it does not establish, and how the proposed connection could be tested. It is not a publication draft and must not be written as proof of IEH.
 
-> **Primary-source-only rule:** News reports, institutional news releases, newsletters, social-media posts, search snippets, videos, podcasts, and other secondary materials may be used to discover an event, but they must not be archived, cited, linked, dated, or listed as evidence sources in an Evidence Note. The note must trace the lead back to the most authoritative original source and record only that source, or the minimum set of primary sources strictly necessary to establish the event.
+> **Primary-source-only rule:** News reports, institutional news releases, newsletters, social-media posts, search snippets, videos, podcasts, and other secondary materials may be used to discover an event, but they must not be archived, cited, linked, dated, or listed as evidence sources in an Evidence Note. The note must trace the lead back to the most authoritative original source and record the minimum authoritative primary-source set needed to support the findings and judgments included in the note. A note may contain multiple original studies addressing the same evidence question.
 
 > **核心规则：** 证据笔记只记录最权威原始出处实际建立了什么、该结果可能如何关联 IEH、它不能证明什么，以及这种理论关联应如何接受进一步检验。证据笔记不是投稿初稿，也不得写成对 IEH 的证明。
 
-> **只记录原始出处规则：** 新闻报道、机构新闻稿、通讯、社交媒体、搜索摘要、视频、播客及其他二次材料，可以用于发现事件，但不得作为证据来源进入证据笔记，不得在笔记中归档、引用、链接、记录日期或列入参考文献。必须沿线索追溯至最权威的原始出处，并且只记录该出处；只有在单一原始出处无法建立全部关键事实时，才可加入严格必要的最小原始来源集合。
+> **只记录原始出处规则：** 新闻报道、机构新闻稿、通讯、社交媒体、搜索摘要、视频、播客及其他二次材料，可以用于发现事件，但不得作为证据来源进入证据笔记，不得在笔记中归档、引用、链接、记录日期或列入参考文献。必须沿线索追溯至最权威的原始出处，记录足以支持笔记所收录事实与判断的最小权威原始来源集合。同一笔记可以纳入围绕同一证据问题的多项原始研究。
 
 ---
 
@@ -79,6 +79,8 @@ The evidence repository is **not** intended to:
 
 ## 2. Definition of an Evidence Note
 
+An Evidence Note is organized around a clearly defined, stable evidence claim, phenomenon category, or theoretical / operational boundary question, rather than necessarily around one paper or event. Multiple original studies may belong in the same note when they support, deepen, qualify, or challenge that question. Attribute each study's findings, conditions, limitations, and sources separately; the combined judgment must not exceed their supported scope.
+
 An Evidence Note is a compact, non-narrative research record containing five clearly separated layers:
 
 \[
@@ -122,6 +124,8 @@ These layers must not be blended.
 An Evidence Note should retain archival value even if the IEH interpretation is later revised or rejected.
 
 ### 2. 证据笔记的定义
+
+一篇 Evidence Note 围绕一个明确、稳定的证据命题、现象类别或理论／操作边界问题组织，不必限定于一篇论文或一次事件。多项原始研究若支持、深化、限定或挑战同一问题，可以纳入同一笔记。每项研究的事实、条件、局限和来源必须分别归属；笔记的综合判断不得超过这些研究实际支持的范围。
 
 证据笔记是一种简明、非叙事性的研究记录。完整研究流程包含五个清楚分离的层级：
 
@@ -170,35 +174,43 @@ An Evidence Note should retain archival value even if the IEH interpretation is 
 <a id="incremental-evidence-principle"></a>
 ## 2A. Incremental Evidence Principle
 
-Evidence Notes do not aim at quantity. Create a new standalone note only when a study adds a substantive theoretical or empirical increment relative to the existing evidence repository and satisfies at least one of the following criteria:
+Evidence Notes do not aim at quantity. Assess the contribution of new material separately from whether it needs a new note number. A new evidence claim is not required for a useful supplement.
 
-1. It identifies a new category of phenomenon not previously recorded.
-2. It crosses an IEH evidence level, for example from engineering feasibility / Externally Driven Continuity (EDC) to candidate Endogenous Information Continuity (EIC).
-3. It resolves a new theoretical or operational boundary question, such as a continuity boundary.
-4. It provides a new falsifiable experimental design or a valuable negative-direction / counterevidence baseline.
-5. It supplies a major counterexample or significant strengthening of an existing assessment, or requires revision of an existing IEH judgment.
+Prefer Supporting / Follow-up Evidence in the most relevant existing note when an original study contributes one or more of the following to the same question:
 
-If a study merely reconfirms known engineering facts such as Persistent Memory, Agent/Harness Self-Modification, or an Embodied Perception-Action Loop, or adds a similar case, do not assign a new note number. Where appropriate, retain it as Supporting / Follow-up Evidence in an existing Evidence Note, or record it only in the daily brief.
+1. Broader coverage across models, developer groups, tasks, environments, populations, or time conditions.
+2. Independent corroboration or replication.
+3. Deeper mechanisms or complementary evidence for a previously incomplete part of the evidence chain.
+4. Clearer theoretical or operational boundaries, or improved falsifiable tests.
+5. Important counterexamples, negative results, limitations, or findings requiring revision of the existing judgment.
 
-The core screening question is: **“Does this study change, extend, or substantively strengthen any judgment in the existing evidence-notes?”** If it does not and is merely another case, the default is not to create a standalone Evidence Note. Apply this principle before creating a note and when reviewing follow-up evidence.
+Each supplement must identify its original source, actual findings, increment relative to the existing record, limitations, and effect on the current judgment. Repeated reporting of the same study, paraphrases without new facts, and similar cases without substantive contribution do not justify supplementation.
 
-This admission rule supplements the existing evidence classification and IER-related boundaries; it does not replace or relax them. Strictly distinguish direct experimental findings, engineering feasibility, theoretical inspiration, and IEH-specific evidence. A purely theoretical paper must not be treated as empirical evidence about objective reality. Ordinary memory, Agent OS, or task-success results that remain driven by external objectives do not become EIC / IER evidence merely because more cases accumulate.
+Create a new standalone note only when the material forms a distinct claim, phenomenon category, boundary question, or falsifiable structure that cannot be appropriately accommodated in an existing note. Significant strengthening or a major counterexample to an existing claim should normally revise that note rather than receive a new number merely because it is important.
+
+Assess coverage, evidential strength, and the scope of the conclusion separately. More cases or citations do not automatically justify a broader or stronger conclusion. Results under different experimental conditions must not be pooled without a justified comparison. Multiple sources do not by themselves establish independence, general prevalence, or a common causal mechanism.
+
+This rule supplements the existing evidence-classification and topic-specific standards; it does not relax them. Keep observed findings, engineering feasibility, theoretical inference, and proposed tests separate.
 
 ### 2A. Evidence Note 增量原则
 
-Evidence Notes 不以数量为目标。只有当新研究相对现有证据库产生实质性理论或实证增量，并至少满足以下一种情况时，才新建独立笔记：
+Evidence Notes 不以数量为目标。新材料的补充价值与是否需要新编号，应分别判断；有用的补充不必提出新的证据命题。
 
-1. 出现此前未记录的新现象类别。
-2. 跨越 IEH 证据层级，例如从工程可行性 / 外源驱动连续性（EDC）推进到内生信息连续性（EIC）的候选证据（candidate EIC）。
-3. 解决新的理论或操作边界问题，例如 continuity boundary（连续性边界）。
-4. 提供新的可证伪实验结构，或有价值的负向 / 反证基线。
-5. 对已有判断提供重大反例、显著强化，或迫使修改现有 IEH 判断。
+同一问题的原始研究若提供以下一种或多种增量，应优先作为 Supporting / Follow-up Evidence（支持／后续证据）补入最相关的已有笔记：
 
-若只是重复证明 Persistent Memory、Agent/Harness Self-Modification、Embodied Perception-Action Loop 等已知工程事实，或只是增加类似案例，不应新建编号；应视情况作为已有 Evidence Note 的 Supporting / Follow-up Evidence（支持 / 后续证据），或只在日报中记录。
+1. 扩大模型、开发者体系、任务、环境、研究对象或时间条件的覆盖范围。
+2. 提供独立佐证或复现。
+3. 深化机制，或补足原有证据链中的不同环节。
+4. 澄清理论或操作边界，或改进可证伪检验。
+5. 提供重要反例、负向结果、限制，或要求修订原判断的发现。
 
-筛选时的核心问题是：**“这项研究是否改变、扩展或实质强化了现有 evidence-notes 中的某个判断？”** 若没有，只是又一个案例，原则上不新增独立 Evidence Note。今后新建笔记及审查后续证据时，均应先应用这一原则。
+每项补充必须说明原始来源、实际发现、相对于已有内容的增量、局限，以及对当前判断的影响。同一研究的重复报道、无新增事实的转述，以及没有实质贡献的类似案例，不构成补充理由。
 
-这一入库规则补充现有证据分级和 IER 相关边界，不替代或放宽它们。必须严格区分直接实验事实、工程可行性、理论启发和 IEH-specific evidence；纯理论论文不能当作客观现实的实证证据。普通 memory、Agent OS、task success 等若仍是外源目标驱动，不因案例增加而升级为 EIC / IER 证据。
+只有当新材料形成既有笔记无法适当容纳的独立命题、现象类别、边界问题或可证伪结构时，才新建独立笔记。对已有命题的显著强化或重大反例，原则上先修订原笔记，不能仅因材料重要而另建编号。
+
+证据覆盖范围、支持强度和结论适用范围应分别评估。不能仅因案例或引用数量增加，就扩大或强化结论；不同实验条件下的结果，须有充分比较依据才能合并。多项来源本身不证明研究独立性、总体发生率或共同因果机制。
+
+这一规则补充现有证据分级和专题规范，不放宽其要求。必须区分观察事实、工程可行性、理论推断和拟议检验。
 
 ---
 
@@ -249,9 +261,11 @@ Before creating a note:
 
 ### 3.3 Use the minimum necessary primary-source set
 
-The default is **one authoritative primary source**.
+Use the minimum authoritative primary-source set sufficient to support the findings and judgments actually included in the note; this is not a one-paper-per-note limit.
 
-Additional primary sources are allowed only when they are strictly necessary to establish distinct parts of the event, such as:
+Multiple independent original studies may be included when each makes a clear, non-redundant contribution to the same evidence question through broader coverage, corroboration, mechanism development, boundary clarification, or counterevidence. Record each study's contribution and limitations separately. A paper, its project page, and its dataset remain records of one study, not three independent studies.
+
+For a single event, complementary primary records may also be needed to establish distinct factual components, such as:
 
 - the original paper plus its underlying dataset;
 - an AI-generated proof plus an independent human verification paper;
@@ -260,7 +274,7 @@ Additional primary sources are allowed only when they are strictly necessary to 
 - a court judgment plus the authoritative docket record;
 - a deployment report plus independently auditable official operational data.
 
-Do not add sources merely because they are interesting, popular, explanatory, or supportive.
+Do not add a source merely because it is interesting, popular, explanatory, or agrees with the conclusion; identify its substantive contribution to the recorded question.
 
 ### 3.4 If no adequate primary source exists, do not create a public Evidence Note
 
@@ -334,9 +348,11 @@ Once the original source is found, the secondary material is removed from the ev
 
 #### 3.3 只使用严格必要的最小原始来源集合
 
-默认规则是：**只记录一个最权威原始出处。**
+使用足以支持笔记实际收录的事实与判断的最小权威原始来源集合；这不意味着每篇笔记只能引用一篇论文。
 
-只有在不同关键事实必须由不同原始材料分别建立时，才允许加入额外原始来源，例如：
+多项独立原始研究若通过范围拓广、独立佐证、机制深化、边界澄清或反证，对同一证据问题提供明确、非冗余的贡献，可以纳入同一笔记。分别记录各项研究的贡献和局限。一篇论文、其项目页及数据集仍属于同一项研究的记录，不能计作三项独立研究。
+
+对于同一次事件，也可能需要互补的原始材料分别建立不同关键事实，例如：
 
 - 原始论文及其基础数据集；
 - AI 生成的原始证明及独立人类验证论文；
@@ -345,7 +361,7 @@ Once the original source is found, the secondary material is removed from the ev
 - 法院判决及权威案卷记录；
 - 真实部署报告及可审计的官方运行数据。
 
-不得仅因为某个来源有趣、流行、解释清楚或支持结论，就将其加入证据笔记。
+不得仅因为某个来源有趣、流行、解释清楚或赞同结论，就将其加入证据笔记；必须说明其对所记录问题的实质贡献。
 
 #### 3.4 缺少充分原始出处时，不建立公开证据笔记
 
@@ -932,6 +948,7 @@ Unless a source type makes a section genuinely inapplicable, every file should c
 
 4. **Source Record**
    - record only authoritative primary sources;
+   - assign stable source identifiers when multiple studies are included, recording each study's conditions, verification status, and contribution;
    - title;
    - authors or issuing authority;
    - venue or official repository;
@@ -942,7 +959,8 @@ Unless a source type makes a section genuinely inapplicable, every file should c
    - replication or verification status.
 
 5. **Minimal Finding Index**
-   - compact factual summaries derived from the primary source;
+   - compact factual summaries attributed to specific original sources and source locations;
+   - preserve existing finding identifiers when adding follow-up findings;
    - no narrative reconstruction;
    - no unnecessary quotation;
    - no facts retained solely from secondary coverage.
@@ -956,7 +974,8 @@ Unless a source type makes a section genuinely inapplicable, every file should c
 
 7. **Core IEH Interpretation**
    - clearly labelled as IEH interpretation;
-   - distinguish observed result from theoretical inference.
+   - distinguish observed result from theoretical inference;
+   - include Supporting / Follow-up Evidence where applicable, stating the source, findings, increment, limitations, and effect on the existing judgment without duplicating the full structure.
 
 8. **What Is Not Established**
    - explicit negative boundaries.
@@ -1017,6 +1036,7 @@ Unless a source type makes a section genuinely inapplicable, every file should c
 
 4. **来源记录**
    - 只记录权威原始出处；
+   - 纳入多项研究时分配稳定来源编号，分别记录研究条件、核验状态和贡献；
    - 标题；
    - 作者或发布机关；
    - 期刊、官方仓库或正式平台；
@@ -1027,7 +1047,8 @@ Unless a source type makes a section genuinely inapplicable, every file should c
    - 复现或验证状态。
 
 5. **最小事实索引**
-   - 只根据原始出处编写压缩事实摘要；
+   - 将压缩事实摘要归属至具体原始来源及原文位置；
+   - 添加后续事实时保留原有事实编号；
    - 不进行叙事性重构；
    - 不进行不必要的直接引用；
    - 不保留仅来自二次报道的事实。
@@ -1041,7 +1062,8 @@ Unless a source type makes a section genuinely inapplicable, every file should c
 
 7. **IEH 核心解释**
    - 必须明确标注为 IEH 解释；
-   - 区分观察结果与理论推断。
+   - 区分观察结果与理论推断；
+   - 适用时加入 Supporting / Follow-up Evidence，说明来源、发现、增量、局限及对原判断的影响，无需重复整套结构。
 
 8. **尚未建立的结论**
    - 明确列出负面边界。
@@ -1565,7 +1587,7 @@ GitHub 正式文件名通常不带版本后缀，Git 历史是正式版本记录
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. [...]
 
-> **Source-use boundary:** This note records only the most authoritative primary source, or the minimum primary-source set strictly necessary to establish the event. News reports, institutional publicity, social-media posts, and other discovery leads are excluded from the evidence record. No substantial passage from the primary source is reproduced.
+> **Source-use boundary:** This note records the minimum authoritative primary-source set needed to support its findings and judgments. Multiple original studies may address the same question; their findings and limitations are attributed separately. News reports, institutional publicity, social-media posts, and other discovery leads are excluded from the evidence record. No substantial passage from the primary source is reproduced.
 
 ---
 
@@ -1583,7 +1605,7 @@ GitHub 正式文件名通常不带版本后缀，Git 历史是正式版本记录
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。[...]
 
-> **来源使用边界：** 本笔记只记录最权威的原始出处，或建立该事件所严格必要的最小原始来源集合。新闻报道、机构宣传、社交媒体和其他发现线索不进入证据档案。本文件不复制原始出处的大段表达。
+> **来源使用边界：** 本笔记记录足以支持所收录事实与判断的最小权威原始来源集合。多项原始研究可以围绕同一问题组织，各自的发现和局限分别归属。新闻报道、机构宣传、社交媒体和其他发现线索不进入证据档案。本文件不复制原始出处的大段表达。
 ```
 
 ### 15. 最低元数据模板
@@ -1628,6 +1650,11 @@ Before committing an Evidence Note, confirm all items below.
 - [ ] Replication or verification requirements are included
 - [ ] Counterevidence is recorded rather than omitted
 - [ ] Source limitations are stated fairly
+- [ ] New material has been matched to existing evidence questions before choosing supplementation or a new note
+- [ ] Each added study has a stated source, factual increment, limitations, and effect on the existing judgment
+- [ ] Independent studies are distinguished from multiple records or reports of the same study
+- [ ] Coverage, evidential strength, and conclusion scope have been assessed separately
+- [ ] Differences in experimental conditions are retained rather than silently pooled
 
 ### Copyright and publication isolation
 
@@ -1679,6 +1706,11 @@ Before committing an Evidence Note, confirm all items below.
 - [ ] 已说明复现或验证要求
 - [ ] 反向证据得到记录，而非被忽略
 - [ ] 已公平说明原始出处的限制
+- [ ] 已将新材料与既有证据问题匹配，再决定补充或新建
+- [ ] 每项新增研究均已说明来源、事实增量、局限和对原判断的影响
+- [ ] 已区分独立研究与同一研究的多个记录或报道
+- [ ] 已分别评估覆盖范围、支持强度和结论适用范围
+- [ ] 已保留实验条件差异，未无依据地合并结果
 
 #### 版权与投稿隔离
 
@@ -1706,7 +1738,7 @@ Before committing an Evidence Note, confirm all items below.
 
 ## 17. Update and Review Workflow
 
-Before creating a standalone note, apply the [Incremental Evidence Principle](#incremental-evidence-principle) to decide whether to create a new note, supplement an existing note, or retain the item only in the daily brief.
+Before creating or supplementing a note, apply the Incremental Evidence Principle (§2A). After primary-source verification, search existing notes for the same evidence question and compare findings, scope, conditions, and limitations. Record the increment and decide whether to supplement / revise an existing note, create a distinct note, or retain the item only in the daily brief. In a supplement, update only affected findings, judgments, sources, scope, and revision records; synchronize both languages.
 
 1. Capture the event as a private discovery lead.
 2. Identify the claim that may be relevant to IEH.
@@ -1736,7 +1768,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ### 17. 更新与审查流程
 
-新建独立笔记前，先按[增量原则](#incremental-evidence-principle)判断应新建笔记、补充已有笔记，还是仅在日报中记录。
+新建或补充笔记前，先应用第2A节增量原则。完成原始出处核验后，检索围绕同一证据问题的既有笔记，比较事实、范围、条件及局限。说明增量，再决定补充／修订已有笔记、新建独立笔记，还是仅在日报中记录。补充时只更新受影响的事实、判断、来源、范围和修订记录，并同步中英文。
 
 1. 将事件作为私人发现线索记录；
 2. 确认其中可能与 IEH 有关的具体主张；
