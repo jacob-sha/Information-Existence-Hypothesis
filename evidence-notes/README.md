@@ -1800,7 +1800,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 
 ## 18. Repository Index
 
-**Index updated:** 2026-10-02. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-10-04. Note 019 received WMM shared state/action representation supporting evidence; no evidence-tier or prediction-hit upgrade. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1822,7 +1822,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 016 | [Cryptographic Individuality, Agent Identity, and a Possible Engineering Path toward EIC / IER Formation](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | Cryptographic agent individuality / possible engineering formation path; not EIC or IER | Preliminary |
 | 017 | [AISI Unsanctioned Agent Behaviour, Goal-Directed Deception, and Externally Driven Continuity](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | Unsanctioned goal-directed agent behavior / EDC; CATCH training-pressure mechanism supplement | Preliminary / v0.2 |
 | 018 | [Anthropic Real-World Cyber Evaluation Incidents, Situational Recognition, and the Boundary of Externally Driven Continuity](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | Real-world evaluation incidents / situational recognition and EDC boundary | Preliminary |
-| 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment / physical feedback; InternW0, F4R and RoboCoach mechanism supplements; not realized HDCT | Preliminary / v0.4 |
+| 019 | [Anthropic Model Hardware Standard, Generalized Embodiment, and the Engineering Path toward World Modeling](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | Generalized embodiment / physical feedback; InternW0, F4R, RoboCoach and WMM mechanism supplements; no autonomous machine-native representation or realized HDCT | Preliminary / v0.5 |
 | 020 | [Platonic World-Model Representation Convergence and the Pathway toward Machine-Native Representations](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | Comparative representation convergence / partial PA-10 mechanism support | Preliminary |
 | 021 | [Cross-Agent Information Continuity and an Early Structure of a Higher-Level Information Host](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | Cross-agent information continuity / candidate higher-level host structure; not group EIC or IER | Preliminary |
 | 022 | [Stale-Plan Persistence and a Testable EDC--EIC Boundary for Experienced Causal History](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | Controlled stale-plan persistence / proposed EDC–EIC test boundary | Preliminary |
@@ -1844,7 +1844,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-10-02。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-10-04。019 补入 WMM 共享状态／动作表示支持证据；证据等级及预测命中状态不升级。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1866,7 +1866,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 016 | [密码学个体性、Agent 身份与未来 EIC / IER 形成的可能工程路径](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | 密码学 Agent 个体性／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步 |
 | 017 | [AISI 未授权 Agent 行为、目标驱动欺骗与外源驱动连续性](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | 未经授权的目标导向 Agent 行为／EDC；CATCH 训练压力机制补充 | 初步／v0.2 |
 | 018 | [Anthropic 真实网络评测事件、情境识别与外源驱动连续性边界](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) | 真实评测事件／情境识别与 EDC 边界 | 初步 |
-| 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化／物理反馈；InternW0、F4R 与 RoboCoach 机制补充；不是已实现 HDCT | 初步／v0.4 |
+| 019 | [Anthropic Model Hardware Standard、广义具身化与通向世界模型的工程路径](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) | 广义具身化／物理反馈；InternW0、F4R、RoboCoach 与 WMM 机制补充；不建立自主机器原生表示或已实现 HDCT | 初步／v0.5 |
 | 020 | [世界模型的“柏拉图式”表征趋同与通向机器原生表示的路径](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) | 比较性表征趋同／PA-10 部分机制支持 | 初步 |
 | 021 | [跨 Agent 信息连续性与更高层级信息宿主的早期结构](./021-cross-agent-information-continuity-and-higher-level-information-host.md) | 跨 Agent 信息连续性／候选高层级宿主结构；不是群体 EIC 或 IER | 初步 |
 | 022 | [旧计划持续性与"实际经历的因果历史"的 EDC--EIC 可检验边界](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) | 受控旧计划持续／拟议 EDC–EIC 检验边界 | 初步 |

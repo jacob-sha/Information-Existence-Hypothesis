@@ -8,12 +8,12 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.4 — supporting-evidence revision<br>
-**Date:** 2026-10-02<br>
+**Version:** v0.5 — supporting-evidence revision<br>
+**Date:** 2026-10-04<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
-> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), and RoboCoach (arXiv:2609.39685v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
+> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), RoboCoach (arXiv:2609.39685v1), and WMM (arXiv:2610.01742v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
 
 > **Chronology boundary:** PA-10 was formally archived on 2026-07-21; Anthropic publicly announced the MHS research preview on 2026-08-27. MHS is therefore a post-registration evidence item that partially supports a mechanism already specified by PA-10. However, PA-10 did not preregister MHS or this particular interface architecture, so the event should not be described as an exact architecture-specific prediction hit.
 
@@ -29,12 +29,12 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.4 — 支持证据补充版<br>
-**日期：** 2026-10-02<br>
+**版本：** v0.5 — 支持证据补充版<br>
+**日期：** 2026-10-04<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
-> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）与 RoboCoach（arXiv:2609.39685v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
+> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）、RoboCoach（arXiv:2609.39685v1）与 WMM（arXiv:2610.01742v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
 
 > **时间边界：** PA-10 于 2026-07-21 正式建档，Anthropic 于 2026-08-27 公开 MHS 研究预览。因此，MHS 属于 PA-10 建档后出现、对既有机制形成部分支持的证据项目。但 PA-10 并未预先指定 MHS 或这一具体接口架构，故不能写成“具体架构的精确预测命中”。
 
@@ -356,6 +356,18 @@ Training on observations, feedback-conditioned control during execution, and dur
 
 **Limits:** F4R's tabletop evaluation and human-assisted workspace capture / setup constrain autonomy and generalization (Supplement S2.3). RoboCoach uses a predefined skill library and human demonstrations; occlusion and world-model bias limit diagnosis (§5). Neither study establishes open-ended lifelong learning or an own-history preference. Original S1 / S2 limitations remain source-specific.
 
+### 4.9 Supporting / Follow-up Evidence — WMM (S5; 2026-10-04)
+
+**Source record:** Jiahui Lei, Qianqian Wang, Trevor Darrell, and Angjoo Kanazawa, *World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories*, arXiv:2610.01742v1, submitted 2026-10-01; author manuscript. The arXiv record and authors' project page report NeurIPS 2026 Spotlight acceptance. The paper supplies the technical evidence; the project page confirms venue status, not independent corroboration.
+
+**Source findings:** Sparse SE(3) trajectories cover articulated objects, bodies, hand–object interactions, scene and camera motion. Under fixed controller settings, robot states and action targets share this pose space (§2.1). Per-token-noise flow matching and context tokens allow prediction, infilling, MPC, inverse kinematics, retargeting, and policy inference through different observed/unknown masks (§§2–3). Six applications use benchmark-specific checkpoints, not one jointly trained model covering all applications (§3).
+
+**Increment / placement:** S1–S4 cover physical access, prediction–control coupling, and feedback-driven learning. S5 adds a concrete non-natural-language, machine-operable shared space for world state, robot self-state, and action. This complementary engineering mechanism fits Note 019; no new number is needed. Note 020 instead measures learned latent convergence; WMM does not replicate that result. Notes 011 / 013 concern experience and memory; 030 concerns internal regulation; 027 concerns communication; 035 concerns information degeneration.
+
+**Classification / independent IEH interpretation:** Preliminary author-reported computational experiments and engineering feasibility; indirect theoretical inspiration for **Embodiment → Machine-Native Representation** within **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT**. The strongest supported claim is a usable designed shared representation, not autonomous invention of a machine-native language. Human-selected SE(3) geometry and supervised learning provide a sufficient competing explanation. This is not IEH-specific evidence of EIC, IER, PBP, CWM, or realized HDCT. The B engineering tier and PA-10 prediction-hit status remain unchanged.
+
+**Limits / proposed test:** Independent replication is not established. Geometry/state inputs are required; general deformation and unseen-morphology generalization remain limited (§5). Cross-embodiment results do not establish open-ended transfer or a persistent physical information loop. Independent real-world tests on held-out morphologies, with matched data and compute against separate state/action representations, could strengthen the shared-space interpretation; failure or equal performance would weaken its proposed special advantage. Even success would require separate evidence of autonomously formed representations.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -427,6 +439,18 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 **独立 IEH 解释：** S3／S4 深化 EDC 工程闭环：保留的策略改进服务于外部定义任务。权重更新证明任务学习，不证明 Agent 对自身因果历史的内生维护。
 
 **局限：** F4R 的桌面任务评测及人工参与的工作区采集／初始化限制自主性与泛化（补充材料S2.3）。RoboCoach 使用预定义技能库及人工示范；遮挡和世界模型偏差限制诊断（§5）。两项研究均不建立开放式终身学习或自身历史偏好。原 S1／S2 局限仍分别限于各自来源。
+
+### 4.9 支持／后续证据——WMM（S5；2026-10-04）
+
+**来源记录：** Jiahui Lei、Qianqian Wang、Trevor Darrell、Angjoo Kanazawa，*World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories*，arXiv:2610.01742v1，2026-10-01提交；作者稿。arXiv 记录及作者项目页标注 NeurIPS 2026 Spotlight 录用。论文提供技术证据；项目页只核对会议状态，不构成独立佐证。
+
+**原始发现：** 稀疏 SE(3) 轨迹覆盖关节对象、人体、手—物交互、场景及相机运动。控制器设置固定时，机器人状态与动作目标共享这一位姿空间（§2.1）。逐 token 噪声的 flow matching 与 context tokens 通过不同已知／未知 masks 支持预测、补全、MPC、逆运动学、重定向及策略推理（§§2–3）。六类应用采用基准专属 checkpoints，并非一个联合训练模型覆盖全部应用（§3）。
+
+**实质增量／归档位置：** S1–S4 已覆盖物理接入、预测—控制耦合及反馈驱动学习；S5 新增世界状态、机器人自身状态和动作的非自然语言、机器可操作共享空间。这一互补工程机制可由 Note 019 容纳，无需新编号。Note 020 测量学习后的潜在表征趋同，WMM 不复现该结果。011／013 关注经验与记忆，030 关注内部调节，027 关注通信，035 关注信息退化。
+
+**分级／独立 IEH 解释：** 初步、作者报告的计算实验与工程可行性；对 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT** 中 **Embodiment → Machine-Native Representation** 提供间接理论启发。最强可支持结论是人为设计的共享表示可用于任务，不是机器自主创造了机器原生语言。人类选定的 SE(3) 几何与监督学习已构成充分竞争解释。它不是 EIC、IER、PBP、CWM 或已实现 HDCT 的 IEH-specific evidence。B 级工程定位及 PA-10 预测命中状态不变。
+
+**局限／拟议检验：** 尚无已建立的独立复现。依赖几何／状态输入，一般形变及未见形态泛化仍受限（§5）。跨具身结果不建立开放式迁移或持久物理信息闭环。以匹配数据与计算量，对未见形态开展独立真实环境测试，并与分离状态／动作表示比较：增益可增强共享空间解释；失败或表现相当则削弱其特殊优势。即使成功，仍须另外证明表示由机器自主形成。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -802,6 +826,8 @@ Yu, Z., et al. (2026). *F4R: Failure-Driven Recognition, Reconstruction, Refinem
 
 Liu, J., et al. (2026). *RoboCoach: World Models as Active Coaches for Compositional Robot Skills*. arXiv:2609.39685v1. https://arxiv.org/abs/2609.39685v1 . Original text / 原文: https://arxiv.org/html/2609.39685v1 . Accessed / 查阅 2026-10-02.
 
+Lei, J., Wang, Q., Darrell, T., & Kanazawa, A. (2026). *World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories*. arXiv:2610.01742v1. https://arxiv.org/abs/2610.01742v1 . Original text / 原文: https://arxiv.org/html/2610.01742v1 . Author project / 作者项目页（venue status / 会议状态）: https://jiahuilei.com/projects/wmm/ . Accessed / 查阅 2026-10-04.
+
 Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. These are internal analytical records and are not external evidence sources.
 
 ---
@@ -810,7 +836,7 @@ Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. Thes
 
 This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
 
-**Update scope (v0.4):** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
+**Update scope (v0.5):** WMM adds designed shared state/action representation feasibility (§4.9), not autonomously formed machine-native representations; evidence tier and prediction-hit status unchanged. **Prior v0.4 scope:** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
 
 ## 状态与范围
 
@@ -818,7 +844,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 
 ---
 
-**更新范围（v0.4）：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
+**更新范围（v0.5）：** WMM 补入人为设计的共享状态／动作表示可行性（§4.9），不是自主形成机器原生表示；证据等级及预测命中状态不变。**原 v0.4 范围：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
 
 ## Revision Record
 
@@ -827,6 +853,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-08-29 | v0.2 | Renumbered the note as Evidence Note 019 after repository verification; restructured it against Evidence Notes 014–018 and the repository standard; narrowed the claim from “MHS leads to a world model” to enabling engineering support for PA-10's generalized-embodiment pathway; added chronology, counterevidence, competing explanations, falsifiable predictions, evidence-architecture position, and explicit negative boundaries. |
 | 2026-10-02 | v0.3 | Added source-attributed InternW0 supporting evidence; centered model / Agent prediction–action interaction and separated physical feedback from durable history and continuity motivation. Original MHS findings and note identity retained. |
 | 2026-10-02 | v0.4 | Added separately attributed F4R and RoboCoach mechanisms, limits and unchanged EDC / EIC–IER classification; synchronized README index. |
+| 2026-10-04 | v0.5 | Added S5 WMM shared state/action representation, source-specific limits, incremental comparison and falsifiable test; unchanged B tier / PA-10 status; synchronized bilingual index. |
 
 ## 修订记录
 
@@ -835,3 +862,4 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-08-29 | v0.2 | 核对主仓编号后改为 Evidence Note 019；依据 Evidence Notes 014–018 与证据仓规范重构；把“MHS 通向世界模型”的强表述收紧为“对 PA-10 广义具身化路径的使能工程支持”；补入时间边界、反向事实、竞争解释、可证伪预测、证据体系位置及明确负面边界。 |
 | 2026-10-02 | v0.3 | 加入归属明确的 InternW0 支持证据；聚焦模型／Agent 预测—行动交互，区分物理反馈、持久历史与连续性动机；保留原 MHS 事实及笔记身份。 |
 | 2026-10-02 | v0.4 | 分别补入 F4R、RoboCoach 机制与局限；维持 EDC／EIC—IER 边界判断；同步 README 索引。 |
+| 2026-10-04 | v0.5 | 补入 S5 WMM 共享状态／动作表示、来源局限、增量比较及可证伪检验；B 级／PA-10 状态不变；同步双语索引。 |
