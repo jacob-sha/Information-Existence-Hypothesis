@@ -8,12 +8,12 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.5 — supporting-evidence revision<br>
-**Date:** 2026-10-04<br>
+**Version:** v0.6 — supporting-evidence revision<br>
+**Date:** 2026-10-05<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
-> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), RoboCoach (arXiv:2609.39685v1), and WMM (arXiv:2610.01742v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
+> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), RoboCoach (arXiv:2609.39685v1), WMM (arXiv:2610.01742v1), Magic-W0 (arXiv:2609.39870v1), and UniWAM (arXiv:2610.02054v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
 
 > **Chronology boundary:** PA-10 was formally archived on 2026-07-21; Anthropic publicly announced the MHS research preview on 2026-08-27. MHS is therefore a post-registration evidence item that partially supports a mechanism already specified by PA-10. However, PA-10 did not preregister MHS or this particular interface architecture, so the event should not be described as an exact architecture-specific prediction hit.
 
@@ -29,12 +29,12 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.5 — 支持证据补充版<br>
-**日期：** 2026-10-04<br>
+**版本：** v0.6 — 支持证据补充版<br>
+**日期：** 2026-10-05<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
-> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）、RoboCoach（arXiv:2609.39685v1）与 WMM（arXiv:2610.01742v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
+> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）、RoboCoach（arXiv:2609.39685v1）、WMM（arXiv:2610.01742v1）、Magic-W0（arXiv:2609.39870v1）与 UniWAM（arXiv:2610.02054v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
 
 > **时间边界：** PA-10 于 2026-07-21 正式建档，Anthropic 于 2026-08-27 公开 MHS 研究预览。因此，MHS 属于 PA-10 建档后出现、对既有机制形成部分支持的证据项目。但 PA-10 并未预先指定 MHS 或这一具体接口架构，故不能写成“具体架构的精确预测命中”。
 
@@ -368,6 +368,20 @@ Training on observations, feedback-conditioned control during execution, and dur
 
 **Limits / proposed test:** Independent replication is not established. Geometry/state inputs are required; general deformation and unseen-morphology generalization remain limited (§5). Cross-embodiment results do not establish open-ended transfer or a persistent physical information loop. Independent real-world tests on held-out morphologies, with matched data and compute against separate state/action representations, could strengthen the shared-space interpretation; failure or equal performance would weaken its proposed special advantage. Even success would require separate evidence of autonomously formed representations.
 
+### 4.10 Supporting / Follow-up Evidence — Magic-W0 and UniWAM (S6–S7; 2026-10-05)
+
+**Source records:** S6: Xuhua Chen et al., *Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence*, arXiv:2609.39870v1, submitted 2026-09-30. S7: Jiayi Chen et al., *UniWAM: Unified World-Action Model*, arXiv:2610.02054v1, submitted 2026-10-01. Both are author manuscripts; references and section locators below identify the original evidence.[^magic-w0][^uniwam]
+
+**S6 source findings:** Magic-W0 couples action generation with Current 3D Geometry, 3D Motion, and Future Semantics (§§3.1–3.2). Replacing action inputs changes these outputs; masking the 3D-to-semantics attention connection raises semantic prediction loss (§6.3). These are interventions within the trained architecture, not evidence that it autonomously invented its representation.
+
+**S7 source findings:** UniWAM integrates a physical reasoner, world generator, and action predictor (§4), with VQA, human egocentric, and robot supervision (§3). Low-level actions use shared natural-language templates (Appendix D). The authors report a log-linear data-scale fit within their tested co-training range (§5.3); it is not a universal evolution law.
+
+**Increment / evidence cluster:** S5 WMM supplies a designed shared state/action space; S6 adds structured internal physical prediction with intervention-tested information pathways; S7 adds joint reasoning–generation–action training while retaining language scaffolding. Together **WMM + Magic-W0 + UniWAM** form a complementary engineering evidence cluster within Note 019. Their different tasks, architectures, and supervision do not constitute mutual replication or a pooled performance result; no new note number is needed.
+
+**Classification / independent IEH interpretation:** Engineering feasibility and indirect theoretical inspiration only, under **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT**. The cluster makes the world-model/embodiment connection more concrete; the subsequent machine-native transition remains a hypothesis. S6 uses researcher-specified structure and pretrained visual-model latent supervision (§3.1); S7 retains human-language alignment. Designed objectives, prior models, and supervision are sufficient competing explanations. Neither study proves autonomously formed machine-native representations, EIC, IER, PBP, CWM, or realized HDCT. The B engineering tier and PA-10 prediction-hit status remain unchanged; independent replication is not established here.
+
+**Proposed test / revision trigger:** Independently compare coupled and uncoupled systems on held-out physical tasks with matched data, compute, and supervision; intervene on representations and measure both prediction and action effects. Absent gains would weaken the proposed coupling advantage. A separate longitudinal test must remove prescribed representation formats, track stable representations arising from the same system's embodied history, and test their causal role in later prediction/control. Failure to distinguish this from inherited priors or supervised task fitting would weaken the autonomous-representation interpretation; even success would not establish EIC/IER/PBP.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -451,6 +465,20 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 **分级／独立 IEH 解释：** 初步、作者报告的计算实验与工程可行性；对 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT** 中 **Embodiment → Machine-Native Representation** 提供间接理论启发。最强可支持结论是人为设计的共享表示可用于任务，不是机器自主创造了机器原生语言。人类选定的 SE(3) 几何与监督学习已构成充分竞争解释。它不是 EIC、IER、PBP、CWM 或已实现 HDCT 的 IEH-specific evidence。B 级工程定位及 PA-10 预测命中状态不变。
 
 **局限／拟议检验：** 尚无已建立的独立复现。依赖几何／状态输入，一般形变及未见形态泛化仍受限（§5）。跨具身结果不建立开放式迁移或持久物理信息闭环。以匹配数据与计算量，对未见形态开展独立真实环境测试，并与分离状态／动作表示比较：增益可增强共享空间解释；失败或表现相当则削弱其特殊优势。即使成功，仍须另外证明表示由机器自主形成。
+
+### 4.10 支持／后续证据——Magic-W0 与 UniWAM（S6–S7；2026-10-05）
+
+**来源记录：** S6：Xuhua Chen 等，*Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence*，arXiv:2609.39870v1，2026-09-30提交。S7：Jiayi Chen 等，*UniWAM: Unified World-Action Model*，arXiv:2610.02054v1，2026-10-01提交。两篇均为作者稿；下方参考文献及章节定位指向原始证据。[^magic-w0][^uniwam]
+
+**S6 原始发现：** Magic-W0 将动作生成与 Current 3D Geometry、3D Motion、Future Semantics 耦合（§§3.1–3.2）。替换动作输入会改变这些输出；屏蔽 3D→semantics 注意力连接会提高语义预测损失（§6.3）。这是训练后架构内部的干预，不证明系统自主创造了表示。
+
+**S7 原始发现：** UniWAM 整合 physical reasoner、world generator、action predictor（§4），使用 VQA、人类第一视角与机器人监督（§3）。低层动作采用共享自然语言模板（附录 D）。作者在受测联合训练数据范围内报告 log-linear 数据规模拟合（§5.3）；它不是普遍演化定律。
+
+**实质增量／证据簇：** S5 WMM 提供人为设计的共享状态／动作空间；S6 补入结构化内部物理预测及经干预检验的信息通路；S7 补入联合推理—生成—动作训练，同时保留语言支架。**WMM + Magic-W0 + UniWAM** 因而在 Note 019 内形成互补工程证据簇。任务、架构与监督不同，不构成相互复现或可合并的性能结果；无需新编号。
+
+**分级／独立 IEH 解释：** 仅为工程可行性及间接理论启发，严格遵循 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT**。证据簇使世界模型与具身化的连接更具体；后续机器原生转变仍是假说。S6 使用研究者规定的结构和预训练视觉模型潜在监督（§3.1）；S7 保留人类语言对齐。人为目标、先验模型与监督已构成充分竞争解释。两篇均不证明自主形成机器原生表征、EIC、IER、PBP、CWM 或已实现 HDCT。B 级工程定位及 PA-10 预测命中状态不变；本记录尚未建立独立复现。
+
+**拟议检验／修订触发条件：** 在匹配数据、计算量与监督条件下，独立比较耦合／非耦合系统在未见物理任务上的表现；干预表示，同时测量预测与动作影响。无增益会削弱耦合优势解释。另须纵向检验：移除预设表示格式，追踪同一系统具身历史中形成的稳定表示，并测试其对后续预测／控制的因果作用。若不能区分继承先验或监督任务拟合，则削弱自主表征解释；即使成功，也不建立 EIC／IER／PBP。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -828,6 +856,13 @@ Liu, J., et al. (2026). *RoboCoach: World Models as Active Coaches for Compositi
 
 Lei, J., Wang, Q., Darrell, T., & Kanazawa, A. (2026). *World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories*. arXiv:2610.01742v1. https://arxiv.org/abs/2610.01742v1 . Original text / 原文: https://arxiv.org/html/2610.01742v1 . Author project / 作者项目页（venue status / 会议状态）: https://jiahuilei.com/projects/wmm/ . Accessed / 查阅 2026-10-04.
 
+Chen, X., et al. (2026). *Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence*. arXiv:2609.39870v1 (submitted / 提交 2026-09-30). https://arxiv.org/abs/2609.39870v1 . Original text / 原文: https://arxiv.org/html/2609.39870v1 . Accessed / 查阅 2026-10-05.
+
+Chen, J., et al. (2026). *UniWAM: Unified World-Action Model*. arXiv:2610.02054v1 (submitted / 提交 2026-10-01). https://arxiv.org/abs/2610.02054v1 . Original text / 原文: https://arxiv.org/html/2610.02054v1 . Accessed / 查阅 2026-10-05.
+
+[^magic-w0]: Magic-W0 v1, §§3.1–3.2 (representation, supervision, coupling), §6.3 (action replacement and directed connection masking). / 表示、监督与耦合见 §§3.1–3.2；动作替换与定向连接屏蔽见 §6.3。https://arxiv.org/html/2609.39870v1
+[^uniwam]: UniWAM v1, §3 (data and supervision), §4 (architecture), §5.3 (tested scaling range), Appendix D (language-action templates). / 数据与监督见 §3；架构见 §4；受测规模范围见 §5.3；语言动作模板见附录 D。https://arxiv.org/html/2610.02054v1
+
 Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. These are internal analytical records and are not external evidence sources.
 
 ---
@@ -836,7 +871,7 @@ Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. Thes
 
 This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
 
-**Update scope (v0.5):** WMM adds designed shared state/action representation feasibility (§4.9), not autonomously formed machine-native representations; evidence tier and prediction-hit status unchanged. **Prior v0.4 scope:** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
+**Update scope (v0.6):** S6–S7 extend S5 into the WMM + Magic-W0 + UniWAM engineering cluster (§4.10); no autonomous-representation, evidence-tier, or prediction-hit upgrade. **Prior v0.5 scope:** WMM adds designed shared state/action representation feasibility (§4.9), not autonomously formed machine-native representations; evidence tier and prediction-hit status unchanged. **Prior v0.4 scope:** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
 
 ## 状态与范围
 
@@ -844,7 +879,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 
 ---
 
-**更新范围（v0.5）：** WMM 补入人为设计的共享状态／动作表示可行性（§4.9），不是自主形成机器原生表示；证据等级及预测命中状态不变。**原 v0.4 范围：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
+**更新范围（v0.6）：** S6–S7 与 S5 形成 WMM + Magic-W0 + UniWAM 工程证据簇（§4.10）；不升级自主表征、证据等级或预测命中判断。**原 v0.5 范围：** WMM 补入人为设计的共享状态／动作表示可行性（§4.9），不是自主形成机器原生表示；证据等级及预测命中状态不变。**原 v0.4 范围：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
 
 ## Revision Record
 
@@ -854,6 +889,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-02 | v0.3 | Added source-attributed InternW0 supporting evidence; centered model / Agent prediction–action interaction and separated physical feedback from durable history and continuity motivation. Original MHS findings and note identity retained. |
 | 2026-10-02 | v0.4 | Added separately attributed F4R and RoboCoach mechanisms, limits and unchanged EDC / EIC–IER classification; synchronized README index. |
 | 2026-10-04 | v0.5 | Added S5 WMM shared state/action representation, source-specific limits, incremental comparison and falsifiable test; unchanged B tier / PA-10 status; synchronized bilingual index. |
+| 2026-10-05 | v0.6 | Added source-attributed S6 Magic-W0 and S7 UniWAM after WMM, cluster interpretation, limits, tests, references and footnotes; B tier / PA-10 status unchanged; synchronized bilingual index. |
 
 ## 修订记录
 
@@ -863,3 +899,4 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-02 | v0.3 | 加入归属明确的 InternW0 支持证据；聚焦模型／Agent 预测—行动交互，区分物理反馈、持久历史与连续性动机；保留原 MHS 事实及笔记身份。 |
 | 2026-10-02 | v0.4 | 分别补入 F4R、RoboCoach 机制与局限；维持 EDC／EIC—IER 边界判断；同步 README 索引。 |
 | 2026-10-04 | v0.5 | 补入 S5 WMM 共享状态／动作表示、来源局限、增量比较及可证伪检验；B 级／PA-10 状态不变；同步双语索引。 |
+| 2026-10-05 | v0.6 | 在 WMM 后补入归属明确的 S6 Magic-W0 与 S7 UniWAM，形成证据簇；补齐边界、检验、原始引用和脚注；B 级／PA-10 状态不变；同步双语索引。 |
