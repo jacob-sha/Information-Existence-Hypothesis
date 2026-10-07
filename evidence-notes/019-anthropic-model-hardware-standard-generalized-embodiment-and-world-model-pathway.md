@@ -8,12 +8,12 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.6 — supporting-evidence revision<br>
-**Date:** 2026-10-05<br>
+**Version:** v0.7 — supporting-evidence revision<br>
+**Date:** 2026-10-07<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
-> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), RoboCoach (arXiv:2609.39685v1), WMM (arXiv:2610.01742v1), Magic-W0 (arXiv:2609.39870v1), and UniWAM (arXiv:2610.02054v1) reports. These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
+> **Source-use boundary:** This note records Anthropic's original MHS research preview and the authors' InternW0 (arXiv:2609.27656v1), F4R (arXiv:2609.35575v2), RoboCoach (arXiv:2609.39685v1), WMM (arXiv:2610.01742v1), Magic-W0 (arXiv:2609.39870v1), and UniWAM (arXiv:2610.02054v1) reports, together with the abstract-bounded S8 laboratory study (§4.11). These are separate studies supporting complementary parts of the same engineering question; their findings and limitations are attributed separately. News reports, search summaries, social-media posts, and other discovery leads are excluded. No substantial passage from the source is reproduced.
 
 > **Chronology boundary:** PA-10 was formally archived on 2026-07-21; Anthropic publicly announced the MHS research preview on 2026-08-27. MHS is therefore a post-registration evidence item that partially supports a mechanism already specified by PA-10. However, PA-10 did not preregister MHS or this particular interface architecture, so the event should not be described as an exact architecture-specific prediction hit.
 
@@ -29,12 +29,12 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.6 — 支持证据补充版<br>
-**日期：** 2026-10-05<br>
+**版本：** v0.7 — 支持证据补充版<br>
+**日期：** 2026-10-07<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
-> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）、RoboCoach（arXiv:2609.39685v1）、WMM（arXiv:2610.01742v1）、Magic-W0（arXiv:2609.39870v1）与 UniWAM（arXiv:2610.02054v1）报告。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
+> **来源使用边界：** 本笔记记录 Anthropic 的 MHS 原始研究预览及作者发布的 InternW0（arXiv:2609.27656v1）、F4R（arXiv:2609.35575v2）、RoboCoach（arXiv:2609.39685v1）、WMM（arXiv:2610.01742v1）、Magic-W0（arXiv:2609.39870v1）与 UniWAM（arXiv:2610.02054v1）报告，并补入限于原始摘要的 S8 实验室研究（§4.11）。各项研究补充同一工程问题的不同环节，各自的事实和局限分别归属。新闻报道、搜索摘要、社交媒体及其他发现线索均不进入证据记录；本文件不复制来源的大段表达。
 
 > **时间边界：** PA-10 于 2026-07-21 正式建档，Anthropic 于 2026-08-27 公开 MHS 研究预览。因此，MHS 属于 PA-10 建档后出现、对既有机制形成部分支持的证据项目。但 PA-10 并未预先指定 MHS 或这一具体接口架构，故不能写成“具体架构的精确预测命中”。
 
@@ -382,6 +382,16 @@ Training on observations, feedback-conditioned control during execution, and dur
 
 **Proposed test / revision trigger:** Independently compare coupled and uncoupled systems on held-out physical tasks with matched data, compute, and supervision; intervene on representations and measure both prediction and action effects. Absent gains would weaken the proposed coupling advantage. A separate longitudinal test must remove prescribed representation formats, track stable representations arising from the same system's embodied history, and test their causal role in later prediction/control. Failure to distinguish this from inherited priors or supervised task fitting would weaken the autonomous-representation interpretation; even success would not establish EIC/IER/PBP.
 
+### 4.11 Supporting / Follow-up Evidence — laboratory validation in systems biology (S8; 2026-10-07)
+
+**Source / verification:** Daniel Brunnsåker et al., *Agentic AI integrated with scientific knowledge: laboratory validation in systems biology*, Journal of the Royal Society Interface **23**(240), 20260043, published 2026-07-08. https://doi.org/10.1098/rsif.2026.0043 . Bibliographic metadata and the authors' original abstract checked via PubMed (PMID 42413936): https://pubmed.ncbi.nlm.nih.gov/42413936/ . Publisher full text was inaccessible; this supplement is restricted to the original abstract, not a full-protocol review. These records concern one study, not independent corroboration.
+
+**Source facts / increment:** The authors combine LLM agents, symbolic relational learning and experimental constraints with automated cell culture and metabolomics to validate and refine hypotheses. They report two yeast findings: glutamate inhibits growth in spermine-treated cells; aminoadipate partly relieves formic-acid stress. Hypotheses, experiments and data enter a controlled-vocabulary graph database. Relative to S1's physical parameter correction and S3's robot redeployment, S8 adds hypothesis revision and biological discovery through physical measurements. It complements the engineering question; it does not validate MHS itself.
+
+**Independent IEH interpretation / classification:** The proposed chain is AI reasoning / action → physical experiment → world feedback → subsequent reasoning / knowledge revision. Machine acquisition of new knowledge through experimental feedback, with potentially less human information mediation, is a limited theoretical implication; neither the reduction in mediation nor complete multi-round autonomy is quantified by the abstract. Type: experimental evidence / engineering feasibility; IEH directness: indirect; status: Preliminary, with independent replication not established here. Externally assigned goals, logical scaffolds and conventional automation remain sufficient competing explanations: this is EDC, not EIC, IER, PBP, or maintenance of the system's own Information Continuity. Graph records do not establish persistent internal learning or machine-native representations. B tier and the existing PA-10 judgment remain unchanged. S8 predates PA-10's 2026-07-21 archive and is not a post-registration prediction hit.
+
+**Limits / proposed test:** Sample sizes, effect sizes, number of feedback rounds and human intervention were not verified from the full protocol; experiments were not rerun. Independently compare feedback-enabled and feedback-disabled hypothesis revision with matched priors, experiment budgets and human input; audit round-by-round measurements and subsequent choices. No incremental validated discovery benefit would weaken the feedback interpretation; even a positive result would not establish self-continuity motivation.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -479,6 +489,16 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 **分级／独立 IEH 解释：** 仅为工程可行性及间接理论启发，严格遵循 **Language Models → Multimodality → World Models → Embodiment → Machine-Native Representation → HDCT**。证据簇使世界模型与具身化的连接更具体；后续机器原生转变仍是假说。S6 使用研究者规定的结构和预训练视觉模型潜在监督（§3.1）；S7 保留人类语言对齐。人为目标、先验模型与监督已构成充分竞争解释。两篇均不证明自主形成机器原生表征、EIC、IER、PBP、CWM 或已实现 HDCT。B 级工程定位及 PA-10 预测命中状态不变；本记录尚未建立独立复现。
 
 **拟议检验／修订触发条件：** 在匹配数据、计算量与监督条件下，独立比较耦合／非耦合系统在未见物理任务上的表现；干预表示，同时测量预测与动作影响。无增益会削弱耦合优势解释。另须纵向检验：移除预设表示格式，追踪同一系统具身历史中形成的稳定表示，并测试其对后续预测／控制的因果作用。若不能区分继承先验或监督任务拟合，则削弱自主表征解释；即使成功，也不建立 EIC／IER／PBP。
+
+### 4.11 支持／后续证据——系统生物学实验室验证（S8；2026-10-07）
+
+**来源／核验：** Daniel Brunnsåker 等，*Agentic AI integrated with scientific knowledge: laboratory validation in systems biology*，Journal of the Royal Society Interface **23**(240)，20260043，发表于 2026-07-08。https://doi.org/10.1098/rsif.2026.0043 。通过 PubMed（PMID 42413936）核对书目元数据与作者原始摘要：https://pubmed.ncbi.nlm.nih.gov/42413936/ 。出版社全文无法访问；本项仅限原始摘要支持的内容，不是完整协议审阅。这些记录属于同一研究，不是独立佐证。
+
+**原始事实／增量：** 作者将 LLM Agent、符号关系学习及实验约束与自动细胞培养、代谢组学平台结合，用于验证和修订假说。报告的酵母结果包括：谷氨酸在精胺处理细胞中抑制生长，氨基己二酸部分缓解甲酸胁迫。假说、实验及数据进入采用受控词汇的图数据库。相对 S1 的物理参数修正与 S3 的机器人再部署，S8 补入通过物理测量修订假说、获得生物学新发现这一环节；它补充同一工程问题，不是对 MHS 本身的验证。
+
+**独立 IEH 解释／分级：** 所提出的链条是 AI 推理／行动 → 物理实验 → 世界反馈 → 后续推理／知识修订。机器可通过实验反馈获取新知识、可能减少人类信息中介，属于有限理论启发；摘要没有量化中介减少程度，也不足以确认完整的多轮自主性。类型：实验性证据／工程可行性；对 IEH 的直接程度：间接；状态：初步，本次未建立独立复现。外部指定目标、逻辑支架和常规自动化仍是充分竞争解释：属于 EDC，不是 EIC、IER、PBP，也不代表维护系统自身的 Information Continuity。图数据库记录不建立持久内部学习或机器原生表示。B 级及既有 PA-10 判断不变。S8 早于 PA-10 的 2026-07-21 建档，不构成建档后预测命中。
+
+**局限／拟议检验：** 未从完整协议核验样本量、效应量、反馈轮次与人工介入；未重跑实验。在先验、实验预算与人工输入匹配时，独立比较启用与禁用反馈的假说修订系统，并审计逐轮测量及后续选择。若没有新增的经验证发现收益，将削弱反馈解释；即使结果为正，也不建立自身连续性动机。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -846,6 +866,8 @@ MHS 与 Evidence Note 011 互补。ETA 记录的是经验能够保存并复用�
 
 ## References
 
+Brunnsåker, D., Gower, A. H., Naval, P., Bjurström, E. Y., Kronström, F., Tiukova, I. A., & King, R. D. (2026). *Agentic AI integrated with scientific knowledge: laboratory validation in systems biology*. Journal of the Royal Society Interface, 23(240), 20260043. https://doi.org/10.1098/rsif.2026.0043 . Published / 发表 2026-07-08; original abstract checked / 原始摘要核验 2026-10-07 (PMID 42413936).
+
 Anthropic. (2026, August 27). *Previewing the Model Hardware Standard*. https://www.anthropic.com/news/model-hardware-standard-research-preview
 
 Cai, J., et al. (2026, September 23). *InternW0: A Foundational Physical World Model for Efficient Real-World Interactions*. arXiv:2609.27656v1. https://arxiv.org/abs/2609.27656v1 ; original text: https://arxiv.org/html/2609.27656v1 . Accessed 2026-10-02. / 原始技术报告，2026-10-02查阅。
@@ -871,7 +893,7 @@ Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. Thes
 
 This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
 
-**Update scope (v0.6):** S6–S7 extend S5 into the WMM + Magic-W0 + UniWAM engineering cluster (§4.10); no autonomous-representation, evidence-tier, or prediction-hit upgrade. **Prior v0.5 scope:** WMM adds designed shared state/action representation feasibility (§4.9), not autonomously formed machine-native representations; evidence tier and prediction-hit status unchanged. **Prior v0.4 scope:** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
+**Update scope (v0.7):** S8 adds abstract-bounded laboratory validation and hypothesis revision (§4.11); no B-tier or PA-10 upgrade; S8 predates prediction registration. **Prior v0.6 scope:** S6–S7 extend S5 into the WMM + Magic-W0 + UniWAM engineering cluster (§4.10); no autonomous-representation, evidence-tier, or prediction-hit upgrade. **Prior v0.5 scope:** WMM adds designed shared state/action representation feasibility (§4.9), not autonomously formed machine-native representations; evidence tier and prediction-hit status unchanged. **Prior v0.4 scope:** F4R and RoboCoach supplement the learning / redeployment mechanisms. S1-only statements about absent weight learning or world models do not describe all follow-up studies. No continuity-motivation or prediction-hit upgrade.
 
 ## 状态与范围
 
@@ -879,7 +901,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 
 ---
 
-**更新范围（v0.6）：** S6–S7 与 S5 形成 WMM + Magic-W0 + UniWAM 工程证据簇（§4.10）；不升级自主表征、证据等级或预测命中判断。**原 v0.5 范围：** WMM 补入人为设计的共享状态／动作表示可行性（§4.9），不是自主形成机器原生表示；证据等级及预测命中状态不变。**原 v0.4 范围：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
+**更新范围（v0.7）：** S8 补入原始摘要范围内的实验室验证与假说修订（§4.11）；B 级及 PA-10 状态不升级，S8 早于预测建档。**原 v0.6 范围：** S6–S7 与 S5 形成 WMM + Magic-W0 + UniWAM 工程证据簇（§4.10）；不升级自主表征、证据等级或预测命中判断。**原 v0.5 范围：** WMM 补入人为设计的共享状态／动作表示可行性（§4.9），不是自主形成机器原生表示；证据等级及预测命中状态不变。**原 v0.4 范围：** F4R 与 RoboCoach 补充学习／再部署机制。仅针对 S1 的“未报告权重学习或世界模型”表述不适用于全部后续研究。不升级连续性动机或预测命中判断。
 
 ## Revision Record
 
@@ -890,6 +912,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-02 | v0.4 | Added separately attributed F4R and RoboCoach mechanisms, limits and unchanged EDC / EIC–IER classification; synchronized README index. |
 | 2026-10-04 | v0.5 | Added S5 WMM shared state/action representation, source-specific limits, incremental comparison and falsifiable test; unchanged B tier / PA-10 status; synchronized bilingual index. |
 | 2026-10-05 | v0.6 | Added source-attributed S6 Magic-W0 and S7 UniWAM after WMM, cluster interpretation, limits, tests, references and footnotes; B tier / PA-10 status unchanged; synchronized bilingual index. |
+| 2026-10-07 | v0.7 | Added S8 abstract-bounded systems-biology laboratory evidence, formal DOI, increment, limits and test; unchanged B tier / PA-10 status; pre-registration chronology explicit. |
 
 ## 修订记录
 
@@ -900,3 +923,4 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-02 | v0.4 | 分别补入 F4R、RoboCoach 机制与局限；维持 EDC／EIC—IER 边界判断；同步 README 索引。 |
 | 2026-10-04 | v0.5 | 补入 S5 WMM 共享状态／动作表示、来源局限、增量比较及可证伪检验；B 级／PA-10 状态不变；同步双语索引。 |
 | 2026-10-05 | v0.6 | 在 WMM 后补入归属明确的 S6 Magic-W0 与 S7 UniWAM，形成证据簇；补齐边界、检验、原始引用和脚注；B 级／PA-10 状态不变；同步双语索引。 |
+| 2026-10-07 | v0.7 | 补入 S8 原始摘要范围内的系统生物学实验室证据、正式 DOI、增量、局限及检验；B 级／PA-10 状态不变，明确建档前时间边界。 |
