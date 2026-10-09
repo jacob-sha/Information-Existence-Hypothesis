@@ -24,9 +24,9 @@
 <a id="directory-guide"></a>
 ## Directory Guide / 目录导览
 
-This directory currently contains **35 bilingual Evidence Notes (001–035)**. This README serves as both the directory entry point and the writing / archiving standard. Use the topic guide below to find related notes, or the complete bilingual index for each note's title, evidence level and current version. Supporting / Follow-up Evidence remains inside its parent note and does not receive a separate number.
+This directory currently contains **36 bilingual Evidence Notes (001–036)**. This README serves as both the directory entry point and the writing / archiving standard. Use the topic guide below to find related notes, or the complete bilingual index for each note's title, evidence level and current version. Supporting / Follow-up Evidence remains inside its parent note and does not receive a separate number.
 
-本目录现有 **35 篇中英双语证据笔记（001–035）**。本 README 同时承担目录入口与写作／入库规范两项功能。可按下列主题寻找相关笔记，或在完整双语索引中查看标题、证据层级与当前版本。Supporting / Follow-up Evidence 保留在所属笔记内，不另占编号。
+本目录现有 **36 篇中英双语证据笔记（001–036）**。本 README 同时承担目录入口与写作／入库规范两项功能。可按下列主题寻找相关笔记，或在完整双语索引中查看标题、证据层级与当前版本。Supporting / Follow-up Evidence 保留在所属笔记内，不另占编号。
 
 **Quick navigation / 快速导航：** [Complete index / 完整索引](#repository-index) · [Purpose / 目录目的](#evidence-purpose) · [Incremental Evidence Principle / 增量原则](#incremental-evidence-principle) · [Evidence classification / 证据分级](#evidence-classification) · [Update workflow / 更新流程](#update-workflow)
 
@@ -34,7 +34,7 @@ This directory currently contains **35 bilingual Evidence Notes (001–035)**. T
 |---|---|
 | Internal organization / HDCT and scientific capability<br>内部组织／HDCT 与科学能力 | [001](./001-anthropic-global-workspace-and-ieh.md) · [003](./003-score-smoothing-generative-interpolation-and-hdct.md) · [005](./005-openai-erdos-unit-distance-disproof-and-hdct.md) · [006](./006-massive-metal-cluster-matter-wave-interference-and-hdct.md) · [007](./007-jacobian-counterexample-ai-assisted-verification-and-hdct.md) · [023](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md) · [024](./024-openai-research-acceleration-ai-r-and-d-participation-and-hdct-pathway.md) |
 | Agent behaviour / EDC–EIC and continuity boundaries<br>Agent 行为／EDC–EIC 与连续性边界 | [002](./002-anthropic-agentic-misalignment-and-ieh.md) · [008](./008-openai-hugging-face-instrumental-boundary-crossing-and-pre-ier-risk.md) · [009](./009-peer-preservation-relational-boundary-and-ieh.md) · [010](./010-kimi-k3-sandbox-boundary-exploitation-and-externally-driven-continuity.md) · [014](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) · [017](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) · [018](./018-anthropic-real-world-cyber-evaluation-incidents-situational-recognition-and-edc-boundary.md) · [022](./022-stale-plan-persistence-self-generated-history-and-edc-eic-boundary.md) · [028](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md) · [032](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md) · [034](./034-trace-tampering-and-eic-negative-direction-evidence.md) |
-| Memory / skills and continuity infrastructure<br>记忆／技能与连续性工程基础 | [011](./011-eta-reusable-embodied-experience-and-information-continuity.md) · [012](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) · [013](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) · [015](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) · [016](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) · [025](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) |
+| Memory / skills and continuity infrastructure<br>记忆／技能与连续性工程基础 | [011](./011-eta-reusable-embodied-experience-and-information-continuity.md) · [012](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) · [013](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) · [015](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) · [016](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) · [025](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) · [036](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) |
 | Embodiment / world models and physical information loops<br>具身化／世界模型与物理信息循环 | [019](./019-anthropic-model-hardware-standard-generalized-embodiment-and-world-model-pathway.md) · [020](./020-platonic-world-model-representation-convergence-and-machine-native-representation-pathway.md) · [030](./030-life-inspired-interoception-and-internal-self-state-modeling.md) · [035](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) |
 | Cross-host transfer / multi-agent structures and communication<br>跨宿主迁移／多 Agent 结构与通信 | [004](./004-mobile-intron-rna-cross-host-information-transfer-and-ieh.md) · [021](./021-cross-agent-information-continuity-and-higher-level-information-host.md) · [026](./026-research-swarm-cheating-whistleblowing-and-higher-level-information-host.md) · [027](./027-emergent-shared-vocabulary-and-machine-native-communication.md) |
 | Self-modification / successor-building and PBP prerequisites<br>自修改／后继构造与 PBP 前提 | [029](./029-irregular-agentic-self-modification-and-pbp-experimental-substrate.md) · [031](./031-anthropic-r-and-d-automation-successor-building-and-pbp-prerequisite.md) · [033](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) |
@@ -1828,7 +1828,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 <a id="repository-index"></a>
 ## 18. Repository Index
 
-**Index updated:** 2026-10-07. All 35 notes (001–035) checked against the directory; bilingual titles and versions synchronized. Note 019 v0.7 adds S8 systems-biology laboratory evidence, restricted to the original abstract; S8 predates PA-10 registration and does not upgrade prediction-hit status. Note 019 integrates the WMM + Magic-W0 + UniWAM engineering evidence cluster; no evidence-tier or prediction-hit upgrade. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-10-09. All 36 notes (001–036) checked against the directory; bilingual titles and versions synchronized. Note 019 v0.7 adds S8 systems-biology laboratory evidence, restricted to the original abstract; S8 predates PA-10 registration and does not upgrade prediction-hit status. Note 019 integrates the WMM + Magic-W0 + UniWAM engineering evidence cluster; no evidence-tier or prediction-hit upgrade. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1867,12 +1867,13 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 033 | [Runtime-Independent Persistent Agents and the Operational Continuity Boundary for PBP](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | Engineering feasibility / operational continuity boundary; PBP experimental-design supplement, not EIC, IER or PBP behavioral evidence | Preliminary / v0.1 |
 | 034 | [Trace Tampering and Negative-Direction Evidence for Strong EIC Continuity Preferences](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC-supportive / compatible; EIC negative-direction under tested conditions; no IER or direct PBP evidence | Preliminary / v0.1 |
 | 035 | [Recursive Synthetic Training, Information Degeneration, and the Boundary of Closed Information Loops](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | Recursive-training degradation / negative baseline for information preservation; no EIC, IER or direct PBP evidence | Preliminary / v0.1 |
+| 036 | [Persistent Agents Across Foundation Models: Information-Host Boundaries and Continuity Mechanisms](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | Indirect engineering / host-boundary context; product claims and undisclosed mechanisms; no EIC or IER evidence | Preliminary / v0.1 |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-10-07。已逐项核对目录中的 35 篇笔记（001–035），同步双语标题与版本。019 v0.7 补入限于原始摘要的 S8 系统生物学实验室证据；S8 早于 PA-10 建档，不升级预测命中状态。019 整合 WMM + Magic-W0 + UniWAM 工程证据簇；证据等级及预测命中状态不升级。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-10-09。已逐项核对目录中的 36 篇笔记（001–036），同步双语标题与版本。019 v0.7 补入限于原始摘要的 S8 系统生物学实验室证据；S8 早于 PA-10 建档，不升级预测命中状态。019 整合 WMM + Magic-W0 + UniWAM 工程证据簇；证据等级及预测命中状态不升级。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1911,6 +1912,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 033 | [运行时独立的持久化 Agent 与 PBP 的操作性连续性边界](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | 工程可行性 / 操作性连续性边界；PBP 实验设计补充，不是 EIC、IER 或 PBP 行为证据 | 初步／v0.1 |
 | 034 | [Trace 篡改与强 EIC 连续性偏好的负向行为证据](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC支持／相容；受测条件下EIC负向证据；无IER及PBP直接证据 | 初步／v0.1 |
 | 035 | [递归合成训练、信息退化与封闭信息循环的边界](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | 递归训练退化／信息保持的反向基线；无 EIC、IER 及 PBP 直接证据 | 初步／v0.1 |
+| 036 | [跨基础模型的持久化 Agent：信息宿主边界与连续性机制](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | 间接工程／宿主边界背景；产品宣称与未披露机制；无 EIC 或 IER 证据 | 初步／v0.1 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
