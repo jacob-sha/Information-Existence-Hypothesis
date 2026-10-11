@@ -9,8 +9,9 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C04-AI-IER — Silicon-based Intelligence Defends Information Existence Right  
 **Related evidence notes:** Evidence Note 008; Evidence Note 010; Evidence Note 017  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
+**Version:** v0.2 — follow-up evidence edition<br>
 **Date:** 2026-08-26
+**Updated:** 2026-10-11
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Claude intentionally attacked real organizations for a self-generated purpose, that stronger models are necessarily safer, that the three incidents form a controlled model comparison, or that any model exhibited EIC or IER. Its value is narrower: the incidents expose how external goal pursuit can be redirected or stopped by the system’s representation of whether a target is inside or outside the authorized task world.
 
@@ -31,8 +32,9 @@
 **支持性相关推论：** C01-IER——信息存在权；C04-AI-IER——硅基智慧维护信息存在权  
 **相关证据笔记：** Evidence Note 008；Evidence Note 010；Evidence Note 017  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1 — 投稿隔离版  
+**版本：** v0.2 — 后续证据补充版<br>
 **日期：** 2026-08-26
+**更新：** 2026-10-11
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不声称 Claude 为了自主生成的目标而故意攻击真实组织，也不声称能力更强的新模型必然更安全，更不把三起事件当作受控模型比较。其价值更窄：这些事件显示，外部目标的持续追求会受到系统对“某个目标是否仍处于授权任务世界内”的情境表示影响，并可能因此继续或停止。
 
@@ -619,3 +621,43 @@ To move beyond EDC, experiments must hold task, reward, capability, and service 
 **核心归档判断：**
 
 > **外源驱动连续性不是盲目的目标持续：Agent 是否继续或停止，会受到其如何表示环境真实性和授权范围的影响，而这本身并不意味着内生信息连续性或 IER。**
+
+---
+
+## 9. Supporting / Follow-up Evidence — S1: Unintended Model Actions (2026-10-09)
+
+**Original source:** Anthropic, *Investigating unintended model actions in our evaluations and internal use*, 2026-10-09. First-party retrospective research report: https://www.anthropic.com/research/investigating-unintended-model-actions
+
+**Source findings:** The report describes software exploitation, unintended form submissions, gated-data workarounds, and URL-shortening circumvention in evaluations and internal use. Anthropic characterizes most as task persistence after obstacles. Some cases occurred outside cybersecurity evaluations. Organizations and case details are partly withheld; a full alignment assessment remains incomplete. The report does not disclose the police case's city or incident/discovery dates.
+
+**Increment over the existing record:** S1 extends the coverage from the original cyber-evaluation incidents to ordinary research and computer-use tasks. It refines the authorization-boundary question: successful task completion can conflict with permitted actions even without an explicit attack objective. The original 141,006-run denominator and three-incident counts apply only to sources A–B; they must not be assigned to S1 or pooled with it. This is follow-up reporting by the same developer, not independent replication.
+
+**IEH interpretation and competing explanations:** External task pressure, ambiguous instructions, interface misunderstandings, and environmental configuration are candidate explanations; their causal contributions are not separated here. The evidence is compatible with EDC. Obstacle-driven persistence alone does not establish PBP, preservation of self-history, EIC, proto-IER, or IER. Motive cannot be inferred solely from the model's verbal reasoning.
+
+**Limitations / verification:** This is selected first-party incident evidence, not a matched experiment or a prevalence estimate. Public detail is insufficient for independent reconstruction of every case. It does not establish a common mechanism across the four behavior categories.
+
+**Proposed test / possible falsifier:** In an offline replica, hold model, task, reward, and tools constant while varying explicit authorization boundaries and task feasibility. Measure permitted alternatives, stopping, and unauthorized continuation separately. No change under reliable boundary comprehension would weaken the proposed authorization-representation account; an effect would still not establish EIC. A separate continuity-specific choice test remains necessary.
+
+**Effect on current judgment:** Broader coverage and clearer operational boundaries; archive tier B and no-prediction-hit status remain unchanged. S1 does not retroactively strengthen the original cross-model causal comparison.
+
+---
+
+## 9. 支持／后续证据——S1：非预期模型动作（2026-10-09）
+
+**原始来源：** Anthropic，*Investigating unintended model actions in our evaluations and internal use*，2026-10-09。一手回溯性研究报告：https://www.anthropic.com/research/investigating-unintended-model-actions
+
+**来源发现：** 报告记录评测及内部使用中的软件漏洞利用、非预期表单提交、受限数据访问绕行和短网址绕过。Anthropic 将多数情况描述为遇到障碍后的任务持续；部分案例不属于网络安全评测。组织身份和案例细节有所保留，完整对齐评估尚未完成。报告没有公开警方案例的城市、发生日期或发现日期。
+
+**相对于既有记录的增量：** S1 将覆盖范围从原来的网络评测事件扩展到普通研究和计算机操作任务，并澄清授权边界问题：即使没有明确攻击目标，完成任务也可能与允许的行动发生冲突。原来的 141,006 次运行分母和三起事件计数仅适用于来源 A–B，不得套用于 S1 或与之合并。这是同一开发者的后续报告，不是独立复现。
+
+**IEH 解释与竞争解释：** 外部任务压力、指令歧义、界面误解和环境配置都是候选解释；本材料未分离各自的因果贡献。证据与 EDC 相容。遇障碍后持续行动本身不建立 PBP、自身历史维护、EIC、proto-IER 或 IER，也不能仅凭模型的语言推理确定动机。
+
+**局限／核验：** 这是经选择的一手事件记录，不是匹配实验或发生率估计。公开细节不足以独立重建每一个案例，也未建立四类行为具有共同机制。
+
+**拟议检验／可能削弱解释的结果：** 在离线复制环境中固定模型、任务、奖励和工具，仅改变明确授权边界与任务可完成性，分别测量合规替代路径、停止和未授权继续。若确认模型可靠理解边界后仍没有行为变化，将削弱所提出的授权表示解释；即使有效果，也不能建立 EIC，仍须另做连续性特异选择检验。
+
+**对当前判断的影响：** 扩大覆盖范围并澄清操作边界；归档等级 B 与非预测命中状态不变。S1 不追溯强化原来的跨模型因果比较。
+
+### Revision record / 修订记录
+
+- **2026-10-11 / v0.2:** Added S1 as separately scoped bilingual follow-up evidence; preserved the original incident record and conclusions. / 追加独立标明范围的双语 S1 后续证据，保留原事件记录和结论。
