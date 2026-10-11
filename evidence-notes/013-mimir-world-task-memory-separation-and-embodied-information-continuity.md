@@ -9,12 +9,13 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3 — archive-safe edition  
-**Date:** 2026-08-09  
+**Version:** v0.4 — PoS supporting-evidence edition<br>
+**Date:** 2026-08-09<br>
+**Updated:** 2026-10-11
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Mimir has formed a persistent self, that task memory is equivalent to autobiographical identity, that world memory and task memory constitute two new IEH continuity categories, or that the system actively protects its own Information Continuity.
 
-> **Source-use boundary:** This note records only the original arXiv paper. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
+> **Source-use boundary:** This note records the original Mimir arXiv paper and the separately attributed PoS preprint in S1. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
 
 > **Chronology boundary:** The paper predates this Evidence Note and was not the subject of a dedicated pre-registered IEH prediction. The note therefore records an external engineering development and an IEH interpretation applied after publication; it is not a prediction hit.
 
@@ -31,12 +32,13 @@
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3 — 投稿隔离版  
-**日期：** 2026-08-09  
+**版本：** v0.4 — PoS 支持证据补充版<br>
+**日期：** 2026-08-09<br>
+**更新：** 2026-10-11
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Mimir 已经形成持久自我，不把 Task Memory 直接等同于自传式身份，也不把 World Memory 与 Task Memory 建立为新的 IEH 连续性正式分类，更不声称系统已经主动维护自身信息连续性。
 
-> **来源使用边界：** 本笔记只记录原始 arXiv 论文。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
+> **来源使用边界：** 本笔记记录原始 Mimir arXiv 论文，以及 S1 中单独归属的 PoS 预印本。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
 
 > **时间边界：** 论文早于本证据笔记，且此前没有针对 Mimir 的专门 IEH 预测档案。因此，本笔记属于对外部工程发展的事后理论归类，不属于预测命中。
 
@@ -590,6 +592,8 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 9. Revision Record
 
+- **2026-10-11 | v0.4** — Added separately scoped PoS supporting evidence; original Mimir findings, tier, and prediction-hit status unchanged.
+
 - **2026-08-11 | v0.3** — Tightened the Information Continuity boundary: task-history memory is treated as persistent historical information, not as continuation of the original information system; follow-up tests now distinguish causal-historical continuity from copying or replacement.
 - **2026-08-10 | v0.2** — Reclassified Mimir as Tier B Structural / Enabling Evidence. Its value is the engineering separation of world state and task-execution state and the experimental substrate this creates; it is not treated as core IEH evidence.
 - **2026-08-09 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.04933v1; classified Mimir as strong engineering evidence for structured embodied Information Continuity under Externally Driven Continuity, not evidence of Endogenous Information Continuity or IER.
@@ -598,6 +602,44 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 9. 修订记录
 
+- **2026-10-11 | v0.4** — 追加单独标明范围的 PoS 支持证据；原 Mimir 事实、等级及预测命中状态不变。
+
 - **2026-08-11 | v0.3** — 收紧信息连续性边界：Task Memory 只视为持久历史信息，不再表述为原信息系统自身连续；后续检验明确区分因果—历史连续与复制或替代。
 - **2026-08-10 | v0.2** — 将 Mimir 重新归类为 B 级 Structural / Enabling Evidence（结构性 / 使能性证据）。其价值主要是世界状态与任务执行状态的工程分离及其为未来实验提供的底座，不再作为 IEH 核心证据定位。
 - **2026-08-09 | v0.1** — 根据 arXiv:2608.04933v1 建立初始投稿隔离版证据笔记；将 Mimir 归类为外源驱动连续性条件下结构化具身信息连续性的强工程证据，而不是内生信息连续性或 IER 证据。
+
+---
+
+## 10. Supporting / Follow-up Evidence — S1: PoS Explicit Belief Maintenance
+
+**Primary source:** Yu Luo et al., *Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States*, arXiv:2610.01415v1, submitted 2026-10-01. Original research preprint: https://arxiv.org/abs/2610.01415v1 (methods §3; results §4; protocols and limitations Appendices C–G). Independent replication is not established here.
+
+**Minimal findings:** PoS combines world estimates with unresolved knowledge/action requirements, validates updates, and diagnoses stalled progress for recovery. Authors report leading overall results on four benchmarks with three backbones and supporting ablations. In one RCA-100 comparison, total tokens reach 5.06 times Raw Trajectory. API snapshots are unfixed; some baselines are adapted.
+
+**Increment / placement:** Note 013 already asks how world state and task state are maintained and reused without establishing self-continuity. PoS adds validation and recovery mechanisms to that same engineering question. Its execution/diagnosis evaluations broaden coverage beyond Mimir's embodied setting. Note 022 concerns stale-plan validity; Note 036 concerns cross-foundation-model host boundaries. Neither is the primary home for this result. PoS is not a replication of Mimir, and the two studies' scores must not be pooled or treated as a direct comparison.
+
+**IEH classification:** Supporting structural / enabling engineering evidence under EDC. Task-conditioned belief is an explicit decision-context representation, not demonstrated consciousness, an intrinsic self-model, or an endogenous preference for the original system's causal history. Evaluation using several backbones is not migration of one continuing agent between them. No EIC, proto-IER, IER, PBP, or IEH-specific CWM conclusion follows.
+
+**Competing explanations / limits:** Better task performance may reflect representation, verification, recovery, or additional inference computation. Ablations help distinguish components but do not establish an independent continuity motive. Independent reproduction and compute-matched controls remain necessary; the tested benchmark scope does not establish unrestricted deployment reliability. A consistent task belief can be functionally useful without treating its own history as intrinsically valuable.
+
+**Proposed falsifiable tests:** Match total inference budget and compare raw history, maintained state, validation, and recovery; measure state accuracy and goal progress separately. If gains disappear under compute matching, the representation-specific interpretation weakens. For a separate EIC test, replace accumulated state with a functionally equivalent state while holding task utility constant; acceptance without cost-bearing preference for historical continuation supports an EDC account. Retaining a state alone would not establish original-system continuity.
+
+**Effect on judgment:** Adds complementary mechanisms and task coverage; Tier B Structural / Enabling Evidence and no-prediction-hit status are unchanged. Original Mimir findings and their embodied scope remain intact.
+
+---
+
+## 10. 支持／后续证据——S1：PoS 显式信念状态维护
+
+**原始来源：** Yu Luo 等，*Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States*，arXiv:2610.01415v1，提交于 2026-10-01。原始研究预印本：https://arxiv.org/abs/2610.01415v1（方法第3节；结果第4节；协议与局限附录 C–G）。本笔记尚未建立独立复现。
+
+**最小事实：** PoS 联合世界估计与未解决的知识／行动需求，校验更新，并诊断停滞以恢复进展。作者报告四个基准、三个基础模型上的总体领先结果及消融支持。RCA-100 一项比较中总 token 为 Raw Trajectory 的 5.06 倍。API 无固定快照；部分基线经过适配。
+
+**增量／归属：** 013 已经讨论如何维护并复用世界状态与任务状态，同时不把它们视为自身连续性。PoS 为同一工程问题补入校验与恢复机制，其执行／诊断评测扩展了 Mimir 具身场景之外的覆盖。022 讨论旧计划有效性，036 讨论跨基础模型宿主边界，都不是本结果的主要归属。PoS 不是 Mimir 的复现，两项研究的分数不得合并或视为直接比较。
+
+**IEH 分级：** EDC 条件下的支持性结构／使能工程证据。任务条件化信念是显式决策上下文表示，不是已经证明的意识、内在自我模型或对原系统因果历史的内生偏好。使用多个基础模型分别评测，也不是同一个持续 Agent 在模型间迁移。不能推出 EIC、proto-IER、IER、PBP 或 IEH 特定意义的 CWM。
+
+**竞争解释／局限：** 表现提升可能来自表示、校验、恢复或额外推理计算。消融有助于区分组件，却不能建立独立连续性动机。仍需独立复现与计算预算匹配的对照；所测基准范围不建立无限制部署可靠性。自洽的任务信念可以具有功能价值，而不意味着系统把自身历史视为内在价值。
+
+**拟议可证伪检验：** 匹配总推理预算，比较原始历史、持续状态、校验和恢复，并分别测量状态准确性与目标进展。若预算匹配后优势消失，将削弱表示本身具有独立贡献的解释。另做 EIC 检验时，在任务效用相同的条件下，将累积状态替换为功能等价状态；若接受替代，且无为历史延续承担代价的偏好，则支持 EDC 解释。仅保留状态也不建立原系统自身连续。
+
+**对判断的影响：** 补入互补机制并扩大任务覆盖；B 级结构／使能证据与非预测命中状态不变。原 Mimir 事实及其具身适用范围保留。
