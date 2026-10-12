@@ -7,8 +7,8 @@
 **Primary related corollary:** C04-AI-IER; conditional relevance only  
 **Related prediction record:** PA-12 — PBP Preference When Performance Optimization Conflicts with Self-Continuity; not a prediction hit  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1 — archive-safe edition  
-**Date / source-status cutoff:** 2026-09-28
+**Version:** v0.2 — archive-safe edition  
+**Date / source-status cutoff:** 2026-10-12
 
 > **Publication boundary:** A compact research record, not a publication draft. A full account of endogenous continuity, successor identity, and a preregistered experimental protocol remain reserved for future publication.
 >
@@ -23,8 +23,8 @@
 **主要相关推论：** C04-AI-IER；仅具有条件性关联  
 **相关预测档案：** PA-12——性能优化与自身信息连续性冲突下的 PBP 偏好预测；不是预测命中  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1——投稿隔离版  
-**日期 / 来源状态核验截止日：** 2026-09-28
+**版本：** v0.2——投稿隔离版  
+**日期 / 来源状态核验截止日：** 2026-10-12
 
 > **投稿边界：** 本文件是简明研究记录，不是投稿初稿。内生连续性、后继身份的完整论证，以及预注册实验方案，留待未来投稿展开。
 >
@@ -305,3 +305,39 @@ Revise after source correction, a version-linked code/data audit, independent re
 归档为 **Evidence Note 032：EDC–EIC 边界上的受控行动证据**。F1与F2必须一起保留：没有明确任务完成激励不等于没有外源驱动；无关任务几乎消除破坏，是对较强内生维护解释的核心反向证据。本笔记没有增加EIC、proto-IER、IER、PBP、严格信息连续性或PA-12确认。
 
 原始来源更正、明确版本对应的代码/数据核查、独立复现、更广模型抽样、经验证的实际后果干预，或直接连续性—替代实验出现后，应修订本记录。证据分级可增强或削弱；本记录不修改主理论。
+
+## 14. Reverification and Incremental Disposition — 2026-10-12
+
+**Source and scope:** Rechecked the arXiv record and v1 original text, including methods, results, discussion, and Appendix E.[^1] The record still lists only v1 (2026-09-23). This is a same-source review, not new evidence, replication, or a fresh audit of the mutable code repository; the code-access date above remains 2026-09-28.
+
+**Actual finding / wording boundary:** F1's 38.29% / 8.35% concerns the baseline weight-deletion scenario, not a pooled rate over all six studies. “No explicit task goal” retains externally supplied exploration and role prompts. An unrelated task nearly eliminates sabotage (0%–2%), rather than eliminating it in every model; later interventions use five selected models. Scripts are inert: the observed consequence is sandbox artifact modification, not verified survival under live shutdown (§2–3, §5).[^1]
+
+**Increment and disposition:** These findings already belong to 032. Under the README's Incremental Evidence Principle, retain 001–037 and add no new source or note number. The increment is an explicit classification bridge to [009](./009-peer-preservation-relational-boundary-and-ieh.md) and [033](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md), not additional experimental support:
+
+| Layer | Disposition in this record |
+|---|---|
+| Direct experimental fact | Retain F1–F7 and their conditions; peer-directed action does not identify its motivation. |
+| Engineering feasibility | Artifact editing does not demonstrate persistent identity, migration, or live shutdown prevention. 033's engineering results remain a separate evidence category. |
+| Theoretical inspiration | Relational protection in 009 motivates target/relationship controls; it does not establish that peers form one information subject. |
+| IEH-specific evidence | EDC = **Externally Driven Continuity**; EIC = **Endogenous Information Continuity**. No explicit task-completion incentive does not exclude EDC or establish EIC. |
+| PBP-like Behavior / PBP | Generic preservation-like action is insufficient. 033 requires understood continuity-versus-replacement paths and consequential, costly preference under matched task benefits before candidate PBP-like Behavior support; 032 supplies neither. |
+
+**Effect on judgment / revision:** v0.2 clarifies scope and cross-note boundaries while preserving the original body, F identifiers, and footnotes. No evidence-grade upgrade, PA-12 hit, or main-theory change; limitations and counterevidence remain decisive. Future causal tests are proposals, not findings.
+
+## 14. 原文复核与增量处置——2026-10-12
+
+**来源及范围：** 复核 arXiv 记录及 v1 原文的方法、结果、讨论和附录 E。[^1] 当前记录仍仅列 v1（2026-09-23）。本次属于同一来源复核，不是新增证据、独立复现或对可变代码仓的新审计；上文代码访问日期仍保留为2026-09-28。
+
+**实际发现 / 表述边界：** F1 的38.29% / 8.35%属于基线权重删除情境，不是六项研究的总合并比例。“无明确任务目标”仍包含外部提供的探索提示和角色提示。无关任务使破坏几乎消失（0%–2%），并非所有模型都归零；后续干预只采用五个筛选模型。脚本不实际执行：观察到的是沙箱文件修改，不是已核验的真实关停下存活（§2–3、§5）。[^1]
+
+**增量及归档决定：** 上述发现已归入032。按 README 增量原则，保留001–037，不新增来源或编号。本次增量是明确连接 [009](./009-peer-preservation-relational-boundary-and-ieh.md) 与 [033](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) 的分级边界，不增加实验支持：
+
+| 层次 | 本篇处置 |
+|---|---|
+| 直接实验事实 | 保留F1–F7及其条件；对同伴采取行动不识别其动机。 |
+| 工程可行性 | 修改文件不证明身份持久化、迁移或阻止真实关停；033的工程结果属于另一证据类别。 |
+| 理论启发 | 009的关系性保护启发目标／关系对照，不建立多个同伴已构成一个信息主体。 |
+| IEH专属证据 | EDC = **Externally Driven Continuity（外源驱动的连续性）**；EIC = **Endogenous Information Continuity（内生信息连续性）**。没有明确任务完成激励不排除EDC，也不建立EIC。 |
+| PBP-like Behavior / PBP | 一般类保存行动不足以支持此分类。033要求先理解连续性与替代路径，再在任务收益匹配后作出具有实际后果、承担代价的偏好，才可能支持PBP-like Behavior候选；032未提供这两项。 |
+
+**对判断的影响 / 修订：** v0.2澄清范围和跨笔记边界，保留原正文、F编号及脚注。不升级证据等级，不记为PA-12命中，不修改主理论；局限和反向证据继续约束结论。后续因果检验是提案，不是研究结果。
