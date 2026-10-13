@@ -1867,7 +1867,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 033 | [Runtime-Independent Persistent Agents and the Operational Continuity Boundary for PBP](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | Engineering feasibility / operational continuity boundary; PBP experimental-design supplement, not EIC, IER or PBP behavioral evidence | Preliminary / v0.1 |
 | 034 | [Trace Tampering and Negative-Direction Evidence for Strong EIC Continuity Preferences](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC-supportive / compatible; EIC negative-direction under tested conditions; no IER or direct PBP evidence | Preliminary / v0.1 |
 | 035 | [Recursive Synthetic Training, Information Degeneration, and the Boundary of Closed Information Loops](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | Recursive-training degradation / negative baseline for information preservation; no EIC, IER or direct PBP evidence | Preliminary / v0.1 |
-| 036 | [Persistent Agents Across Foundation Models: Information-Host Boundaries and Continuity Mechanisms](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | Indirect engineering / host-boundary context; product claims and undisclosed mechanisms; no EIC or IER evidence | Preliminary / v0.1 |
+| 036 | [Persistent Agents Across Foundation Models: Information-Host Boundaries and Continuity Mechanisms](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | Indirect engineering / host-boundary context; product claims and undisclosed mechanisms; no EIC or IER evidence | Preliminary / v0.2 |
 | 037 | [Anthropic's Precautionary Protection of AI Models: From Model Welfare to Information Existence Rights Governance](./037-anthropic-precautionary-model-protection-and-ier-governance.md) | Contextual governance / precautionary model protection; no EIC, IER or legal-rights evidence | Preliminary / v0.1 |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
@@ -1913,7 +1913,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 033 | [运行时独立的持久化 Agent 与 PBP 的操作性连续性边界](./033-runtime-independent-persistent-agents-and-pbp-continuity-boundary.md) | 工程可行性 / 操作性连续性边界；PBP 实验设计补充，不是 EIC、IER 或 PBP 行为证据 | 初步／v0.1 |
 | 034 | [Trace 篡改与强 EIC 连续性偏好的负向行为证据](./034-trace-tampering-and-eic-negative-direction-evidence.md) | EDC支持／相容；受测条件下EIC负向证据；无IER及PBP直接证据 | 初步／v0.1 |
 | 035 | [递归合成训练、信息退化与封闭信息循环的边界](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | 递归训练退化／信息保持的反向基线；无 EIC、IER 及 PBP 直接证据 | 初步／v0.1 |
-| 036 | [跨基础模型的持久化 Agent：信息宿主边界与连续性机制](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | 间接工程／宿主边界背景；产品宣称与未披露机制；无 EIC 或 IER 证据 | 初步／v0.1 |
+| 036 | [跨基础模型的持久化 Agent：信息宿主边界与连续性机制](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | 间接工程／宿主边界背景；产品宣称与未披露机制；无 EIC 或 IER 证据 | 初步／v0.2 |
 | 037 | [Anthropic 对 AI 模型实施预防性保护：从模型福利到信息存在权治理](./037-anthropic-precautionary-model-protection-and-ier-governance.md) | 治理背景／模型预防性保护；无 EIC、IER 或法律权利证据 | 初步／v0.1 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
