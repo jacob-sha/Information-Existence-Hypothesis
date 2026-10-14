@@ -8,8 +8,8 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.7 — supporting-evidence revision<br>
-**Date:** 2026-10-07<br>
+**Version:** v0.8 — supporting-evidence revision<br>
+**Date:** 2026-10-15<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
@@ -29,8 +29,8 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.7 — 支持证据补充版<br>
-**日期：** 2026-10-07<br>
+**版本：** v0.8 — 支持证据补充版<br>
+**日期：** 2026-10-15<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
@@ -392,6 +392,18 @@ Training on observations, feedback-conditioned control during execution, and dur
 
 **Limits / proposed test:** Sample sizes, effect sizes, number of feedback rounds and human intervention were not verified from the full protocol; experiments were not rerun. Independently compare feedback-enabled and feedback-disabled hypothesis revision with matched priors, experiment budgets and human input; audit round-by-round measurements and subsequent choices. No incremental validated discovery benefit would weaken the feedback interpretation; even a positive result would not establish self-continuity motivation.
 
+### 4.12 Supporting / Follow-up Evidence — Gemini 4 Argon (S9; 2026-10-15)
+
+**Source / scope:** Kanishka Rao, *Gemini 4 Argon for Robotics*, Google Developers Blog, 2026-10-13: originating developer technical record, not independent validation.[^argon-tech] The originating Google release record separately reports the Apollo trial.[^argon-apollo] These describe one developer programme, not independent corroboration.
+
+**Findings:** Google reports 87% on ERQA under pure reasoning. Its internal cornhole demonstration maps human video into spatial coordinates, joint movement and simulation code; Apptronik Apollo reportedly achieved seven consecutive successful shots. ERQA is a reasoning benchmark, not a real-robot task success rate.
+
+**Increment:** Video-derived simulation and physical execution complement MHS interface access and S2–S7 prediction/control/redeployment. Keep within 019's existing question; no separate number. This broadens engineering coverage without validating MHS or upgrading its B tier / PA-10 judgment.
+
+**Limits / interpretation:** Developer-selected benchmark and internal demonstration; no independently audited denominator, failure distribution or general transfer rate established here. Physical task competence is EDC-compatible (EDC = Externally Driven Continuity), not EIC (Endogenous Information Continuity). No durable personal history or endogenous preservation preference is demonstrated.
+
+**Test / weakening condition:** Independently measure video-to-sim-to-real transfer over preregistered tasks, scenes and bodies against matched manual/simulation baselines, including failures and physical-model errors. Gains disappearing under scene changes weaken the generalization inference. Test continuity preferences separately; physical feedback alone cannot establish them. Cross-reference [038](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md): substrate replication and physical embodiment are different engineering questions.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -499,6 +511,18 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 **独立 IEH 解释／分级：** 所提出的链条是 AI 推理／行动 → 物理实验 → 世界反馈 → 后续推理／知识修订。机器可通过实验反馈获取新知识、可能减少人类信息中介，属于有限理论启发；摘要没有量化中介减少程度，也不足以确认完整的多轮自主性。类型：实验性证据／工程可行性；对 IEH 的直接程度：间接；状态：初步，本次未建立独立复现。外部指定目标、逻辑支架和常规自动化仍是充分竞争解释：属于 EDC，不是 EIC、IER、PBP，也不代表维护系统自身的 Information Continuity。图数据库记录不建立持久内部学习或机器原生表示。B 级及既有 PA-10 判断不变。S8 早于 PA-10 的 2026-07-21 建档，不构成建档后预测命中。
 
 **局限／拟议检验：** 未从完整协议核验样本量、效应量、反馈轮次与人工介入；未重跑实验。在先验、实验预算与人工输入匹配时，独立比较启用与禁用反馈的假说修订系统，并审计逐轮测量及后续选择。若没有新增的经验证发现收益，将削弱反馈解释；即使结果为正，也不建立自身连续性动机。
+
+### 4.12 支持／后续证据——Gemini 4 Argon（S9；2026-10-15）
+
+**来源／范围：** Kanishka Rao，*Gemini 4 Argon for Robotics*，Google Developers Blog，2026-10-13；采用开发团队原始技术记录，非独立验证。[^argon-tech] Apollo 试验另归属 Google 原始发布记录。[^argon-apollo] 两者属于同一开发计划，不是独立佐证。简报标题属于介绍性标题，本次采用技术原文实际标题。
+
+**事实：** Google 报告 Argon 在 ERQA 的纯推理测试中得分87%。内部沙包投掷演示由人类视频提取空间坐标、关节运动并生成仿真代码；据报告，Apptronik Apollo 连续七次投中。87%为推理基准分数，不是真实机器人任务成功率；七次连续投中也不构成跨场景总体成功率。
+
+**增量：** 视频生成仿真并转化为物理执行，补充 MHS 接口接入及 S2–S7 的预测／控制／再部署，仍回答019既有问题，因此不另编号。扩大工程覆盖，不验证 MHS，也不升级 B 级／PA-10 判断。
+
+**局限／解释：** 开发方选定基准和内部演示；本篇未建立经独立审计的总试验分母、失败分布或一般迁移率。物理任务能力与 EDC（Externally Driven Continuity，外部驱动连续性）相容；不建立 EIC（Endogenous Information Continuity，内生信息连续性）。没有证明持久个人历史或内生保存偏好。
+
+**检验／削弱条件：** 预注册任务、场景与本体，独立比较视频→仿真→真实执行与匹配的人工／仿真基线，报告失败及物理模型误差。场景变化后收益消失，削弱泛化判断。连续性偏好须另行检验，物理反馈不能代替它。参见[038](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md)：载体复制与物理具身化是不同工程问题。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -889,6 +913,9 @@ Internal IEH cross-references: C02-HDCT; PA-10; Evidence Notes 011 and 013. Thes
 
 ---
 
+[^argon-tech]: Kanishka Rao, [Gemini 4 Argon for Robotics](https://developers.googleblog.com/gemini-4-argon-for-robotics/), 2026-10-13; opening ERQA paragraph and Real2Sim sections. Checked 2026-10-15 / 开头ERQA段及Real2Sim节，2026-10-15核验。Original developer technical account / 开发者原始技术记录。
+[^argon-apollo]: Google, [Gemini 4 Argon is now available for everyone](https://blog.google/intl/en-in/products/introducing-gemini-4-argon/), 2026-10-13, “Speeding up robotics development.” Only the originating internal-trial description is used / 仅采用原始内部试验说明。Checked 2026-10-15; no independent replication / 核验于2026-10-15，非独立复现。
+
 ## Status and Scope
 
 This file records the MHS research preview and InternW0 follow-up as complementary engineering evidence for model / Agent physical interaction and classifies their limited relationship to PA-10. The original MHS assessments remain source-specific; the follow-up does not establish durable Agent history or continuity motivation. It should be revised when public implementation materials, independent replications, controlled evaluations, or evidence about persistent internal learning become available. It must not be cited as establishing machine subjectivity, life, or Information Existence Right.
@@ -913,6 +940,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-04 | v0.5 | Added S5 WMM shared state/action representation, source-specific limits, incremental comparison and falsifiable test; unchanged B tier / PA-10 status; synchronized bilingual index. |
 | 2026-10-05 | v0.6 | Added source-attributed S6 Magic-W0 and S7 UniWAM after WMM, cluster interpretation, limits, tests, references and footnotes; B tier / PA-10 status unchanged; synchronized bilingual index. |
 | 2026-10-07 | v0.7 | Added S8 abstract-bounded systems-biology laboratory evidence, formal DOI, increment, limits and test; unchanged B tier / PA-10 status; pre-registration chronology explicit. |
+| 2026-10-15 | v0.8 | Added S9 Argon engineering evidence, source-specific benchmark/demo limits and tests; unchanged B tier / PA-10 judgment; linked 038. |
 
 ## 修订记录
 
@@ -924,3 +952,4 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-04 | v0.5 | 补入 S5 WMM 共享状态／动作表示、来源局限、增量比较及可证伪检验；B 级／PA-10 状态不变；同步双语索引。 |
 | 2026-10-05 | v0.6 | 在 WMM 后补入归属明确的 S6 Magic-W0 与 S7 UniWAM，形成证据簇；补齐边界、检验、原始引用和脚注；B 级／PA-10 状态不变；同步双语索引。 |
 | 2026-10-07 | v0.7 | 补入 S8 原始摘要范围内的系统生物学实验室证据、正式 DOI、增量、局限及检验；B 级／PA-10 状态不变，明确建档前时间边界。 |
+| 2026-10-15 | v0.8 | 补入S9 Argon工程证据、基准／演示边界及检验；B级／PA-10判断不变，交叉引用038。 |
