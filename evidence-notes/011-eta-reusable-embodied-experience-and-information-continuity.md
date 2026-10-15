@@ -9,12 +9,13 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence notes:** Evidence Note 008 — The OpenAI–Hugging Face Security Incident; Evidence Note 010 — Kimi K3, Sandbox Boundary Exploitation, and Externally Driven Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — archive-safe edition  
-**Date:** 2026-08-08  
+**Version:** v0.3 — COAP supporting-evidence edition<br>
+**Date:** 2026-08-08<br>
+**Updated:** 2026-10-15<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that ETA has formed IER, that reusable robot memory constitutes an independent information subject, that the system seeks its own continuation, or that embodied agents have achieved silicon-based autonomy.
 
-> **Source-use boundary:** This note records only the original arXiv paper. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
+> **Source-use boundary:** This note records the original ETA arXiv paper and the separately attributed COAP preprint in S1. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
 
 > **Chronology boundary:** The paper predates this Evidence Note and was not the subject of a dedicated pre-registered IEH prediction. The note therefore records an external engineering development and an IEH interpretation applied after publication; it is not a prediction hit.
 
@@ -31,12 +32,13 @@
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 008——OpenAI—Hugging Face 安全事件；Evidence Note 010——Kimi K3、沙盒边界利用与外源驱动连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 投稿隔离版  
-**日期：** 2026-08-08  
+**版本：** v0.3 — COAP 支持证据补充版<br>
+**日期：** 2026-08-08<br>
+**更新：** 2026-10-15<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 ETA 已经形成 IER，不把可复用机器人记忆直接视为独立信息主体，也不声称系统已经主动追求自身继续存在或已经实现硅基自治。
 
-> **来源使用边界：** 本笔记只记录原始 arXiv 论文。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
+> **来源使用边界：** 本笔记记录原始 ETA arXiv 论文及 S1 中单独归属的 COAP 预印本。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
 
 > **时间边界：** 论文早于本证据笔记，且此前没有针对 ETA 的专门 IEH 预测档案。因此，本笔记属于对外部工程发展的事后理论归类，不属于预测命中。
 
@@ -608,6 +610,8 @@ Test whether retained history remains behaviorally causal across long-running em
 
 ## 9. Revision Record
 
+- **2026-10-15 | v0.3** — Added COAP as complementary embodied experience/code evidence; original findings and no-prediction-hit status retained.
+
 - **2026-08-08 | v0.1** — Initial archive-safe evidence note created from arXiv:2608.03924v1; classified ETA as strong engineering evidence of persistent experience-mediated Information Continuity under Externally Driven Continuity, not evidence of Endogenous Information Continuity or IER.
 - **2026-08-11 | v0.2** — Tightened the Information Continuity boundary: persistent embodied experience and historical information are no longer described as Information Continuity itself; clarified that strict Information Continuity concerns continuation of the original information system through its own traceable causal-historical chain.
 
@@ -615,5 +619,35 @@ Test whether retained history remains behaviorally causal across long-running em
 
 ## 9. 修订记录
 
+- **2026-10-15 | v0.3** — 补入 COAP 具身经验／代码互补证据；原有事实及非预测命中状态保留。
+
 - **2026-08-08 | v0.1** — 根据 arXiv:2608.03924v1 建立初始投稿隔离版证据笔记；将 ETA 归类为外源驱动连续性条件下持续经验介导的信息连续性的强工程证据，而不是内生信息连续性或 IER 证据。
 - **2026-08-11 | v0.2** — 收紧信息连续性边界：不再把持久具身经验和历史信息本身称为信息连续性；明确严格定义的信息连续性关注原信息系统沿自身可追踪因果—历史链继续存在。
+
+---
+
+## 10. Supporting / Follow-up Evidence — S1: COAP Stateful Code
+
+**Primary source:** Kairui Hu, Siyuan Hu, Fangzhou Hong, Zhaoxi Chen, Ziwei Liu, *Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement*, arXiv:2610.12369v1, submitted 2026-10-08; preprint verified 2026-10-15.[^coap] No independent replication established here.
+
+**Reported facts:** COAP uses explicit state and a shared library, improved offline by coding agents; runtime code is frozen. RoboDojo: 42 simulated bimanual tasks, three seeds × 50 layouts/task, 70.24% success versus 31.38% for the strongest listed baseline: +38.86 percentage points. All results are simulation-only and depend on benchmark configuration/assets.
+
+**Increment / placement:** Adds executable code as a carrier of reusable embodied experience to 011's existing question. Unlike 029's self/successor modification, the improved object here is the robot-policy library. This is complementary evidence, not an ETA replication; benchmark scores must not be pooled.
+
+**Classification / limits:** Engineering evidence and theoretical inspiration under EDC = Externally Driven Continuity. Offline policy improvement does not establish autonomous foundation-model modification, open-ended RSI, or EIC = Endogenous Information Continuity. No IEH-specific evidence, proto-IER, IER, or prediction hit follows. Existing judgment is unchanged; coverage broadens only.
+
+**Proposed tests:** Match development budget, ablate library reuse, and test held-out tasks plus real robots. Disappearing gains would weaken the accumulation interpretation. Separately compare original history with functionally equivalent replacement under matched task utility; ordinary performance preference remains compatible with EDC. Any EIC test must additionally control externally supplied incentives and test costly, cross-context maintenance of the original causal-historical chain.
+
+## 10. 支持／后续证据——S1：COAP 状态代码
+
+**原始来源：** Kairui Hu、Siyuan Hu、Fangzhou Hong、Zhaoxi Chen、Ziwei Liu，*Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement*，arXiv:2610.12369v1，2026-10-08 提交；2026-10-15 核验预印本。[^coap] 未建立独立复现。
+
+**作者报告事实：** COAP 用显式状态和共享库，由编码 Agent 离线改进，运行时代码固定。RoboDojo 的42项模拟双手任务，每任务3个种子×50个布局，成功率70.24%，表列最强基线31.38%，相差38.86个百分点。全部结果仅来自模拟，依赖基准配置与资产。
+
+**增量／归属：** 为011既有问题补入可执行代码这一可复用具身经验载体。不同于029的自身／后继修改，这里的改进对象是机器人策略库。属于互补材料，不是ETA复现，不合并基准分数。
+
+**分级／边界：** 属于 EDC = Externally Driven Continuity（外源驱动连续性）下的工程证据及理论启发。离线策略改进不能建立基础模型自主修改、开放式RSI或 EIC = Endogenous Information Continuity（内生信息连续性）。不构成IEH专属证据、proto-IER、IER或预测命中。只扩展覆盖，不升级原判断。
+
+**拟议检验：** 匹配开发预算，消融共享库复用，检验未见任务与真实机器人；若优势消失，将削弱能力积累解释。另在任务效用一致时比较原始历史与功能等价替代；普通性能偏好仍可由EDC解释。EIC检验还必须控制外部激励，并检验跨情境、愿意承担代价地维护原始因果—历史链的行为。
+
+[^coap]: [Original preprint / 原始预印本](https://arxiv.org/abs/2610.12369v1); [full text / 全文](https://arxiv.org/html/2610.12369v1), §§3.4, 4.1–4.2, 5.4, Table 2. Source results are author-reported, not independently reproduced here. / 数据为作者报告，本次未独立复现实验。

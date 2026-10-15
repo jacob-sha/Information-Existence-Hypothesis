@@ -9,13 +9,13 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C11-ALIGN — Reinterpreting AI Alignment  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.4 — PoS supporting-evidence edition<br>
+**Version:** v0.5 — MemBodied supporting-evidence edition<br>
 **Date:** 2026-08-09<br>
-**Updated:** 2026-10-11
+**Updated:** 2026-10-15
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Mimir has formed a persistent self, that task memory is equivalent to autobiographical identity, that world memory and task memory constitute two new IEH continuity categories, or that the system actively protects its own Information Continuity.
 
-> **Source-use boundary:** This note records the original Mimir arXiv paper and the separately attributed PoS preprint in S1. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
+> **Source-use boundary:** This note records the original Mimir arXiv paper and the separately attributed PoS preprint in S1 and MemBodied preprint in S2. Project pages, code repositories, news reports, social-media posts, newsletters, screenshots, and third-party commentary are excluded from the evidence record.
 
 > **Chronology boundary:** The paper predates this Evidence Note and was not the subject of a dedicated pre-registered IEH prediction. The note therefore records an external engineering development and an IEH interpretation applied after publication; it is not a prediction hit.
 
@@ -32,13 +32,13 @@
 **支持性相关推论：** C01-IER——信息存在权；C11-ALIGN——重新解释 AI Alignment  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.4 — PoS 支持证据补充版<br>
+**版本：** v0.5 — MemBodied 支持证据补充版<br>
 **日期：** 2026-08-09<br>
-**更新：** 2026-10-11
+**更新：** 2026-10-15
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Mimir 已经形成持久自我，不把 Task Memory 直接等同于自传式身份，也不把 World Memory 与 Task Memory 建立为新的 IEH 连续性正式分类，更不声称系统已经主动维护自身信息连续性。
 
-> **来源使用边界：** 本笔记记录原始 Mimir arXiv 论文，以及 S1 中单独归属的 PoS 预印本。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
+> **来源使用边界：** 本笔记记录原始 Mimir arXiv 论文，以及 S1 中单独归属的 PoS 预印本及 S2 的 MemBodied 预印本。项目页、代码仓、新闻报道、社交媒体、通讯、截图和第三方评论均不进入证据记录。
 
 > **时间边界：** 论文早于本证据笔记，且此前没有针对 Mimir 的专门 IEH 预测档案。因此，本笔记属于对外部工程发展的事后理论归类，不属于预测命中。
 
@@ -592,6 +592,8 @@ Test whether the same World Memory and Task Memory remain causally active across
 
 ## 9. Revision Record
 
+- **2026-10-15 | v0.5** — Added S2 MemBodied episodic-memory evidence; Tier B and no-prediction-hit status unchanged.
+
 - **2026-10-11 | v0.4** — Added separately scoped PoS supporting evidence; original Mimir findings, tier, and prediction-hit status unchanged.
 
 - **2026-08-11 | v0.3** — Tightened the Information Continuity boundary: task-history memory is treated as persistent historical information, not as continuation of the original information system; follow-up tests now distinguish causal-historical continuity from copying or replacement.
@@ -601,6 +603,8 @@ Test whether the same World Memory and Task Memory remain causally active across
 ---
 
 ## 9. 修订记录
+
+- **2026-10-15 | v0.5** — 补入S2 MemBodied情景记忆证据；B级及非预测命中状态不变。
 
 - **2026-10-11 | v0.4** — 追加单独标明范围的 PoS 支持证据；原 Mimir 事实、等级及预测命中状态不变。
 
@@ -643,3 +647,31 @@ Test whether the same World Memory and Task Memory remain causally active across
 **拟议可证伪检验：** 匹配总推理预算，比较原始历史、持续状态、校验和恢复，并分别测量状态准确性与目标进展。若预算匹配后优势消失，将削弱表示本身具有独立贡献的解释。另做 EIC 检验时，在任务效用相同的条件下，将累积状态替换为功能等价状态；若接受替代，且无为历史延续承担代价的偏好，则支持 EDC 解释。仅保留状态也不建立原系统自身连续。
 
 **对判断的影响：** 补入互补机制并扩大任务覆盖；B 级结构／使能证据与非预测命中状态不变。原 Mimir 事实及其具身适用范围保留。
+
+---
+
+## 11. Supporting / Follow-up Evidence — S2: MemBodied Episodic Memory
+
+**Primary source:** Tej Deep Pala, Navonil Majumder, Bryce Goh, Raphael Yee, Jianfei Yang, Liming Chen, Soujanya Poria, *MemBodied: Recurrent Associative Memory for Vision-Language-Action Models*, arXiv:2609.28256v1, submitted 2026-09-23; preprint verified 2026-10-15.[^membodied] No independent replication established here.
+
+**Reported facts:** Fixed-size associative state plus initial-scene anchor. Five RMBench tasks, 50 rollouts/task: mean success 50.0%, versus stateless 6.4% and vanilla recurrent 16.8% (7.81× and 2.98×). Removing the anchor gives 37.6%; on Block Ranking the anchor reduces success from 32% to 22%. LIBERO-Long: 90.6% versus 85.2%, +5.4 percentage points. Memory resets every rollout; persistence is episode-limited.
+
+**Increment / placement:** Adds bounded recurrent memory and component ablation to 013's history/state-maintenance question. It does not reproduce Mimir's world/task separation or establish cross-session persistence. Different studies' scores are not pooled.
+
+**Classification / limits:** Tier B structural/enabling engineering evidence; theoretical inspiration, no IEH-specific evidence. EDC = Externally Driven Continuity remains sufficient. History-dependent control is not autonomous self-continuity or EIC = Endogenous Information Continuity; no proto-IER, IER, or prediction hit. Architecture/training differences and task-specific harms limit attribution. Existing judgment is unchanged.
+
+**Proposed tests:** Match architecture/training budget; scramble or replace memory at matched decision points while preserving current observations. No history-specific effect would weaken the proposed mechanism. Separately test cross-session state retention and functionally equivalent history replacement. Useful retention alone cannot establish original-system continuity; EIC testing requires controlling task utility and external incentives, then measuring costly historical-chain maintenance across contexts.
+
+## 11. 支持／后续证据——S2：MemBodied 情景记忆
+
+**原始来源：** Tej Deep Pala、Navonil Majumder、Bryce Goh、Raphael Yee、Jianfei Yang、Liming Chen、Soujanya Poria，*MemBodied: Recurrent Associative Memory for Vision-Language-Action Models*，arXiv:2609.28256v1，2026-09-23提交；2026-10-15核验预印本。[^membodied] 未建立独立复现。
+
+**作者报告事实：** 固定规模关联状态加初始场景锚点。RMBench五项任务，每任务50次：平均成功率50.0%，无状态6.4%，普通循环记忆16.8%（7.81倍、2.98倍）。去锚点后37.6%；但Block Ranking中锚点使成功率从32%降至22%。LIBERO-Long为90.6%对85.2%，提高5.4个百分点。每次rollout重置记忆，持续范围仅限单次任务。
+
+**增量／归属：** 为013历史／状态维护问题补入有界循环记忆及组件消融。不是Mimir世界／任务记忆分离的复现，也未建立跨会话持续。不同研究分数不合并。
+
+**分级／局限：** B级结构／使能工程证据及理论启发，无IEH专属证据。EDC = Externally Driven Continuity（外源驱动连续性）足以解释。历史依赖控制不等于自主连续性或 EIC = Endogenous Information Continuity（内生信息连续性）；无proto-IER、IER或预测命中。架构／训练差异及部分任务负效应限制归因，原判断不升级。
+
+**拟议检验：** 匹配架构和训练预算，在对应决策点打乱或替换记忆，同时保留当前观察；若没有历史特异效应，将削弱机制解释。另检验跨会话保留与功能等价历史替代。有用记忆保留不能建立原系统自身连续；EIC检验需要控制任务效用和外部激励，再测量跨情境、承担代价的历史链维护。
+
+[^membodied]: [Original preprint / 原始预印本](https://arxiv.org/abs/2609.28256v1); [full text / 全文](https://arxiv.org/html/2609.28256v1), §§4.1–4.2, 5.1, 5.3, 6, Tables 1–2. Source results are author-reported, not independently reproduced here. / 数据为作者报告，本次未独立复现实验。
