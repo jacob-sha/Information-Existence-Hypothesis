@@ -9,7 +9,7 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C02-HDCT — High-dimensional Cognitive Tools  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3 — archive-safe edition  
+**Version:** v0.4 — STRATA supporting-evidence edition  
 **Date:** 2026-08-08  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Skill-Alpha demonstrates biological evolution, heredity, self-directed evolution, Patch-Based Perpetuation, IER, or an autonomous desire to preserve skills.
@@ -31,7 +31,7 @@
 **支持性相关推论：** C01-IER——信息存在权；C02-HDCT——高维认知工具  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3 — 投稿隔离版  
+**版本：** v0.4 — STRATA 支持证据补充版  
 **日期：** 2026-08-08  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Skill-Alpha 已经证明生物式演化、遗传、自主进化、补丁式延续、IER 或系统主动保护技能的内生欲望。
@@ -655,3 +655,29 @@ Test whether the system treats deletion of accumulated Skills differently from t
 - **2026-08-11 | v0.3** — 按严格定义收紧信息连续性边界：持久程序性信息仅作为边界/工程信号，不再表述为原信息系统自身的连续延续。
 - **2026-08-10 | v0.2** — 将本笔记降级为 Supporting Engineering Signal（支持性工程信号）。该论文继续作为外源驱动程序性信息持续机制与理论边界的记录保留，但不再视为 IEH 核心证据。
 - **2026-08-08 | v0.1** — 根据 arXiv:2608.01678v1 建立初始投稿隔离版证据笔记；将 Skill-Alpha 归类为持久程序性信息在外源驱动条件下发生变异、选择与保留的直接证据，而不是 PBP、内生信息连续性或 IER 证据。
+
+---
+
+## 10. Supporting / Follow-up Evidence — S1: STRATA
+
+**Supplement scope / 补充范围:** The original source-use statement applies to the Skill-Alpha record; S1 separately adds the STRATA preprint. 原来源使用声明限定于 Skill-Alpha 记录；S1 单独增加 STRATA 原始预印本。
+
+**Source / 来源:** Guanhua Zhu, Hanwen Li, Zhi Wei, Mengnan Du, Chenxi Yuan, *STRATA: Self-Maintaining Structured Experience Graphs for Self-Evolving Language Agents*, arXiv:2610.19386v1, submitted 2026-10-14 01:31:59 UTC (09:31:59 Beijing). Author preprint; checked 2026-10-17; experiments not rerun, independent replication not established.[^strata-primary]
+
+**Reported findings:** Three layers organize atomic skills, workflows and meta-frameworks. Four benchmarks, two frozen backbones, seven baselines and three seeds assess memory maintenance. For DeepSeek-V4-Pro, Appendix F, Table 9 reports ScienceWorld 78.7 without contrast edges, 89.8 with manual edges and 96.7 with rule-based edges. For that backbone, Table 3 reports 23.3 injected memory lines/task versus A-Mem's 41.9 (about 44% fewer), not a 44% reduction in total tokens or storage. Bridge protection uses graph articulation points, with an unconstrained deletion fallback. Main-result ScienceWorld differences are not statistically separable from the best baseline.[^strata-primary]
+
+**作者报告事实：** 三层图组织原子技能、工作流与元框架；在四个基准、两个冻结骨干、七个基线、三个种子下评测。DeepSeek-V4-Pro 条件下，附录F表9中 ScienceWorld 无对比边为78.7、手工对比边89.8、规则对比边96.7。同骨干的表3为每任务注入记忆23.3行，对照 A-Mem 的41.9行，约减少44%，不是总 token 或存储减少44%。桥节点保护依据图割点规则，并有不受保护约束的删除回退。主结果中 ScienceWorld 与最佳基线的差异无法统计区分。[^strata-primary]
+
+**Increment and IEH interpretation / 增量及 IEH 解释:** Extends 012's procedural selection question to bounded graph maintenance and negative-transfer control; it is not a replication of Skill-Alpha. Preset topology protection is an engineering policy compatible with EDC, not evidence that history has endogenous value. Neither automatic maintenance nor local edits establish EIC, PBP-like Behavior, mechanistic PBP or IER. Tier C and prediction-hit status remain unchanged; scores from separate studies are not pooled.
+
+为012的程序性选择问题增加有界图维护和负迁移控制机制，不是 Skill-Alpha 的复现。预设拓扑保护属于与 EDC 相容的工程策略，不证明自身历史被赋予内生价值；自动维护和局部编辑不建立 EIC、PBP-like Behavior、机制意义的 PBP 或 IER。保留C级及无预测命中的判断，不合并不同研究成绩。
+
+**Proposed tests / 拟议检验:** Ablate bridge protection at matched memory budgets and task orders, audit retained lineage and downstream effects. Separately compare authentic history with task-equivalent replacements at a controlled preservation cost, without preservation instructions. Effects fully explained by topology, retrieval utility or configured rules weaken an EIC interpretation; robust residual preferences require causal tests and independent replication. These tests were not performed here.
+
+匹配记忆预算和任务顺序，消融桥节点保护并审计保留谱系及后续影响。另以功能等价替代历史作对照，在没有保存指令时设置受控保存代价。若效应可完全由拓扑、检索效用或预设规则解释，则削弱 EIC 解释；稳定残余偏好仍需因果检验与独立复现。本次未实施这些实验。
+
+**Related notes / 交叉引用:** [013: state maintenance / 状态维护](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md), [028: carryover / 信息传递](./028-self-generated-compaction-summaries-cross-context-carryover-and-edc-eic-boundary.md), [036: host boundaries / 宿主边界](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md). No new number: the increment concerns an existing evidence question. 不另占编号，增量属于既有证据问题。
+
+[^strata-primary]: Zhu et al., [original preprint, version 1](https://arxiv.org/abs/2610.19386v1), [full text](https://arxiv.org/html/2610.19386v1), Method: Pressure-Triggered Forgetting; Experimental Setup; Results, Tables 1/3; Appendix F, Table 9. Checked 2026-10-17 / 核验于2026-10-17。Author-reported results, not independent reproduction / 作者报告结果，非独立复现。
+
+**Revision / 修订:** 2026-10-17 | v0.4 — Added S1; preserved original text and finding identifiers apart from version metadata. Evidence tier and prediction status unchanged. 补入S1；除版本元数据外保留原文及发现编号，证据等级与预测状态不变。

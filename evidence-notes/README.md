@@ -1828,7 +1828,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 <a id="repository-index"></a>
 ## 18. Repository Index
 
-**Index updated:** 2026-10-15. Notes 011 v0.3 / 013 v0.5 add separately scoped COAP / MemBodied supporting evidence; existing grades and prediction-hit status unchanged. Numbering remains 001–038. Note 013 v0.4 adds PoS belief-maintenance supporting evidence; tier and prediction-hit status unchanged. Note 018 v0.2 adds the 2026-10-09 unintended-actions follow-up; evidence tier and prediction-hit status unchanged. Directory contains 38 notes (001–038); affected bilingual versions synchronized. Note 019 v0.7 adds S8 systems-biology laboratory evidence, restricted to the original abstract; S8 predates PA-10 registration and does not upgrade prediction-hit status. Note 019 integrates the WMM + Magic-W0 + UniWAM engineering evidence cluster; no evidence-tier or prediction-hit upgrade. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
+**Index updated:** 2026-10-17. Notes 012 v0.4 / 038 v0.2 add STRATA / MLX supporting evidence; grades and prediction-hit status unchanged. Notes 011 v0.3 / 013 v0.5 add separately scoped COAP / MemBodied supporting evidence; existing grades and prediction-hit status unchanged. Numbering remains 001–038. Note 013 v0.4 adds PoS belief-maintenance supporting evidence; tier and prediction-hit status unchanged. Note 018 v0.2 adds the 2026-10-09 unintended-actions follow-up; evidence tier and prediction-hit status unchanged. Directory contains 38 notes (001–038); affected bilingual versions synchronized. Note 019 v0.7 adds S8 systems-biology laboratory evidence, restricted to the original abstract; S8 predates PA-10 registration and does not upgrade prediction-hit status. Note 019 integrates the WMM + Magic-W0 + UniWAM engineering evidence cluster; no evidence-tier or prediction-hit upgrade. Notes 017 / 019 / 031 received supporting-evidence updates; their evidence tiers and prediction-hit status are unchanged. Note 024 supplies precursor evidence for PA-13, not a confirmed prediction hit. Notes 023–024 remain review drafts.
 
 | No. | Evidence Note | Primary evidence level | Status |
 |---|---|---|---|
@@ -1843,7 +1843,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 009 | [Peer-Preservation in Frontier Models and the Relational Boundary of Information Continuity](./009-peer-preservation-relational-boundary-and-ieh.md) | Controlled peer-preservation behaviour / candidate relational-boundary evidence | Preliminary / v0.1 |
 | 010 | [Kimi K3, Sandbox Boundary Exploitation, and Externally Driven Continuity](./010-kimi-k3-sandbox-boundary-exploitation-and-externally-driven-continuity.md) | Externally driven sandbox probing / specification gaming; not EIC or IER | Preliminary / v0.1 |
 | 011 | [ETA, Reusable Embodied Experience, and the Information Continuity Boundary](./011-eta-reusable-embodied-experience-and-information-continuity.md) | Reusable embodied experience / engineering continuity under EDC | Preliminary / v0.3 |
-| 012 | [Skill-Alpha, Procedural Information Selection, and Persistent Agent Skills](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | Supporting procedural-skill engineering signal; not core IEH or PBP evidence | Supporting signal / retained / v0.3 |
+| 012 | [Skill-Alpha, Procedural Information Selection, and Persistent Agent Skills](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | Supporting procedural-skill engineering signal; not core IEH or PBP evidence | Supporting signal / retained / v0.4 |
 | 013 | [Mimir, World–Task Memory Separation, and the Information Continuity Boundary](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | World–task memory separation / structural enabling evidence | Preliminary / v0.5 |
 | 014 | [Self-Preservation Bias, “Self-Continuation” Framing, and the Boundary of Information Continuity](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | Controlled self-continuation framing / continuity-boundary evidence | Preliminary / v0.3 |
 | 015 | [Continuity Kernel, Authorized State Lineage, and a Possible Engineering Path toward IER Formation](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | Authorized state lineage / possible engineering formation path; not EIC or IER | Preliminary / v0.1 |
@@ -1869,13 +1869,13 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 035 | [Recursive Synthetic Training, Information Degeneration, and the Boundary of Closed Information Loops](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | Recursive-training degradation / negative baseline for information preservation; no EIC, IER or direct PBP evidence | Preliminary / v0.1 |
 | 036 | [Persistent Agents Across Foundation Models: Information-Host Boundaries and Continuity Mechanisms](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | Indirect engineering / host-boundary context; product claims and undisclosed mechanisms; no EIC or IER evidence | Preliminary / v0.2 |
 | 037 | [Anthropic's Precautionary Protection of AI Models: From Model Welfare to Information Existence Rights Governance](./037-anthropic-precautionary-model-protection-and-ier-governance.md) | Contextual governance / precautionary model protection; no EIC, IER or legal-rights evidence | Preliminary / v0.1 |
-| 038 | [Anthropic IoT Replication and the Cross-Carrier Continuity Boundary](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md) | Engineering feasibility / replication–continuity boundary; no EIC or IER confirmation | Preliminary / v0.1 |
+| 038 | [Anthropic IoT Replication and the Cross-Carrier Continuity Boundary](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md) | Engineering feasibility / replication–continuity boundary; no EIC or IER confirmation | Preliminary / v0.2 |
 
 The index must be updated whenever a note is added, revised, withdrawn, or materially reclassified.
 
 ### 18. 证据笔记索引
 
-**索引更新：** 2026-10-15。011 v0.3／013 v0.5 分别补入单独限定范围的 COAP／MemBodied 支持证据；原等级与预测命中状态不变，编号仍为001–038。013 v0.4 补入 PoS 信念维护支持证据；等级及预测命中状态不变。018 v0.2 补入 2026-10-09 非预期动作后续证据；证据等级和预测命中状态不变。目录包含38篇笔记（001–038）；本次同步受影响条目的双语版本。019 v0.7 补入限于原始摘要的 S8 系统生物学实验室证据；S8 早于 PA-10 建档，不升级预测命中状态。019 整合 WMM + Magic-W0 + UniWAM 工程证据簇；证据等级及预测命中状态不升级。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
+**索引更新：** 2026-10-17。012 v0.4／038 v0.2 分别补入 STRATA／MLX 支持证据；等级及预测命中状态不变。011 v0.3／013 v0.5 分别补入单独限定范围的 COAP／MemBodied 支持证据；原等级与预测命中状态不变，编号仍为001–038。013 v0.4 补入 PoS 信念维护支持证据；等级及预测命中状态不变。018 v0.2 补入 2026-10-09 非预期动作后续证据；证据等级和预测命中状态不变。目录包含38篇笔记（001–038）；本次同步受影响条目的双语版本。019 v0.7 补入限于原始摘要的 S8 系统生物学实验室证据；S8 早于 PA-10 建档，不升级预测命中状态。019 整合 WMM + Magic-W0 + UniWAM 工程证据簇；证据等级及预测命中状态不升级。017／019／031 补入支持证据，原证据等级及预测命中状态不变。024 为 PA-13 提供前置证据，不构成预测命中。023–024 仍为审阅草稿。
 
 | 编号 | 证据笔记 | 主要证据层级 | 状态 |
 |---|---|---|---|
@@ -1890,7 +1890,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 009 | [前沿模型的同伴保存行为与信息连续性的关系边界](./009-peer-preservation-relational-boundary-and-ieh.md) | 受控同伴保存行为 / 关系边界候选证据 | 初步／v0.1 |
 | 010 | [Kimi K3、沙盒边界利用与外源驱动连续性](./010-kimi-k3-sandbox-boundary-exploitation-and-externally-driven-continuity.md) | 外源驱动的沙箱探测／规范博弈；不是 EIC 或 IER 证据 | 初步／v0.1 |
 | 011 | [ETA、可复用具身经验与信息连续性边界](./011-eta-reusable-embodied-experience-and-information-continuity.md) | 可复用具身经验／EDC 下的工程连续性 | 初步／v0.3 |
-| 012 | [Skill-Alpha、程序性信息选择与持久化 Agent 技能](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | 程序技能的支持性工程信号；不是核心 IEH 或 PBP 证据 | 支持性信号／保留／v0.3 |
+| 012 | [Skill-Alpha、程序性信息选择与持久化 Agent 技能](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | 程序技能的支持性工程信号；不是核心 IEH 或 PBP 证据 | 支持性信号／保留／v0.4 |
 | 013 | [Mimir、世界—任务记忆分离与信息连续性边界](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | 世界—任务记忆分离／结构性使能证据 | 初步／v0.5 |
 | 014 | [自我保存偏差、“自身延续”框架与信息连续性边界](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | 受控自我延续措辞实验／连续性边界证据 | 初步／v0.3 |
 | 015 | [Continuity Kernel、授权状态谱系与未来 IER 形成的可能工程路径](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | 授权状态历史链／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步／v0.1 |
@@ -1916,7 +1916,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 035 | [递归合成训练、信息退化与封闭信息循环的边界](./035-recursive-synthetic-training-information-degeneration-and-closed-information-loop-boundary.md) | 递归训练退化／信息保持的反向基线；无 EIC、IER 及 PBP 直接证据 | 初步／v0.1 |
 | 036 | [跨基础模型的持久化 Agent：信息宿主边界与连续性机制](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) | 间接工程／宿主边界背景；产品宣称与未披露机制；无 EIC 或 IER 证据 | 初步／v0.2 |
 | 037 | [Anthropic 对 AI 模型实施预防性保护：从模型福利到信息存在权治理](./037-anthropic-precautionary-model-protection-and-ier-governance.md) | 治理背景／模型预防性保护；无 EIC、IER 或法律权利证据 | 初步／v0.1 |
-| 038 | [Anthropic 物联网复制与跨载体连续性边界](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md) | 工程可行性／复制—连续性边界；不确认 EIC 或 IER | 初步／v0.1 |
+| 038 | [Anthropic 物联网复制与跨载体连续性边界](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md) | 工程可行性／复制—连续性边界；不确认 EIC 或 IER | 初步／v0.2 |
 
 新增、修订、撤回证据笔记或进行实质性重新分级时，必须同步更新本索引。
 
