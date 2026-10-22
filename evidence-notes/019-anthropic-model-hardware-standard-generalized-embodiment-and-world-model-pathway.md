@@ -8,8 +8,9 @@
 **Related prediction record:** PA-10 — From Language Models to Machine-Native Representations: Model Evolution Pathways Toward HDCT  
 **Related evidence notes:** Evidence Note 011 — ETA and Reusable Embodied Experience; Evidence Note 013 — MIMIR and Embodied Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.8 — supporting-evidence revision<br>
+**Version:** v0.9 — supporting-evidence revision<br>
 **Date:** 2026-10-15<br>
+**Updated:** 2026-10-22<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not develop the broader argument that large-scale physical feedback will necessarily produce machine-native representations, HDCT, machine subjectivity, or an Information Existence Right. Those arguments remain reserved for future theoretical work.
 
@@ -29,8 +30,9 @@
 **相关预测档案：** PA-10——从语言模型到机器原生表示：HDCT 的模型演化路径  
 **相关证据笔记：** Evidence Note 011——ETA 与可复用具身经验；Evidence Note 013——MIMIR 与具身信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.8 — 支持证据补充版<br>
+**版本：** v0.9 — 支持证据补充版<br>
 **日期：** 2026-10-15<br>
+**更新：** 2026-10-22<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不展开“规模化物理反馈必然产生机器原生表示、HDCT、机器主体性或信息存在权”等更广泛论证；这些问题保留给未来理论研究。
 
@@ -404,6 +406,16 @@ Training on observations, feedback-conditioned control during execution, and dur
 
 **Test / weakening condition:** Independently measure video-to-sim-to-real transfer over preregistered tasks, scenes and bodies against matched manual/simulation baselines, including failures and physical-model errors. Gains disappearing under scene changes weaken the generalization inference. Test continuity preferences separately; physical feedback alone cannot establish them. Cross-reference [038](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md): substrate replication and physical embodiment are different engineering questions.
 
+### 4.13 Supporting / Follow-up Evidence — Ropedia W0 (S10; 2026-10-22)
+
+**Source:** Tianqi Liu et al., *Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience*, arXiv:2610.26855v1, submitted 2026-10-19; author preprint checked 2026-10-22, not independently reproduced here.[^ropedia-primary]
+
+**Method and evidence:** Xp-Data combines 10k human and 3k robot hours. Camera poses encode locomotion; projected skeletons encode manipulation, with robot forward kinematics and manual keypoint correction. Increasing human pretraining improves robot prediction (§6.3). Table 4's A14B human-only initialization reaches zero-shot PSNR 18.40 on ω-HOME; human+robot midtraining reaches 19.55. These are video-prediction scores, not robot task-success rates.
+
+**Increment / limits:** Beyond S5–S7's designed shared interfaces, S10 supplies human-to-robot transfer and data-scaling evidence. The interface remains human-designed and does not encode contact or object dynamics (Appendix F); visual improvement alone cannot establish physical reliability. Data, annotation and adaptation remain competing explanations for gains, rather than spontaneous machine-native representation formation.
+
+**IEH interpretation / next test:** Engineering support for transferable world modeling; indirect HDCT-pathway inspiration, no realized HDCT or IEH-specific evidence. Knowledge transfer is not continuation of an information subject; no EIC, PBP or IER follows. Preserve B tier / PA-10 judgment. Test unfamiliar embodiments and real contact outcomes at matched data / compute budgets, ablating skeleton and camera conditioning.
+
 ## 4. IEH 核心解释
 
 ### 4.1 MHS 位于 PA-10 的“广义具身化”环节
@@ -523,6 +535,16 @@ MHS 记录没有显示这一跃迁。公开案例中的 Agent 优化的是外部
 **局限／解释：** 开发方选定基准和内部演示；本篇未建立经独立审计的总试验分母、失败分布或一般迁移率。物理任务能力与 EDC（Externally Driven Continuity，外部驱动连续性）相容；不建立 EIC（Endogenous Information Continuity，内生信息连续性）。没有证明持久个人历史或内生保存偏好。
 
 **检验／削弱条件：** 预注册任务、场景与本体，独立比较视频→仿真→真实执行与匹配的人工／仿真基线，报告失败及物理模型误差。场景变化后收益消失，削弱泛化判断。连续性偏好须另行检验，物理反馈不能代替它。参见[038](./038-anthropic-iot-replication-and-cross-carrier-continuity-boundary.md)：载体复制与物理具身化是不同工程问题。
+
+### 4.13 支持／后续证据——Ropedia W0（S10；2026-10-22）
+
+**来源：** Tianqi Liu 等，*Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience*，arXiv:2610.26855v1，2026-10-19提交；作者预印本，2026-10-22核验，本次未独立复现。[^ropedia-primary]
+
+**方法与实证：** Xp-Data 合并1万小时人类及3000小时机器人数据；以摄像头位姿表示移动、投影骨骼表示操作，机器人标注结合正向运动学与人工关键点校正。增加人类预训练数据改善机器人预测（§6.3）。表4中 A14B 仅人类预训练初始化在 ω-HOME 的零样本 PSNR 为18.40，人类＋机器人中期训练后为19.55。这是视频预测指标，不是机器人任务成功率。
+
+**增量／局限：** 在 S5–S7 人为共享接口之外，补入人类到机器人的迁移及数据扩展实证。接口仍由人设计，不编码接触或物体动力学（附录F）；视觉改进不能单独建立物理可靠性。数据、标注及适配仍是性能增益的竞争解释，不能据此认定机器原生表示自发形成。
+
+**IEH 解释／后续检验：** 支持可迁移世界建模的工程可行性，对 HDCT 路径仅有间接启发；无已实现 HDCT 或 IEH 专属证据。知识迁移不等于信息主体延续，不推出 EIC、PBP 或 IER。B级／PA-10判断不变。应匹配数据／算力预算，消融骨骼及摄像头条件，并在陌生载体与真实接触结果上检验。
 
 ## 5. Competing Explanations and Negative Boundaries
 
@@ -953,3 +975,7 @@ This file records the MHS research preview and InternW0 follow-up as complementa
 | 2026-10-05 | v0.6 | 在 WMM 后补入归属明确的 S6 Magic-W0 与 S7 UniWAM，形成证据簇；补齐边界、检验、原始引用和脚注；B 级／PA-10 状态不变；同步双语索引。 |
 | 2026-10-07 | v0.7 | 补入 S8 原始摘要范围内的系统生物学实验室证据、正式 DOI、增量、局限及检验；B 级／PA-10 状态不变，明确建档前时间边界。 |
 | 2026-10-15 | v0.8 | 补入S9 Argon工程证据、基准／演示边界及检验；B级／PA-10判断不变，交叉引用038。 |
+
+[^ropedia-primary]: Liu et al., [original preprint v1 / 原始预印本](https://arxiv.org/abs/2610.26855v1), [full text / 原文](https://arxiv.org/html/2610.26855v1). Locators / 定位: §§3–4 (data / representation), §§6.2–6.3, Table 4 (prediction / transfer), Appendix F (limits). Checked / 核验 2026-10-22; author-reported results / 作者报告结果。
+
+**Revision / 修订:** 2026-10-22 | v0.9 — Added S10 (§4.13); original text, numbering, citations and B tier / PA-10 judgment retained. 补入S10（§4.13），保留原文、编号、引用及B级／PA-10判断。

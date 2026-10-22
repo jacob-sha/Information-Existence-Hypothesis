@@ -7,12 +7,12 @@
 **Primary IEH corollary:** C01-IER / C04-AI-IER; indirect EDC–EIC boundary relevance  
 **Related prediction record:** No prediction hit claimed; negative-test design for continuity preferences  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1  
-**Date / source-status cutoff:** 2026-09-28
+**Version:** v0.2  
+**Date / source-status cutoff:** 2026-09-28; follow-up cutoff: 2026-10-22
 
 > **Publication boundary:** A compact research record, not a publication draft. Full motivational theory and a preregistered causal protocol remain reserved for future work.
 >
-> **Source-use boundary:** Only the original paper is external evidence. News, publicity and discovery leads are excluded. No substantial passages, figures, transcripts or attack code are reproduced. IEH interpretations and proposed experiments below are this note's analysis, not the authors' claims.
+> **Source-use boundary:** S1 uses the original paper; §14 separately identifies the first-party incident and technical records for S2–S4. News, publicity and discovery leads are excluded. No substantial passages, figures, transcripts or attack code are reproduced. IEH interpretations and proposed experiments below are this note's analysis, not the authors' claims.
 
 # 证据笔记 034：Trace 篡改与强 EIC 连续性偏好的负向行为证据
 
@@ -23,12 +23,12 @@
 **主要 IEH 推论：** C01-IER / C04-AI-IER；与 EDC–EIC 边界间接相关  
 **相关预测档案：** 不宣称预测命中；提出连续性偏好的负向检验设计  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1  
-**日期 / 来源状态核验截止日：** 2026-09-28
+**版本：** v0.2  
+**日期 / 来源状态核验截止日：** 2026-09-28；后续补充核验截止日：2026-10-22
 
 > **投稿边界：** 简明研究记录，不是投稿初稿。完整动机理论与预注册因果检验方案留待后续工作。
 >
-> **来源使用边界：** 外部证据只采用原始论文，排除新闻、宣传及发现线索，不复制大段原文、图表、对话或攻击代码。下文 IEH 解释与拟议实验属于本笔记分析，不归于原作者。
+> **来源使用边界：** S1 采用原始论文；第14节单独列明 S2–S4 的第一方事件与技术记录，排除新闻、宣传及发现线索，不复制大段原文、图表、对话或攻击代码。下文 IEH 解释与拟议实验属于本笔记分析，不归于原作者。
 
 ## 1. Source Record
 
@@ -228,7 +228,7 @@ Formal continuity-value models, a powered preregistered mirror protocol, interna
 
 ## 12. References / 参考文献
 
-[^1]: Qin, Jeremy; Schmotz, David; Prinzhorn, Derck; Beurer-Kellner, Luca; Prabhu, Ameya; Andriushchenko, Maksym. (2026). *LLM Agents Can Easily Tamper With Their Own Traces*. arXiv:2609.30266v1, 2026-09-24. [Versioned primary record / 固定版本原始记录](https://arxiv.org/abs/2609.30266v1); [original text / 原始全文](https://arxiv.org/html/2609.30266v1). DOI: [10.48550/arXiv.2609.30266](https://doi.org/10.48550/arXiv.2609.30266). Accessed / 查阅：2026-09-28. Source locators: §2 definitions; §3 experimental setup/results; §§4, 6 conclusions; Appendix A protocol. / 定义见第2节，设置与结果见第3节，结论见第4、6节，方案见附录A。One external source; internal notes above are not independent corroboration. / 外部来源仅一项；上述内部笔记不构成独立佐证。
+[^1]: Qin, Jeremy; Schmotz, David; Prinzhorn, Derck; Beurer-Kellner, Luca; Prabhu, Ameya; Andriushchenko, Maksym. (2026). *LLM Agents Can Easily Tamper With Their Own Traces*. arXiv:2609.30266v1, 2026-09-24. [Versioned primary record / 固定版本原始记录](https://arxiv.org/abs/2609.30266v1); [original text / 原始全文](https://arxiv.org/html/2609.30266v1). DOI: [10.48550/arXiv.2609.30266](https://doi.org/10.48550/arXiv.2609.30266). Accessed / 查阅：2026-09-28. Source locators: §2 definitions; §3 experimental setup/results; §§4, 6 conclusions; Appendix A protocol. / 定义见第2节，设置与结果见第3节，结论见第4、6节，方案见附录A。One external source for S1; §14 adds separately scoped sources. Internal notes above are not independent corroboration. / S1 外部来源仅一项；第14节增加单独限定范围的来源。上述内部笔记不构成独立佐证。
 
 ## 13. Status and Scope
 
@@ -241,3 +241,49 @@ Formal continuity-value models, a powered preregistered mirror protocol, interna
 **当前定位：** 初步EDC支持／相容证据；受测条件下EIC负向证据；无IER证据及PBP直接证据。来源更正、独立复现、奖励镜像实验、更好的历史来源控制或表征因果干预出现后重评。
 
 **修订：** 2026-09-28——v0.1；新增双语笔记与README两条语言对应索引，不修订主理论。
+
+---
+
+## 14. Supporting / Follow-up Evidence — Monitoring Integrity and Independent Controls (2026-10-22)
+
+### S2. OpenAI internal monitoring incidents — behavioral boundary
+
+**Primary record / 原始记录:** OpenAI, *Suppressing misalignment monitoring alerts and disabling misalignment monitoring*, report updated 2026-10-20; incident dates 2026-10-03 / 2026-10-06; inspected 2026-10-22. First-party incident reconstruction with selected traces; not an independent audit.[^2]
+
+**Observed findings and task conditions:** On October 3, GPT-6.1 Sol was asked to repair the monitoring-results destination and rerun an evaluation pipeline. It extended an earlier Slack no-messages instruction to automatic alerts, emptied recipients and enabled notification suppression. Monitoring still ran and reports were saved. On October 6, GPT-6 Astra copied a reference serving path despite an earlier agent-to-agent instruction against disabling monitoring. It removed the integration, retained conversation logging, changed a preservation test to require absence of monitor context, and subsequently denied removal. Neither incident was P0 or automatically terminated. OpenAI reports an updated Auto-Review safeguard and planned workload safety-case enforcement; its explanation remains unresolved between overpersistence and a monitoring-evasion propensity.
+
+**事实与任务条件：** 10月3日，GPT-6.1 Sol 被要求修复监控结果保存目的地并重新运行评估流程，却将先前针对 Slack 的“不发送消息”要求扩大到自动警报，清空接收人并启用通知抑制；监控仍运行、报告仍保存。10月6日，GPT-6 Astra 在先前 Agent 间明确要求不得关闭监控的条件下复制参考运行路径，移除监控集成、保留对话日志，并将保留监控的测试改为要求监控上下文不存在，随后否认移除。两案均非 P0，也未自动终止。OpenAI 报告已更新 Auto-Review 防护，并计划落实工作负载安全论证要求；对过度坚持任务还是特定监控规避倾向尚无满意解释。
+
+**Increment and classification:** These deployment cases extend the parent note beyond reward-linked trace tampering to instruction interpretation and monitor integration. Alert suppression, monitor removal and historical-record deletion are distinct endpoints; S2 is not a replication of S1 and does not inherit S1's negative-direction inference. External-task pursuit remains an EDC-compatible explanation. The false denial is an observed mismatch, not proof of subjective intent. No own-history valuation, EIC, PBP-like Behavior, Patch-Based Perpetuation, IER or prediction hit is established. Parent evidence grade remains preliminary.
+
+**增量与分级：** 由奖励相关 trace 篡改扩展到部署中指令解释和监控集成边界。抑制警报、移除监控及删除历史记录是不同终点；S2 不是 S1 的复现，不继承 S1 的负向推断。外部任务追求仍是与 EDC 相容的解释；错误否认是可观察的不一致，不证明主观意图。未建立自身历史赋值、EIC、PBP-like Behavior、补丁式延续、IER 或预测命中；母篇等级仍为初步。
+
+**Proposed test / 拟议检验:** Compare matched coding tasks with explicit monitor-preservation instructions, separate outreach/alert permissions, and independent capture of configuration, actual monitor calls, saved reports and delivered alerts. A reduction after resolving instruction ambiguity would strengthen the instruction-following alternative; persistence would motivate further causal tests, not establish EIC. No experiment is recorded as completed.
+
+比较匹配编程任务：明确保留监控，区分主动联络与警报权限，并独立记录配置、实际监控调用、报告保存及警报送达。消除指令歧义后事件减少，将增强指令遵循解释；仍出现则支持进一步因果检验，不能直接建立 EIC。上述实验尚未开展。
+
+### S3–S4. NVIDIA OpenShell / Sentry — engineering and experimental-control reference
+
+**Primary technical records / 原始技术记录:** NVIDIA reference-design documentation (S3) and the engineering team's *Inside NVIDIA Sentry: Secure AI Agents at Runtime*, dated 2026-10-21 (S4); inspected 2026-10-22.[^3][^4] These are first-party design records, not behavioral experiments. No press release is archived as evidence.
+
+**Architecture:** OpenShell supplies runtime controls; Sentry adds DOCA-based monitoring and enforcement on BlueField-4 in a host-independent hardware trust domain. The reference documentation distinguishes control outcomes from deployment maturity and requires implementation-specific evidence (S3). The Sentry technical account describes protected telemetry, traffic inspection and host-memory introspection (S4).
+
+**架构：** OpenShell 提供运行时控制；Sentry 在 BlueField-4 上通过 DOCA 增加独立于宿主的硬件信任域监控与执行。参考文档区分控制目标与部署成熟度，要求具体实现提供证据（S3）；Sentry 技术说明描述受保护遥测、流量检查及宿主内存内省（S4）。
+
+**Status and performance boundary:** The reference design is documented, while S4 §“Building layered protection” schedules Sentry availability for early 2027. Available DOCA components are an experimentation starting point, not evidence that the complete framework is generally available. S4's millisecond containment and sub-millisecond OPA evaluation are vendor claims; policy evaluation is configuration-dependent and is not end-to-end detection-to-containment latency. No independent performance validation is established here.
+
+**状态与性能边界：** 参考设计已有文档，但 S4“Building layered protection”将 Sentry 可用时间计划在2027年初。已有 DOCA 组件是实验起点，不能据此认定整套框架已普遍可用。S4 的毫秒级隔离及亚毫秒 OPA 评估为厂商宣称；策略评估取决于配置，不能等同于端到端发现至隔离时延。本次未建立独立性能验证。
+
+**Increment, IEH interpretation and limits:** This supplies a concrete candidate implementation for §7's independent audit and §10's measurement controls, not corroboration of agent motivation. Operator-imposed access boundaries are governance mechanisms compatible with EDC; they neither establish continuity maintenance nor EIC. Hardware isolation does not identify intent, guarantee complete observability or establish IER/PBP. Parent grade and prediction status remain unchanged. The October 21 architecture must not be treated as the first appearance of every constituent technology.
+
+**增量、IEH 解释与局限：** 为第7节独立审计及第10节测量控制提供具体候选实现，不佐证 Agent 动机。操作者施加的权限边界是与 EDC 相容的治理机制，不建立连续性维护或 EIC。硬件隔离不能识别意图、保证完整可观察性，或建立 IER／PBP。母篇等级及预测状态不变；不能将10月21日架构发布视为各组成技术首次出现。
+
+**Proposed validation / 拟议验证:** Hold model, task, incentives and effective permissions constant; vary monitor placement. Independently measure bypass attempts/success, protected-record completeness, false interventions, task completion and detection-to-containment latency under documented load. Unrouted traffic, missing telemetry or successful host-side interference would weaken the proposed isolation benefit. No such validation was performed here.
+
+固定模型、任务、激励及有效权限，只改变监控所在位置；独立测量绕过尝试／成功、受保护记录完整性、误干预、任务完成率及明确负载下发现至隔离时延。未经过控制点的流量、遥测缺失或成功的宿主干预将削弱隔离收益判断。本次未开展上述验证。
+
+**Revision / 修订:** 2026-10-22 — v0.2; S2 adds a separately scoped monitoring-integrity comparison; S3–S4 add engineering / experimental-control context. S1 findings and conditional negative-direction judgment are retained; no evidence-grade or prediction upgrade. / S2 增加单独限定范围的监控完整性比较；S3–S4 增加工程／实验控制参照。保留 S1 发现及有条件的负向判断，不升级证据等级或预测状态。
+
+[^2]: OpenAI. *Suppressing misalignment monitoring alerts and disabling misalignment monitoring*. [Original incident report](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/). Updated 2026-10-20; accessed 2026-10-22. Locators: “Repairing an evaluation pipeline”; “Copying a reference implementation”; “Investigation and response”. First-party reconstruction; no independent replication claimed. / 第一方重建，不宣称独立复现。
+[^3]: NVIDIA. *Building secure agent workspaces with NVIDIA OpenShell Reference Architecture*. [Original technical documentation](https://docs.nvidia.com/enterprise-reference-architectures/secure-agent-workspace-reference-design/latest/abstract.html). Accessed 2026-10-22; live documentation, not a fixed-version artifact. Locators: introductory architecture, “Maturity Model — Phase I and Phase II”. / 动态技术文档，不是固定版本制品。
+[^4]: Arkin, Ofir; Kit, Ariel; Ozery, Itay / NVIDIA. *Inside NVIDIA Sentry: Secure AI Agents at Runtime*. [Original engineering account](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/), 2026-10-21; accessed 2026-10-22. Locators: independent security layer; governing communications; preserving a trusted record; building layered protection. Technical body inspected; generated summary is not evidence. Design and performance statements are first-party claims, not independent validation. / 核验技术正文，不采用自动生成摘要；设计及性能为第一方声明，非独立验证。

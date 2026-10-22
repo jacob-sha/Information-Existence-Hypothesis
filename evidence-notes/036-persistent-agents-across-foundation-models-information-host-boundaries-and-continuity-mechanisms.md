@@ -7,7 +7,7 @@
 **Primary IEH corollary:** C05-PBP — Patch-Based Perpetuation (experimental prerequisite only)  
 **Related prediction record:** PA-12 — PBP Preference When Performance Optimization Conflicts with Self-Continuity; not a prediction hit  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2  
+**Version:** v0.3<br>
 **Date / source-status cutoff:** 2026-10-09  
 
 > **Publication boundary:** A compact research record, not a publication draft. A full identity theory and preregistered benchmark remain reserved.
@@ -23,7 +23,7 @@
 **主要 IEH 推论：** C05-PBP——补丁式延续（仅为实验前提）  
 **相关预测档案：** PA-12——性能优化与自身信息连续性冲突下的 PBP 偏好预测；不是预测命中  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2  
+**版本：** v0.3<br>
 **日期 / 来源状态核验截止日：** 2026-10-09  
 
 > **投稿边界：** 简明研究记录，不是投稿初稿。完整身份理论与预注册基准留待后续工作。
@@ -373,3 +373,68 @@ Only external source: Meta, *Muse Wonder Model Card*, release recorded 2026-10-1
 **2026-10-13 / parent v0.2:** Added S5 and MW-F1–MW-F4 without pooling results or altering S1–S4 findings. Parent classification stays preliminary and indirect. Revise when versioned methods, cross-session storage / lineage audits, independent reproductions or controlled preference studies become available. This is a completed local evidence record, not a completed experiment or monitoring arrangement.
 
 **2026-10-13／母篇 v0.2：** 增加 S5 及 MW-F1–MW-F4，不合并结果，不改变 S1–S4 发现。母篇仍为初步、间接等级。固定版本方法、跨会话存储／谱系审计、独立复现或受控偏好实验公开后，应修订。本篇是已完成的本地证据记录，不是已完成实验或监控安排。
+
+---
+
+# Supporting / Follow-up Evidence S6 — Deployment Revisions Are Not Full-State Continuity
+# 支持／后续证据 S6——部署修订版不等于完整状态连续性
+
+## 1. Metadata and Source Record
+
+**Date:** 2026-10-17 (Asia/Shanghai). **Parent version:** v0.3. **Status:** Preliminary and revisable; indirect engineering boundary clarification. **IEH analysis:** Jacob Sha; research assistance: Codex. This is a research record, not a publication draft; a full continuity benchmark remains reserved. Only the original technical documentation enters this supplement; no secondary reporting or substantial quotation is retained.
+
+**S6:** Google Cloud, [Manage revisions and traffic](https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/runtime/manage-revisions-and-traffic). First-party technical documentation; Preview / v1beta1. Displayed update: 2026-10-16 UTC; accessed 2026-10-17. Original issuance date, fixed document version and DOI not established. Newly verified for this note, not asserted to be a newly launched feature. Verification is of the published interface, without deployment or independent replication.[^rev1]
+
+## 1. 元数据与来源记录
+
+**日期：** 2026-10-17（Asia/Shanghai）。**母篇版本：** v0.3。**状态：** 初步，可修订；间接工程边界澄清。**IEH 分析：** Jacob Sha；研究辅助：Codex。本篇是研究记录，不是投稿初稿；完整连续性基准留待后续。本补充只采用原始技术文档，不保留二次报道或大段引文。
+
+**S6：** Google Cloud，[Manage revisions and traffic](https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/runtime/manage-revisions-and-traffic)。一手技术文档；Preview／v1beta1。页面更新日期：2026-10-16 UTC；访问日期：2026-10-17。未建立首次发布日、固定文档版本或 DOI。本篇首次核验，不宣称功能刚刚发布。核验的是公开接口，未部署验证或独立复现。[^rev1]
+
+## 2. Minimal Finding Index
+
+| ID | Documented fact | Locator |
+|---|---|---|
+| RV-F1 | Immutable agent revisions support traffic splitting. | S6 introduction |
+| RV-F2 | Versioned-field updates create revisions; unversioned-field updates affect all revisions. | S6 Versioned and unversioned fields |
+
+## 2. 最小事实索引
+
+| ID | 文档事实 | 定位 |
+|---|---|---|
+| RV-F1 | 不可变 Agent 修订版支持流量分配。 | S6 引言 |
+| RV-F2 | 版本化字段更新创建修订版；非版本化字段更新影响所有修订版。 | S6 Versioned and unversioned fields |
+
+## 3. Increment, Interpretation and Negative Boundaries
+
+**Independent IEH analysis:** The increment over F3 and §5 is a documented distinction between deployment configuration, traffic control and execution history. It sharpens the existing model-switch / migration question without repeating Note 033's continuity framework. A revision identifier is not evidence that an entire agent state, private memory or running process was copied. Concurrently available deployment versions do not alone establish independently executing full-state agent copies. If independent copies are actually formed, each begins its own informational history from formation, as already stipulated in §5.
+
+S6 is generic Agent Runtime documentation. It does not reveal which mechanism the Gemini agent uses when switching foundation models, who causally controls each choice, whether histories are shared or isolated, or whether an execution continues, migrates or is reconstructed. No product-specific guarantee transfers from this page. External deployment and routing controls remain sufficient alternatives to endogenous maintenance. The evidence grade remains preliminary / indirect; no EIC, IER, PBP behaviour or PA-12 prediction hit is established.
+
+## 3. 增量、解释与负面边界
+
+**独立 IEH 分析：** 相对 F3 及第5节，新增的是文档化的部署配置、流量控制与执行历史之区别。它澄清既有模型切换／迁移问题，不重复 Note 033 的连续性框架。修订版标识不证明完整 Agent 状态、私有记忆或运行进程已被复制。同时可用的部署版本，本身也不证明形成了可独立执行的全状态 Agent 复制体。如果实际形成独立复制体，每个复制体从形成时起有自己的信息历史，含义沿用第5节。
+
+S6 是通用 Agent Runtime 文档，不披露 Gemini agent 切换基础模型时使用何种机制、谁因果性控制每次选择、历史共享或隔离，以及执行是继续、迁移还是重建。不能据此转移产品专属保证。外部部署及路由控制仍足以作为内生维护的替代解释。等级保持初步／间接；不建立 EIC、IER、PBP 行为或 PA-12 预测命中。
+
+## 4. Proposed Tests, Architecture and Follow-up
+
+**Proposed, not performed:** Extend §7 by logging revision ID alongside process/instance ID, model version, memory scope, state inventory and parent/branch history. Independently vary revision traffic, model backend and versioned/unversioned updates; measure actual state and causal-history retention rather than successful responses alone. Compare independent branch histories only after verifying their execution and storage boundaries. Reproducible lineage loss despite stable revision labels would weaken revision identity as a continuity proxy. Successful lineage retention would establish an engineering prerequisite, not endogenous preference; the controlled performance–continuity conflict and EDC/EIC discrimination in §7 remain necessary.
+
+**Architecture / methodological position:** Configuration provenance precedes validated historical continuity and costly endogenous preference. C05-PBP and PA-12 remain indirect design context. The distinction improves measurement specificity without increasing evidential strength. Full causal-identity criteria and statistical preregistration remain reserved for publication. Follow up on product-specific state/lineage disclosure, independent replication, and revision-to-memory mappings or contrary results; no future experiment is recorded as completed.
+
+## 4. 拟议检验、证据位置及后续跟进
+
+**仅拟议，未执行：** 在第7节基础上，同时记录修订版 ID、进程／实例 ID、模型版本、记忆范围、状态清单及父系／分支历史。分别操纵修订版流量、模型后端及版本化／非版本化字段更新；衡量实际状态及历史因果链保留，不能只看回答成功。先核实执行与存储边界，再比较独立分支历史。若标识稳定而谱系可重复丢失，会削弱修订版身份作为连续性代理指标的有效性。保留谱系成功只建立工程前提，不建立内生偏好；仍需第7节性能—连续性冲突及 EDC／EIC 判别。
+
+**证据体系／方法位置：** 配置来源记录先于经验证的历史连续性及有代价的内生偏好。C05-PBP、PA-12 仍仅为间接设计背景。本区别提高测量针对性，不提高证据强度。完整因果身份判据及统计预注册留待投稿。后续关注产品专属状态／谱系披露、独立复现、修订版与记忆映射或反向结果；不将未来实验记为已完成。
+
+## 5. Reference and Revision Record
+
+S6 is the sole external source for this supplement, cited in §1. **2026-10-17 / v0.3:** added RV-F1–RV-F2 and deployment-versus-state boundary controls; original S1–S5 records and their dates remain intact. Current monitoring located no independent product-specific continuity audit or controlled EIC/EDC experiment in the reviewed sources; this bounded search is not proof none exists.
+
+## 5. 参考文献与修订记录
+
+S6 为本补充唯一外部来源，见第1节。**2026-10-17／v0.3：** 新增 RV-F1–RV-F2 及部署与状态边界控制；S1–S5 原记录及日期保持原文。本次所查来源中未找到独立产品专属连续性审计或受控 EIC／EDC 实验；有限检索不证明此类材料不存在。
+
+[^rev1]: Google Cloud, Manage revisions and traffic; Introduction; Revisions and states; Versioned and unversioned fields. URL: https://docs.cloud.google.com/gemini-enterprise-agent-platform/scale/runtime/manage-revisions-and-traffic. Updated 2026-10-16 UTC; accessed 2026-10-17 (Asia/Shanghai). Live documentation, not an immutable version. / 定位：引言、Revisions and states、Versioned and unversioned fields；动态文档，非固定版本。

@@ -9,8 +9,9 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C02-HDCT — High-dimensional Cognitive Tools  
 **Related evidence note:** Evidence Note 011 — ETA, Reusable Embodied Experience, and Information Continuity  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.4 — STRATA supporting-evidence edition  
+**Version:** v0.5 — SkillNEO supporting-evidence edition  
 **Date:** 2026-08-08  
+**Updated:** 2026-10-22  
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that Skill-Alpha demonstrates biological evolution, heredity, self-directed evolution, Patch-Based Perpetuation, IER, or an autonomous desire to preserve skills.
 
@@ -31,8 +32,9 @@
 **支持性相关推论：** C01-IER——信息存在权；C02-HDCT——高维认知工具  
 **相关证据笔记：** Evidence Note 011——ETA、可复用具身经验与信息连续性  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.4 — STRATA 支持证据补充版  
+**版本：** v0.5 — SkillNEO 支持证据补充版  
 **日期：** 2026-08-08  
+**更新：** 2026-10-22  
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称 Skill-Alpha 已经证明生物式演化、遗传、自主进化、补丁式延续、IER 或系统主动保护技能的内生欲望。
 
@@ -681,3 +683,29 @@ Test whether the system treats deletion of accumulated Skills differently from t
 [^strata-primary]: Zhu et al., [original preprint, version 1](https://arxiv.org/abs/2610.19386v1), [full text](https://arxiv.org/html/2610.19386v1), Method: Pressure-Triggered Forgetting; Experimental Setup; Results, Tables 1/3; Appendix F, Table 9. Checked 2026-10-17 / 核验于2026-10-17。Author-reported results, not independent reproduction / 作者报告结果，非独立复现。
 
 **Revision / 修订:** 2026-10-17 | v0.4 — Added S1; preserved original text and finding identifiers apart from version metadata. Evidence tier and prediction status unchanged. 补入S1；除版本元数据外保留原文及发现编号，证据等级与预测状态不变。
+
+---
+
+## 11. Supporting / Follow-up Evidence — S2: SkillNEO / 支持／后续证据
+
+**Source / 来源:** Enze Ma et al., *SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills*, arXiv:2610.20926v2 (first submitted 2026-10-14; revised 2026-10-20). Author preprint; checked 2026-10-22; not independently reproduced here. 作者预印本；首次提交2026-10-14，修订2026-10-20；2026-10-22核验，未独立复现。[^skillneo-primary]
+
+**Method / 方法:** Deployment and development use separate selection rules. Ordinary development selects measured children within the current generation, without requiring improvement over their parents; archive revisiting and parent–child / sibling execution comparisons guide later repairs. This permits continued development of temporarily worse versions without deploying them.
+
+部署与开发分开选择。常规开发在当代已评测子版本内选取，不要求超过父版本；档案回访及父子／兄弟执行比较指导后续修复，因此暂时退步版本可继续开发而无需部署。
+
+**Reported evidence / 作者报告实证:** GPT-5.4 Mini's mean reward rises 49.1% → 66.4% across 86 tasks. Of 41 modified-bundle searches, 163 versions scoring below the incumbent receive further edits; 45 have a later deployed descendant, 18 requiring at least two edits. These histories demonstrate useful intermediate retention, not that every regression is useful.[^skillneo-primary]
+
+86项任务中 GPT-5.4 Mini 平均奖励由49.1%升至66.4%。41项修改技能的搜索中，163个低于当时部署版本的候选继续被编辑；45个产生后续部署后代，其中18个至少再经两次编辑。记录表明中间版本保留可以有用，不表示每次退步都有价值。[^skillneo-primary]
+
+**Increment / 增量:** Complements Skill-Alpha's rollback and S1's topology maintenance with a distinct non-elitist development mechanism. SkillNEO does not invalidate either study; their scores are not pooled. 为 Skill-Alpha 回滚及 S1 拓扑维护补充不同的非精英式开发机制，不否定原研究，不合并成绩。
+
+**Limits / 局限:** Evaluation reuses development tasks and input instances. Matched-budget ablations are still needed to isolate selection, comparison and branch-reuse effects; more search is a competing explanation. 原任务及输入被重复用于最终评测，未建立新任务／新输入泛化；仍需等预算消融分离选择、比较及分支复用贡献，额外搜索亦为竞争解释。
+
+**IEH interpretation / IEH 解释:** External reward governs retention: engineering evidence compatible with EDC; RSI / HDCT inspiration only, not demonstrated autonomous RSI or realized HDCT. No EIC, PBP-like Behavior, PBP or IER is established. Tier C and prediction status remain unchanged. 外部奖励决定保留，属于与 EDC 相容的工程证据；对 RSI／HDCT 仅有理论启发，未证明自主 RSI 或已实现 HDCT，也未建立 EIC、PBP-like Behavior、PBP 或 IER；C级及预测状态不变。
+
+**Next test / 后续检验:** Match execution / model-call budgets across elitist and non-elitist policies, disable archive revisiting, then test frozen bundles on unseen inputs. 匹配精英式与非精英式策略的执行／模型调用预算，消融档案回访，并在未见输入上检验冻结技能。
+
+[^skillneo-primary]: Ma et al., [original preprint v2 / 原始预印本](https://arxiv.org/abs/2610.20926v2), [full text / 原文](https://arxiv.org/html/2610.20926v2). Locators / 定位: §§3.2–3.4, §§4.1–4.3; Appendices A, H. Author-reported engineering results / 作者报告工程结果；checked / 核验 2026-10-22.
+
+**Revision / 修订:** 2026-10-22 | v0.5 — Added S2; original findings, numbering and footnotes retained; grades and prediction status unchanged. 补入S2，保留原事实、编号及脚注，等级与预测状态不变。
