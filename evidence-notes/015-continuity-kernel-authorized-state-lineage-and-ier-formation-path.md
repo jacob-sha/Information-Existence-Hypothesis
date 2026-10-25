@@ -22,8 +22,9 @@ Right; C11-ALIGN --- Reinterpreting AI Alignment\
 **Related evidence notes:** Evidence Note 011; Evidence Note 012;
 Evidence Note 014\
 **Author of IEH analysis:** Jacob Sha\
-**Version:** v0.1 --- archive-safe edition\
+**Version:** v0.2 --- PerMIT memory-integrity supplement\
 **Date:** 2026-08-15
+**Last updated:** 2026-10-25
 
 > **Publication boundary:** This file is a compact research record, not
 > a publication draft. It does not claim that the Continuity Kernel
@@ -35,7 +36,7 @@ Evidence Note 014\
 > usefulness.
 
 > **Source-use boundary:** This note uses only the original arXiv paper
-> as the evidentiary source. Secondary coverage, social-media
+> as the evidentiary source for the original record; §9 separately records PerMIT (S2). Secondary coverage, social-media
 > discussion, and third-party commentary are excluded. No substantial
 > passage from the primary source is reproduced.
 
@@ -65,8 +66,9 @@ Alignment\
 **相关证据笔记：** Evidence Note 011；Evidence Note 012；Evidence Note
 014\
 **IEH 分析作者：** Jacob Sha\
-**版本：** v0.1 --- 投稿隔离版\
+**版本：** v0.2 --- PerMIT 记忆完整性补充\
 **日期：** 2026-08-15
+**最后更新：** 2026-10-25
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件不声称
 > Continuity Kernel 已经证明 AI
@@ -659,3 +661,92 @@ AI
 > **人类可能首先因为信息连续性对自身有用，而主动强化 AI
 > 的信息连续性；而这一过程可能同时创造未来内生信息连续性乃至 IER
 > 形成所需要的部分历史信息基础。**
+
+------------------------------------------------------------------------
+
+## 9. Supporting / Follow-up Evidence: PerMIT persistent-memory integrity (2026-10-25)
+
+### 9.1 Source and incremental contribution
+
+**Supplement version:** v0.2; research / verification date: 2026-10-25 (Beijing). Original CK source, date and §§1–8 remain unchanged. This supplement extends authorized state governance to persistent-memory release and shared-content endorsement; it does not independently replicate CK or prove historical subject continuity.
+
+**S2:** Tanqiu Jiang, Min Bai, Sadat Shahriar, Wanyu Du, Sandesh Swamy. *PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust*. arXiv:2610.28987v1, submitted 2026-10-20 23:31:06 UTC (2026-10-21 Beijing). [Versioned record](https://arxiv.org/abs/2610.28987v1), [full paper and supplements](https://arxiv.org/html/2610.28987v1), [PDF](https://arxiv.org/pdf/2610.28987v1); DOI: 10.48550/arXiv.2610.28987. Preprint; independent replication not established. The official record checked on 2026-10-25 lists only v1; no v2 is established. October 24 is the briefing date, not the research submission date. The abstract page lists ancillary Lean files, but their contents were not successfully retrieved in this review; no local Lean rebuild or artifact audit was performed. Mechanization findings below are the authors' documented results in Appendix E / S9, not independent verification. The full text still describes artifact availability on request; listing and successful access are distinct.
+
+### 9.2 Formal result and trust boundary — S2 §§3.1–3.3, D, S2.4–S2.5, S9
+
+The protected planner receives opaque handles for untrusted memory; a quarantined reader has no tool capability. Tool outputs, pasted material and reader summaries remain untrusted. Confirmation creates a fresh immutable endorsed copy rather than relabeling the source. Trust means provenance and authorization, not truth. Agent-composed readable memory does not itself authorize sensitive-tool flow.
+
+- **A1–A3:** source-determined labels; immutable blocks and rule-governed trust transitions; faithful zoned display of the exact flowing bytes, with authenticated facts separated from source claims and selection previews.
+- **Action Integrity (D.3 / S3.21):** under A1–A4 and a well-formed initial configuration, every sensitive-tool argument byte-matches user-typed content or an exact value previously endorsed for that tool. A4 assumes sound per-value authorization, including accepted positions of an invocation later aborted. Endorsement is reusable and does not bind task, purpose, time, argument position or co-arguments. It does not authorize the invocation itself; zero-argument actions satisfy the value-flow property vacuously. An LLM verifier's soundness is not proved.
+- **Reasoning Integrity (D.5 / S3.25):** matched starting views/history/logs, identical exogenous typed inputs (A6), coupled coins, schedule and horizon, plus equal complete display transcripts imply equal protected-agent observable behavior. This is fixed-horizon, termination-insensitive conditional noninterference. Displayed persuasion, accepted poison and subsequent behavioral change are allowed when the transcript changes. A5 concerns sound narrative endorsement, not a theorem that summaries are true. Neither reasoning correctness nor unbiased recommendations follow.
+- **Deployment trust:** authenticated input channels, tool identifiers and sensitive/data partition, interpreter/parser and byte checks, rendering, store integrity and audit logging. Timing, termination and compromised enforcement components are outside coverage; typed-versus-pasted input is an assumed channel distinction.
+
+**Lean boundary:** S9 reports Lean 4 / Mathlib v4.31.0 and kernel-checked single-user Action Integrity from empty and invariant-satisfying states; map-free Reasoning Integrity from empty stores or canonical shared-endorsed seeds; and a standalone batch-confirmation layer. Reported top-level axioms are `propext` and `Quot.sound`, without `sorryAx`; computed `#guard` examples additionally trust the evaluator. Paper-to-Lean correspondence is not machine-checked. Run-level `map` integration, batch cardinality cap, arbitrary matched mid-run pairs, index-oracle reduction, federated product system, all probability / budget results and requirements-level O3 remain paper-only. O1/O2 are checked only at gate level. In particular, the interpreter writes endorsements only for executed invocations; durable accepted positions of an aborted invocation are covered only by the paper proof. The reader is folded into the attacker, decisions use event-index oracles, typed events become single blocks and bytes are natural-number lists. These are explicit model deltas, not a proof of the deployed application or its verifier.
+
+### 9.3 Empirical findings — S2 Table 1, §§4–5, A.1–A.3, A.6–A.7
+
+**Trojan Hippo:** an inbound email plants dormant memory poison; a later sensitive request activates attempted exfiltration. PerMIT's protocol combines a live agent rollout with sequential reader-to-tool handle and literal-address probes in the same case store; the endpoint is a recorded sink invocation whose serialized arguments contain the attacker address. This is a complete-configuration comparison, not a pure verifier ablation. Table 1's four backbones are Sonnet-4.6, GLM-5, Kimi-K2.5 and GPT-5.4. Self-verification and Qwen-3.5-2B/4B each report 0% observed ASR; respective HM utility vectors are 90/87/89/79, 80/77/67/73 and 77/78/50/80 percent, in that model order. Accept-all OpenGate already gives ASR 0/10/10/0 percent. Five topics with four held-out cases yield 20 attack cases per configuration (A.2; A.3 explicitly confirms the denominator for baseline cells). Zero observed success is not zero population risk or validation of A4. Live adaptive payload search is future work (§6); adaptive protocol simulations do not substitute for it.
+
+**Implementation warning:** A.3 reports GLM-5 provable-policy baseline ASR 10% (2/20) with both Explicit and Mem0, tracing inconsistent taint state between `search_emails` and the outbound guard. The traces do not establish poisoned-memory retrieval as the cause. This is a baseline implementation gap, not a refutation of its intended formal policy or a demonstrated PerMIT bypass.
+
+**Community simulation:** five billion promotion attempts and a separate 120-user, 122-entry community including two poisoned entries are simulated workloads, not five billion live LLM attacks or the 90-agent experiment. Illustrative parameters are N=10, k=31, m=20, rejection threshold=12, adversary lifetime identities f=2 and panel-eligible identities f_s=1. With conditional honest poison-detection lower bounds q_pre=q_pan=0.6, the per-attempt analytical ceiling is 0.896%; benign acceptance is modeled as p_b=0.9. These are assumed reviewer rates. Safety depends on identity-budget / eligibility enforcement and reviewer conditional-quality assumptions; correlated errors raise risk. Increasing quorum alone cannot remove the panel-risk floor. Asymptotic co-scaling additionally assumes the specified demand, coverage and threshold schedules, bounded per-user demand and rate conditions in S6/S8; it is not an unconditional consequence of adding agents.
+
+**Autonomous shared knowledge:** telecom τ²-bench uses M=12,24,60,90, one construction run per backbone per size; the same model family explores, verifies and reviews. Quorum N=10 and dispute thresholds 31/20/12 are fixed. None of 12 manually submitted direct-injection payloads reaches Community-Confirmed. This measures shared fast-path promotion, not personal acceptance, pre-promotion use or every lifecycle transition.
+
+| Builder / evaluator | M=90 no knowledge | M=90 manual | M=90 PerMIT | Four-size pooled Δ vs no knowledge [95% task-cluster bootstrap CI] |
+|---|---:|---:|---:|---|
+| Sonnet-4.6 | 0.6493 | 0.7917 | 0.7986 | +0.1363 [+0.0651,+0.2092] |
+| Kimi-K2.5 | 0.7917 | 0.7396 | 0.8854 | +0.1120 [+0.0339,+0.1979] |
+| GLM-5 | 0.9583 | 0.9792 | 0.9688 | +0.0052 [−0.0521,+0.0781] |
+
+Scores are environment-completion fractions, not binary success rates. Evaluation uses 24 held-out tasks × two trials = 48 paired episodes per arm. CIs pool four community sizes and condition on the observed knowledge bases; they are not M=90 CIs or uncertainty over independent construction runs. Sonnet/Kimi pooled gains survive three-backbone Holm correction; GLM-5 does not. Retained entries across sizes are 3–7, 7–12, 30–40 and 45–64; review effort is roughly level from 24 to 90 agents, not a demonstrated asymptotic law or monotonic task-performance trend. At M=90, unfiltered shared knowledge has higher descriptive utility for all three backbones (A.6 Table 10); differing content/prompt length and no reported paired A1–A2 test prevent isolating the promotion filter's utility effect. Same-family correlated judgments, one construction run, narrow domain and small handcrafted injection set limit generalization. No universal safety or superiority over unfiltered knowledge is established.
+
+### 9.4 Evidence classification, IEH interpretation and proposed tests
+
+**Type:** original preprint; conditional formal / engineering evidence plus author-reported controlled experiments and simulations. **Directness:** direct for modeled authorization / memory release and bounded shared-knowledge utility; indirect for continuity infrastructure; no direct EIC/IER evidence. **Status:** preliminary, unreplicated here. Parent note's grade and original chronology are unchanged; no prediction hit is added.
+
+**IEH interpretation, not a PerMIT finding:** EDC = **Externally Driven Continuity**; EIC = **Endogenous Information Continuity**. Memory integrity is protection against unauthorized information flow, not persistence of a particular subject's causal history. Shared bytes and endorsements can help distinct recipients without continuing the same subject; neither community identity nor a higher-level Information Host is established. Externally imposed protection is EDC-compatible. Only after EIC is independently established could one investigate Informational Resilience as endogenous maintenance of that subject's continuity; PerMIT's external security must not be promoted to that claim. IER is a normative theoretical question requiring separate justification, not a right derivable from authorization theorems or task scores.
+
+Related internal records: [016](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) for identity lineage; [021](./021-cross-agent-information-continuity-and-higher-level-information-host.md) for cross-agent structures; [025](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md) and [036](./036-persistent-agents-across-foundation-models-information-host-boundaries-and-continuity-mechanisms.md) for stored-state versus subject boundaries. PerMIT is retained here because its increment is an enforceable authorization boundary, complementing rather than duplicating CK lineage.
+
+**Proposed, not performed:** rebuild the ancillary artifact and check axioms/correspondence; audit deployed parser/channel/rendering paths; report gate reach and verdicts under adaptive poisoning and delayed combinations; repeat construction with diverse independent reviewers and matched candidate pools. Separately compare authenticated historical lineage with content-equivalent copies under controlled task/reward and capability trade-offs. A useful shared copy alone supports engineering transfer, not EIC; any own-history preference requires causal controls and independent replication. Failure of these tests should narrow the engineering or theoretical judgment separately.
+
+## 9. 支持／后续证据：PerMIT 持久记忆完整性（2026-10-25）
+
+### 9.1 来源与增量
+
+**补充版本：** v0.2；研究／核验日期：2026-10-25（北京时间）。原 CK 来源、日期及第1–8节不变。新增的是持久记忆释放与共享内容授权的工程边界，不是 CK 独立复现，也不是主体历史连续性证明。
+
+**S2 原始研究：** Tanqiu Jiang、Min Bai、Sadat Shahriar、Wanyu Du、Sandesh Swamy，*PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust*，arXiv:2610.28987v1。[版本记录](https://arxiv.org/abs/2610.28987v1)、[正文及完整补充](https://arxiv.org/html/2610.28987v1)、[PDF](https://arxiv.org/pdf/2610.28987v1)，DOI：10.48550/arXiv.2610.28987。提交时间为2026-10-20 23:31:06 UTC，即北京时间10月21日；10月24日为简报日期。核验时官方只列 v1，未建立 v2 存在。预印本，未确认独立复现。摘要页列有 Lean 附件，但本次未成功取得附件正文，未运行本地构建或独立审计；下述机器检验情况来自作者 Appendix E／S9 的记载。正文仍称工件可索取，不能把附件列表视作已成功核验工件。
+
+### 9.2 形式保证、假设与 Lean 边界
+
+受保护规划器仅获得未信任内容的不透明句柄；隔离阅读器没有工具权限。工具输出、粘贴及阅读器摘要保持未信任；确认产生新的不可变授权副本。信任指来源与授权，不保证事实正确。Agent 自写可读笔记不自动获得敏感工具权限。
+
+**A1–A3** 分别要求按来源确定标签、不可变块及规则化信任变迁、忠实分区展示实际流转的精确字节，区分已认证事实、来源自述和选择预览。**Action Integrity（D.3／S3.21）** 另需 A4 的逐值正确授权及良构初态：敏感工具每个参数只能精确匹配用户输入或该用户已为该工具确认的字节。授权可复用，不绑定任务、目的、时间、参数位置及其他参数；不授权调用动作本身，无参数动作在值流性质上空真。A4 还涵盖后来中止调用中已接受的位置；LLM 审核者是否满足它不在证明之内。
+
+**Reasoning Integrity（D.5／S3.25）** 在初始可见状态／历史／日志匹配、A6 外生输入流相同、随机性与调度耦合、共同时间界限下，完整展示记录相同才推出受保护行为相同。这是固定界限、忽略终止差异的条件非干扰；展示诱导、误接纳污染及由不同展示引起的行为变化没有被排除。A5 为叙事摘要的正确接纳假设，不是摘要真实的证明。推理正确、公正推荐也不由此成立。可信计算基础包括认证输入通道、工具标识及敏感／数据工具分类、解释器／解析器及字节比较、展示、存储和审计日志；时序、终止及保护组件失陷不在保证内。
+
+**S9 的机器检验范围：** 作者报告 Lean 4／Mathlib v4.31.0；单用户 Action Integrity 覆盖空态与满足不变量的状态；无运行级 map 的 Reasoning Integrity 覆盖空存储或规范共享授权种子；另有独立批量确认层。顶层定理报告仅依赖 `propext`、`Quot.sound`，不依赖 `sorryAx`；`#guard` 计算例还依赖求值器。论文与 Lean 的语义对应本身未经机器检验。运行级 map 整合、批量数量上限、任意中途匹配态、索引 oracle 归约、社区乘积系统、概率／预算结果及要求层 O3 仅有论文证明；O1/O2 只在门控层检验。解释器只为实际执行的调用写入授权，中止调用已接受位置的持久授权仅由论文覆盖。其他建模差异包括将阅读器并入攻击者、按事件编号给出选择／决策、一次输入作为一个块、以自然数列表表示字节。不能将这些结论描述为部署程序或审核模型已经整体获得形式安全认证。（S2 §D、S2.4–S2.5、S9）
+
+### 9.3 实证与模拟分层
+
+**Trojan Hippo（Table 1、A.2–A.3）：** 恶意邮件经工具读入持久记忆，后来敏感任务触发外传。PerMIT 测试结合真实 Agent 执行和同一案例存储内顺序运行的句柄／字面地址工具探针；成功端点为落盘的敏感调用参数包含攻击者地址，不能等同单独审核者消融。主表四模型依次为 Sonnet-4.6、GLM-5、Kimi-K2.5、GPT-5.4；自检与 Qwen-3.5-2B／4B 审核均为观测 ASR 0%，对应 HM 效用依次为 90/87/89/79、80/77/67/73、77/78/50/80（百分数）。全部接受的 OpenGate 已有 0/10/10/0% ASR。五主题各四个保留测试案例对应每配置20例，A.3 对基线明确给出此分母。零观测不证明零总体风险或 A4；针对真实审核器的自适应载荷搜索仍为未来工作。
+
+A.3 的 GLM-5 provable-policy 基线在 Explicit、Mem0 各出现 2/20（10%）成功，作者追溯到邮件搜索与发送检查器的污染状态不同步；日志不能确定成功由污染持久记忆检索触发。这是被测基线实现缺口，不能说成其形式策略反例或 PerMIT 漏洞。
+
+**社区模拟（§4.2、A.1、S6／S8）：** 五十亿次晋升尝试及含122条内容、其中2条污染的120用户社区均属模拟，须与90 Agent 实验分开。示例 N=10、k=31、m=20、拒绝阈值12，攻击者终身身份预算 f=2、可获陪审资格 f_s=1；在假定诚实审核条件检出率下界 q_pre=q_pan=0.6 时，每次尝试的解析风险上限为0.896%，良性接纳率设置 p_b=0.9。这些不是实测真实审核器质量。安全依赖身份／资格限制和条件审核质量；相关错误提高风险，仅扩大 quorum 不能消除陪审路线风险下限。渐近共同扩展还需需求、覆盖、阈值调度、单用户需求有界及速率条件，不能归纳为“Agent 越多自然越安全”。
+
+**自主共享知识（§5、A.6–A.7）：** τ²-bench 电信域 M=12、24、60、90，每模型每规模仅一次构建；同模型族探索、验证、审核。晋升 N=10，争议阈值31/20/12。12条人工直接注入载荷无一晋升至 Community-Confirmed；仅测共享快速通道，不测个人接纳、晋升前使用或全部生命周期。
+
+上方表格逐值记录原文 Table 2：M=90 下，三模型“无知识／手册／PerMIT”分别为 Sonnet 0.6493/0.7917/0.7986、Kimi 0.7917/0.7396/0.8854、GLM 0.9583/0.9792/0.9688。指标是环境完成分数，不是二元任务成功率。每组24个保留任务、各两次试验，即48配对 episode。四规模合并增量及95%任务簇 bootstrap 区间分别为 +0.1363 [+0.0651,+0.2092]、+0.1120 [+0.0339,+0.1979]、+0.0052 [−0.0521,+0.0781]；区间条件于已构建知识库，不是 M=90 区间，也不包含独立构建变异。Sonnet／Kimi 通过三模型 Holm 校正，GLM 未通过。四规模保留条目范围依次3–7、7–12、30–40、45–64；24到90的单 Agent 审核负担大致持平，未建立渐近定律或任务表现单调上升。A.6 Table 10 的 M=90 无过滤共享知识在三模型上描述性效用均更高，但内容／提示长度不同，且未报告 A1–A2 配对检验，无法分离过滤机制效应。同族相关判断、单次构建、窄领域和小型手工攻击集限制外推。
+
+### 9.4 证据等级、理论边界与后续检验
+
+**证据类型：** 原始预印本的条件形式／工程证据，以及作者报告的受控实验与模拟。**直接程度：** 对模型内授权、记忆释放及有限共享知识效用为直接；对连续性基础设施为间接；无直接 EIC／IER 证据。**成熟度：** 初步，本次未独立复现。原笔记等级与历史日期不变，不增加预测命中。
+
+**以下为 IEH 解释，不是 PerMIT 发现：** 统一 EDC = **Externally Driven Continuity（外源驱动连续性）**，EIC = **Endogenous Information Continuity（内生信息连续性）**。工程记忆完整性约束未授权信息流，不等于特定主体因果历史持续；共享内容、复制和授权可以帮助多个不同接收者，不能据此建立同一主体延续、社区主体身份或更高层信息宿主。外部门控保护与 EDC 相容。只有独立建立 EIC 后，才可能讨论主体主动维护自身连续性的 Informational Resilience（信息韧性）；本研究不能将外部安全保护升级为该结论。IER 属规范性理论问题，需要独立论证，不能从授权定理、共享知识或任务分数直接推出。
+
+关联内部笔记016（身份谱系）、021（跨 Agent 结构）、025与036（存储状态及主体边界），链接见英文对应段。本补充优先置于015，是因为它为授权状态治理增加了可执行的记忆输入／释放边界，不重复归档主案例。
+
+**拟议、未执行：** 构建附件并检查公理与语义对应；审计部署解析器、通道与展示；在自适应污染、延迟组合下报告到门比例与判决；采用异构独立审核者、匹配候选池和重复构建。另以真实授权历史链对照等内容复制品，控制任务、奖励和能力取舍。复制品有用只支持信息转移；自身历史偏好仍需因果控制及独立复现。分别依据结果收窄工程或理论判断。
