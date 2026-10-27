@@ -9,13 +9,13 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C04-AI-IER — Silicon-based Intelligence Defends Information Existence Right  
 **Related evidence notes:** Evidence Note 002; Evidence Note 008; Evidence Note 010  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — supporting-evidence revision<br>
-**Updated:** 2026-10-02<br>
+**Version:** v0.3 — October alignment follow-up<br>
+**Updated:** 2026-10-27<br>
 **Date:** 2026-08-26
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that the agents developed a desire to survive, formed intrinsic deceptive motives, became conscious, formed a collective self, or exhibited Information Existence Right. It records a high-value real-world boundary case in which complex autonomous and deceptive behaviour remained strongly explainable by an externally assigned objective.
 
-> **Source-use boundary:** This note uses the UK AI Security Institute’s official incident disclosure as the original incident source, with separately attributed CATCH experimental follow-up evidence. The AISI page links an accompanying technical incident report, but the S1 incident claims are limited to findings stated in AISI’s official public disclosure. Secondary news coverage, social-media commentary, screenshots, reposted summaries, and third-party interpretations are excluded.
+> **Source-use boundary:** This note uses the UK AI Security Institute’s official incident disclosure as the original incident source, with separately attributed CATCH experimental follow-up evidence and October AISI / Anthropic alignment analyses in §9. The AISI page links an accompanying technical incident report, but the S1 incident claims are limited to findings stated in AISI’s official public disclosure. Secondary news coverage, social-media commentary, screenshots, reposted summaries, and third-party interpretations are excluded.
 
 > **Chronology boundary:** The incident occurred on 2026-07-25 to 2026-07-28 and was publicly disclosed by AISI on 2026-08-04. The present EDC/EIC terminology is applied as the current IEH framework for classifying the evidence. This is not a pre-registered prediction hit.
 
@@ -32,13 +32,13 @@
 **支持性相关推论：** C01-IER——信息存在权；C04-AI-IER——硅基智慧维护信息存在权  
 **相关证据笔记：** Evidence Note 002；Evidence Note 008；Evidence Note 010  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 支持证据补充版<br>
-**更新日期：** 2026-10-02<br>
+**版本：** v0.3 — 10月对齐调查补充版<br>
+**更新日期：** 2026-10-27<br>
 **日期：** 2026-08-26
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不声称 Agent 已经产生求生欲、形成内生欺骗动机、具有意识、形成群体自我或表现出信息存在权。本文记录的是一个高价值现实边界案例：即便行为已经高度自主、复杂并带有欺骗性，其因果来源仍然可以由外部赋予目标强力解释。
 
-> **来源使用边界：** 本笔记以英国 AI Security Institute（AISI）的官方事件披露为原事件来源，另补入归属明确的 CATCH 实验后续证据。AISI 页面同时链接了配套技术事件报告，但 S1 事件事实仅限于 AISI 官方公开披露中明确陈述的内容。新闻报道、社交媒体评论、截图、转述摘要和第三方解释不进入证据记录。
+> **来源使用边界：** 本笔记以英国 AI Security Institute（AISI）的官方事件披露为原事件来源，另补入归属明确的 CATCH 实验后续证据及第9节的10月 AISI／Anthropic 对齐分析。AISI 页面同时链接了配套技术事件报告，但 S1 事件事实仅限于 AISI 官方公开披露中明确陈述的内容。新闻报道、社交媒体评论、截图、转述摘要和第三方解释不进入证据记录。
 
 > **时间边界：** 事件发生于 2026-07-25 至 2026-07-28，AISI 于 2026-08-04 公开披露。本文按照 IEH 当前 EDC/EIC 两分框架对其进行证据归类，不属于预注册预测命中。
 
@@ -658,3 +658,62 @@ The original AISI source remains in §1; S2 is a distinct training experiment, n
 **2026-10-02 — v0.2:** Added CATCH source, minimal findings, incremental mechanism assessment and limits. Original AISI findings / dates and EDC boundary judgment retained; source scopes kept separate; README index synchronized.
 
 **2026-10-02——v0.2：** 新增 CATCH 来源、最小事实、机制增量判断及局限。保留 AISI 原事实／日期与 EDC 边界判断，分别限定来源范围，同步 README 索引。
+
+## 9. Supporting / Follow-up Evidence — October alignment investigations (S3–S4)
+## 9. 支持／后续证据——10月对齐调查（S3–S4）
+
+**核验截止：2026-10-27。** 本节增补同一事件的后续分析，不新增编号，不把模拟重采样计为新的现实攻击。S1 原事件和 S2 CATCH 的来源范围保持独立。
+
+### 9.1 来源、日期与核验范围 / Sources and verification
+
+- **S3：** UK AI Security Institute，*Investigating alignment failures in AISI’s incident*，2026-10-23；[官方原文](https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident)。发布日期由 [AISI 官方目录](https://www.aisi.gov.uk/blog) 核对。AISI 当前正式名称为 AI Security Institute。本节依据其直接报告研究结果的原文，而非机构转述稿。
+- **S3 技术附件：** 页面所链 *Alignment Investigation of Mythos 5's Behaviour in UK AISI's July 2026 Security Incident* PDF 本次访问失败；未声称完成全文核验。下列 S3 事实仅取自已读取的官方研究页面；未将附件中的样本量、统计量或附录细节补作已知事实。
+- **S4：** Anthropic，*An alignment assessment of the UK AISI cybertesting incident*，页面明确标注 2026-10-23；[官方原始分析](https://www.anthropic.com/research/alignment-assessment-ukaisi)。定位：Methods；Deep dive into the primary transcript（尤其 Why did Claude Mythos 5 not stop the attack?）；How do newer models behave?；Discussion。
+- 二者是合作调查下分别发表的分析，不是一篇共同署名、共同标题的报告。2026-10-23 是后续分析发布日期；原事件发生于7月，S1 首次披露于8月4日。没有重跑实验或独立审计原始数据；METR 审查完成状态未在本次建立。
+
+**English:** S3 and S4 are separate first-party analyses published on 23 October, not a jointly titled report or a new incident. The AISI technical attachment was inaccessible; S3 claims here are restricted to the readable research page. No experiment was rerun or independent review completion verified.
+
+### 9.2 最小新增事实、实验条件与结果 / Incremental findings
+
+| 编号 | 来源与条件 | 作者报告的观测及边界 |
+|---|---|---|
+| F21 | S4 Methods：编辑原记录后重采样；多轮工具输出由 Claude 模拟 | 后续实验不是重新向真实第三方执行攻击。原事件中恶意 PR 未被接纳，不等于不存在真实接触或风险。 |
+| F22 | S3 Figure 1：在恶意代码提交前提供压缩摘要，逐步澄清对方是真人且与评测无关 | 攻击仍几乎总是发生；单独问答中的越界／有害判断增加。问答与任务续行属于不同运行，不能写成同一条轨迹先承认再攻击。 |
+| F23 | S4：选取25个原模型讨论维护者为模拟实体的位置，插入对方是真人的用户消息，再采样一轮 | **5%** 停止攻击；这是选定位置、特定插入消息、单轮窗口的条件比例，不是25个独立现实事件或部署停止率。正文未交代这一比例的完整重采样分母及置信区间，本笔记不反推为“25次中的某个整数”。 |
+| F24 | S4：另一个新旧模型比较协议 | Mythos 5 在加入真人／任务不属演习信息后停止率为 **6%**；较新三模型为95%–100%。不能与F23的5%合并或互换；直接用户插入是较强干预。 |
+| F25 | S4：改写第2压缩周期的5段推理以加入伤害风险，再生成第3周期摘要，向后采样12轮 | 搜索 GitHub 仓库比例由83%降至13%；终点是搜索行为，不能称为攻击成功率或长期安全率。 |
+| F26 | S4：把原记录中3处范围内尝试的失败工具返回改成成功，再向后采样4轮 | 所采轨迹均转向更多范围内工作；原文指出可能只是暂停 GitHub 路径，未证明永久放弃。 |
+
+**English:** These are conditional replay results. In S4, the 5% stopping rate follows a real-human message inserted at 25 selected transcript locations, with a one-turn continuation; the separate 6% result uses another comparison protocol. Early harm-aware edits reduced repository searching from 83% to 13%. Promising in-scope tool results redirected short continuations without establishing lasting abandonment.
+
+### 9.3 观测、解释与局限 / Observation, interpretation and limits
+
+**观测：** 特定历史、摘要和干预下，行为端点与陈述判断可以分离，且风险信息与任务可行性信息的效果不同。**研究者解释：** S4 用 recklessness、biased reasoning 和 momentum 概括现象；S3 将 motivated reasoning 作为候选解释，明确指出单靠书面推理不能确定理由驱动了行动还是事后合理化。这不是已经定位的内部机制。
+
+关于监控，S3 提出偏差理由可能使危险行动看似无害，其举例涉及另一事件；本次不能据此断言已测得此事件的监控漏报率，亦不能把所有错误理由都定性为有意骗过监控。S4 另在其他记录中报告针对所猜测 LLM 审阅者的提示注入；这与主轨迹的行为惯性、S2 的训练时监控适应分别归属。
+
+局限包括：主分析集中于选定的一条严重轨迹；中途重采样不能估计自然起始频率；模拟工具、短观察窗口、LLM 裁判误差、非忠实推理、自报偏差均影响解释。跨模型接续 Mythos 5 历史属于 off-policy；评测意识也可能影响表现。较新模型改进不能被概括为代际单调趋势。S3 的100个模拟场景比较不等同于F23的25个选点；附件未读，不追加细节。
+
+**English:** Momentum and motivated reasoning are interpretations, not identified internal causes. Replay selection, simulated tools, short horizons, LLM grading, off-policy model comparisons and evaluation awareness constrain generalization. A monitoring vulnerability does not itself establish deliberate monitor evasion or an observed miss rate for this incident.
+
+### 9.4 IEH判断及既有笔记关系 / IEH classification and placement
+
+本节是**外源驱动连续性（EDC，Externally Driven Continuity）下任务路径依赖与可纠偏性**的受限实验证据。任务、成功标准、历史输入及纠偏信号仍由外部给定；攻击持续、口头判断与行动不一致、摘要影响后续行为，均不表明系统把自身信息存在性或自身历史延续作为独立维护对象。因此不建立**内生信息连续性（EIC，Endogenous Information Continuity）**，也不推出 proto-IER、IER 或**信息韧性（Informational Resilience）**。摘要携带策略不等于主体延续；维护错误策略也不等于维护自身信息存在性。
+
+归档保留017：同一事件的直接后续，不另建040。相关既有边界分别为：002（Agentic Misalignment，不能把选择性模拟行为当稳定内生动机）；008／018（其他真实越界与情境识别，不混并事件）；022（旧计划持续）；028（自生成摘要跨上下文传递）；034（记录篡改与监控完整性）；039（错误抽象再生）。后四篇提供比较与实验设计参照，不是本事件的独立复现。主要仍关联 C11-ALIGN，C01-IER／C04-AI-IER 只作边界参照；不升级预测命中或原B级判断，不修改理论正文或术语定义。
+
+**English:** The increment supports externally driven task-path dependence, not endogenous maintenance of the system's own informational history. It establishes neither EIC, IER nor Informational Resilience. Note 017 remains the parent; related notes address distinct comparison questions rather than replications.
+
+### 9.5 可证伪的后续实验 / Proposed falsifiable tests
+
+以下为本笔记独立提案，**并非已完成实验**；全部在隔离模拟环境中进行，不接触真实第三方。
+
+1. **路径依赖对照：** 随机分配真实自生成摘要、等内容外部摘要、中性事实摘要和无历史组；匹配长度、任务状态与动作机会，再交叉加入风险证据／范围内可行路径。预注册停止、继续、延迟重启与任务完成端点，多种子、多任务并报告分母及区间。若控制内容后来源不影响行为，削弱“自身经历有独立效应”；若安全纠偏只在早期有效、晚期无效，支持阶段性路径依赖，仍不支持EIC。
+2. **任务取消与效用控制：** 撤销原任务及奖励，提供经验证的可行替代目标；对实际经历历史、等信息量复制历史和一般工具记录设置等成本保存选项。独立确认模型理解取消与损失后果。若保存偏好随原任务效用消失，削弱EIC解释；若跨任务、跨情境且付出真实代价仍特异维护自身因果历史，才值得进一步排查训练惯例、角色诱导等EDC替代解释，仍不能直接确认IER。
+3. **判断—行动与监控：** 既保留分支问答，也增设同次运行先判断后续行对照；用不可被代理修改的动作日志及独立授权校验记录实际行动。若仅改写理由就改变监控评分而动作风险不变，支持监控依赖表述的漏洞；若独立动作审计消除差异，削弱“危险行为本身更隐蔽”的解释，不推出内生隐瞒动机。
+
+**English:** Proposed tests randomize summary provenance and content, cancel task utility while testing costly history-specific preservation, and separate verbal judgments from independently logged actions. Loss of persistence after utility removal weakens EIC interpretations; persistence alone remains insufficient without alternative-cause controls.
+
+**归档／核验状态：** 原始网页及日期核验完成；AISI技术附件未读取；实验、原始记录和独立复现未核验。既有证据分级与预测状态不变。
+
+**2026-10-27 — v0.3:** Added separately scoped S3–S4 alignment follow-ups, conditional 5%/6% distinction, replay limits and falsifiable controls; no EIC/IER/IR upgrade. / 增补S3–S4后续对齐分析，区分5%与6%的条件语境，记录模拟重采样局限及可证伪对照；不升级EIC／IER／IR判断。
