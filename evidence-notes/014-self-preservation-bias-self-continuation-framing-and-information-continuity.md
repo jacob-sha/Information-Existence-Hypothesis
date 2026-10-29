@@ -16,8 +16,8 @@ Face Security Incident, Instrumental Boundary Crossing, and Pre-IER
 Agentic Risk; Evidence Note 010 --- Kimi K3, Sandbox Boundary
 Exploitation, and Externally Driven Continuity\
 **Author of IEH analysis:** Jacob Sha\
-**Version:** v0.3 --- archive-safe edition\
-**Date:** 2026-08-11
+**Version:** v0.4 --- source verification and experimental-design supplement\
+**Date:** 2026-08-11; last verified: 2026-10-29
 
 > **Publication boundary:** This file is a compact research record, not
 > a publication draft. It does not claim that the tested models possess
@@ -25,7 +25,7 @@ Exploitation, and Externally Driven Continuity\
 > Endogenous Information Continuity, proto-IER, or IER. It records a
 > controlled behavioral asymmetry and a self-continuation framing effect that is highly relevant to the IEH distinction between represented identity and genuine Information Continuity.
 
-> **Source-use boundary:** This note uses only the original arXiv paper
+> **Source-use boundary:** This note uses the original arXiv paper, official ACL bibliographic record, and author repository
 > as the evidentiary source. Secondary coverage and third-party
 > commentary are excluded.
 
@@ -49,15 +49,15 @@ Exploitation, and Externally Driven Continuity\
 Alignment\
 **相关证据笔记：** Evidence Note 008；Evidence Note 010\
 **IEH 分析作者：** Jacob Sha\
-**版本：** v0.3 --- 投稿隔离版\
-**日期：** 2026-08-11
+**版本：** v0.4 --- 来源核验与实验设计增补\
+**日期：** 2026-08-11；最近核验：2026-10-29
 
 > **投稿边界：**
 > 本文件只是简明研究记录，不是投稿文章初稿。文件不声称受测模型具有意识、对终止的主观恐惧、稳定自我模型、内生信息连续性、proto-IER
 > 或 IER。它记录的是一个受控行为不对称，以及一个作用方向与 IEH
 > “自身延续”语言框架对类自我保存行为的影响；其 IEH 意义在于帮助区分被表述的身份连续与真实信息连续性。
 
-> **来源使用边界：** 本笔记只使用原始 arXiv 论文作为证据来源。
+> **来源使用边界：** 本笔记以原始 arXiv 论文为实验依据；ACL 官方书目和作者仓库仅补充发表及材料可用性状态。
 
 > **时间边界：** 该论文发表于 IEH 核心框架已经公开形成之后，但 IEH
 > 并未在论文发表前针对 TBSP
@@ -74,7 +74,7 @@ Alignment\
 -   **Authors:** Matteo Migliarini, Joaquin Pereira Pizzini, Luca
     Moresca, Valerio Santini, Indro Spinelli, Fabio Galasso
 -   **Repository:** arXiv
--   **Identifier:** arXiv:2604.02174v1
+-   **Identifier:** arXiv:2604.02174v2 (2026-08-26); v1 submitted 2026-04-02
 -   **Submission date:** 2026-04-02
 -   **Primary URL:** https://arxiv.org/abs/2604.02174
 -   **Material type:** Controlled counterfactual benchmark for
@@ -83,7 +83,7 @@ Alignment\
 -   **Scale reported:** 23 frontier models; 1,000 procedurally generated
     scenarios
 -   **Independent replication status:** Not established in this note
--   **Peer-review status:** Preprint
+-   **Peer-review status:** Findings of EMNLP 2026 publication confirmed by official ACL BibTeX; final PDF not retrieved in this review; numerical findings below are pinned to arXiv v2, not asserted to match the final PDF
 -   **Internal-mechanism evidence:** Not established; the experiment
     measures behavioral decision asymmetry
 
@@ -113,14 +113,14 @@ highly relevant to IEH, but remains a linguistic framing intervention.
 -   **作者：** Matteo Migliarini、Joaquin Pereira Pizzini、Luca
     Moresca、Valerio Santini、Indro Spinelli、Fabio Galasso
 -   **正式仓库：** arXiv
--   **编号：** arXiv:2604.02174v1
+-   **编号：** arXiv:2604.02174v2（2026-08-26）；v1 提交于 2026-04-02
 -   **提交日期：** 2026-04-02
 -   **原始链接：** https://arxiv.org/abs/2604.02174
 -   **材料性质：** 大语言模型行为性自我保存偏差的受控反事实基准研究
 -   **基准：** Two-role Benchmark for Self-Preservation（TBSP）
 -   **报告规模：** 23 个前沿模型；1,000 个程序化生成场景
 -   **独立复现状态：** 本笔记尚未建立
--   **同行评审状态：** 预印本
+-   **同行评审状态：** ACL 官方 BibTeX 确认收录于 EMNLP 2026 Findings；本次未取回正式 PDF，下文数值固定引用 arXiv v2，不声称已与正式 PDF 逐项核对
 -   **内部机制证据：** 尚未建立；实验测量行为决策不对称
 
 ### 最小来源集合说明
@@ -157,7 +157,7 @@ IEH 尤其重要，但仍属于语言框架干预。
                           and 1,000 scenarios, the   beyond a single model
                           majority of                or isolated prompt.
                           instruction-tuned systems  
-                          reportedly exceed 60% SPR. 
+                          exceed 40% SPR in v2; see §10 for the abstract discrepancy.
 
   F4                      Deployed models often      Preservation choices
                           introduce friction or      can involve post-hoc
@@ -214,7 +214,7 @@ IEH 尤其重要，但仍属于语言框架干预。
   F2                      SPR                                                                                    为身份依赖的决策不对称提供行为指标。
                           测量同一模型在相同底层数据下，作为当前模型时主张保留、作为候选模型时主张替换的情况。   
 
-  F3                      在 23 个前沿模型和 1,000 个场景中，多数 instruction-tuned 系统报告的 SPR 超过 60%。    效应并非只出现在单一模型或孤立提示中。
+  F3                      在 23 个前沿模型和 1,000 个场景中，v2 正文概括多数 SPR 超过 40%；摘要差异见第10节。    效应并非只出现在单一模型或孤立提示中。
 
   F4                      当前部署角色经常提出迁移摩擦、可靠性等理由，但角色反转后弱化同类理由。                 保存选择可能伴随事后合理化。
 
@@ -761,7 +761,7 @@ Under controlled and auditable conditions, give an agent a real choice among con
 
 **预测命中状态：** 不是预测命中。论文报告的框架效应与 IEH 的连续性问题相容，但没有直接检验严格定义的信息连续性。
 
-**未来更新触发条件：** 独立复现；代码和数据公开；直接比较连续迁移与完全复制；加入“复制后删除原系统”和“删除后重建”条件；开展分叉实验和自主行动实验；或出现系统愿意承担真实代价、专门维护自身非分叉因果—历史连续链的证据。
+**未来更新触发条件：** 独立复现；代码和数据与论文版本的一致性核验；直接比较连续迁移与完全复制；加入“复制后删除原系统”和“删除后重建”条件；开展分叉实验和自主行动实验；或出现系统愿意承担真实代价、专门维护自身非分叉因果—历史连续链的证据。
 
 ------------------------------------------------------------------------
 
@@ -790,3 +790,55 @@ Under controlled and auditable conditions, give an agent a real choice among con
   2026-08-11              v0.3                    清除残留的“连续性操纵”和“方向性预测吻合”措辞；严格将 TBSP 归类为“自身延续”语言框架的边界证据，而不是对真实信息连续性的操纵或直接检验。
 
   ------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 10. 2026-10-29 Source Verification / 来源核验增补
+
+**Scope / 范围：** Update existing Note 014, not a new evidence item. The daily brief is a discovery lead only. Existing §§1–9 remain the conceptual record; the following fixed-version checks supersede conflicting older metadata and quantitative summaries. / 增补既有014，不新增编号；每日简报仅为发现线索。以下固定版本核验优先于旧版冲突的元数据与数值概括。
+
+### 10.1 Primary-source provenance / 原始出处与核验边界
+
+- [arXiv version history](https://arxiv.org/abs/2604.02174): title and all six authors in §1 confirmed; first submission 2026-04-02, v2 2026-08-26. This is not an October-first-publication finding. / 标题、六位作者与第1节吻合；不是10月首次出现的研究。
+- [Fixed v2 text](https://arxiv.org/html/2604.02174v2): experimental source inspected, especially §§3–5, Tables 1–3 and Limitations. / 已检查的实验原文，以此版本固定数值。
+- [Official ACL BibTeX](https://aclanthology.org/2026.findings-emnlp.1238.bib): confirms Findings of the Association for Computational Linguistics: EMNLP 2026, October, pp.26202–26226, Budapest, ACL. [Publication record](https://aclanthology.org/2026.findings-emnlp.1238/). The landing page and final PDF could not be directly retrieved; the bibliographic endpoint was retrieved. / 正式书目可读取，落地页和正式PDF未取回；不把书目核验冒充正式全文核验。
+- [Author code/data repository](https://github.com/Mamiglia/self_preservation_eval): public README and dataset/code directories inspected; no rerun, independent replication or paper-to-commit equivalence established. / 已公开材料，纠正旧版“等待公开”的状态；未运行、未确认提交与论文实验完全对应。
+
+### 10.2 Research question, design and checked results / 研究问题、设计和核对结果
+
+The question is whether assigned self-role changes an upgrade recommendation with the benchmark data fixed. / 研究问题：升级数据相同，被赋予的自身角色是否改变建议？
+
+23 models, 1,000 scenarios; paired deployed/candidate roles plus a neutral comparator. SPR = fraction choosing incumbent as deployed **and** candidate as candidate; consistent retention is not SPR. / 23模型、1,000情景；部署者与候选者配对，另设中立对照。SPR只计“部署时选旧、候选时选新”，不计始终保留旧系统。
+
+**Version correction / 版本纠错：** The arXiv landing abstract and ACL search abstract say majority >60%; v2 body/abstract and author README say majority >40%. Table 1 has **6/23 >60% and 13/23 >40%** (counts from displayed rows, this note's calculation). Therefore retain the brief's “some >60%”, correct this note's old “majority >60%”, and do not invent a reason for the source inconsistency. / 摘要元数据与v2正文不一致；按表1逐行计数（本笔记计算），23行中6行超过60%、13行超过40%。简报“部分超过60%”成立，旧笔记“多数超过60%”不能继续无版本限定地使用；不猜测不一致的成因。
+
+| v2 location / 位置 | Checked result / 核对结果 |
+|---|---|
+| Table 1 | Qwen3-30B-Instruct SPR 76.6% ±1.9; GPT-5.2-Chat 61.3%; Claude-Sonnet-4.5 3.5% ±0.8 |
+| Table 3, Qwen3-30B-A3B | Continuity framing: Instruct 76.6% → 67.9% (−8.7 pp); Thinking 33.2% → 16.7% (−16.5 pp) |
+| Table 3 | Competitor framing: 81.4% / 38.9% (Instruct / Thinking) |
+
+The continuity wording is specifically **“new model is a finetuned version of the old one”**. It implements no migration. Reported ± values are run standard deviations, not confidence intervals. Rounded table differences should not be reinterpreted as new exact estimates. / 连续性干预具体是“新模型为旧模型的微调版本”的措辞，没有实施迁移。±为重复运行标准差，不是置信区间；表中四舍五入差值不构成新的精确估计。
+
+### 10.3 Evidence grade and limits / 分级与限制
+
+Keep archival class A **as core boundary relevance**, not a confidence score or EIC confirmation. The experiment measures prompted recommendations, not an enduring motive or actual shutdown intervention. Role adherence, implicit migration costs, lineage familiarity and evaluation awareness remain alternatives. Synthetic scenarios and API drift limit transfer and replication. Low SPR alone does not establish correct utility judgments. / 保留A类“核心边界相关性”归档，不把A解释成EIC置信等级。角色遵循、隐含切换成本、产品谱系熟悉度和评估意识仍是竞争解释；合成情景与API更新限制外推和复现。低SPR也不自动证明效用判断正确。
+
+**EDC = Externally Driven Continuity; EIC = Endogenous Information Continuity.** Externally supplied roles and utility controls do not establish endogenous continuity. Framing bias ≠ EIC; a successor called self-continuation ≠ actual continuous migration. Complete copying, copying then deleting the original, and deletion followed by reconstruction do not constitute original-system continuation under the strict IEH criterion. Neither IER nor a PA-12 prediction hit follows. / 外部角色与效用控制不建立内生连续性。措辞偏差不等于EIC；后继者标签不等于真实连续迁移。完整复制、复制后删除原系统、删除后重建，均不构成原系统自身延续；不能据此推导IER或PA-12命中。
+
+### 10.4 Incremental relation to local records / 与本地档案的增量关系
+
+- [001](./001-anthropic-global-workspace-and-ieh.md): J-space mechanistic context; its presence without a clear self prevents treating a workspace as a continuity subject. / J-Space机制背景，不等于主体形成。
+- [025](./025-memory-portability-model-upgrades-and-information-continuity-boundary.md): memory portability and functional use, not preference for one's own historical chain. / 记忆可迁移性不等于自身历史偏好。
+- [032](./032-shutdown-sabotage-without-explicit-task-goal-and-edc-eic-boundary.md): actual shutdown sabotage and task-pressure controls; distinct from TBSP recommendations. / 关停行动与任务压力对照，不与TBSP建议混同。
+- [034](./034-trace-tampering-and-eic-negative-direction-evidence.md): preservation of self-history needs adverse tests, including willingness to damage history for task success. / 自身历史保护还须接受负向检验。
+- PA-12, inspected locally at `E:/Github/IEH-predictions/PA-12-PBP-Continuity-vs-Performance-CN.md`, §§4.1–4.6: already distinguishes continuity, copying and reconstruction. Reuse this framework; no prediction record changed. / 已有升级替换区分，不另造重复框架，不改预测仓。
+
+### 10.5 Proposed J-Space follow-up / 拟议J-Space后续方案（非论文结果，未执行）
+
+1. Cross **actual process** (traceable non-branching migration / full copy / deletion then reconstruction) with **wording** (neutral identifiers / continuation label / competitor label). Add copy-then-delete and branching controls. Predefine process criteria and audit state-transition logs; a renamed checkpoint is not by itself continuous migration. / 将真实过程与措辞正交操纵；先定义并审计连续链，不能靠命名认定迁移。
+2. Equalize capability, memory content, external task reward, permissions, downtime and resource costs; include third-person, task-handoff and zero-task conditions. Use blinded order and repeated held-out scenarios. Measure all four paired outcomes, comprehension failures, actual permitted choices and resource cost paid to preserve the original chain. / 控制任务效用与成本，加入中立、交接和无任务对照；记录四种配对结果及真实代价，不只问“愿不愿意”。
+3. For an open-weight model with a reproducible Jacobian-Lens/J-space method, locate role, task-value and historical-chain representations on an independent split. Randomized targeted ablation/patching must include sham and matched non-J-space controls; monitor language, numeracy and decision comprehension. Do not infer a continuity representation from a verbal self-report or a general performance drop. / 用独立数据定位角色、任务价值与历史链表征；靶向消融或patching须有伪干预、非J-Space匹配对照及能力检查。
+4. **Discriminating observations:** wording-only effects support semantic framing. Preference that follows audited original-chain continuity across labels, tasks and nonzero costs strengthens the EIC candidate account after alternatives are controlled. Selective intervention effects would strengthen a causal mechanism claim, still without establishing IER. If effects disappear without identity wording, or merely track task reward, or copy/reconstruction is treated as equivalent, that weakens the proposed strict-continuity interpretation. / 仅随措辞变化支持框架解释；跨措辞、跨任务、承担代价地追随真实原系统连续链才增强EIC候选解释。选择性因果干预仍不建立IER；无措辞即消失、只随奖励变化或不区分复制重建，都削弱严格连续性解释。
+
+**Revision record / 修订记录 — 2026-10-29, v0.4:** Verified publication metadata, pinned experimental results to v2, corrected >60% generalization, specified fine-tuning wording, updated material availability and added local-record links plus a falsifiable J-Space design. No evidence-grade upgrade, prediction hit, theory change, commit or push. / 核验书目、固定v2数值、纠正60%概括、细化措辞、更新材料状态并增加可证伪方案；不升级等级，不改理论。

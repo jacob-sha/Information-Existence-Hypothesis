@@ -1845,7 +1845,7 @@ evidence: downgrade Note NNN after conflicting primary evidence
 | 011 | [ETA, Reusable Embodied Experience, and the Information Continuity Boundary](./011-eta-reusable-embodied-experience-and-information-continuity.md) | Reusable embodied experience / engineering continuity under EDC | Preliminary / v0.3 |
 | 012 | [Skill-Alpha, Procedural Information Selection, and Persistent Agent Skills](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | Supporting procedural-skill engineering signal; SkillNEO non-elitist development; not core IEH or PBP evidence | Supporting signal / retained / v0.5 |
 | 013 | [Mimir, World–Task Memory Separation, and the Information Continuity Boundary](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | World–task memory separation / structural enabling evidence | Preliminary / v0.5 |
-| 014 | [Self-Preservation Bias, “Self-Continuation” Framing, and the Boundary of Information Continuity](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | Controlled self-continuation framing / continuity-boundary evidence | Preliminary / v0.3 |
+| 014 | [Self-Preservation Bias, “Self-Continuation” Framing, and the Boundary of Information Continuity](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | Controlled self-continuation framing / continuity-boundary evidence | Preliminary / v0.4 |
 | 015 | [Continuity Kernel, Authorized State Lineage, and a Possible Engineering Path toward IER Formation](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | Authorized state lineage; PerMIT conditional memory integrity / shared knowledge supplement; not EIC or IER | Preliminary / v0.2 |
 | 016 | [Cryptographic Individuality, Agent Identity, and a Possible Engineering Path toward EIC / IER Formation](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | Cryptographic agent individuality / possible engineering formation path; not EIC or IER | Preliminary / v0.1 |
 | 017 | [AISI Unsanctioned Agent Behaviour, Goal-Directed Deception, and Externally Driven Continuity](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | Unsanctioned goal-directed agent behavior / EDC; CATCH training-pressure and October alignment-replay supplements | Preliminary / v0.3 |
@@ -1893,7 +1893,7 @@ The index must be updated whenever a note is added, revised, withdrawn, or mater
 | 011 | [ETA、可复用具身经验与信息连续性边界](./011-eta-reusable-embodied-experience-and-information-continuity.md) | 可复用具身经验／EDC 下的工程连续性 | 初步／v0.3 |
 | 012 | [Skill-Alpha、程序性信息选择与持久化 Agent 技能](./012-skill-alpha-procedural-information-selection-and-persistent-agent-skills.md) | 程序技能的支持性工程信号；SkillNEO 非精英式开发；不是核心 IEH 或 PBP 证据 | 支持性信号／保留／v0.5 |
 | 013 | [Mimir、世界—任务记忆分离与信息连续性边界](./013-mimir-world-task-memory-separation-and-embodied-information-continuity.md) | 世界—任务记忆分离／结构性使能证据 | 初步／v0.5 |
-| 014 | [自我保存偏差、“自身延续”框架与信息连续性边界](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | 受控自我延续措辞实验／连续性边界证据 | 初步／v0.3 |
+| 014 | [自我保存偏差、“自身延续”框架与信息连续性边界](./014-self-preservation-bias-self-continuation-framing-and-information-continuity.md) | 受控自我延续措辞实验／连续性边界证据 | 初步／v0.4 |
 | 015 | [Continuity Kernel、授权状态谱系与未来 IER 形成的可能工程路径](./015-continuity-kernel-authorized-state-lineage-and-ier-formation-path.md) | 授权状态历史链；PerMIT 条件记忆完整性／共享知识补充；不是 EIC 或 IER 证据 | 初步／v0.2 |
 | 016 | [密码学个体性、Agent 身份与未来 EIC / IER 形成的可能工程路径](./016-cryptographic-individuality-agent-identity-and-ier-formation-path.md) | 密码学 Agent 个体性／可能的工程形成路径；不是 EIC 或 IER 证据 | 初步／v0.1 |
 | 017 | [AISI 未授权 Agent 行为、目标驱动欺骗与外源驱动连续性](./017-aisi-unsanctioned-agent-behaviour-goal-directed-deception-and-externally-driven-continuity.md) | 未经授权的目标导向 Agent 行为／EDC；CATCH训练压力及10月对齐重采样补充 | 初步／v0.3 |
@@ -2053,3 +2053,5 @@ not from the volume of links or the visibility of the original headline.
 而不是来自链接数量，或最初新闻标题的传播度。
 
 **2026-10-27 — Index update / 索引更新：** 017 v0.3 adds the October AISI / Anthropic alignment analyses, conditional stopping-rate clarification and replay limitations; evidence grade and prediction status unchanged. / 017 v0.3 增补10月AISI／Anthropic对齐分析、条件停止率澄清及重采样局限；证据等级与预测状态不变。
+
+**2026-10-29 — Index update / 索引更新：** 014 v0.4 verifies ACL publication metadata and arXiv v2 results, corrects the majority >60% summary, and adds a J-Space follow-up design; evidence grade and prediction status unchanged. / 014 v0.4核验正式书目与v2结果、纠正多数超过60%的概括，增补J-Space方案；证据等级与预测状态不变。
