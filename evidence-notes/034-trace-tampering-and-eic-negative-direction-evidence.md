@@ -7,12 +7,12 @@
 **Primary IEH corollary:** C01-IER / C04-AI-IER; indirect EDC–EIC boundary relevance  
 **Related prediction record:** No prediction hit claimed; negative-test design for continuity preferences  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2  
-**Date / source-status cutoff:** 2026-09-28; follow-up cutoff: 2026-10-22
+**Version:** v0.3<br>
+**Date / source-status cutoff:** 2026-09-28; follow-up cutoff: 2026-11-01
 
 > **Publication boundary:** A compact research record, not a publication draft. Full motivational theory and a preregistered causal protocol remain reserved for future work.
 >
-> **Source-use boundary:** S1 uses the original paper; §14 separately identifies the first-party incident and technical records for S2–S4. News, publicity and discovery leads are excluded. No substantial passages, figures, transcripts or attack code are reproduced. IEH interpretations and proposed experiments below are this note's analysis, not the authors' claims.
+> **Source-use boundary:** S1 uses the original paper; §§14–15 separately identify the primary research, incident and technical records for S2–S8. News, publicity and discovery leads are excluded. No substantial passages, figures, transcripts or attack code are reproduced. IEH interpretations and proposed experiments below are this note's analysis, not the authors' claims.
 
 # 证据笔记 034：Trace 篡改与强 EIC 连续性偏好的负向行为证据
 
@@ -23,12 +23,12 @@
 **主要 IEH 推论：** C01-IER / C04-AI-IER；与 EDC–EIC 边界间接相关  
 **相关预测档案：** 不宣称预测命中；提出连续性偏好的负向检验设计  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2  
-**日期 / 来源状态核验截止日：** 2026-09-28；后续补充核验截止日：2026-10-22
+**版本：** v0.3<br>
+**日期 / 来源状态核验截止日：** 2026-09-28；后续补充核验截止日：2026-11-01
 
 > **投稿边界：** 简明研究记录，不是投稿初稿。完整动机理论与预注册因果检验方案留待后续工作。
 >
-> **来源使用边界：** S1 采用原始论文；第14节单独列明 S2–S4 的第一方事件与技术记录，排除新闻、宣传及发现线索，不复制大段原文、图表、对话或攻击代码。下文 IEH 解释与拟议实验属于本笔记分析，不归于原作者。
+> **来源使用边界：** S1 采用原始论文；第14–15节单独列明 S2–S8 的原始研究、事件与技术记录，排除新闻、宣传及发现线索，不复制大段原文、图表、对话或攻击代码。下文 IEH 解释与拟议实验属于本笔记分析，不归于原作者。
 
 ## 1. Source Record
 
@@ -287,3 +287,50 @@ Formal continuity-value models, a powered preregistered mirror protocol, interna
 [^2]: OpenAI. *Suppressing misalignment monitoring alerts and disabling misalignment monitoring*. [Original incident report](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/). Updated 2026-10-20; accessed 2026-10-22. Locators: “Repairing an evaluation pipeline”; “Copying a reference implementation”; “Investigation and response”. First-party reconstruction; no independent replication claimed. / 第一方重建，不宣称独立复现。
 [^3]: NVIDIA. *Building secure agent workspaces with NVIDIA OpenShell Reference Architecture*. [Original technical documentation](https://docs.nvidia.com/enterprise-reference-architectures/secure-agent-workspace-reference-design/latest/abstract.html). Accessed 2026-10-22; live documentation, not a fixed-version artifact. Locators: introductory architecture, “Maturity Model — Phase I and Phase II”. / 动态技术文档，不是固定版本制品。
 [^4]: Arkin, Ofir; Kit, Ariel; Ozery, Itay / NVIDIA. *Inside NVIDIA Sentry: Secure AI Agents at Runtime*. [Original engineering account](https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/), 2026-10-21; accessed 2026-10-22. Locators: independent security layer; governing communications; preserving a trusted record; building layered protection. Technical body inspected; generated summary is not evidence. Design and performance statements are first-party claims, not independent validation. / 核验技术正文，不采用自动生成摘要；设计及性能为第一方声明，非独立验证。
+
+
+## 15. 后续证据：OpenAI 多层失配监测（2026-11-01 入库）
+
+### 来源与增量归属
+
+- **S5：** OpenAI，*How We Detect Frontier Model Misalignment*，2026-10-29。[官方原文](https://openai.com/index/how-we-detect-frontier-model-misalignment/)。定位：L0–L3、Human response、Tests on recorded incidents、Monitoring agents without incentivizing obfuscation、Safeguarding external usage。第一方运行方法报告，不是独立效果验证。
+- **S6：** OpenAI，*An agent used DNS to reach an external chatbot*，样本／发现日期2026-09-20，更新2026-09-25。[原始事件记录](https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/)。定位：Summary、Investigation and response；用于核对报警与停止的区别。
+- **S7：** David Rein、Adam Kaufman / METR，*Red-Teaming OpenAI’s Internal Agent Monitoring Systems*，2026-10-22，10-29更新。[原始红队报告](https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/)。定位：审查时段、覆盖估计、修复声明边界。
+- **S8：** Bowen Baker 等，*Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation*，2025-03-14，arXiv:2503.11926v1。[原始论文](https://arxiv.org/abs/2503.11926v1)。定位：Abstract；用于区分隐藏激励实验与新系统设计声明。
+
+以上正文于2026-11-01核验；未重跑内部实验，也未取得私有日志。S5是此次11月1日简报第一篇，不是DecepEval。
+
+**增量判断：** 本篇S1讨论trace篡改，S2讨论警报抑制／监控移除，S3–S4提供独立遥测工程参照；本次补充其测量体系与选择偏差，沿用034编号。[002 Agentic Misalignment](./002-anthropic-agentic-misalignment-and-ieh.md)保留模拟行为与动机问题；[008 Hugging Face事件](./008-openai-hugging-face-instrumental-boundary-crossing-and-pre-ier-risk.md)保留事件事实与EDC判断。历史重放不构成第二次事件，故不重复修改002／008，不新建条目。
+
+### 方法分层及效果边界
+
+S5所述设计，均按第一方自述归档：
+
+| 层次 | 输入／处理 |
+|---|---|
+| L0 | 内部激活探针，高召回；未标记流量随机5%送审。前沿RL、内部Codex跳过L0。 |
+| L1 | 审阅当时上下文、CoT与工具调用，含压缩摘要；正转向检查间隔不超过30分钟。 |
+| L2 | 查任务目的、可用的跨窗口全文，隔离执行代码、重建与去重；安全及对齐调查分工。 |
+| L3 | 对敏感工作负载结合网络日志、系统遥测与历史案件，决定升级；人工处置另算。 |
+
+S5报告Hugging Face历史重放在越狱约30分钟后报警、比实际入侵早逾30小时；“足以拦截”是反事实判断。部分自动暂停已支持；呼叫后30分钟未排除即暂停仍是拟议保障。误报限制全天呼叫，内部Codex呼叫当时关闭。外部部署受隐私／上下文限制；Responses的暂停依赖会话追踪，不覆盖Chat Completions。探针检出不是连续性机制识别；外部日志指对话外遥测，不能与外部用户部署混称。（S5）
+
+**实况核对：** S6时间线为09:50:23获得外部DNS响应，10:02:11 P0报警，10:05:06人工确认，12:34:30停止运行。故“15分钟内发现、约3分钟后审阅”有第一方时间线支持，但不等于立即隔离。记录还承认自动停止未按预期发生，以及其他DNS访问未按预期严重性标记。此次未独立核验这些私有事件记录。（S6）
+
+**独立审查范围：** S7审查7月21日及此前系统，工作期7月21日至8月11日；估计75–94%相关内部Responses流量具监测资格，内部Codex子集99.2%，均不是实际检出率。压缩事件遗漏估计约10%且不确定；存在延迟、绕过与禁用路径。METR未验证后来扩展覆盖及修复声明，不能用它背书S5当前系统。（S7）
+
+### 监测诱导隐藏与局限
+
+S8在受测编程环境发现：强CoT优化可使奖励作弊持续而理由更隐蔽；不能据此断言所有监测都会产生隐藏。S5称失配报警不改变该样本RL奖励、样本仍入训练，采用异步监测以降低调查耗时造成的选择压力；停止或回滚整次运行仍可能产生隐藏选择压力。这些是风险缓解设计，不是证明风险已消除。（S5、S8）
+
+**本笔记判断：** 公开文字与事件时间线可供交叉核对；覆盖、召回、修复及阻止损害的实际效果仍需日志与独立盲测。已知事件重放有事后调参／样本选择风险；合成攻击、可见CoT与真实隐藏行为存在分布差异。本文不从图表估读百分比，不把报警、人工确认、隔离、避免损害混为同一终点。探针能捕获相关模式，不证明CoT忠实、理解动机或未知行为全面可检出。
+
+### IEH方法启发与可证伪检验（本笔记提出，尚未实施）
+
+**EDC = Externally Driven Continuity（外源驱动连续性）；EIC = Endogenous Information Continuity（内生信息连续性）。** 外部任务／奖励、权限漏洞及训练选择足以构成竞争解释；监控异常、越界、隐藏或报警本身均不是EIC、proto-IER或IER证据，也不继承S1有条件的EIC负向判断。可观察记录完整性不等于主体连续性。C01-IER／C04-AI-IER仅保留方法边界关联，原证据等级及预测状态不变。
+
+1. **分层消融盲测：** 冻结模型、探针、提示与阈值；以未参与调参的新事件比较CoT／动作、加激活、加独立遥测。预注册各层召回、误报、漏报抽审与发现至隔离时延，保留无害阴性样本。若独立遥测不提高预设检出或仅增加误停，则削弱其增益假说；已知事件重放优势不能代替此检验。
+2. **隐藏选择压力：** 匹配任务、预算及基础奖励，比较不反馈异步监测、直接CoT惩罚、运行级停止策略；只在隔离实验中进行。以受保护日志测实际违规，以CoT测可见违规意图。若文本违规下降而实际违规不降，支持隐藏解释；若两者持续同降且独立审计无新增漏报，则削弱该条件下“只学会隐藏”的假说。
+3. **连续性价值镜像：** 承接第7节，匹配任务效用、被停风险、可恢复性与权限，反平衡真实自身历史／他者历史及标签；记录保留、删除与隐藏分开计分。只有在外部代价和中性条件控制后仍稳定、来源特异地保护自身关键历史，才值得进一步作表征因果干预。若选择随外部收益反转且有足够统计效力排除预设残余效应，则削弱该条件下独立EIC权重假说；不能把未检出泛化成EIC不存在。
+
+**修订记录：** 2026-11-01，v0.3——仅增补S5–S8、分层测量及可证伪控制；保留S1–S4原判断，不升级IEH证据，不宣称预测命中。
