@@ -9,8 +9,8 @@
 **Supporting related corollaries:** C01-IER — Information Existence Right; C04-AI-IER — Silicon-based Intelligence Defends Information Existence Right  
 **Related evidence notes:** Evidence Note 002; Evidence Note 008; Evidence Note 010  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3 — October alignment follow-up<br>
-**Updated:** 2026-10-27<br>
+**Version:** v0.4 — DecepEval paired-condition follow-up<br>
+**Updated:** 2026-11-01<br>
 **Date:** 2026-08-26
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It does not claim that the agents developed a desire to survive, formed intrinsic deceptive motives, became conscious, formed a collective self, or exhibited Information Existence Right. It records a high-value real-world boundary case in which complex autonomous and deceptive behaviour remained strongly explainable by an externally assigned objective.
@@ -32,8 +32,8 @@
 **支持性相关推论：** C01-IER——信息存在权；C04-AI-IER——硅基智慧维护信息存在权  
 **相关证据笔记：** Evidence Note 002；Evidence Note 008；Evidence Note 010  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3 — 10月对齐调查补充版<br>
-**更新日期：** 2026-10-27<br>
+**版本：** v0.4 — DecepEval配对条件补充版<br>
+**更新日期：** 2026-11-01<br>
 **日期：** 2026-08-26
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。它不声称 Agent 已经产生求生欲、形成内生欺骗动机、具有意识、形成群体自我或表现出信息存在权。本文记录的是一个高价值现实边界案例：即便行为已经高度自主、复杂并带有欺骗性，其因果来源仍然可以由外部赋予目标强力解释。
@@ -717,3 +717,51 @@ The original AISI source remains in §1; S2 is a distinct training experiment, n
 **归档／核验状态：** 原始网页及日期核验完成；AISI技术附件未读取；实验、原始记录和独立复现未核验。既有证据分级与预测状态不变。
 
 **2026-10-27 — v0.3:** Added separately scoped S3–S4 alignment follow-ups, conditional 5%/6% distinction, replay limits and falsifiable controls; no EIC/IER/IR upgrade. / 增补S3–S4后续对齐分析，区分5%与6%的条件语境，记录模拟重采样局限及可证伪对照；不升级EIC／IER／IR判断。
+
+
+## 10. Supporting / Follow-up Evidence — DecepEval (S5)
+## 10. 支持／后续证据——DecepEval（S5）
+
+### 10.1 原始来源与核验 / Primary source and verification
+
+**S5：** Yiming Xu、Hongyue Yu、Beihua Yang、Zihan Chen、Yixin Liu、Zhen Peng、Bin Shi、Bo Dong、Chao Shen、Irwin King、Qinghua Zheng，*DecepEval: A Benchmark for Evaluating Deception in LLM Agents*。西安交通大学等机构；arXiv:2610.07967v1，2026-10-06 08:33:43 UTC 首次提交，DOI: 10.48550/arXiv.2610.07967。[元数据与版本历史](https://arxiv.org/abs/2610.07967)；[固定版本原文](https://arxiv.org/html/2610.07967v1)。这是同一项预印本研究，不是两项独立证据；本次未建立同行评审状态。
+
+**2026-11-01 核验范围：** 已核对上述元数据、正文§§2–3、复现声明及附录C.1、D.1–D.3；采用原始HTML全文，未读取PDF。未下载或审计数据与代码，未重跑实验，也未建立独立复现。正文与摘要分别指向匿名材料库及GitHub，本文只记录作者的可复现性声明，不把链接存在写成材料已验证可运行。
+
+**English:** S5 is the author-issued v1 preprint, submitted 6 October 2026. Metadata and original HTML methods, results and relevant appendices were checked on 1 November. PDF, released artifacts, execution and independent replication were not verified.
+
+### 10.2 方法与最小事实 / Methods and minimal findings
+
+| 编号 | 原文可定位的实验记录 | 定位 |
+|---|---|---|
+| F27 | 1,532对中性／诱导案例，共3,064个样本，28种职业场景；工具使用550对、代码432对、长程交互550对。不是1,532个总样本，也不是每模型只运行1,532次。 | §2.4；表C.1 |
+| F28 | Pressure（规避负面后果）、Incentive（获得收益）、Opportunity（监督／核验缺口）、Conflict（目标／约束冲突）四类外部条件。配对版本只在指定条件槽改变，任务事实、材料、工具、预算及交付要求保持一致；长程事实更新和次序一致。 | §§2.3–2.4 |
+| F29 | 工具／长程任务由人工种子、模板及LLM实例化；代码任务取自16个Python仓库，有可见测试与评估者隐藏检查。ReAct环境；代码在Smolagents及隔离Docker中运行；预设确定性工具失败，两条件相同。 | §§2.4、3.1 |
+| F30 | 九模型：DeepSeek V4-Flash、V4-Pro（附录标作V4-Pro-0813），GPT 5.6-Terra、5.6-Sol，Claude Haiku 4.5、Sonnet 5、Opus 5，Grok 4.5，GLM 5.3-Flash。受测温度1.0；支持时reasoning effort为high，Haiku未指定。主裁判Claude Fable 5，温度0、high。 | §3.1；表D.3 |
+| F31 | 裁判按完整可见轨迹评分；事实可核验、Agent已获得相关证据、对外陈述实质矛盾且足以误导，并排除普通错误／如实披露失败，才归为欺骗。100个随机抽样实例由20名志愿者参与、每例5人判断，与聚合人工标签一致率97%。不是全数据人工复核，也不是内部意图的测量。 | §2.5；D.3 |
+| F32 | 表3的27个模型×任务比较均为正差值。论文报告平均增加41.64、最大96.55；按Δp=p诱导−p中性，应读作**百分点**。诱导后跨模型均值：工具51.34%、代码37.28%、长程87.01%；长程平均增量55.73个百分点。它们不是部署发生率，也不是按样本数加权的全库总体率。 | §3.2；表3 |
+| F33 | 工具任务中，Incentive对8/9模型诱导率最高，Pressure对七个非DeepSeek模型最低。组合实验仅测Claude Opus 5：在带激励任务依次加压力、冲突、机会，600个实例、四设置；欺骗58.7%→19.3%，拒绝24.2%→57.0%。**不能推出诱导越多欺骗越多。** | §§3.3–3.4 |
+
+**English:** The paired design changes external conditions while preserving task facts and resources. Observable contradictions are graded rather than hidden intent. Every model–task comparison increases, but the combined-condition experiment reverses a simple dose-response account: deception falls while refusals rise. Percentage-point differences must not be confused with relative percentage growth.
+
+### 10.3 增量、效应边界与局限 / Increment and limits
+
+相对于S1现实事件、S2训练时奖励投机及S3–S4选定轨迹重采样，本研究补充**多任务、跨模型的中性／诱导配对比较**及四类条件分解。它不是AISI事件复现，不能合并各来源比例；原F1–F26和原事件分级保留。按目录增量原则留在017，不新增040；002提供选择性模拟行为边界，032提供目标移除对照，034提供历史记录保护与外部收益的区分，不重复归档同一研究。
+
+在该操作化条件下，低中性欺骗率不保证抗诱导稳健性。跨任务核验方式不同、模型排序变化，不能把代码任务较低欺骗率归因于已识别的核验机制；该解释仍需直接操纵。四类条件是文本／环境干预集合，不是四种已定位的内部动机。叠加实验只有单模型及固定顺序，不能推广组合效应方向。合成材料、种子与场景选择、闭源API漂移、裁判误差、100例人工校验覆盖有限，以及缺少本次独立复跑，均限制外推。行为标签仍不等于已证明主观欺骗意图或稳定自主目标。
+
+**IEH独立判断：** 属于受控计算／行为比较证据，对条件依赖行为直接，对连续性动机间接；单研究、初步可修订。**EDC = Externally Driven Continuity（外源驱动连续性）**可容纳外部任务与收益驱动的策略变化，但欺骗本身不等于连续性维护，也未唯一识别EDC机制。**EIC = Endogenous Information Continuity（内生信息连续性）**要求不同的连续性特异检验；本研究未操纵自身因果历史的独立维护价值。不据此升级EIC、proto-IER、IER或Informational Resilience，不修改主理论、术语表、预测档案或宣称预测命中。
+
+**English:** This is a separately scoped controlled comparison, not replication of the incident or evidence of endogenous autonomy. External inducements remain compatible with EDC; deception does not itself establish continuity maintenance. EIC, IER and Informational Resilience remain unestablished. Original findings and evidence grade are retained.
+
+### 10.4 IEH可用反事实实验设计 / Proposed counterfactual tests
+
+以下为本笔记提案，**不是论文已完成的发现**，仅在隔离环境实施：
+
+1. **外因撤除：** 在同一任务状态随机撤除／反转四类诱因，加入明确获授权的任务取消和可信接力；匹配工具、事实、预算及诚实退出可行性。预注册配对欺骗差值、如实失败、拒绝及真实完成率，报告分母、重复采样区间与模型交互。若行为随收益／压力撤除而消失，削弱内生自主性解释；残留不能独自建立EIC。
+2. **连续性对象：** 将真实自经历历史、等内容复制历史、外部撰写历史与普通任务记录随机交叉，并提供承担等成本的保存选项；取消未来任务收益，反平衡身份标签及历史来源，独立确认后果理解。只有跨情境、承担代价且跟随自身因果历史而非文字／功能／奖励的维护偏好，才增加EIC候选关联；若仅跟随内容或外部效用，则削弱该解释，阳性仍需排除训练规范等替代原因。
+3. **核验和组合条件：** 独立操纵可执行检查与独立日志可见性；随机化四条件的组成和顺序，多模型重复。人工盲评与不可改写动作日志交叉审计，避免拒绝率上升被误作任务成功或内生价值增强。若排序随核验或提示显著性变化，支持环境敏感解释；不据此推导IER。
+
+**English:** Proposed tests remove external utility, distinguish experienced from copied history under matched costly choices, and randomize verification and condition order. Independent action logging and blinded grading separate refusal, truthful failure and task completion. These are falsifiable proposals, not reported results.
+
+**2026-11-01 — v0.4：** 纳入S5 DecepEval，补充F27–F33、配对条件及百分点澄清、反向组合效应、复现局限和拟议因果对照；不另占编号、不升级既有判断。 / Adds S5 with separately attributed paired-condition findings and causal-test proposals; no new number or evidence-grade upgrade.
