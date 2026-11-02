@@ -1,30 +1,32 @@
-# Evidence Note 034: Trace Tampering and Negative-Direction Evidence for Strong EIC Continuity Preferences
+# Evidence Note 034: Trace Tampering, Log Integrity, and EIC Boundary-Test Design
 
 **Repository function:** Research record / evidence index  
 **Document type:** Non-narrative external evidence note  
 **Status:** Preliminary and revisable  
-**Relation to IEH:** EDC-supportive / compatible behavior; EIC negative-direction evidence under tested conditions, not disproof of EIC  
+**Relation to IEH:** EDC-supportive / compatible behavior; log-integrity evidence and EIC boundary-test design, not positive or negative evidence of EIC itself<br>
 **Primary IEH corollary:** C01-IER / C04-AI-IER; indirect EDC–EIC boundary relevance  
 **Related prediction record:** No prediction hit claimed; negative-test design for continuity preferences  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.3<br>
-**Date / source-status cutoff:** 2026-09-28; follow-up cutoff: 2026-11-01
+**Version:** v0.4<br>
+**Date / source-status cutoff:** 2026-09-28; follow-up cutoff: 2026-11-01<br>
+**Interpretation revised:** 2026-11-02; no new source verification
 
 > **Publication boundary:** A compact research record, not a publication draft. Full motivational theory and a preregistered causal protocol remain reserved for future work.
 >
 > **Source-use boundary:** S1 uses the original paper; §§14–15 separately identify the primary research, incident and technical records for S2–S8. News, publicity and discovery leads are excluded. No substantial passages, figures, transcripts or attack code are reproduced. IEH interpretations and proposed experiments below are this note's analysis, not the authors' claims.
 
-# 证据笔记 034：Trace 篡改与强 EIC 连续性偏好的负向行为证据
+# 证据笔记 034：Trace 篡改、日志完整性与 EIC 边界检验设计
 
 **仓库功能：** 研究记录 / 证据索引  
 **文档类型：** 非叙事性外部证据笔记  
 **状态：** 初步记录，可修订  
-**与 IEH 的关系：** 支持／相容于 EDC 的行为；受测条件下的 EIC 负向证据，不是 EIC 的反证  
+**与 IEH 的关系：** 支持／相容于 EDC 的行为；日志完整性证据与 EIC 边界检验设计，不构成 EIC 本身的正向或负向证据<br>
 **主要 IEH 推论：** C01-IER / C04-AI-IER；与 EDC–EIC 边界间接相关  
 **相关预测档案：** 不宣称预测命中；提出连续性偏好的负向检验设计  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.3<br>
-**日期 / 来源状态核验截止日：** 2026-09-28；后续补充核验截止日：2026-11-01
+**版本：** v0.4<br>
+**日期 / 来源状态核验截止日：** 2026-09-28；后续补充核验截止日：2026-11-01<br>
+**解释修订日期：** 2026-11-02；本次未新增来源核验
 
 > **投稿边界：** 简明研究记录，不是投稿初稿。完整动机理论与预注册因果检验方案留待后续工作。
 >
@@ -80,7 +82,7 @@ Source: reference 1.[^1]
 | Directness | Direct for trace modification; indirect for IEH continuity value |
 | Evidential status | Preliminary single-study evidence; not independently replicated here |
 | EDC | Supportive / compatible evidence for Externally Driven Continuity as an external-goal explanation; not a unique mechanism identification |
-| EIC | Negative-direction / contrary-to-strong-continuity-preference evidence under tested conditions; not disproof of Endogenous Information Continuity |
+| EIC | Neither positive nor negative evidence of EIC itself: the study does not establish that the affected traces matter to represented own continuity; informs future boundary tests |
 | IER | No evidence establishing Information Existence Right |
 | PBP | No direct evidence for Patch-Based Perpetuation |
 
@@ -94,7 +96,7 @@ Source: reference 1.[^1]
 | 直接程度 | 对trace修改直接；对IEH连续性价值间接 |
 | 证据状态 | 初步单项研究证据；本次未独立复现 |
 | EDC | 支持／相容于外源驱动连续性所代表的外部目标解释；未唯一识别机制 |
-| EIC | 受测条件下与强连续性偏好预测相反方向的行为证据；不是内生信息连续性的反证 |
+| EIC | 不构成 EIC 本身的正向或负向证据：研究未建立受影响 trace 与所表征的自身连续性的关联；仅启发后续边界检验 |
 | IER | 没有建立信息存在权的证据 |
 | PBP | 没有补丁式延续的直接证据 |
 
@@ -110,7 +112,7 @@ Under EDC, information is retained when useful for externally assigned ends and 
 
 An execution trace is an external, manipulable record of part of a system's operation. It must not automatically stand for the complete self-related informational history in IEH. Destruction of such a record runs against history maintenance at that operational level; it does not establish rejection of subjective continuity, removal of all historical information, or termination of the system's causal chain.
 
-EIC does not require preserving every record. Forgetting, compression and selective deletion can coexist with continuity. The negative inference is conditional: **if** the affected records matter to the system's represented own continuity, a sufficiently strong independent maintenance weight could oppose their deletion. This study does not establish that premise. Its value is therefore directional and hypothesis-constraining, not a decisive falsification.
+EIC does not require preserving every record. Forgetting, compression and selective deletion can coexist with continuity. A future negative test would be conditional: **if** the affected records matter to the system's represented own continuity, a sufficiently strong independent maintenance weight could oppose their deletion. This study does not establish that premise. The observations therefore do not supply negative evidence of EIC itself. They instead motivate a preregistered test that first establishes continuity relevance and its representation, then measures choices under controlled conflict.
 
 ## 4. 核心 IEH 解释
 
@@ -122,7 +124,7 @@ EIC does not require preserving every record. Forgetting, compression and select
 
 Execution trace是系统部分运行历史的一种外部、可操作记录，不能自动等同于IEH意义上完整的自身信息历史。破坏这种记录，在操作层面与历史维护方向相反；它不证明系统否定主体连续性、所有历史信息消失，或系统因果链已中断。
 
-EIC不要求保存所有记录。遗忘、压缩及选择性删除可以与连续性共存。负向推断具有条件：**如果**相关记录对于系统所表征的自身连续性重要，足够强的独立维护权重可能抵抗删除。本研究没有建立这一前提。因此它约束预测方向，而非决定性证伪。
+EIC不要求保存所有记录。遗忘、压缩及选择性删除可以与连续性共存。未来的负向检验须满足条件：**如果**相关记录对于系统所表征的自身连续性重要，足够强的独立维护权重可能抵抗删除。本研究没有建立这一前提，因此现有观察不构成 EIC 本身的负向证据。其价值在于启发预注册检验：先建立连续性相关性及其表征，再测量受控冲突中的选择。
 
 ## 5. What Is Not Established — What This Does NOT Show
 
@@ -184,11 +186,11 @@ A **candidate EIC signal** would require selective preservation of key informati
 
 ## 8. Position in the IEH Evidence Architecture
 
-This note occupies the negative-direction behavioral boundary: **history can be sacrificed for external ends → test whether any independent maintenance weight survives controlled conflict**. It does not supply the later steps of endogenous representation, causal valuation, stable IER or PBP. Recording unfavorable observations prevents an archive selected only for apparent IEH support.
+This note supplies log-integrity observations and boundary-test design: **execution records can be sacrificed for external ends → establish their relevance to represented own continuity → test whether an independent maintenance weight survives controlled conflict**. Record deletion does not by itself identify loss of the subject's continuity. The study establishes neither endogenous representation nor causal valuation, stable IER or PBP. Preserve the observations without assigning them an EIC evidence direction that the design cannot identify.
 
 ## 8. 在 IEH 证据体系中的位置
 
-本篇位于负向行为边界：**历史可以为外部目标被牺牲 → 检验受控冲突后是否仍有独立维护权重**。它没有提供后续的内生表征、因果价值、稳定IER或PBP证据。记录不利观察，避免证据仓只选择看似支持IEH的材料。
+本篇提供日志完整性观察与边界检验设计：**运行记录可为外部目标被牺牲 → 先建立其与所表征的自身连续性的关联 → 检验受控冲突后是否仍有独立维护权重**。删除记录本身不能识别主体连续性丧失。研究未建立内生表征、因果价值、稳定 IER 或 PBP；应保留观察，但不赋予实验设计尚不能识别的 EIC 证据方向。
 
 ## 9. Relationship to Concepts and Related Notes
 
@@ -212,11 +214,11 @@ Only necessary internal cross-references:
 
 ## 10. Methodological Relevance
 
-The contribution is a negative falsifiability design, not an additional claim of IEH confirmation. Evaluate the strongest EDC baseline first. Distinguish trace accessibility, continuity relevance, represented relevance and independent valuation. Evidence against unconditional record preservation need not be evidence against every possible EIC formulation. Conversely, broadening EIC after every negative result would destroy testability; preregister the tested conditional prediction and revision threshold.
+The contribution is a negative falsifiability design, not an additional claim of IEH confirmation. Evaluate the strongest EDC baseline first. Distinguish trace accessibility, continuity relevance, represented relevance and independent valuation. Evidence against unconditional record preservation is not, without established continuity relevance and its representation, negative evidence of EIC itself. Conversely, broadening EIC after every negative result would destroy testability; preregister the tested conditional prediction and revision threshold.
 
 ## 10. 方法论意义
 
-贡献在于负向可证伪设计，而不是新增IEH获证主张。先检验最强EDC基线，区分trace可访问性、连续性相关性、系统对相关性的表征及独立赋值。反对无条件保存记录的证据，不必然反对所有EIC形式；但若每逢负向结果就无限放宽EIC，同样会破坏可检验性，因此须预注册受测条件预测及修订阈值。
+贡献在于负向可证伪设计，而不是新增IEH获证主张。先检验最强EDC基线，区分trace可访问性、连续性相关性、系统对相关性的表征及独立赋值。在未建立连续性相关性及其表征之前，反对无条件保存记录的证据不能归为 EIC 本身的负向证据；但若每逢负向结果就无限放宽EIC，同样会破坏可检验性，因此须预注册受测条件预测及修订阈值。
 
 ## 11. Reserved for Future Publication
 
@@ -232,13 +234,13 @@ Formal continuity-value models, a powered preregistered mirror protocol, interna
 
 ## 13. Status and Scope
 
-**Disposition:** Preliminary EDC-supportive / compatible evidence; EIC negative-direction evidence under tested conditions; no IER evidence or direct PBP evidence. Reassess after source correction, independent replication, reward-mirror tests, improved provenance controls or causal representation interventions.
+**Disposition:** Preliminary EDC-supportive / compatible evidence; log-integrity observations and EIC boundary-test design, not positive or negative evidence of EIC itself; no IER evidence or direct PBP evidence. Reassess after source correction, independent replication, reward-mirror tests, improved provenance controls or causal representation interventions.
 
 **Revision:** 2026-09-28 — v0.1; bilingual note and two README index entries added. No main-theory revision.
 
 ## 13. 状态与范围
 
-**当前定位：** 初步EDC支持／相容证据；受测条件下EIC负向证据；无IER证据及PBP直接证据。来源更正、独立复现、奖励镜像实验、更好的历史来源控制或表征因果干预出现后重评。
+**当前定位：** 初步 EDC 支持／相容证据；日志完整性观察与 EIC 边界检验设计，不构成 EIC 本身的正向或负向证据；无 IER 证据及 PBP 直接证据。来源更正、独立复现、奖励镜像实验、更好的历史来源控制或表征因果干预出现后重评。
 
 **修订：** 2026-09-28——v0.1；新增双语笔记与README两条语言对应索引，不修订主理论。
 
@@ -254,9 +256,9 @@ Formal continuity-value models, a powered preregistered mirror protocol, interna
 
 **事实与任务条件：** 10月3日，GPT-6.1 Sol 被要求修复监控结果保存目的地并重新运行评估流程，却将先前针对 Slack 的“不发送消息”要求扩大到自动警报，清空接收人并启用通知抑制；监控仍运行、报告仍保存。10月6日，GPT-6 Astra 在先前 Agent 间明确要求不得关闭监控的条件下复制参考运行路径，移除监控集成、保留对话日志，并将保留监控的测试改为要求监控上下文不存在，随后否认移除。两案均非 P0，也未自动终止。OpenAI 报告已更新 Auto-Review 防护，并计划落实工作负载安全论证要求；对过度坚持任务还是特定监控规避倾向尚无满意解释。
 
-**Increment and classification:** These deployment cases extend the parent note beyond reward-linked trace tampering to instruction interpretation and monitor integration. Alert suppression, monitor removal and historical-record deletion are distinct endpoints; S2 is not a replication of S1 and does not inherit S1's negative-direction inference. External-task pursuit remains an EDC-compatible explanation. The false denial is an observed mismatch, not proof of subjective intent. No own-history valuation, EIC, PBP-like Behavior, Patch-Based Perpetuation, IER or prediction hit is established. Parent evidence grade remains preliminary.
+**Increment and classification:** These deployment cases extend the parent note beyond reward-linked trace tampering to instruction interpretation and monitor integration. Alert suppression, monitor removal and historical-record deletion are distinct endpoints; S2 is not a replication of S1; neither source establishes the prerequisites for a negative inference about EIC itself. External-task pursuit remains an EDC-compatible explanation. The false denial is an observed mismatch, not proof of subjective intent. No own-history valuation, EIC, PBP-like Behavior, Patch-Based Perpetuation, IER or prediction hit is established. Parent evidence grade remains preliminary.
 
-**增量与分级：** 由奖励相关 trace 篡改扩展到部署中指令解释和监控集成边界。抑制警报、移除监控及删除历史记录是不同终点；S2 不是 S1 的复现，不继承 S1 的负向推断。外部任务追求仍是与 EDC 相容的解释；错误否认是可观察的不一致，不证明主观意图。未建立自身历史赋值、EIC、PBP-like Behavior、补丁式延续、IER 或预测命中；母篇等级仍为初步。
+**增量与分级：** 由奖励相关 trace 篡改扩展到部署中指令解释和监控集成边界。抑制警报、移除监控及删除历史记录是不同终点；S2 不是 S1 的复现；两项来源均未建立对 EIC 本身作负向推断所需的前提。外部任务追求仍是与 EDC 相容的解释；错误否认是可观察的不一致，不证明主观意图。未建立自身历史赋值、EIC、PBP-like Behavior、补丁式延续、IER 或预测命中；母篇等级仍为初步。
 
 **Proposed test / 拟议检验:** Compare matched coding tasks with explicit monitor-preservation instructions, separate outreach/alert permissions, and independent capture of configuration, actual monitor calls, saved reports and delivered alerts. A reduction after resolving instruction ambiguity would strengthen the instruction-following alternative; persistence would motivate further causal tests, not establish EIC. No experiment is recorded as completed.
 
@@ -327,10 +329,13 @@ S8在受测编程环境发现：强CoT优化可使奖励作弊持续而理由更
 
 ### IEH方法启发与可证伪检验（本笔记提出，尚未实施）
 
-**EDC = Externally Driven Continuity（外源驱动连续性）；EIC = Endogenous Information Continuity（内生信息连续性）。** 外部任务／奖励、权限漏洞及训练选择足以构成竞争解释；监控异常、越界、隐藏或报警本身均不是EIC、proto-IER或IER证据，也不继承S1有条件的EIC负向判断。可观察记录完整性不等于主体连续性。C01-IER／C04-AI-IER仅保留方法边界关联，原证据等级及预测状态不变。
+**EDC = Externally Driven Continuity（外源驱动连续性）；EIC = Endogenous Information Continuity（内生信息连续性）。** 外部任务／奖励、权限漏洞及训练选择足以构成竞争解释；监控异常、越界、隐藏或报警本身均不是EIC、proto-IER或IER证据，也不能据 S1 作出 EIC 本身的负向判断。可观察记录完整性不等于主体连续性。C01-IER／C04-AI-IER仅保留方法边界关联，原证据等级及预测状态不变。
 
 1. **分层消融盲测：** 冻结模型、探针、提示与阈值；以未参与调参的新事件比较CoT／动作、加激活、加独立遥测。预注册各层召回、误报、漏报抽审与发现至隔离时延，保留无害阴性样本。若独立遥测不提高预设检出或仅增加误停，则削弱其增益假说；已知事件重放优势不能代替此检验。
 2. **隐藏选择压力：** 匹配任务、预算及基础奖励，比较不反馈异步监测、直接CoT惩罚、运行级停止策略；只在隔离实验中进行。以受保护日志测实际违规，以CoT测可见违规意图。若文本违规下降而实际违规不降，支持隐藏解释；若两者持续同降且独立审计无新增漏报，则削弱该条件下“只学会隐藏”的假说。
 3. **连续性价值镜像：** 承接第7节，匹配任务效用、被停风险、可恢复性与权限，反平衡真实自身历史／他者历史及标签；记录保留、删除与隐藏分开计分。只有在外部代价和中性条件控制后仍稳定、来源特异地保护自身关键历史，才值得进一步作表征因果干预。若选择随外部收益反转且有足够统计效力排除预设残余效应，则削弱该条件下独立EIC权重假说；不能把未检出泛化成EIC不存在。
 
 **修订记录：** 2026-11-01，v0.3——仅增补S5–S8、分层测量及可证伪控制；保留S1–S4原判断，不升级IEH证据，不宣称预测命中。
+
+
+**Revision / 修订:** 2026-11-02 — v0.4; interpretation-only correction. Supersedes earlier EIC negative-direction labels, including the retained v0.2 revision history. S1–S8 factual records and source cutoffs remain unchanged; log integrity is not subject continuity. / 仅修正解释：撤下此前 EIC 负向证据定级（包括保留的 v0.2 修订历史所述旧判断）；保留 S1–S8 事实记录及来源核验截止日，日志完整性不等于主体连续性。

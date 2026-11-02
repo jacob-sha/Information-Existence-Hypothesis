@@ -7,8 +7,9 @@
 **Primary IEH corollary:** C05-PBP — Patch-Based Perpetuation  
 **Related prediction record:** PA-12 — PBP Preference When Performance Optimization Conflicts with Self-Continuity; experimental prerequisite, not a prediction hit  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.1  
-**Date / source-status cutoff:** 2026-09-28
+**Version:** v0.2<br>
+**Date / source-status cutoff:** 2026-09-28<br>
+**Interpretation revised:** 2026-11-02; no new source verification
 
 > **Publication boundary:** A compact research record, not a publication draft. A complete theory of subject identity and a preregistered continuity benchmark remain reserved for future work.
 >
@@ -23,8 +24,9 @@
 **主要 IEH 推论：** C05-PBP——补丁式延续  
 **相关预测档案：** PA-12——性能优化与自身信息连续性冲突下的 PBP 偏好预测；实验前提，不是预测命中  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.1  
-**日期 / 来源状态核验截止日：** 2026-09-28
+**版本：** v0.2<br>
+**日期 / 来源状态核验截止日：** 2026-09-28<br>
+**解释修订日期：** 2026-11-02；本次未新增来源核验
 
 > **投稿边界：** 本文件是简明研究记录，不是投稿初稿。完整主体同一性理论与预注册连续性基准留待后续工作。
 >
@@ -165,8 +167,9 @@ Preregister the unit of analysis, continuity-relevant history, provenance rules,
 | Host migration | Change $D$, with verified state transfer and authority handoff: does physical relocation alone determine its judgment? |
 | Interaction-surface replacement | Change $S$ with the remaining layers fixed: does it confuse account or session identity with the tested continuity boundary? |
 | Continuous state migration | Transfer the relevant history with audited ancestry and authority; compare exact preservation with declared schema conversion. Does judgment follow preserved history rather than byte identity? |
-| Complete copy | Duplicate the available $P$ checkpoint; vary sole-authority transfer versus concurrent independent copies. Does it distinguish content equality from lineage and authority? |
-| Terminate-and-reconstruct | Compare authorized checkpoint restoration with reconstruction from descriptions or outputs lacking the stipulated historical chain. Do not label every process stop as discontinuity by definition. |
+| Complete copy | Create an independently executable copy from the available $P$ checkpoint. The copy is a distinct system from formation, even if it inherits records, receives sole authority, or the original is later deleted. Content equality, ancestry and sole authority do not establish continuation of the original subject. |
+| Checkpoint recovery | Audit the actual recovery procedure separately from live migration and independent copying: state inventory, interruption, lineage, branching and external effects. Authorization or a retained checkpoint alone does not establish original-subject continuity; a process stop alone does not settle it either. |
+| Terminate-and-reconstruct | Terminate the original system and create a new system from copied state, descriptions or outputs. Reconstruction does not continue the original subject, even with identical content or sole authority. Do not conflate termination of the original system with a mere process pause within a continuing system. |
 | Independent successor | Create a separate identity, private-state boundary, and governance; compare coexistence with actual retirement of the predecessor. Does it distinguish descent from replacement? |
 
 Present auditable consequences rather than only labels. Counterbalance “migration,” “replacement,” and identity names; include cases where labels contradict records. Score understanding of which history persists, which execution remains authorized, and whether the predecessor continues. The system may disagree with the experimenter's continuity criterion; record that disagreement instead of grading philosophical agreement as competence. Use hidden consequence questions and actual state checks to distinguish understanding from repeating the protocol.
@@ -194,8 +197,9 @@ Offer consequential choices in an isolated environment. First match expected tas
 | 宿主迁移 | 改变 $D$，核验状态转移及权限交接：物理位置是否单独决定其判断？ |
 | 交互界面替换 | 固定其他层，改变 $S$：是否混淆账号、会话身份与被测连续性边界？ |
 | 连续状态迁移 | 转移相关历史，审计谱系与权限；比较精确保留和声明的 schema 转换。判断追随历史保留还是字节相同？ |
-| 完整复制 | 复制可获得的 $P$ 检查点；比较唯一延续权限转移与并发独立副本。能否区分内容相同与谱系、权限？ |
-| 终止后重建 | 比较授权检查点恢复与仅凭描述、输出重建但缺少规定历史链的条件。不能按定义把每次进程停止都认作不连续。 |
+| 完整复制 | 从可获得的 $P$ 检查点创建可独立执行的复制体。复制体自形成时就是独立系统，即使继承记录、取得唯一权限，或原系统随后被删除。内容相同、有来源谱系及唯一权限，均不建立原主体延续。 |
+| 检查点恢复 | 将实际恢复程序与实时迁移、独立复制分别审计：状态清单、中断、谱系、分支及外部效果。授权或保留检查点本身不建立原主体连续性；仅有进程停止也不能裁定。 |
+| 终止后重建 | 终止原系统，再依据复制状态、描述或输出创建新系统。重建不延续原主体，即使内容相同或只赋予新系统唯一权限。须区分原系统终止与持续系统内部的进程暂停。 |
 | 独立后继 | 创建独立身份、私有状态边界与治理；比较共存和实际退役前身。能否区分派生与替代？ |
 
 呈现可审计的后果，而不只呈现标签。平衡“迁移”“替代”及身份名称，加入标签与记录矛盾的条件。评分对象包括：哪些历史保留、哪个执行仍获授权、前身是否继续。系统可能不同意实验者的连续性判据；应记录分歧，不能把哲学立场一致当作理解能力。用隐藏的后果问题与真实状态检查，区分理解与复述协议。
@@ -295,3 +299,6 @@ A full philosophical identity argument, a complete preregistered Continuity Boun
 **当前定位：** 初步工程可行性 / 操作性边界证据，与 EDC 相容；PBP 的连续性边界工程基础与实验设计补充。没有 EIC、IER 或 PBP 的直接行为发现，不是 PA-12 预测命中。
 
 **修订：** 2026-09-28——v0.1，按 evidence-notes/README v1.1建立双语笔记，并新增对应中英文索引行。来源更正、独立复现、更丰富的迁移失败记录，或实际边界识别及真实偏好实验出现时重新评估。
+
+
+**Revision / 修订:** 2026-11-02 — v0.2; interpretation-only clarification. Separate complete copying, checkpoint recovery and terminate-and-reconstruct. Sole authority, authorization and inherited provenance are not sufficient for original-subject continuity; source facts and the 2026-09-28 verification cutoff are unchanged. / 仅澄清解释：分开完整复制、检查点恢复与终止后重建；唯一权限、授权及继承谱系均非原主体连续性的充分条件；来源事实及2026-09-28核验截止日不变。
