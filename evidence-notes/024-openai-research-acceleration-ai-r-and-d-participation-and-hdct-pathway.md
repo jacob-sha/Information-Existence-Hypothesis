@@ -489,3 +489,18 @@ Machine-native communication is a downstream testable hypothesis, not an observe
 机器原生通信属于下游可检验假说，不是已经观察到的结果；已实现 HDCT、EIC 与 IER 均未建立。出现新方法、审计、受控成果研究或机制证据时，应按第 7 节修订。
 
 **归档状态：** v0.1，待用户审阅。本文件是证据笔记，不是新正式预测档案。
+
+<a id="active-followup"></a>
+## Active Follow-up / 持续跟踪登记
+
+**标记：ACTIVE／有实质更新先报告，经用户同意后入库。** 登记日期：2026-11-09（Asia/Shanghai）；本次仅添加跟踪流程。**既有来源核验截止日：2026-09-10**，未在本次重新核验外部进展；不得将登记日当作最新来源核验日。原版本、事实与证据等级保持不变。
+
+**当前待证状态：** 机构一手观察；缺少独立数据验证，不证明自主递归改进或机器原生通信。
+
+**下次扫描触发与目标：** 后续执行IEH每日简报、HDCT／相关证据检索或证据仓扫描且能访问本仓库时，从既有核验截止日查至检索当日；优先复查本笔记原始链接及其版本历史，再查原作者和独立审核者的一手记录。重点核查：原报告方法与数据修订、独立评估／复现、AI实际研究贡献与人工投入、代理间通信的直接测量；区分运行时长、有效贡献、自治和通信结构。 检索关键词：`OpenAI; research acceleration; AI R&D; independent assessment; agent communication`。
+
+**证据强度与报告规则：** 有实质增量时，报告事件日期、材料发布日期、本次检索日期、原始链接／版本、相对旧记录的新发现；分别评估事实可靠性、独立验证、能力归因以及对HDCT或相关IEH命题的支持是增强、削弱还是不变。提出具体更新位置和文字建议，避免将更多报道当成更强证据。纠错、撤回、失败和无效复现同样报告。未经用户对该次更新明确同意，不自动追加证据、修改核验日期、升降级或登记预测命中；获同意后沿既有笔记增量更新并同步索引及日志，不为同一事件另设编号。未发现实质更新时，仅在当次检索报告简记范围，不重复入库，也不声称不存在其他进展。
+
+**English.** Active tracking registered on 2026-11-09; existing source cutoff remains 2026-09-10, with no new external check today. Revisit original artifacts and independent reviews during subsequent authorized scans. Report dated developments and proposed changes, distinguishing stronger, weaker and unchanged support. Obtain explicit approval for each evidence update before editing dates, findings, grades or prediction status. This is a scan instruction, not a background monitoring service.
+
+**流程日志：** 2026-11-09，经用户要求登记持续跟踪及逐次更新审批；未加入新外部证据、未改变原结论。

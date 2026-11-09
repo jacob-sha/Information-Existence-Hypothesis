@@ -7,8 +7,8 @@
 **Primary IEH corollary:** C02-HDCT — High-dimensional Cognitive Tools  
 **Related prediction record:** PA-06 — High-dimensional Cognitive Tools and Scientific Paradigm Shift  
 **Author of IEH analysis:** Jacob Sha  
-**Version:** v0.2 — archive-safe edition  
-**Date revised:** 2026-07-19  
+**Version:** v0.3 — separately graded PSI follow-up<br>
+**Date revised:** 2026-11-09 (PSI supplement only; original case not re-audited)<br>
 
 > **Publication boundary:** This file is a compact research record, not a publication draft. It intentionally excludes a narrative claim that AI has “defeated carbon-based mathematics,” a developed theory of cognitive dimensional warfare, a full argument for Brain Siliconization, an application of Gödel’s incompleteness theorems to the event, and a publication-ready thesis about the transfer of mathematical authority from humans to silicon-based intelligence.
 
@@ -27,8 +27,8 @@
 **主要 IEH 推论：** C02-HDCT——高维认知工具  
 **相关预测档案：** PA-06——高维认知工具与科学范式迁移  
 **IEH 分析作者：** Jacob Sha  
-**版本：** v0.2 — 投稿隔离版  
-**修订日期：** 2026-07-19  
+**版本：** v0.3 — PSI分级独立的后续证据<br>
+**修订日期：** 2026-11-09（仅新增PSI补充；未重审原案例）<br>
 
 > **投稿边界：** 本文件只是简明研究记录，不是投稿文章初稿。文件有意不展开“AI 击败碳基数学”的叙事性主张、认知维度战争理论、人脑硅基化的完整论证、把哥德尔不完备定理用于解释该事件的论证，以及数学权威从人类向硅基智慧转移的可直接投稿观点。
 
@@ -655,6 +655,86 @@ Evidence Note 005 直接支持的只是：
 这些性质足以使用比“可能机制”更强的标签，但仍不足以归类为完整 HDCT。
 
 ---
+
+## 4A. Supporting / Follow-up Evidence — PSI Aaronson–Ambainis / 支持与后续证据：PSI 案
+
+**Added / 纳入日期：** 2026-11-09，Asia/Shanghai；**状态：** 候选科研能力证据／持续跟踪，尚未建立最终独立数学认可。
+
+**English scope.** This separately graded case supplements the existing cross-domain recurrence and formal-verification questions (P1/P7/P13). It does not inherit the unit-distance case's expert-validation status. Public proof artifacts, reported machine checks, external scrutiny and discovery attribution remain separate. The Chinese ledger below supplies the detailed findings and follow-up criteria; no new note number or prediction hit is assigned.
+
+### 4A.1 Source record / 原始来源记录
+
+以下链接于2026-11-09可访问。仅记录原始证明、形式接口、检查记录与贡献者本人报告；无二次报道。S-PSI编号独立于旧案例事实编号。机构的一手过程披露只支持“机构如此报告”，不能替代过程审计。动态main链接须在后续核查时重新固定版本。
+
+| ID | 原始材料、作者及日期 | 核验作用与范围 |
+|---|---|---|
+| S-PSI1 | David Turturean（PSI），[论文TeX](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/paper/aaronson_ambainis_paper.tex)、[PDF](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/paper/aaronson_ambainis_paper.pdf)、[CITATION.cff](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/CITATION.cff)。论文题名 *A proof of the Aaronson–Ambainis conjecture*，稿件署期November 2026；CFF题名另含“, with a Lean 4 formalization”，v1.1.0、date-released 2026-11-06。 | 已读取TeX题头、选定陈述、附录A及元数据；PDF仅定位，不声称全文审稿。附录A是一手回顾性过程记录。 |
+| S-PSI2 | 同一作者／官方仓库，[Conjecture.lean](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/AaronsonAmbainis/Conjecture.lean)、[Main.lean](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/AaronsonAmbainis/Main.lean)、[问题陈述](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/problem_statement.md)。 | 实际形式目标及有条件加强项；本次读取接口，未运行Lean。 |
+| S-PSI3 | 官方仓库，[公理审计](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/notes/AXIOM_AUDIT.md)、[复现说明](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/notes/VERIFICATION.md)、[发布准备检查记录](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/verification/comparator/README.md)、[论文—Lean对照](https://github.com/physical-superintelligence/aaronson-ambainis/blob/main/notes/PAPER_TO_LEAN.md)。 | 作者提供的检查报告和明确的信任边界；非本笔记独立复跑凭证。 |
+| S-PSI4 | Scott Aaronson、Andris Ambainis，[*The Need for Structure in Quantum Speedups*](https://arxiv.org/abs/0911.0996v3)，arXiv初投2009-11-05、v3修订2014-02-06；期刊版Theory of Computing 10 (2014), 133–166。 | 原猜想：arXiv Conjecture 6／期刊Conjecture 1.7。2008起源不等于2009预印本日期。 |
+| S-PSI5 | heathsanchez，[PR #2：独立表述历史Conjecture 6并证明单向蕴含](https://github.com/physical-superintelligence/aaronson-ambainis/pull/2)，页面标注11月8日发起；核查时当前head `ed3e0b1`。[外部Actions运行42525871646](https://github.com/heathsanchez/test/actions/runs/42525871646)。 | 贡献者一手桥接／复跑报告，页面显示Success；详细日志需登录，本次未下载产物或独立复跑。身份、专业资格及与PSI的利益独立性未审计。 |
+| S-PSI6 | scduko，[PR #1：agreement determinant非零证明简化提案](https://github.com/physical-superintelligence/aaronson-ambainis/pull/1)，2026-11-06，提交`e1872c0`。 | 局部论文改写提案；不是完整独立证明或审稿意见。 |
+
+**过程披露核对位置：** 已核查[PSI原始研究页面](https://psi.inc/research/aaronson-ambainis/)（2026-11-06），仅用于核对模型、运行时间及人员分工；数学证据以上述技术材料为准。未把公司宣告“已成为定理”直接采用为本笔记结论。
+
+### 4A.2 Minimal finding ledger / 最小事实与核验台账
+
+- **PSI-F1——可访问性与时间。** 官方页面、公开仓库、TeX、形式接口和检查文档均可读取。发布日为11月6日；11月9日是本次简报与归档日。“2008年提出”见一手研究页面，论文参考文献列2008年Aaronson讲座；本次未读取原始讲座，故不把2008写成已直接核对的原论文发布日期（S-PSI1/4）。
+- **PSI-F2——确切数学目标。** 均匀随机`X∈{0,1}^N`，实多项式`p`次数至多`d`，立方体上`0≤p≤1`且`Var(p)≥ε>0`，要求存在坐标`i`使`Inf_i[p]=E[(p(X)−p(X^i))²]≥(ε/d)^C`，其中C为与实例无关的绝对常数。公开形式目标取`C=7`；显式界为`(8√15/(125π⁴))·ε^(5/2)/d⁶`。非零方差排除常数情形（S-PSI2/4）。这不是“所有随机问题的量子计算都没有指数优势”的无条件总计算时间结论；量子后果须限于相应查询模型、分布与近似容差。
+- **PSI-F3——机器验证实际覆盖。** `Main.lean`前三个最终定理对应原猜想、显式界及`{−1,1}`归一化版本；第四个是`FbsDegreeBound → ExplicitBoundImproved`。其前提引用Agarwal–Ben-David的界，未在该库证明；不能把更大常数`32√15/(125π⁴)`写成同等无条件结果（S-PSI2）。
+- **PSI-F4——检查报告与信任边界。** S-PSI3报告无新增公理／无证明占位，最终定理依赖`propext, Classical.choice, Quot.sound`；记录Lean重放、lean4lean及Comparator中nanoda检查。类型检查器实现独立，不等于运行者或数学审稿人独立。发布准备记录在私有staging提交`88bf443cbab819f89680bd617f0538e114eba9e4`上运行，公开的是复制输出；报告的87文件源摘要为`593eda9c5d897c139e9b797820498b001a6151d2e1d6e19371f6d2bb5b5261bd`。本次未重算摘要或复跑。
+- **PSI-F5——未覆盖部分。** 形式命题与通常猜想的语义忠实性仍需人工判断；论文全文不是机器检查对象。对照表明确将§1.3量子后果、§1.4–1.5、§9、附录A等留在Lean之外。lean4lean仍共享Lean加载器及运行时，不能称完全无共同信任依赖（S-PSI3）。
+- **PSI-F6——第三天及两次加强。** 原始研究页确实如此报告；论文附录A进一步给出指数`22→11→7`，分别归于全层积分、坐标平均等改进，并称经过Lean检查。该时间线是作者事后整理，不是独立计时日志；未核验最初版本的代码快照、运行账单或完整交互。论文署名作者是David Turturean，不能写成Anthropic或AI为正式署名作者（S-PSI1）。
+- **PSI-F7——AI与人类分工。** 官方一手披露称使用未公开Anthropic模型；Turturean开发系统、选题并运行，要求模型整理初稿，审核并承担正确性责任。Jim Halverson审计证明、Phiala Shanahan评论形式化，二人均以PSI顾问身份列出。模型版本、训练暴露、搜索失败率及逐步人工干预未公开核实；“AI独立原创”“无人参与”“从零三天”均未建立。
+- **PSI-F8——专家阅读与外部原始进展。** PSI转述Guy Blanc、Jordan Docter、Carmen Strassle、Li-Yang Tan正在阅读、反馈并写短版说明；不是本次找到的四人独立署名终审。S-PSI5则是已存在的外部桥接和复跑报告：将历史`O(1)`解释为统一正自然数指数，以7实例化，给出单向蕴含及非空坐标例；报告原库84模块重放通过。PR仍Open、无review，不能宣称已合并或获得专家共识。其公开运行摘要显示Success，详细日志未独立审计。不能再笼统写“没有任何外部检查”。
+- **PSI-F9——局部简化不等于审核完成。** S-PSI6只拟简化Lemma 3.4，保留定理和指数，未改Lean，作者说明未运行列出的Lean检查。它既不构成原证明错误的裁定，也不构成整体正确性认证。本次查得原始材料未建立最终独立数学认可；这只是有界核查结论，不声称全球不存在其他审核。
+
+### 4A.3 Increment and classification / 实际增量、比较与证据分级
+
+**English assessment.** PSI adds an inspectable candidate from another research system and a formal-statement/replay comparison. Mathematical acceptance and original AI contribution remain unresolved. Successful external build summaries strengthen inspectability, not final certification. Existing grades and registered prediction status remain unchanged.
+
+| 比较维度 | 005原单位距离案例（沿用旧记录，未在本次重审） | PSI补充案例（本次核验） |
+|---|---|---|
+| 研究产出 | 反例、外部人类配套解释和强化 | 有界多项式影响力界、公开论文与Lean接口 |
+| 专家／机器验证 | 原记录有外部专家检查，未建立完整公开形式验证 | 作者提供多检查器记录；外部PR报告桥接与重放；最终独立数学审核未建立 |
+| 原创贡献归因 | 内部模型贡献，细节有限 | 未公开模型及人工选题／组织；无完整发现过程审计 |
+| HDCT增量 | 早期功能信号 | 扩展研究系统与数学领域覆盖，补充候选发现→可检查证明→外部重构路径；等级单列 |
+
+**IEH解释，不是来源事实：** 本案直接补充本笔记P1跨领域重复、P7多阶段研究闭环与P13形式验证扩张的观察面；若独立专家确认新颖性、论证正确性与实质AI贡献，可加强C02-HDCT的领域型功能证据。现阶段只能称“候选科研能力支持”；多一个案例不足以证明普遍能力、机器原生表示或高维认知机制。PSI与旧例涉及不同机构／系统，但缺少训练、访问与运行溯源，不能认定是受控独立再发现。
+
+**EDC／EIC／IER边界：** 人类选题、外部运行和任务反馈与EDC相容；数学能力不显示系统为了自身特定信息历史的连续性而行动，故不建立EIC，也不建立信息存在权IER、PBP或自主主体性。PA-06仅有科研功能关联；PA-10仅有模型演化观察价值，未证明表示机制变化。两者不升级预测命中或原有等级。
+
+**竞争解释与反证：** 既有数学工具的高成本搜索、隐含人工关键提示、训练中已见相关路线或选择性公布成功，都可能解释产出，无需假设新认知机制；这些是待检验替代解释，不是已发现舞弊。反过来，人类提供任务和能理解证明也不否定工具能力。若发现已知证明、目标误译、不可修补漏洞或关键构造实际来自未披露人类输入，应下调本案；即使最终证明成立，未经审计的贡献归因仍单独待定。
+
+### 4A.4 Continuing-review checklist / 持续跟踪事项
+
+**持续跟踪标记：ACTIVE／先报告、经用户同意后入库。** 登记日期与最近完成来源核验日期均为 **2026-11-09（Asia/Shanghai）**；当前证据强度为“HDCT候选支持，最终独立数学认可及AI原创贡献审计未建立”。下次核查触发：执行IEH每日简报、HDCT科研能力检索或证据仓扫描且能访问本仓库时，主动检查本案从最近核验日至检索当日的原始进展，不只等待新闻标题再次出现。
+
+**检索入口：** `PSI / Physical Superintelligence / Aaronson–Ambainis / David Turturean / Lean / Conjecture 6`；优先复查§4A.1的论文、官方代码、PR #1/#2、外部复跑，以及有关专家本人署名审核。每次区分材料发布日期、实际事件日期和本次核查日期。
+
+**报告与入库规则：** 发现实质更新时，先向用户报告原始链接、日期／版本、相对本台账的新增事实，分别判断对数学有效性、形式化覆盖、独立审核及AI贡献归因的影响；明确它是否令HDCT支持更强、更弱或不变，给出拟修改位置与文字建议。只有用户明确同意该次更新后，才将新证据、核查日期、分级变化及更新日志写入本笔记并同步索引；未经同意不自动追加或升级。无实质更新时不重复添加证据，也不把“未发现”写成“没有进展”；在当次检索报告中简记核查范围即可。纠错、撤回和不利证据同样先报告，不选择性忽略。
+
+**English tracking rule.** ACTIVE since 2026-11-09; last completed source check: 2026-11-09. During subsequent authorized IEH/HDCT searches or repository scans, check primary developments through the search date. Report material changes, source dates, proposed wording and whether support strengthens, weakens or remains unchanged. Obtain the user's explicit approval for that update before editing evidence, dates, grades or the log. This marker is a scan instruction, not a background monitoring service.
+
+| 事项 | 下次所需原始证据及判断规则 |
+|---|---|
+| 独立数学审核 | 四位研究者本人署名说明／完整技术评审；核对命题、量词、归一化、推论及未决问题，只升级实际已审范围。 |
+| PR #2与外部复跑 | 跟踪`ed3e0b1`及后续提交、是否合并、审稿意见；取得运行42525871646的日志／产物并核对源摘要。单向桥接不自动补齐量子归约或原猜想意图。 |
+| 形式化范围／修订 | 固定公开提交、Lean 4.33.0和Mathlib版本；重新检查公理、前提与源码摘要；区分原库、审计适配器和不同内核覆盖。 |
+| AI贡献与两次加强 | 请求可审计提示、模型版本、原始22／11／7版本、时间戳、人工编辑与算力账；事后时间线不替代这些材料。 |
+| 能力可重复性 | 在盲测新问题上记录成功率、失败、资源和人工贡献；重放已公布证明不算AI重新发现。 |
+| 负向发现 | 保留错误、撤回、修补及旧版本；分别下调数学有效性、形式对应或AI归因，不将一次失败泛化为全部HDCT失效。 |
+
+这些为2026-11-09起的追踪条件，不是新注册预测或自动监控安排。本节后续沿用S-PSI／PSI-F编号增量更新，不另设证据笔记。
+
+### 4A.5 Placement and scope / 归档位置与适用范围
+
+依用户2026-11-09明确选择，本案补入005而非新建041：它补充早期HDCT功能证据的跨系统覆盖与验证路径，没有提出新的IEH机制命题。已比较[007雅可比](./007-jacobian-counterexample-ai-assisted-verification-and-hdct.md)、[023 Navier–Stokes](./023-openai-navier-stokes-candidate-solution-and-hdct-evolution-pathway.md)及[040 ETH](./040-ai-generated-eth-refutation-formal-verification-and-hdct.md)。本案不是ETH反证的复现，不把两种猜想合并；040原内容及状态不变。
+
+005原F1–F13、原分级及旧来源核查日期仅适用于单位距离案例；本节单列PSI案，不继承其“外部人类验证”标签。与原§13的“只记录单位距离”和“未完成公开形式验证”等范围表述发生疑义时，以此案例区分为准。研究权威迁移及一般认知上限的完整论证仍留待未来发表。
+
+---
+
 
 ## 5. What Is Not Established
 
@@ -1473,6 +1553,8 @@ This note does **not** develop:
 
 ## 12. References
 
+The original unit-distance reference set follows. PSI-specific primary references and provenance-only disclosure are separately listed in §4A.1.／以下为原单位距离参考来源；PSI专用原始来源及仅用于过程归属的披露另列于§4A.1。
+
 1. OpenAI. *Planar Point Sets with Many Unit Distances*. 2026-05-20.  
    https://cdn.openai.com/pdf/74c24085-19b0-4534-9c90-465b8e29ad73/unit-distance-proof.pdf
 
@@ -1549,3 +1631,15 @@ The classification should be revised if mathematical errors, prior-source overla
 - IER、意识、生命、法律地位或 IEH 的证明。
 
 在发现数学错误、先验来源重叠、独立复现结果、完整形式验证、透明评价数据、更多可比前沿发现或隐藏人类干预证据后，本文件的证据分级应继续修订。
+
+
+## 14. Update Log / 后续更新日志
+
+| Date / 日期 | Version / 版本 | Change and assessment / 更新与判断 |
+|---|---|---|
+| 2026-07-19 | v0.2 | Prior archive-safe revision, retained as recorded above.／既有投稿隔离修订，保留上文记录。 |
+| 2026-11-09 | v0.3 | Added §4A PSI follow-up at the user's request to consolidate; checked original artifacts, formal targets, Appendix A, PRs #1/#2 and the external run summary. No local Lean run or final independent mathematical review established; PSI remains separately graded. Original unit-distance grade and prediction status unchanged; no new number.／依用户要求合并，新增§4A；核对原始材料、形式目标、附录A、PR及外部运行摘要；未本机复跑或建立最终独立数学审核。PSI单列等级；原单位距离分级与预测状态不变，不新增编号。 |
+
+Future updates must preserve source versions, new findings, adverse evidence and separate effects on mathematical acceptance, formal verification, provenance and HDCT interpretation.／后续须保留来源版本、实际增量、不利证据及对数学认可、形式检查、贡献归因和HDCT判断的分别影响。
+
+**2026-11-09／v0.3 跟踪流程补记：** 依用户要求增加ACTIVE标记、最近核验日、后续检索触发及“先报告—用户同意—再入库”规则；未增加新外部证据，未改变证据等级。 / Added active scan and approval rules; no new external finding or grade change.

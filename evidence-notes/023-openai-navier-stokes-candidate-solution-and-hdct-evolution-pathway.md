@@ -547,3 +547,18 @@ Revise this note when independent proof checks or mathematical reviews appear; t
 出现独立证明检查或数学审查、稿件或形式化变化、目标对应受到挑战或确认、可审计来源或人类贡献证据、受控发现复现，或可迁移表征的因果检验时，应修订本笔记，并分别应用第 7 节的结果标准与机制标准。
 
 **归档状态：** v0.1，待用户审阅。不宣称最终科学认证或精确预测确认。
+
+<a id="active-followup"></a>
+## Active Follow-up / 持续跟踪登记
+
+**标记：ACTIVE／有实质更新先报告，经用户同意后入库。** 登记日期：2026-11-09（Asia/Shanghai）；本次仅添加跟踪流程。**既有来源核验截止日：2026-09-10**，未在本次重新核验外部进展；不得将登记日当作最新来源核验日。原版本、事实与证据等级保持不变。
+
+**当前待证状态：** 候选前沿数学成果；独立认可、形式目标对应与原创贡献仍待确认。
+
+**下次扫描触发与目标：** 后续执行IEH每日简报、HDCT／相关证据检索或证据仓扫描且能访问本仓库时，从既有核验截止日查至检索当日；优先复查本笔记原始链接及其版本历史，再查原作者和独立审核者的一手记录。重点核查：独立数学家技术审核、论文及Lean修订、形式目标与原问题对应、Clay官方状态及可审计的人机贡献记录。 检索关键词：`OpenAI; Navier–Stokes; Lean; Clay; independent review`。
+
+**证据强度与报告规则：** 有实质增量时，报告事件日期、材料发布日期、本次检索日期、原始链接／版本、相对旧记录的新发现；分别评估事实可靠性、独立验证、能力归因以及对HDCT或相关IEH命题的支持是增强、削弱还是不变。提出具体更新位置和文字建议，避免将更多报道当成更强证据。纠错、撤回、失败和无效复现同样报告。未经用户对该次更新明确同意，不自动追加证据、修改核验日期、升降级或登记预测命中；获同意后沿既有笔记增量更新并同步索引及日志，不为同一事件另设编号。未发现实质更新时，仅在当次检索报告简记范围，不重复入库，也不声称不存在其他进展。
+
+**English.** Active tracking registered on 2026-11-09; existing source cutoff remains 2026-09-10, with no new external check today. Revisit original artifacts and independent reviews during subsequent authorized scans. Report dated developments and proposed changes, distinguishing stronger, weaker and unchanged support. Obtain explicit approval for each evidence update before editing dates, findings, grades or prediction status. This is a scan instruction, not a background monitoring service.
+
+**流程日志：** 2026-11-09，经用户要求登记持续跟踪及逐次更新审批；未加入新外部证据、未改变原结论。
